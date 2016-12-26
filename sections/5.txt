@@ -1,0 +1,1 @@
+var __v="\u003cp\u003e\n\trevel 默認 以 dev 方式 運行 打包\n\u003c/p\u003e\n\u003cp\u003e\n\t在發佈時 一般 使用\u0026nbsp;\u003cstrong\u003erevel package 項目名\u0026nbsp;\u003c/strong\u003e\u003cstrong\u003eprod\u003c/strong\u003e\n\u003c/p\u003e"

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>檔案</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="renderer" content="webkit">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=0.8">
+	<link rel="stylesheet" type="text/css" href="public/css/bootstrap-3.3.6.min.css">
+	
+	<script src="public/js/jquery-2.2.4.min.js"></script>
+	<script src="public/js/bootstrap-3.3.6.min.js"></script>
+
+
+	<link rel="stylesheet" type="text/css" href="public/css/main.css">
+
+
+
+</head>
+<body class="k-body">
+<div class="container k-view">
+
+<div class="panel panel-default">
+	<div class="panel-heading" id="idPanelHeader">
+		檔案
+	</div>
+	<div class="panel-body">
+
+	<ol class="breadcrumb" id="idPath">
+	</ol>
+
+
+	<p id="idView">
+	</p>
+
+	</div>
+</div>
+
+</div>
+
+<p class="k-footer-docs">writing by king</p>
+</body>
+</html>
+
+
+<script src="public/js/king-js/core.min.js"></script>
+<script src="public/js/king-js/controller/Async.min.js"></script>
+
+<script src="msg.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	var getUrlParam = function(name) {
+		var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); 
+		var r = window.location.search.substr(1).match(reg);  
+		if (r != null){
+			return unescape(r[2]);
+		}
+		return null;
+	};
+
+	var newScript = function(paramsObj){
+		var script = document.createElement("script");
+		script.type = "text/javascript";
+		script.onload = paramsObj.OnLoad;
+		script.onerror = paramsObj.OnError;
+		script.src = paramsObj.Url;
+		document.body.appendChild(script);
+	}
+
+	//enable
+	var _enable = true;
+	var isEnable = function(){
+		return _enable;
+	};
+	var isDisable = function(){
+		return !_enable;
+	};
+	var enable = function(ok){
+		if(ok){
+			_enable = true;
+		}else{
+			_enable = false;
+		}
+	};
+
+	//msg
+	var ui = kingui;
+	var msgid = 0;
+	var modalError = ui.NewMsg(msgid++);
+	
+	
+	
+	//
+	var docID = getUrlParam("id");
+	var tagID = getUrlParam("tag");
+	if(docID == null){
+		modalError.Show("錯誤","doc id not found");
+		return;
+	}
+	if(tagID == null){
+		modalError.Show("錯誤","tag id not found");
+		return;
+	}
+	//
+	var async = king.controller.NewAsync();
+	async.Sync(function(async){
+		var url = "data/docs.js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var docs = __v;
+				async.Notify({
+					Content:{
+						Data:docs,
+					},
+				});
+			},
+			OnError:function(){
+				async.Notify({
+					Error:url + " not found",
+				});
+			},
+		});
+	})
+	.Sync(function(async,ctx){
+		var docs = ctx.Data;
+		var doc = docs[docID];
+		if(!doc){
+			async.Notify({
+				Error:"doc id not found - " + docID,
+			});
+			return;
+		}
+		var title  = '檔案' + " - " + doc.Name;
+		document.title = title;
+		$("#idPanelHeader").html(doc.Name);
+		if(tagID == 0){
+			async.Notify({
+				Content:{
+					Data:null,
+				},
+			});
+			return;
+		}
+
+		var url = "data/tags.js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var tags = __v;
+				async.Notify({
+					Content:{
+						Data:tags,
+					},
+				});
+			},
+			OnError:function(){
+				async.Notify({
+					Error:url + " not found",
+				});
+			},
+		});
+	})
+	.Sync(function(async,ctx){
+		if (tagID == 0) {
+			$("#idPath").remove();
+			async.Notify();
+			return;
+		}
+		
+		var tags = ctx.Data;
+		var map = {};
+		for (var i = 0; i < tags.length; i++) {
+			var tag = tags[i];
+			map[tag.Id] = tag;
+		}
+		
+		var id = tagID;
+		var arrs = [];
+		while(id != 0){
+			var tag = map[id];
+			arrs.push(tag);
+			id = tag.Pid;
+		}
+		var items = [];
+		for (var i = arrs.length - 1; i >= 0; i--) {
+			var tag = arrs[i];
+			items.push("<li>" + tag.Name + "</li>");
+		}
+		$("#idPath").html(items.join(""));
+		async.Notify();
+	})
+	.Sync(function(async,ctx){
+		var url = "data/docs/" + docID + ".js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var chapters = __v;
+				async.Notify({
+					Content:{
+						Data:chapters,
+					},
+				});
+			},
+			OnError:function(){
+				async.Notify({
+					Error:url + " not found",
+				});
+			},
+		});
+	})
+	.Sync(function(async,ctx){
+		var chapters = ctx.Data;
+		if(!chapters){
+			$("#idView").html("沒有數據");
+			async.Notify();
+			return;
+		}
+		var items = [];
+		for (var i = 0; i < chapters.length; i++) {
+			var chapter = chapters[i];
+			var str = "<p><a href='chapter.zh.html?id=" + chapter.Id + "&doc=" + docID + "' target='_blank'>" + 
+				chapter.Name + "</a></p>";
+			items.push(str);
+		}
+		$("#idView").html(items.join(""));
+		async.Notify();
+	})
+	.Do({
+		/*Ok:function(){
+			alert('ok');
+		},*/
+		Error:function(err,ctx){
+			modalError.Show("錯誤",err);
+		},
+	});
+});
+</script>

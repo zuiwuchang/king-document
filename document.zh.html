@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>document</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="renderer" content="webkit">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=0.8">
+	<link rel="stylesheet" type="text/css" href="public/css/bootstrap-3.3.6.min.css">
+	
+	<script src="public/js/jquery-2.2.4.min.js"></script>
+	<script src="public/js/bootstrap-3.3.6.min.js"></script>
+
+
+	<link rel="stylesheet" type="text/css" href="public/css/main.css">
+
+<style type="text/css">
+#kBtnIcon{
+	cursor: pointer;
+}
+</style>
+
+</head>
+<body class="k-body">
+<div class="container k-view">
+
+	<div class="panel panel-default">
+		<div class="panel-heading">選擇檔案標籤</div>
+
+		<div class="panel-body">
+			<div id="idTagTree"></div>
+		</div>
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading"><span id="kBtnIcon">檔案數據</span></div>
+
+		<div class="panel-body">
+			<div id="idDocsHide" style="display: none;">
+			數據已隱藏 ... 
+			</div>
+			<div id="idDocsView">
+			沒有檔案
+			</div>
+		</div>
+	</div>
+</div>
+<p class="k-footer-docs">writing by king</p>
+</body>
+</html>
+
+<link rel="stylesheet" href="public/js/jstree/themes/default/style.min.css" />
+<script src="public/js/jstree/jstree.min.js"></script>
+
+<script src="public/js/king-js/core.min.js"></script>
+<script src="public/js/king-js/controller/Async.min.js"></script>
+
+<script src="msg.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	var newScript = function(paramsObj){
+		var script = document.createElement("script");
+		script.type = "text/javascript";
+		script.onload = paramsObj.OnLoad;
+		script.onerror = paramsObj.OnError;
+		script.src = paramsObj.Url;
+		document.body.appendChild(script);
+	}
+
+	//enable
+	var _enable = true;
+	var isEnable = function(){
+		return _enable;
+	};
+	var isDisable = function(){
+		return !_enable;
+	};
+	var enable = function(ok){
+		if(ok){
+			_enable = true;
+		}else{
+			_enable = false;
+		}
+	};
+
+	//msg
+	var ui = kingui;
+	var msgid = 0;
+	var modalError = ui.NewMsg(msgid++);
+
+
+
+	//view
+	var jqView = $("#idDocsView");
+	var newDocsView = function(){
+		return {
+			Update:function(arrs,node){
+				if(!arrs){
+					jqView.html("沒有檔案");
+					return;
+				}
+				var items = [];
+				for (var i = 0; i < arrs.length; i++) {
+					var data = arrs[i];
+					items.push("<p>" + 
+							"<a target='_blank' href='doc.zh.html?id=" + data.Id + 
+								"&tag=" +
+								node.id + "'>" + data.Name  +"</a>" +
+						"</p>");
+				}
+				var jq = $(items.join(""));
+				jqView.html(jq);
+			},
+		};
+	};
+	var docsView = newDocsView();
+	
+	//view hide
+	var jqViewHide = $("#idDocsHide");
+	$("#kBtnIcon").click(function(event) {
+		jqView.toggle("fast");
+		jqViewHide.toggle("fast");
+	});
+
+	//search
+	var ICON_WAIT = "public/img/throbber.gif";
+	var onSearch = function(tree,node){
+		if(isDisable()){
+			return;
+		}
+		enable(false);
+		var url = "data/tags/" + node.id + ".js";
+		tree.set_icon(node,ICON_WAIT);
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var arrs = __v;
+				docsView.Update(arrs,node);
+
+				enable(true);
+				tree.set_icon(node);
+			},
+			OnError:function(){
+				modalError.Show("錯誤",url + " not found");
+
+				enable(true);
+				tree.set_icon(node);
+			},
+		});
+	};
+	//jstree
+	var async = king.controller.NewAsync();
+	async.Sync(function(async){
+		var url = "data/tags.js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var tags = __v;
+				async.Notify({
+					Content:{
+						Data:tags,
+					},
+				});
+			},
+			OnError:function(){
+				async.Notify({
+					Error:url + " not found",
+				});
+			},
+		});
+	})
+	.Sync(function(async,ctx){
+		var tags = ctx.Data;
+		var arrs = [];
+		for (var i = 0; i < tags.length; i++) {
+			var tag = tags[i];
+
+			var node = {
+				id:tag.Id,
+				data:{
+					Sort:tag.Sort,
+					Name:tag.Name,
+				},
+			};
+			if(tag.Id == 0){
+				node.parent = "#";
+				node.text = "標籤樹" + "&nbsp;&nbsp;&nbsp;&nbsp;[" + tag.Docs + "]";
+				node.state = {
+					opened:true,
+				};
+			}else{
+				node.parent = tag.Pid;
+				node.text = tag.Name + "&nbsp;&nbsp;&nbsp;&nbsp;[" + tag.Docs + "]";
+			}
+			arrs.push(node);
+		}
+		var jq = $("#idTagTree");
+		jq.hide().jstree({
+			plugins : [
+				"conditionalselect",
+				"contextmenu",
+				"sort",
+			],
+			conditionalselect:function(){
+				this.deselect_all(true);
+				return true;
+			},
+			contextmenu:{
+				items:function(node){
+					var tree = this;
+					//search
+					var itemsObj = {
+						search:{
+							label:"查找檔案",
+							icon:"public/img/book_16px.ico",
+							action:function(){
+								onSearch(tree,node);
+							},	
+						},
+					};
+					//toggle
+					if(!tree.is_leaf(node)){
+						itemsObj.toggle = {
+							label:"切換標籤",
+							icon:"public/img/attachment_16px.ico",
+							separator_before: true,
+							action:function(){
+								tree.toggle_node(node);
+							},	
+						};
+					}
+
+					return itemsObj;
+				},
+			},
+			sort:function(l, r){
+				var nodeL = this.get_node(l);
+				var nodeR = this.get_node(r);
+				return nodeL.data.Sort > nodeR.data.Sort?1:-1;
+			},
+			core:{
+				data:arrs,
+			},
+		}).on("ready.jstree",function(){
+			$(this).show();
+
+			async.Notify();
+		});
+	})
+	.Do({
+		/*Ok:function(){
+			alert('ok');
+		},*/
+		Error:function(err,ctx){
+			modalError.Show("錯誤",err);
+		},
+	});
+});
+</script>

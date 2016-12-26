@@ -1,0 +1,1 @@
+var __v="\u003cp\u003e\n\t//revel 使用的 cookie 名稱 前綴\n\u003c/p\u003e\n\u003cp\u003e\n\tcookie.prefix = REVEL\n\u003c/p\u003e\n\u003cp\u003e\n\t\u003cbr /\u003e\n\u003c/p\u003e\n\u003cp\u003e\n\t//session 過期 時間 如果值無效 比 如(0h) 則 瀏覽器關閉時 失效\n\u003c/p\u003e\n\u003cp\u003e\n\tsession.expires = 720h\n\u003c/p\u003e"

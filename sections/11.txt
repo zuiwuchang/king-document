@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\t//name := revel.Config.StringDefault(\"name\", \"king\")\n\tname, has := revel.Config.String(\"name\")\n\tif !has {\n\t\tname = \"king\"\n\t}\n\trevel.INFO.Println(name)\u003c/pre\u003e"

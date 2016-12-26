@@ -1,0 +1,1 @@
+var __v={"1":{"Id":1,"Chapter":1,"Name":"revel","Sort":0},"2":{"Id":2,"Chapter":1,"Name":"環境配置","Sort":0},"3":{"Id":3,"Chapter":1,"Name":"常用命令","Sort":0},"4":{"Id":4,"Chapter":2,"Name":"app.conf","Sort":0},"5":{"Id":5,"Chapter":2,"Name":"常用配置","Sort":0},"6":{"Id":6,"Chapter":2,"Name":"自定義配置","Sort":0}}

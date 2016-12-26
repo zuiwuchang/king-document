@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>章節</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="renderer" content="webkit">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=0.8">
+	<link rel="stylesheet" type="text/css" href="public/css/bootstrap-3.3.6.min.css">
+	
+	<script src="public/js/jquery-2.2.4.min.js"></script>
+	<script src="public/js/bootstrap-3.3.6.min.js"></script>
+
+
+	<link rel="stylesheet" type="text/css" href="public/css/main.css">
+
+<style type="text/css">
+.kBtnSpan {
+    padding-right: 5px;
+    cursor: pointer;
+}
+.kSectionHide{
+	display: none;
+}
+</style>
+
+</head>
+<body class="k-body">
+<div class="container k-view">
+<a name="top"></a>
+
+<div class="panel panel-default">
+	<div class="panel-heading" id="idPanelHeader">
+		章節
+	</div>
+	<div class="panel-body">
+
+	<p id="idView">
+	</p>
+
+	</div>
+</div>
+
+<div id="idPanelsView"></div>
+
+</div>
+
+<p class="k-footer-docs">writing by king</p>
+</body>
+</html>
+
+<!--	google code prettify	-->
+<link rel="stylesheet" type="text/css" href="public/js/code-prettify/src/prettify.css">
+<link rel="stylesheet" type="text/css" href="public/js/code-prettify/styles/sons-of-obsidian.css">
+<script src="public/js/code-prettify/src/prettify.js"></script>
+
+<!--	king-js	-->
+<script src="public/js/king-js/core.min.js"></script>
+<script src="public/js/king-js/controller/Async.min.js"></script>
+
+<script src="msg.js"></script>
+
+<script type="text/javascript">
+var newScript = function(paramsObj){
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.onload = paramsObj.OnLoad;
+	script.onerror = paramsObj.OnError;
+	script.src = paramsObj.Url;
+	document.body.appendChild(script);
+}
+$(document).ready(function() {
+	var getUrlParam = function(name) {
+		var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); 
+		var r = window.location.search.substr(1).match(reg);  
+		if (r != null){
+			return unescape(r[2]);
+		}
+		return null;
+	};
+
+	//enable
+	var _enable = true;
+	var isEnable = function(){
+		return _enable;
+	};
+	var isDisable = function(){
+		return !_enable;
+	};
+	var enable = function(ok){
+		if(ok){
+			_enable = true;
+		}else{
+			_enable = false;
+		}
+	};
+
+	//msg
+	var ui = kingui;
+	var msgid = 0;
+	var modalError = ui.NewMsg(msgid++);
+	
+	
+	
+	//
+	var chapterID = getUrlParam("id");
+	var docID = getUrlParam("doc");
+	if(chapterID == null){
+		modalError.Show("錯誤","chapter id not found");
+		return;
+	}
+	if(docID == null){
+		modalError.Show("錯誤","doc id not found");
+		return;
+	}
+
+
+	//
+	var async = king.controller.NewAsync();
+	async.Sync(function(async){
+		var url = "data/docs.js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var docs = __v;
+				async.Notify({
+					Content:{
+						Data:docs,
+					},
+				});
+			},
+			OnError:function(){
+				async.Notify({
+					Error:url + " not found",
+				});
+			},
+		});
+	})
+	.Sync(function(async,ctx){
+		var docs = ctx.Data;
+		var doc = docs[docID];
+		if(!doc){
+			async.Notify({
+				Error:"doc id not found - " + docID,
+			});
+			return;
+		}
+		var url = "data/chapters.js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var chapters = __v;
+				async.Notify({
+					Content:{
+						Data:chapters,
+						DocName:doc.Name,
+					},
+				});
+			},
+			OnError:function(){
+				async.Notify({
+					Error:url + " not found",
+				});
+			},
+		});
+	})
+	.Sync(function(async,ctx){
+		var chapters = ctx.Data;
+		var chapter = chapters[chapterID];
+
+		var title  = ctx.DocName + " - " + chapter.Name;
+		document.title = title;
+		$("#idPanelHeader").html(title);
+
+		async.Notify();
+	})
+	.Sync(function(async,ctx){
+		var url = "data/chapters/" + chapterID + ".js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var panels = __v;
+				async.Notify({
+					Content:{
+						Data:panels,
+					},
+				});
+			},
+			OnError:function(){
+				async.Notify({
+					Error:url + " not found",
+				});
+			},
+		});
+	})
+	.Do({
+		Ok:function(ctx){
+			var panels = ctx.Data;
+			if(panels){
+				initPanels(panels);
+			}
+		},
+		Error:function(err,ctx){
+			modalError.Show("錯誤",err);
+		},
+	});
+});
+function initPanels(panels){
+	var items = [];
+	var jqPanels = $("#idPanelsView");
+	for (var i = 0; i < panels.length; i++) {
+		var panel = panels[i];
+		var str = "<li class='list-group-item'><a href='#panel-" +
+			panel.Id + "'>" +
+			panel.Name + 
+			"</a></li>"
+		items.push(str);
+
+		newPanel(jqPanels,panel);
+	}
+	$("#idView").html("<ul class='list-group'>" + items.join("") + "</ul>");
+}
+function newPanel(jqView,panel){
+	var id = panel.Id;
+	var name = panel.Name;
+	var html = "<div class='panel panel-default'>" + 
+			"<a name='panel-" + id + "'></a>" + 
+			"<div class='panel-heading'>" + 
+				"<span class='glyphicon glyphicon-asterisk kBtnSpan kBtnTop'></span>" +
+				"<span class='kBtnSpan kBtnMenuHide'>" + name + "</span>" + 
+			"</div>" + 
+			"<div class='panel-body'>" + 
+				"<div class='kPanelHide' style='display: none;'>" + "數據已經隱藏 ..." + "</div>" + 
+				"<div class='kPanelBody'>" + 
+					"<div class='kPanelBodyView'>" + "數據初始化中 ..." + "</div>" + 
+				"</div>" +
+			"</div>" + 
+		"</div>";
+	var jq = $(html);
+	jqView.append(jq);
+
+	var jqName = jq.find('.kPanelName:first');
+
+	var jqHide = jq.find('.kPanelHide:first');
+	var jqBody = jq.find('.kPanelBody:first');
+	var jqBodyView = jqBody.find('.kPanelBodyView:first');
+
+	var newSection = function(id,name){
+		var jqView = jqBodyView;
+		var html = "<div>" +
+				"<h4>" +
+					"<span class='kBtnSpan'>" + name + "</span>" +
+				"</h4>" + 
+				"<div class='kSectionHide'>" + "數據已經隱藏 ..." + "</div>" +
+				"<div class='kSectionBody'>" + 
+					"<div class='kSectionView'>" + "數據初始化中 ..." + "</div>" +
+				"</div>" +
+			"</div>";
+
+		var jq = $(html);
+
+		var jqHide = jq.find('.kSectionHide:first');
+		var jqShow = jq.find('.kSectionBody:first');
+		var jqSectionView = jq.find('.kSectionView:first');
+
+		jqView.append(jq);
+		
+		//event
+		jq.find('.kBtnSpan:first').click(function(event) {
+			jqHide.toggle("fast");
+			jqShow.toggle("fast");
+		});
+
+		//section
+		var url = "sections/" + id + ".txt";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var html = __v;
+				if(html && html != ""){
+					jqSectionView.html(html);
+					prettyPrint();
+				}else{
+					jqSectionView.html("沒有數據");
+				}
+			},
+			OnError:function(){
+				jqSectionView.html("沒有數據");
+			},
+		});
+	};
+	//init
+	var initData = function(id){
+		var url = "data/panels/" + id + ".js";
+		newScript({
+			Url:url,
+			OnLoad:function(){
+				var arrs = __v;
+				if(arrs){
+					jqBodyView.html("");
+					for (var i = 0; i < arrs.length; i++) {
+						var obj = arrs[i];
+						newSection(obj.Id,obj.Name);
+					}
+				}else{
+					jqBodyView.html("沒有數據");
+				}
+			},
+			OnError:function(){
+				jqBodyView.html(url + " not found");
+			},
+		});
+	};
+	initData(id);
+	//event
+	jq.find('.kBtnTop:first').click(function(event) {
+		location.href="#top";
+	});
+	jq.find('.kBtnMenuHide:first').click(function(event) {
+		jqHide.toggle("fast");
+		jqBody.toggle("fast");
+	});
+}
+</script>
