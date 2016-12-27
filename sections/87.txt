@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//獲取指定上下文的 翻譯\nfunc PGettext(msgctxt, msgid string) string\n\n//同上 不過上下文 信息自動填充(當前Go函數名) \nfunc Gettext(msgid string) string\n\u003c/pre\u003e"

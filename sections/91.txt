@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e將土豆切成絲 放入清水浸泡\u003c/li\u003e\n\t\u003cli\u003e油入鍋 放入 蔥花 蒜末 十三香 煸炒 知道出香味\u003c/li\u003e\n\t\u003cli\u003e土豆絲入鍋 翻炒幾下\u003c/li\u003e\n\t\u003cli\u003e入 鹽 白醋 生抽 翻炒到九分熟\u003c/li\u003e\n\t\u003cli\u003e入 雞精 青椒絲 翻炒至 熟透\u003c/li\u003e\n\u003c/ol\u003e"

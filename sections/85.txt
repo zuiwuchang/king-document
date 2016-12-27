@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emsgctxt\t指定上下文\nmsgid\t待翻譯字符id(同gun)\nmsgstr\t譯文(同gun)\u003c/pre\u003e"
