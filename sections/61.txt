@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//執行sql查詢\nfunc (engine *Engine) Query(sql string, paramStr ...interface{}) (resultsSlice []map[string][]byte, err error)\n\n//執行 sql \nfunc (engine *Engine) Exec(sql string, args ...interface{}) (sql.Result, error)\u003c/pre\u003e"

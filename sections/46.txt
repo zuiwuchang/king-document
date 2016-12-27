@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//使用當前 數據庫 引擎 保存 數據結構 數據 的sql語句\nfunc (engine *Engine) DumpAll(w io.Writer) error\nfunc (engine *Engine) DumpAllToFile(fp string) error\n\n\n//執行保存在文件中的 sql 語句\nfunc (engine *Engine) Import(r io.Reader) ([]sql.Result, error)\nfunc (engine *Engine) ImportFile(ddlPath string) ([]sql.Result, error)\u003c/pre\u003e"

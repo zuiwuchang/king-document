@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//插入數據\nfunc (engine *Engine) Insert(beans ...interface{}) (int64, error)\nfunc (engine *Engine) InsertOne(bean interface{}) (int64, error)\u003c/pre\u003e"

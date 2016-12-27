@@ -1,0 +1,1 @@
+var __v="\u003cp\u003e\n\txorm 會自動 將 struct 中的 導出 字段 映射到表\n\u003c/p\u003e\n\u003cp\u003e\n\t映射優先級 如下\n\u003c/p\u003e\n\u003col\u003e\n\t\u003cli\u003e\n\t\t根據 tag 映射\n\t\u003c/li\u003e\n\t\u003cli\u003e\n\t\t使用 IMapper 映射\n\t\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\n\t\u003cbr /\u003e\n\u003c/p\u003e"

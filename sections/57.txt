@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在struct 中 設置 FiledName time.Time `xorm:\"deleted\"`\n後在執行刪除 時 不會刪除 數據 而是 更新 FiledName 為當前時間\n\n\n被軟刪除後的數據\n此時要獲取 或物理刪除 需要調用 Unscoped方法\nvar user User\nengine.Id(1).Unscoped().Get(\u0026user)\n// 此时将可以获得记录\nengine.Id(1).Unscoped().Delete(\u0026user)\u003c/pre\u003e"

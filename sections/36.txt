@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003exorm 可以將一個 golang struct 和一個表 結構映射\u003c/pre\u003e"

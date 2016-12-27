@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e創建一個 事務 對象\nfunc (engine *Engine) NewSession() *Session\n\t//defer Session.close()\n\n\n//開始/回滾/提交 事務\nfunc (session *Session) Begin() error\nfunc (session *Session) Rollback() error\nfunc (session *Session) Commit() error\u003c/pre\u003e"

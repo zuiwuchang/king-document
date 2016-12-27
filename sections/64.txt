@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003exorm 提供了 內存 緩衝功能\n\n\n//使用一個 1000 條記錄的 LRU算法緩存\ncacher := xorm.NewLRUCacher(xorm.NewMemoryStore(), 1000)\n//engine.MapCacher(\u0026user, cacher) 只針對部分表緩存\n//engine.MapCacher(\u0026user, nil) 排除要換成的表\nengine.SetDefaultCacher(cacher)\u003c/pre\u003e"

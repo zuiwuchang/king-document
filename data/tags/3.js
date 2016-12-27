@@ -1,1 +1,1 @@
-var __v=[{"Id":1,"Tag":3,"Name":"Revel"}]
+var __v=[{"Id":1,"Tag":3,"Name":"Revel"},{"Id":3,"Tag":3,"Name":"go-xorm"}]

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003exorm 只針對 有 pk 的表建立 緩存\n\n如果 調用 Exec 方法 會使 數據庫 和 緩存不一致 \n此時需要手動 調用ClearCache \nengine.Exec(\"update user set name = ? where id = ?\", \"xlw\", 1)\nengine.ClearCache(new(User))\u003c/pre\u003e"

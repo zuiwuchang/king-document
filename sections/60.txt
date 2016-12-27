@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e傳給 update 的 struct 中 為 0 或 nil 的字段 不會被更新\n除非 使用 Cols 指定 或者 傳入 map 而非 struct\u003c/pre\u003e\n"

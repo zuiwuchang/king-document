@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//刪除數據 返回 刪除 數量\nfunc (engine *Engine) Delete(bean interface{}) (int64, error)\n\nuser := new(User)\naffected, err := engine.Id(id).Delete(user)\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//更新數據 返回 影響 記錄數\nfunc (engine *Engine) Update(bean interface{}, condiBeans ...interface{}) (int64, error)\n\tUpdate 傳入 更新 struct 或者 map[string]interface{}\n\n有 xorm:\"updated\" 標記的 字段 將 自動更新 時間\u003c/pre\u003e"
