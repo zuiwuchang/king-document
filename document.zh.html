@@ -70,6 +70,13 @@ $(document).ready(function() {
 		document.body.appendChild(script);
 	}
 
+	var getText = function(name,rows){
+		if(rows == 0 || rows == "0"){
+			return name;
+		}
+
+		return  name + "&nbsp;&nbsp;&nbsp;&nbsp;[" + rows + "]";
+	};
 	//enable
 	var _enable = true;
 	var isEnable = function(){
@@ -187,13 +194,13 @@ $(document).ready(function() {
 			};
 			if(tag.Id == 0){
 				node.parent = "#";
-				node.text = "標籤樹" + "&nbsp;&nbsp;&nbsp;&nbsp;[" + tag.Docs + "]";
+				node.text = getText("標籤樹",tag.Docs);
 				node.state = {
 					opened:true,
 				};
 			}else{
 				node.parent = tag.Pid;
-				node.text = tag.Name + "&nbsp;&nbsp;&nbsp;&nbsp;[" + tag.Docs + "]";
+				node.text = getText(tag.Name,tag.Docs);
 			}
 			arrs.push(node);
 		}
