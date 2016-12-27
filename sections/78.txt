@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eNoto Sans CJK 是2014年7月16日 公開的 \ngoogle 與 adobe 等公司 合作開發的 漢字版本(adobe 公開的名稱爲 Source Han Sans)\n\nCJK 是 Chinese Japanese Korean 既 中 日 韓 的簡寫\n\u003cstrong\u003eNoto Sans CJK TC\u003c/strong\u003e 是 中文的 字型 檔\u003c/pre\u003e"

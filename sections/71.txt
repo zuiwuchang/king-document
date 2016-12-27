@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egoogle search不支持通配符 (*除外 *代表一個任意單字符 且使用*的 搜索必須使用 \" 擴起來)\n\ngoogle search 对搜索到英文关键字 忽略大小写\n* ? 以及 i am com 等常用英文单词会被忽略 需要在忽略词前加 + 进行强制搜索(\"+who am i\")\n\n英文 ? , 等不能作为搜索关键字 加+ 也无用\ngoogle 在搜索句子时需要以英文双引号 \" 括起来\u003c/pre\u003e"

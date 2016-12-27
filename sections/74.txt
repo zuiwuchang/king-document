@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e--kiosk\t全屏顯示\u003c/pre\u003e"

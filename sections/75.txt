@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eChromium 是 google 爲發展 Chrome 而開源(BSD)出來的的 一個 瀏覽器\n\nChromium 和 Chrome 基本是 同樣的 內核 架構\n只是 Chromium 有更快的 版本更新 和最新 功能 而 Chrome 會等到 這些功能穩定後才納入\nChromium 是 Chrome的 前哨實驗室\n\n官網 \u003ca target=\"_blank\" href=\"https://www.chromium.org/\"\u003ehttps://www.chromium.org/\u003c/a\u003e\u003c/pre\u003e"

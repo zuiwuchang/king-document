@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eNoto 是 google 開發的 開源(OFL) 字型\nNoto 既 No Tofu 的簡寫 意在以 消除 無法顯示的字元 爲目標\n\nNoto Sans 屬於 無襯線黑體\nNoto Serif 屬於 襯線體\n\n官網 \u003ca target=\"_blank\" href=\"https://www.google.com/get/noto/\"\u003ehttps://www.google.com/get/noto/\u003c/a\u003e\u003c/pre\u003e"

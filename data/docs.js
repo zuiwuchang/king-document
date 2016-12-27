@@ -1,1 +1,1 @@
-var __v={"1":{"Id":1,"Tag":3,"Name":"Revel"},"2":{"Id":2,"Tag":5,"Name":"CKEditor"},"3":{"Id":3,"Tag":3,"Name":"go-xorm"}}
+var __v={"1":{"Id":1,"Tag":3,"Name":"Revel"},"2":{"Id":2,"Tag":5,"Name":"CKEditor"},"3":{"Id":3,"Tag":3,"Name":"go-xorm"},"4":{"Id":4,"Tag":7,"Name":"Google Search"},"5":{"Id":5,"Tag":7,"Name":"Google Chrome"},"6":{"Id":6,"Tag":7,"Name":"Noto"}}

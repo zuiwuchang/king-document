@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e取交集\nand 空格 + \n\na +b (+ 和 b之间不能有空格否则忽略+)\na and b\na b\u003c/pre\u003e"
