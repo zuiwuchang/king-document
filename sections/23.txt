@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從官網下載最新 源碼\u003c/li\u003e\n\t\u003cli\u003e引入 ckeditor.js\u003c/li\u003e\n\t\u003cli\u003e在js中 調用 CKEDITOR.replace( 'id' ) 進行初始化\u003c/li\u003e\n\u003c/ol\u003e\n"

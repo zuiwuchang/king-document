@@ -1,0 +1,1 @@
+var __v="控制器 提供了多種 Render 方法 返回數據\u003cbr /\u003e\n\u003cp\u003e\n\t若要改變 默認 頭信息等 直接設置 相應 屬性 即可\n\u003c/p\u003e\n\u003cpre class=\"prettyprint linenums\"\u003efunc (c App) Action() revel.Result {\n\tc.Response.Status = http.StatusTeapot\n\tc.Response.ContentType = \"application/dishware\"\n\treturn c.Render()\n}\u003c/pre\u003e\n"

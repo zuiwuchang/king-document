@@ -1,0 +1,1 @@
+var __v="\u003cp\u003e\n\t*.go\n\u003c/p\u003e\n\u003cpre class=\"prettyprint linenums\"\u003efunc (c App) Index() revel.Result {\n\tc.Session[\"name\"] = \"illusive man\"\n\treturn c.Render()\n}\u003c/pre\u003e\n\u003cp\u003e\n\t*.html\n\u003c/p\u003e\n\u003cpre class=\"prettyprint linenums\"\u003e{{.session.name }}\u003c/pre\u003e"

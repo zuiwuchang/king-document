@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nCKEditor 是一個開源(GPL LGPL 2)的 在線 HTML 編輯器\n\n官網 \u003ca href=\"http://ckeditor.com/\" target=\"_blank\"\u003ehttp://ckeditor.com/\u003c/a\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cstrong\u003e翻譯文件 可以 使用參數\u003c/strong\u003e\nmyname=i'am %s\n\nc.Render(\"myname\",\"illusive man\")\n\n{{msg . \"myname\" \"illusive man\" }\u003c/pre\u003e"

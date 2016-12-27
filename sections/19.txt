@@ -1,0 +1,1 @@
+var __v="\u003cp\u003e\n\trevel 提供了 對 session 的支持\n\u003c/p\u003e\n\u003cp\u003e\n\tsession 是一個 存儲在 控制器 中的 \u003cstrong\u003etype Session map[string]string\u003c/strong\u003e\n\u003c/p\u003e"

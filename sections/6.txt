@@ -1,1 +1,1 @@
-var __v="\u003cp\u003e\n\t\u003cstrong\u003econf/\u003c/strong\u003e\u003cstrong\u003eapp.conf\u003c/strong\u003e 是 revel 項目的 配置檔案\u0026nbsp;\n\u003c/p\u003e\n\u003cp\u003e\n\t使用 \u003cstrong\u003ekey = val\u003c/strong\u003e 的方式配置\n\u003c/p\u003e"
+var __v="\u003cp\u003e\n\t\u003cstrong\u003e\u003cstrong\u003e\u003c/strong\u003econf/app.conf\u003c/strong\u003e 是 revel 項目的 配置檔案\u0026nbsp;\u003cbr /\u003e\n使用 \u003cstrong\u003ekey = val\u003c/strong\u003e 的方式配置\n\u003c/p\u003e"

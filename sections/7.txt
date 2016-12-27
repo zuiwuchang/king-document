@@ -1,1 +1,1 @@
-var __v="\u003cp\u003e\n\t//配置 服務器 地址\n\u003c/p\u003e\n\u003cp\u003e\n\thttp.addr =\n\u003c/p\u003e\n\u003cp\u003e\n\t\u003cbr /\u003e\n\u003c/p\u003e\n\u003cp\u003e\n\t//配置 服務器 端口\n\u003c/p\u003e\n\u003cp\u003e\n\thttp.port = 9000\n\u003c/p\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003e\n//配置 服務器 地址\nhttp.addr =\n\n//配置 服務器 端口\nhttp.port = 9000\n\u003c/pre\u003e"

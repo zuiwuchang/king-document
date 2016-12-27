@@ -1,0 +1,1 @@
+var __v="revel 是一個 無狀態 服務器 其session 其實是保存在 客戶端的簽名cookie\u003cbr /\u003e\n其session 保存數據 不能 超過 4kb\u003cbr /\u003e\n且session 的key 中 不能 包含 :\u003cbr /\u003e"

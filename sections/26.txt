@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nrevel 支持 國際化 語言翻譯文件 必須放在 messages 文件夾下(名稱 隨意)\n\n\nrevel 根據 後綴名 獲取翻譯 文件\nzh\t中文\nen\t英文\n...\n\n\nrevel 會將 後綴名相同的 文件 自動 合併 \n故 可以 將 翻譯 放在 多個文件中\n\n\n翻譯文件 使用 key=value 形式\n\u003c/pre\u003e"

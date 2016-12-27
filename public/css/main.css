@@ -15,3 +15,13 @@
 strong{
 	color: #fff;
 }
+
+.k-pre {
+	border: none;
+	background: transparent;
+	padding: 0px;
+	color: #888888;
+	font-size: 14px;
+	word-wrap: break-word;
+	white-space: pre-wrap;
+}

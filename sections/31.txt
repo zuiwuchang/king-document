@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n//遍歷 slice map 將 val 設置爲 當前環境 . \n{{range .nodes}}\n\tval = {{.}}\n{{end}}\n\n//同上 然 將 key val 設置到 指定 變量\n{{range $key,$val := .nodes}}\n\tkey = {{$key}}\n\tval = {{$val}}\n{{end}}\n\u003c/pre\u003e"

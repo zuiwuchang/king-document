@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cstrong\u003e//.err 被定義 並且不爲 空\u003c/strong\u003e\n{{if .err}}\n\terror\n{{else}}\n\tsuccess\n{{end}}\n\t\n\n\u003cstrong\u003e//.err 未定義 將引發錯誤\n//.err 不爲空\u003c/strong\u003e\n{{if eq .err \"\"}}\n{{else}}\n\t不爲空 執行 \n{{end}}\n\u003c/pre\u003e"

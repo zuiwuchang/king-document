@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n/conf/routes 檔案用於 配置 路由\n\n//匹配簡單路由 (最後的/ 加不加都一樣)\nGET\t/index.html\tApp.Index\nGET\t/index.html/\tApp.Index\n\n//綁定 參數\nGET\t/param/:id\tApp.Param\n\n//自動路由\nGET   /:id/:action    Hotels.:action\n\u003c/pre\u003e"

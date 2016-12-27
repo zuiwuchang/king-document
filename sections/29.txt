@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nRevel 的 template 使用 go 標準庫中 的 html/template\n同時 加上了 幾個 Revel 定義的 模板 函數\n\u003c/pre\u003e"
