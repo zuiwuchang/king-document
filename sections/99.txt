@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e算法導論(Introduction to Algorithms) 是基礎算法方面最權威詳細的著作之一\n\nwikipedia \u003ca target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Introduction_to_Algorithms\"\u003ehttps://en.wikipedia.org/wiki/Introduction_to_Algorithms\u003c/a\u003e\u003c/pre\u003e"

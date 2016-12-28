@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecode-prettify 是google 提供的一個 用於 在 html上 高光顯示 代碼的 開源(Apache License 2.0) js 庫 \n\ngit clone \u003ca target=\"_blank\" href=\"https://github.com/google/code-prettify\"\u003ehttps://github.com/google/code-prettify.git\u003c/a\u003e\u003c/pre\u003e"

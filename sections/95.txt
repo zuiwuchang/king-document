@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//如何 優化\nOptimization\n\tWhitespace only\t值移除 空格\n\tSimple\t\t在Whitespace only之上 還將 區域內的 函數 變量 改名爲更簡短的方式\n\t\t\t(不會影響和其他代碼的 交換)\n\tAdvanced\t在Simple之上 還會改名 全局 函數 變量 以inline替換某些函數\n\t\t\t(可能會導致 某些代碼 無法執行)\n\n//如果 輸出 優化 後代碼\nFormatting\n\tPretty print\t重新排版 以然人類觀看\n\tPrint input delimiter\t標識代碼段來源\u003c/pre\u003e"
