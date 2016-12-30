@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc init() {\n\tfmt.Println(\"i'm init func0\")\n}\nfunc init() {\n\tfmt.Println(\"i'm init func1\")\n}\nfunc main() {\n\n\tfmt.Println(\"i'm main func\")\n}\u003c/pre\u003e"

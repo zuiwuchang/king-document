@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一個包中 可以有[0,+∞)個 init函數 將會被依次執行\n不過 非必要 不要寫 多個init\u003c/pre\u003e"

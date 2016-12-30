@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//错误是可以用字符串描述自己的任何东西。主要思路是由预定义的内建接口类型 `error`，和方法 `Error`，返回字符串：\n\ntype error interface {\n    Error() string\n}\n当用 fmt 包的多种不同的打印函数输出一个 error 时，会自动的调用该方法。\u003c/pre\u003e"

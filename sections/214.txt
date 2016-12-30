@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esync.RWMutex 型別是一個讀寫鎖\nfunc (rw *RWMutex) Lock()\nfunc (rw *RWMutex) RLock()\nfunc (rw *RWMutex) RLocker() Locker\nfunc (rw *RWMutex) RUnlock()\nfunc (rw *RWMutex) Unlock()\u003c/pre\u003e"

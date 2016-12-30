@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nGo 別名 golang 是google 2007年9月開始設計開發 2009年11月正式發佈都 一個 開源都 靜態強類型 編譯型 併發型 帶垃圾回收功能 的 既有趣 又高效 高生產力 的 程式語言\n\ngolang 被設計爲 c 風格 但 彌補了許多 c都 不足\n同時 golang都 許多概覽 都源於 google 員工 都許多 c 開源項目 如(goroutine channel 垃圾回收) \n\n官網 \u003ca target=\"_blank\" href=\"https://golang.org/\"\u003ehttps://golang.org/\u003c/a\u003e\n\u003c/pre\u003e"

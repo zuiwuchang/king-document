@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e實際上可以對包內任意型別 定義方法(不可為其他包的型別 或基礎型別定義)\n\u003cpre class='prettyprint linenums'\u003etype MyFloat float64\n\nfunc (f MyFloat) Abs() float64 {\n\tif f \u0026lt; 0 {\n\t\treturn float64(-f)\n\t}\n\treturn float64(f)\n}\n\nfunc main() {\n\tf := MyFloat(-math.Sqrt2)\n\tfmt.Println(f.Abs())\n}\u003c/pre\u003e\u003c/pre\u003e"

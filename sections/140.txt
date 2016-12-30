@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e包中被導出的名稱 首字母必須大寫(大寫既自動被導出) 如 \nmath.Pi (正確寫法)\nmath.pi\t(錯誤寫法)\u003c/pre\u003e"

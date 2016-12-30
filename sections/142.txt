@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efunc main() {\n\tl, r := swap(\"left\", \"right\")\n\tfmt.Println(l,r)\n}\n\nfunc swap(left, right string) (string, string) {\n\treturn right, left\n}\u003c/pre\u003e"

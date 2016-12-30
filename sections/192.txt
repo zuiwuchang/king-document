@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego 都形參 只能 傳遞值\u003c/pre\u003e"

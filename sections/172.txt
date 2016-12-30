@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//無線循環\nfor{\n\t\n}\n\n//while\nfor booleanExpression{\n\t\n}\n\n//同c/c++\nfor ; ; {\n\t\n}\n\n//go for\nfor i := range col{\n\t\n}\nfor i,v := range col{\n\t\n}\nfor item := range channel{\n\t\n}\u003c/pre\u003e"

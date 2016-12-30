@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n\t\"math/rand\"\n)\n\nfunc main() {\n\tfmt.Println(\"My favorite number is\", rand.Intn(10))\n}\u003c/pre\u003e"

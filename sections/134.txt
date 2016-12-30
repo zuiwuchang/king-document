@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從官網下載 相應平臺的 go 壓縮檔\u003c/li\u003e\n\t\u003cli\u003e解壓壓縮檔\u003c/li\u003e\n\t\u003cli\u003e配置 環境變量 GOROOT\u003cbr\u003e\n\t\t\u003cstrong\u003eexport GOROOT=/opt/go\u003c/strong\u003e\n\t\u003c/li\u003e\n\t\u003cli\u003e配置 環境 變量 GOPATH\u003c/li\u003e\n\t\u003cli\u003e配置 可選環境 變量 GOARCH GOOS\u003c/li\u003e\n\u003c/ol\u003e"

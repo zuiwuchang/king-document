@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e切片  實際上不是是數組的一種 包裝手法 其 內部始終指向了一個數組\n(此數組的長度 既爲 切片容量)\n(不過Go程序員 無需關心這點 一切都由Go處理好了)\n\n使用如下語法 創建 切片\nmake([]type,length,capacity)\nmake([]type,length)\n[]type{}\n[]type{v1,v2,...}\u003c/pre\u003e"

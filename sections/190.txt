@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tm := map[string]int{\"tom\": 3, \"jerry\": 2, \"butch\": 1}\n\tfmt.Println(len(m)) //3\n\n\tfor name, age := range m {\n\t\tfmt.Println(name, age)\n\t}\n}\u003c/pre\u003e"

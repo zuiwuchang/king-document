@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego 去除了隐式型别 转换 所有转换 必须显示 写法同c\n\u003cstrong\u003ev := int64(1)\u003c/strong\u003e\u003c/pre\u003e"

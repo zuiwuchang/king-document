@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGo 不支持 繼承 重載 Go只支持嵌入 聚合\u003c/pre\u003e"

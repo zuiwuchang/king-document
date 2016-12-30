@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e示例中 在if時 爲i str 創建了一個 局部變量 覆蓋外部的 i str\u003c/pre\u003e"

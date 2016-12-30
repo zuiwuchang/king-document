@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tvar i interface{} = 99\n\tvar str interface{} = \"123\"\n\tif i, ok := i.(int); ok {\n\t\tfmt.Println(i)\n\t}\n\tif str, ok := str.(string); ok {\n\t\tfmt.Println(str)\n\t}\n}\u003c/pre\u003e"

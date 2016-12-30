@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e異常展開 同c++ \n引發異常時 defer 將 被執行後 才向外展開\n\n可以在自己包內 使用 異常 但應該將異常限制在包內\n可以使用 example的方法 將 異常 轉化爲 error 返回給 調用者\u003c/pre\u003e"

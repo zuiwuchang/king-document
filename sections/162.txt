@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egolang 提供了 位運算 能力\n\n//取反\n^l\n\n//異或\nl ^ r\nl ^= r\n\n//或\n|\n|=\n\n//與\n\u0026amp;\n\u0026amp;=\n\n//左移\n\u0026lt;\u0026lt;\n\u0026lt;\u0026lt;=\n\n//右移\n\u0026gt;\u0026gt;\n\u0026gt;\u0026gt;=\u003c/pre\u003e"

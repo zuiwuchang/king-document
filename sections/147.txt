@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003econst PI = 3.1415927\nconst (\n\tId   = 1\n\tSEXY = \"kate beckinsale\"\n\n\t//非導出 常量\n\tpower = 666\n)\u003c/pre\u003e"

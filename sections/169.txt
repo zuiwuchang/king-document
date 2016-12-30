@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego有 兩種 switch 且對switch型別 沒有 要求\u003c/pre\u003e"

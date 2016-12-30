@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 編譯 交叉編譯 工具時 需要 分別設置 GOARCH GOOS\n為不同平台 編譯 不同的 編譯工具\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//如果表達式爲 T 型別 返回 值和 true 否則 返回 false\nval,boolean := expression.(T)\n\n//... 返回 值 否則 使用panic() 拋出異常\nval := expression.(T)\u003c/pre\u003e"

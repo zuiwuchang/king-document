@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tstr := \"this is closures test\"\n\tfunc() {\n\t\tfmt.Println(str)\n\t}()\n}\u003c/pre\u003e"

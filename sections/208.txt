@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003echannel 只有發送者 可以 close \n一般 沒必要 關閉channel close 只是為了 讓 接收者 知道沒有數據過濾 從而可以退出循環\u003c/pre\u003e"

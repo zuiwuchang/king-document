@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego 要使用 變長參數 只需要 在最後一個參數後使用 ... 即可(參數 會被包裝爲slice傳入)\u003c/pre\u003e"

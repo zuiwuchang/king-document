@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//Go 使用func 定义函数 返回值型别 在函数定义之后\nfunc add(x , y int) int {\t//同型别参数 只需要在最后写出型别\n\treturn x + y\n}\u003c/pre\u003e"

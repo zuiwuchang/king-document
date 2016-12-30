@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego 中都 所有 字符相關 都使用 utf8 源碼 和字符串 亦然\ngo的 每個 字符串 都是 類似 java 字符串 是一個獨立的 個體 \n連接 兩個 字符串 不會在原內存後增加 而是創建新都 獨立字符串\n\ngo 字符串 不能 使用 str[n] 的下標方式 訪問 \u003cstrong\u003e因爲 utf8 是不定長的\u003c/strong\u003e\u003c/pre\u003e"

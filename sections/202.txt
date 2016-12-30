@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eimport (\n\t\"fmt\"\n\t\"time\"\n)\n\nfunc say(s string) {\n\tfor i := 0; i \u0026lt; 5; i++ {\n\t\ttime.Sleep(100 * time.Millisecond)\n\t\tfmt.Println(s)\n\t}\n}\n\nfunc main() {\n\tgo say(\"world\")\n\tsay(\"hello\")\n}\u003c/pre\u003e"

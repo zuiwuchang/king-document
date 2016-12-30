@@ -11,10 +11,142 @@ var __v={
 			"Name": "參數綁定",
 			"Sort": 0
 		},
+		"100": {
+			"Id": 100,
+			"Chapter": 45,
+			"Name": "main init 函數",
+			"Sort": 0
+		},
+		"102": {
+			"Id": 102,
+			"Chapter": 45,
+			"Name": "型別斷言",
+			"Sort": 0
+		},
+		"103": {
+			"Id": 103,
+			"Chapter": 46,
+			"Name": "位運算",
+			"Sort": 0
+		},
+		"104": {
+			"Id": 104,
+			"Chapter": 47,
+			"Name": "異常",
+			"Sort": 1
+		},
+		"105": {
+			"Id": 105,
+			"Chapter": 48,
+			"Name": "if",
+			"Sort": 0
+		},
+		"106": {
+			"Id": 106,
+			"Chapter": 48,
+			"Name": "switch",
+			"Sort": 0
+		},
+		"107": {
+			"Id": 107,
+			"Chapter": 48,
+			"Name": "for",
+			"Sort": 0
+		},
+		"108": {
+			"Id": 108,
+			"Chapter": 49,
+			"Name": "值 指針 引用",
+			"Sort": 0
+		},
+		"109": {
+			"Id": 109,
+			"Chapter": 49,
+			"Name": "struct 结构",
+			"Sort": 0
+		},
 		"11": {
 			"Id": 11,
 			"Chapter": 3,
 			"Name": "Session",
+			"Sort": 0
+		},
+		"110": {
+			"Id": 110,
+			"Chapter": 49,
+			"Name": "array 数组",
+			"Sort": 0
+		},
+		"111": {
+			"Id": 111,
+			"Chapter": 49,
+			"Name": "slice 切片",
+			"Sort": 0
+		},
+		"112": {
+			"Id": 112,
+			"Chapter": 49,
+			"Name": "slice 排序查找",
+			"Sort": 0
+		},
+		"113": {
+			"Id": 113,
+			"Chapter": 49,
+			"Name": "map 映射",
+			"Sort": 0
+		},
+		"114": {
+			"Id": 114,
+			"Chapter": 47,
+			"Name": "錯誤",
+			"Sort": 2
+		},
+		"115": {
+			"Id": 115,
+			"Chapter": 50,
+			"Name": "聚合 嵌入",
+			"Sort": 0
+		},
+		"116": {
+			"Id": 116,
+			"Chapter": 50,
+			"Name": "方法",
+			"Sort": 0
+		},
+		"117": {
+			"Id": 117,
+			"Chapter": 50,
+			"Name": "interface 接口",
+			"Sort": 0
+		},
+		"118": {
+			"Id": 118,
+			"Chapter": 51,
+			"Name": "goroutine",
+			"Sort": 0
+		},
+		"119": {
+			"Id": 119,
+			"Chapter": 51,
+			"Name": "channel",
+			"Sort": 0
+		},
+		"120": {
+			"Id": 120,
+			"Chapter": 51,
+			"Name": "select",
+			"Sort": 0
+		},
+		"121": {
+			"Id": 121,
+			"Chapter": 51,
+			"Name": "sync 包",
+			"Sort": 0
+		},
+		"122": {
+			"Id": 122,
+			"Chapter": 52,
+			"Name": "單元測試",
 			"Sort": 0
 		},
 		"13": {
@@ -503,10 +635,82 @@ var __v={
 			"Name": "win32下 硬盤安装",
 			"Sort": 0
 		},
+		"88": {
+			"Id": 88,
+			"Chapter": 44,
+			"Name": "Go",
+			"Sort": 0
+		},
+		"89": {
+			"Id": 89,
+			"Chapter": 44,
+			"Name": "常用命令",
+			"Sort": 0
+		},
 		"9": {
 			"Id": 9,
 			"Chapter": 3,
 			"Name": "Routes",
+			"Sort": 0
+		},
+		"90": {
+			"Id": 90,
+			"Chapter": 44,
+			"Name": "環境配置",
+			"Sort": 0
+		},
+		"91": {
+			"Id": 91,
+			"Chapter": 44,
+			"Name": "交叉編譯",
+			"Sort": 0
+		},
+		"92": {
+			"Id": 92,
+			"Chapter": 44,
+			"Name": "hello world",
+			"Sort": 0
+		},
+		"93": {
+			"Id": 93,
+			"Chapter": 45,
+			"Name": "package 包",
+			"Sort": 4
+		},
+		"94": {
+			"Id": 94,
+			"Chapter": 45,
+			"Name": "function 函数",
+			"Sort": 1
+		},
+		"95": {
+			"Id": 95,
+			"Chapter": 45,
+			"Name": "var 变量",
+			"Sort": 3
+		},
+		"96": {
+			"Id": 96,
+			"Chapter": 45,
+			"Name": "string 字符串",
+			"Sort": 2
+		},
+		"97": {
+			"Id": 97,
+			"Chapter": 45,
+			"Name": "閉包",
+			"Sort": 0
+		},
+		"98": {
+			"Id": 98,
+			"Chapter": 45,
+			"Name": "函數變長參數",
+			"Sort": 0
+		},
+		"99": {
+			"Id": 99,
+			"Chapter": 45,
+			"Name": "defer",
 			"Sort": 0
 		}
 	}

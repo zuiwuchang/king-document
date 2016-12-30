@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eif用法 同c 不过 可以在if前 加一个 便捷语句 其作用域在if内\n\nif [expression;] booleanExpression1{\n\n}else if ...{\n\t\n}else{\n\t\n}\u003c/pre\u003e"

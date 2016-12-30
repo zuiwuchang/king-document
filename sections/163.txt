@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGo 提供 panic recover 支持異常 \n\u003cstrong\u003e但不建議對外拋出異常 一般只在包內部使用\u003c/strong\u003e\nGo 推薦使用 返回值 error 表示錯誤\n\nGo中 只有那些 不可發生的事情發生了 才考慮使用 異常 從而 優雅的結束程序運行\n\n//接受一個 任意型別 拋出一個異常\npanic()\n//獲取異常 並返回異常值 如果沒有異常 返回 nil\nrecover()\u003c/pre\u003e"

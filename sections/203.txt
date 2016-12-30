@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003echannel 是一個 線程安全的 通道 可以使用之 來同步goroutine\n\nchannel 是雙向通道 我們亦可創建 單向通道\n\n使用channel發送字符串 int等基本型別是安全的 \n然發送指針 引用 不能保證數據安全 除非文檔有單獨說明如*regexp.Regexp\n(因爲無法保證 指針 引用在發送後 接收前 其內容不被改變)\u003c/pre\u003e"

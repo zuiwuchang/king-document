@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//一个struct 就是一个字段 集合\ntype Point struct {\n\tX, Y int\n}\n\nfunc main() {\n\tpoint := Point{1, 2}\n\tfmt.Println(point.X, point.Y)\n}\u003c/pre\u003e"

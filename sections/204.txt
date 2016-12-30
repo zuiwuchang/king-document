@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003echannel 是由類型的管道 可以使用 \u0026lt;- 發送接收數據\nch \u0026lt;- v    // 将 v 送入 channel ch。\nv := \u0026lt;-ch  // 从 ch 接收，并且赋值给 v。\n(“箭头”就是数据流的方向。)\n\n\nchannel 必須使用 make創建\nch := make(chan int)\n\n\n默認情況下 在另一端準備好之前 發送 接收 都會 阻塞 \n故可以 在沒有明確鎖狀態下 進行同步\n\u003c/pre\u003e"

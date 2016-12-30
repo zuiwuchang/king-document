@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//可以為 make 傳入一個 緩存長度 啟用緩存\nfunc main() {\n\tc := make(chan int, 2)\n\tc \u0026lt;- 1\n\tc \u0026lt;- 2\n\tfmt.Println(\u0026lt;-c)\n\tfmt.Println(\u0026lt;-c)\n}\u003c/pre\u003e"

@@ -901,5 +901,607 @@ var __v=[
 			"Name": "win32下 硬盤安装",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 132,
+			"Panel": 88,
+			"Name": "Go",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 133,
+			"Panel": 89,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 134,
+			"Panel": 90,
+			"Name": "環境配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 135,
+			"Panel": 92,
+			"Name": "hello world",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 136,
+			"Panel": 91,
+			"Name": "交叉編譯",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 137,
+			"Panel": 91,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 138,
+			"Panel": 93,
+			"Name": "package",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 139,
+			"Panel": 93,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 140,
+			"Panel": 93,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 141,
+			"Panel": 94,
+			"Name": "func",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 142,
+			"Panel": 94,
+			"Name": "返回多个值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 143,
+			"Panel": 94,
+			"Name": "返回值 命名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 144,
+			"Panel": 95,
+			"Name": "var",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 145,
+			"Panel": 95,
+			"Name": "基本型別",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 146,
+			"Panel": 95,
+			"Name": "型別轉換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 147,
+			"Panel": 95,
+			"Name": "常量定義",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 148,
+			"Panel": 96,
+			"Name": "string",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 149,
+			"Panel": 96,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 150,
+			"Panel": 97,
+			"Name": "閉包",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 151,
+			"Panel": 97,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 152,
+			"Panel": 98,
+			"Name": "變長參數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 153,
+			"Panel": 98,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 154,
+			"Panel": 99,
+			"Name": "defer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 155,
+			"Panel": 99,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 156,
+			"Panel": 100,
+			"Name": "main init",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 157,
+			"Panel": 100,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 158,
+			"Panel": 100,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 159,
+			"Panel": 102,
+			"Name": "型別斷言",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 160,
+			"Panel": 102,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 161,
+			"Panel": 102,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 162,
+			"Panel": 103,
+			"Name": "位運算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 163,
+			"Panel": 104,
+			"Name": "異常",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 164,
+			"Panel": 104,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 165,
+			"Panel": 104,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 166,
+			"Panel": 105,
+			"Name": "if",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 167,
+			"Panel": 105,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 169,
+			"Panel": 106,
+			"Name": "switch",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 170,
+			"Panel": 106,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 171,
+			"Panel": 106,
+			"Name": "用來 判別 型別",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 172,
+			"Panel": 107,
+			"Name": "for",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 173,
+			"Panel": 107,
+			"Name": "break continue",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 174,
+			"Panel": 108,
+			"Name": "值 指針 引用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 175,
+			"Panel": 108,
+			"Name": "指針",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 176,
+			"Panel": 108,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 177,
+			"Panel": 109,
+			"Name": "struct 结构",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 178,
+			"Panel": 110,
+			"Name": "Example",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 179,
+			"Panel": 110,
+			"Name": "注意",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 180,
+			"Panel": 110,
+			"Name": "array 数组",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 181,
+			"Panel": 111,
+			"Name": "slice 切片",
+			"Sort": 6,
+			"Str": ""
+		},
+		{
+			"Id": 182,
+			"Panel": 111,
+			"Name": "常用操作",
+			"Sort": 5,
+			"Str": ""
+		},
+		{
+			"Id": 183,
+			"Panel": 111,
+			"Name": "Example",
+			"Sort": 4,
+			"Str": ""
+		},
+		{
+			"Id": 184,
+			"Panel": 111,
+			"Name": "修改切片",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 185,
+			"Panel": 111,
+			"Name": "注意",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 186,
+			"Panel": 111,
+			"Name": "range",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 187,
+			"Panel": 112,
+			"Name": "排序查找",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 188,
+			"Panel": 112,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 189,
+			"Panel": 113,
+			"Name": "映射",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 190,
+			"Panel": 113,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 191,
+			"Panel": 94,
+			"Name": "存儲 func",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 192,
+			"Panel": 94,
+			"Name": "形參",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 193,
+			"Panel": 114,
+			"Name": "錯誤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 194,
+			"Panel": 114,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 195,
+			"Panel": 115,
+			"Name": "聚合 嵌入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 196,
+			"Panel": 115,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 197,
+			"Panel": 116,
+			"Name": "方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 198,
+			"Panel": 116,
+			"Name": "爲已有型別定義 方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 199,
+			"Panel": 117,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 200,
+			"Panel": 117,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 201,
+			"Panel": 118,
+			"Name": "goroutine",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 202,
+			"Panel": 118,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 203,
+			"Panel": 119,
+			"Name": "channel",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 204,
+			"Panel": 119,
+			"Name": "使用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 205,
+			"Panel": 119,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 206,
+			"Panel": 119,
+			"Name": "緩衝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 207,
+			"Panel": 119,
+			"Name": "range close",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 208,
+			"Panel": 119,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 209,
+			"Panel": 120,
+			"Name": "select",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 210,
+			"Panel": 120,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 211,
+			"Panel": 121,
+			"Name": "sync",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 212,
+			"Panel": 121,
+			"Name": "sync.Once",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 213,
+			"Panel": 121,
+			"Name": "sync.Mutex",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 214,
+			"Panel": 121,
+			"Name": "sync.RWMutex",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 215,
+			"Panel": 121,
+			"Name": "sync.Cond",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 216,
+			"Panel": 122,
+			"Name": "單元測試",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 217,
+			"Panel": 122,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 218,
+			"Panel": 122,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

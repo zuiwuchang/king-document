@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003einterface 接口 是一些方法 定義聚合\n接口型別 可以存放 實現這些方法的 任意值\ninterface 同樣支持 嵌入\n\ntype interfaceName interface{\n\tfuncName\n\t...\n}\u003c/pre\u003e"

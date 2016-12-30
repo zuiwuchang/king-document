@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\ti := 0\n\tif v := 100; i == 0 {\n\t\tfmt.Println(\"0\", v)\n\t} else if i \u0026lt; 0 {\n\t\tfmt.Println(\"min\", v)\n\t} else {\n\t\tfmt.Println(\"max\", v)\n\t}\u003c/pre\u003e"

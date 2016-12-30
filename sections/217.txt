@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"testing\"\n)\n\nfunc TestExample(t *testing.T) {\n\tt.Fatal(\"example\")\n}\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//定义数组\nvar a, b [10]int\na[0] = 1\nc := []int{0, 1, 2, 3, 4}\n\n//返回数组长度\nfmt.Println(len(c))\nfmt.Println(a, b, c)\n\n//返回数组切片\n//[1:4]\t返回 [1,4)\n//[4:]\t返回 [4,last]\n//[0:4] 返回 [0,3]\nfmt.Println(c[:4])\nfmt.Println(len(c[1:3])) //2\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e每個 Go 程序都由 包組成\n程序入口點是 main\n\n使用 import 引入包\n(可像示例中impot 多個包 亦可分別 import\n\timport \"fmt\"\n\timport \"math/rand\"\n\timport bar \"bytes\"\t//導入包 並為使用 bar覆蓋其默認包名\n)\u003c/pre\u003e"

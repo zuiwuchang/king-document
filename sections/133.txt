@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//顯示 安裝Go版本\ngo version\n\n//在 本地 6060 端口 啓動go說明檔案\ngodoc -http=:6060\n\n//編譯 go 程式\ngo build\n\n//編譯 go 之後 將其安裝到 $GOPATH/bin\ngo install\n\n//執行單元 測試\ngo test\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於 值和 引用 Go 基本同c/c++\nGo變量 通常是持有相應的值\n通道 函數 方法 映射 切片 是持有引用\n\u003cstrong\u003e數組是持有值(Go一般不使用數組 使用切片)\u003c/strong\u003e\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego f(x,y,z ...) 用於啟動一個 goroutine\u003c/pre\u003e"

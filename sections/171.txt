@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tvar i interface{} = 123\n\tswitch /*ex;*/ i.(type) {\n\tcase int:\n\t\tfmt.Println(\"int\")\n\tcase bool:\n\t\tfmt.Println(\"bool\")\n\t}\n}\u003c/pre\u003e"

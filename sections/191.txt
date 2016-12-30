@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//可以将 函数作为一个 值存储\nadd := func(l, r int) int {\n\treturn l + r\n}\nfmt.Println(add(1, 2))\u003c/pre\u003e"

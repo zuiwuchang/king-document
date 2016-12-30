@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edefer 用於延遲執行一個函數\ndefer 後的語句將在 函數返回值 計算結束 但未返回時 執行(故可以修改 返回結果)\n\n多個 defer 按照 先進後出的順序執行\u003c/pre\u003e"

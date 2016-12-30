@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efunc main() {\n\tl, r := swap(\"left\", \"right\")\n\tfmt.Println(l)\n\tfmt.Println(r)\n}\n\n//一个空 return 将返回 被命名的 返回值\nfunc swap(left, right string) (l, r string) {\n\tl = right\n\tr = left\n\treturn\n}\u003c/pre\u003e"

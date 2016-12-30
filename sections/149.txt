@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\ts := \"123\"\n\n\t//錯誤都下標寫法 因為 UTF-8 是不定長度 需要先是 []rune(s) 返回 字符數組\n\t//s[0] = 'k'\n\n\t//type rune int32\n\tc := []rune(s)\n\tc[0] = 'k'\n\tfmt.Println(s)         //123\n\tfmt.Println(string(c)) //k23\n}\n\u003c/pre\u003e"

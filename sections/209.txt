@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eselect 可以使一個 goroutine 在多個 通訊上等待\n\nselect 會一直阻塞等待 知道 某個分支 被執行 \n若當多個分支都準備 好 將 隨機執行一個\n\n若select 存在default分支 其他分支未準備好 將 執行 default 分支\u003c/pre\u003e"

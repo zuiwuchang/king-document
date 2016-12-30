@@ -34,6 +34,11 @@ var __v={
 			"Tag": 19,
 			"Name": "UBuntu"
 		},
+		"16": {
+			"Id": 16,
+			"Tag": 2,
+			"Name": "golang"
+		},
 		"2": {
 			"Id": 2,
 			"Tag": 5,

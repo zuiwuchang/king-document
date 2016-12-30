@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//go 使用 var 定义变量\nvar x,y,z int\nvar x,y,z int = 1,2,3\n\n//由go編譯器 自動 推測 變量 型別\nx,y := 1,2\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//Go沒有class 但依然可以為struct 定義方法\ntype Point struct {\n\tX, Y float64\n}\nfunc (p *Point) Abs() float64 {\n\treturn math.Sqrt(p.X*p.X + p.Y*p.Y)\n}\n\nfunc main() {\n\tpoint := Point{3, 4}\n\tfmt.Println(point.Abs())\n}\u003c/pre\u003e"

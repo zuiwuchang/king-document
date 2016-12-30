@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebool\n\nstring\n\nint int8 int16 int32 int 64\nuint uint8 uint16 uint32 uint64 uintptr\n\nbyte // uint8 的别名\n\nrune // int32 的别名\n// 代表一个Unicode码\n\nfloat32 float64\n\ncomplex64 complex128\u003c/pre\u003e"

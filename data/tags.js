@@ -9,9 +9,9 @@ var __v=[
 		{
 			"Id": 2,
 			"Pid": 1,
-			"Name": "go",
+			"Name": "Go",
 			"Sort": 1,
-			"Docs": 0
+			"Docs": 1
 		},
 		{
 			"Id": 3,
@@ -38,7 +38,7 @@ var __v=[
 			"Id": 6,
 			"Pid": 0,
 			"Name": "web",
-			"Sort": 2,
+			"Sort": 3,
 			"Docs": 0
 		},
 		{
@@ -52,14 +52,14 @@ var __v=[
 			"Id": 8,
 			"Pid": 0,
 			"Name": "中華美食",
-			"Sort": 3,
+			"Sort": 4,
 			"Docs": 1
 		},
 		{
 			"Id": 10,
 			"Pid": 0,
 			"Name": "其它",
-			"Sort": 4,
+			"Sort": 5,
 			"Docs": 0
 		},
 		{
@@ -101,7 +101,7 @@ var __v=[
 			"Id": 18,
 			"Pid": 0,
 			"Name": "os",
-			"Sort": 5,
+			"Sort": 2,
 			"Docs": 0
 		},
 		{

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//range 可以针对 slice map 进行 迭代\nnumbers := []int{1, 2, 3, 4, 5}\n\nfor i, v := range numbers {\n\tfmt.Printf(\"index=%d value=%d\\n\", i, v)\n}\n\n//亦可为其赋值    \nnumber := make([]int, 10)\nfor i := range number {\n\tnumber[i] = i\n}\nfor _, value := range number {\n\tfmt.Printf(\"%d\\n\", value)\n}\u003c/pre\u003e"
