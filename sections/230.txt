@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003etype Stmt interface {\n    Close() error\n    NumInput() int\n    Exec(args []Value) (Result, error)\n    Query(args []Value) (Rows, error)\n}\u003c/pre\u003e"

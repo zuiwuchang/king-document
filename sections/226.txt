@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003ca target=\"_blank\" href=\"https://github.com/go-sql-driver/mysql\"\u003ehttps://github.com/go-sql-driver/mysql\u003c/a\u003e 是一個 開源(MPL-2.0) mysql 驅動\n\ngo get github.com/go-sql-driver/mysql\u003c/pre\u003e"

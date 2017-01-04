@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\ndatabase/sql/driver 包定義了 數據庫 驅動接口\n通常 只有 驅動實現者 需要關心\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003ca target=\"_blank\" href=\"https://github.com/mattn/go-sqlite3\"\u003ehttps://github.com/mattn/go-sqlite3\u003c/a\u003e 是一個 開源(MIT) sqlite 驅動\n\u003cpre class='prettyprint linenums'\u003esql.Open(\"sqlite3\", \"my.db\")\u003c/pre\u003e\u003c/pre\u003e"

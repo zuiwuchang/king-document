@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n\t\"log\"\n\t\"net\"\n)\n\nfunc main() {\n\tc, e := net.Dial(\"tcp\", \"127.0.0.1:1102\")\n\tif e != nil {\n\t\tlog.Fatalln(e)\n\t}\n\tdefer c.Close()\n\n\tvar cmd string\n\tfor {\n\t\tfmt.Print(\"\u0026gt;\")\n\t\tfmt.Scan(\u0026amp;cmd)\n\t\tc.Write([]byte(cmd))\n\t}\n}\u003c/pre\u003e"

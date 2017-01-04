@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\ngo從1.7開始 正式 支持 vendor\ngo會 先從當前目錄下的 vendor目錄中 加載 import 指定的包\n之後 才 查找 GOPATH\n\u003c/pre\u003e"
