@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit config --global http.proxy 'socks5://127.0.0.1:1080'\ngit config --global https.proxy 'socks5://127.0.0.1:1080'\n\ngit config --global https.proxy 'http://127.0.0.1:1080'\ngit config --global https.proxy 'https://127.0.0.1:1080'\u003c/pre\u003e"

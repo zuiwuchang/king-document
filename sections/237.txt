@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit config --global http.proxy\ngit config --global https.proxy\u003c/pre\u003e"

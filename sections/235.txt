@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epac 是一個 定義了 函數  \u003cstrong\u003efunction FindProxyForURL(url, host)\u003c/strong\u003e 的 javascript 文件\n由 FindProxyForURL 的返回值 決定 如何 訪問 網絡\u003c/pre\u003e"

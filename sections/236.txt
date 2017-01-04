@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//直接訪問 網絡\nreturn \"DIRECT\"; \n\n//使用 http 代理\nreturn \"PROXY 192.168.1.1:3128\";\nreturn \"PROXY mydemon.com:3128\";\n\n//使用 socket5 代理\nreturn \"SOCKS5 lilinux.net:1080\";\n\n//使用 多個代理(如果前面的代碼無法使用 則連接 後續代理)\nreturn \"DIRECT; PROXY 192.168.1.1:3128; SOCKS5 lilinux.net:1080\";\u003c/pre\u003e"

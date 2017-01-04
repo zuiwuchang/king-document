@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit 命令只是 修改 \u003cstrong\u003e~/.gitconfig 檔案\u003c/strong\u003e 中的 配置 故 亦可直接修改 此檔案\n\u003cpre class='prettyprint linenums'\u003e[user]\n\tname = zuiwuchang\n\temail = zuiwuchang@gmail.com\n[https]\n\tproxy = http://127.0.0.1:1080\n[http]\n\tproxy = http://127.0.0.1:1080\u003c/pre\u003e\u003c/pre\u003e"
