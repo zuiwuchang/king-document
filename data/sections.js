@@ -1860,5 +1860,26 @@ var __v=[
 			"Name": "常用函數",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 271,
+			"Panel": 145,
+			"Name": "sockts5 轉 http",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 272,
+			"Panel": 146,
+			"Name": "apt",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 273,
+			"Panel": 146,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
