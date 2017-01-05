@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tstr := \"多行書寫 只能使用 + 連接\\n\" +\n\t\t\"注意 + 只能跟在上面一行\"\n\tfmt.Println(str)\n\tfmt.Println(`\\無 轉移 字' \"符串 `)\n}\n\u003c/pre\u003e"

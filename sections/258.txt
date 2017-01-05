@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n\t\"strings\"\n)\n\nfunc main() {\n\tstr := \"草234567890\"\n\tbytes := []byte(str)\n\ti := strings.Index(str, \"2\")\n\tfmt.Println(i) //3\n\n\tbytes[i] = 'a'\n\tfmt.Println(str)           //\"草234567890\"\n\tfmt.Println(string(bytes)) //草a34567890\n\n}\u003c/pre\u003e"

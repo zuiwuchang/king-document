@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGo字符串 內部由utf8編碼的 字符切片構成 使用 []byte(s)\nstrings 包的IndexXXX LastIndexXXX 可以計算 字符在切片中的位置(逆向位置)\u003c/pre\u003e"

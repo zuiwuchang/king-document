@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eShadowsocks 的目的 主要是 爲了 突破網路封鎖 在某些 極端環境下 通過 深度包檢查(DPI) 可能會暴露 用戶 身份\n可以在Shadowsocks之後 在加上 tor\n\u003c/pre\u003e"

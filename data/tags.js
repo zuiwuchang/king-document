@@ -116,7 +116,7 @@ var __v=[
 			"Pid": 0,
 			"Name": "代理",
 			"Sort": 4,
-			"Docs": 2
+			"Docs": 3
 		},
 		{
 			"Id": 0,

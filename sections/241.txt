@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eShadowsocks 一個使用 python c++ c# 等開發的 加密傳輸的 開源(Apachev2 部分組件使用 GPLv3/LGPL) socks5 代理 服務器/客戶端\n\u003cstrong\u003e客戶端 可跨多個 平臺\u003c/strong\u003e\n\n官網 \u003ca target=\"_blank\" href=\"https://shadowsocks.org/\"\u003ehttps://shadowsocks.org/\u003c/a\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estrings 包 提供了 常用的 字符串 處理功能\u003c/pre\u003e"

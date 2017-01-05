@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eunicode 包 主要提供了對 unicode字符的 檢查函數\u003c/pre\u003e"

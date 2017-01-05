@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePrivoxy 是一個 c 開發的 開源(GPL) http 代理服務器 亦可用於將 本地 的 socks5 代理 轉爲 http\n\n官網 \u003ca target=\"_blank\" href=\"http://www.privoxy.org/\"\u003ehttp://www.privoxy.org/\u003c/a\u003e\n\u003c/pre\u003e"

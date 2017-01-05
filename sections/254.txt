@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tstr := \"1234567890\"\n\tfor i, char := range []rune(str) {\n\t\t//%U 打印其UNICODE編碼\n\t\tfmt.Printf(\"%-2d\t%U\t'%c'\t%X\\n\",\n\t\t\ti, char, char, []byte(string(char)))\n\n\t}\n\n}\u003c/pre\u003e"

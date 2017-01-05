@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e原作者 Clowwindy 由於 共匪的 威脅 被迫 在 2015年8月22日 宣佈 停止 對 Shadowsocks 的維護 並刪除 github上的 代碼\n之後 github 受到 共匪的 ddos 攻擊 \n\u003c/pre\u003e"

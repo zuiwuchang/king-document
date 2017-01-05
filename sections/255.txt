@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tstr := \"1234567890\"\n\tnew_str := \"\"\n\tfor _, char := range []rune(str) {\n\n\t\tnew_str += string(char)\n\t}\n\tfmt.Println(new_str)\n}\n\u003c/pre\u003e"

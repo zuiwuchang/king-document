@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGO使用的字符集編碼為UTF-8(Go中的一切都是UTF-8 包括源碼文件)\n\u003cstrong\u003e故不能直接使用索引操作單個字符\u003c/strong\u003e(可以先將其轉為UNICODE字符切片再使用索引操作)\n\nUNICODE 的碼點值[0x0,0x10FFFF] Go常量為 [0x0,unicode.MaxRune) Go使用rune(type rune int32)型別表示一個碼點\u003c/pre\u003e"

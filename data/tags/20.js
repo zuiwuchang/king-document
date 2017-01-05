@@ -8,5 +8,10 @@ var __v=[
 			"Id": 19,
 			"Tag": 20,
 			"Name": "Shadowsocks"
+		},
+		{
+			"Id": 20,
+			"Tag": 20,
+			"Name": "Privoxy"
 		}
 	]

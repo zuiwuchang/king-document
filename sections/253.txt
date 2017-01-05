@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 []rune(s) 可以將字符串 轉化為 字符 string(rune) 將字符切片 或字符 轉為字符串\u003c/pre\u003e"

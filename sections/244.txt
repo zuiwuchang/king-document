@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//安裝 python 必要組件\nsudo apt install python-pip\nsudo apt install python-setuptools\n\n//安裝 shadowsocks 的 python 客戶端\nsudo pip install shadowsocks\u003c/pre\u003e"
