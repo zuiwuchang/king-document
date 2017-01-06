@@ -206,8 +206,8 @@ var __v={
 		"132": {
 			"Id": 132,
 			"Chapter": 56,
-			"Name": "git",
-			"Sort": 0
+			"Name": "http https 協議",
+			"Sort": 2
 		},
 		"133": {
 			"Id": 133,
@@ -298,6 +298,18 @@ var __v={
 			"Chapter": 62,
 			"Name": "apt",
 			"Sort": 0
+		},
+		"147": {
+			"Id": 147,
+			"Chapter": 56,
+			"Name": "git",
+			"Sort": 3
+		},
+		"148": {
+			"Id": 148,
+			"Chapter": 56,
+			"Name": "git 協議",
+			"Sort": 1
 		},
 		"15": {
 			"Id": 15,

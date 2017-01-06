@@ -1881,5 +1881,19 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 274,
+			"Panel": 147,
+			"Name": "git",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 275,
+			"Panel": 148,
+			"Name": "git 協議",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

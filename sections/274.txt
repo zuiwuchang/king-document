@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit 目前支持 4種 協議 對於 不同的 協議 需要分別設定\n\u003cstrong\u003egit\u003c/strong\u003e\n\u003cstrong\u003ehttp https\u003c/strong\u003e\n\u003cstrong\u003essh\u003c/strong\u003e\u003c/pre\u003e"
