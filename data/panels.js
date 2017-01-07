@@ -311,16 +311,124 @@ var __v={
 			"Name": "git 協議",
 			"Sort": 1
 		},
+		"149": {
+			"Id": 149,
+			"Chapter": 61,
+			"Name": "regexp",
+			"Sort": 0
+		},
 		"15": {
 			"Id": 15,
 			"Chapter": 5,
 			"Name": "i18n",
 			"Sort": 0
 		},
+		"150": {
+			"Id": 150,
+			"Chapter": 61,
+			"Name": "匹配 Match",
+			"Sort": 0
+		},
+		"151": {
+			"Id": 151,
+			"Chapter": 61,
+			"Name": "截取數據 Find",
+			"Sort": 0
+		},
+		"152": {
+			"Id": 152,
+			"Chapter": 61,
+			"Name": "替換數據 Replace",
+			"Sort": 0
+		},
+		"153": {
+			"Id": 153,
+			"Chapter": 63,
+			"Name": "git",
+			"Sort": 0
+		},
+		"154": {
+			"Id": 154,
+			"Chapter": 65,
+			"Name": "初始化",
+			"Sort": 0
+		},
+		"155": {
+			"Id": 155,
+			"Chapter": 65,
+			"Name": "暫存區",
+			"Sort": 0
+		},
+		"156": {
+			"Id": 156,
+			"Chapter": 65,
+			"Name": "git reset 重置",
+			"Sort": 0
+		},
+		"157": {
+			"Id": 157,
+			"Chapter": 65,
+			"Name": "git checkout 檢出",
+			"Sort": 0
+		},
+		"158": {
+			"Id": 158,
+			"Chapter": 65,
+			"Name": "git stash 進度",
+			"Sort": 0
+		},
+		"159": {
+			"Id": 159,
+			"Chapter": 64,
+			"Name": "協作",
+			"Sort": 0
+		},
 		"16": {
 			"Id": 16,
 			"Chapter": 5,
 			"Name": "使用的語言環境",
+			"Sort": 0
+		},
+		"160": {
+			"Id": 160,
+			"Chapter": 64,
+			"Name": "非快進式 推送",
+			"Sort": 0
+		},
+		"161": {
+			"Id": 161,
+			"Chapter": 64,
+			"Name": "合併 衝突",
+			"Sort": 0
+		},
+		"162": {
+			"Id": 162,
+			"Chapter": 64,
+			"Name": "git tag",
+			"Sort": 0
+		},
+		"163": {
+			"Id": 163,
+			"Chapter": 64,
+			"Name": "git branch",
+			"Sort": 0
+		},
+		"164": {
+			"Id": 164,
+			"Chapter": 66,
+			"Name": "svn",
+			"Sort": 0
+		},
+		"165": {
+			"Id": 165,
+			"Chapter": 66,
+			"Name": "client 命令",
+			"Sort": 0
+		},
+		"166": {
+			"Id": 166,
+			"Chapter": 66,
+			"Name": "RabbitVCS",
 			"Sort": 0
 		},
 		"17": {

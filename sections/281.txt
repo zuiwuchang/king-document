@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//替換 字符串 可以使用 ecma-262  語法\nfunc (re *Regexp) ReplaceAllString(src, repl string) string\nfunc (re *Regexp) ReplaceAllStringFunc(src string, repl func(string) string) string\u003c/pre\u003e"

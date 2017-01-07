@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit 使用 git push  將本地 版本 提交到遠程\n\n默認情況下 git 只 運行 \n快進式(遠程 分支 最新 提交 必須是本地 最新提交的 祖先提交) 推送\n以避免 多用戶 互相 覆蓋\n\ngit push -f 可以強制 推送\n\t\u003cstrong\u003e應該盡量避免使用 -f 這會覆蓋 他/她 人的推送\u003c/strong\u003e\n\u003c/pre\u003e"

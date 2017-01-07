@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一般不要使用 輕量 tag 其不會記錄 tag的 創建信息\n\ntag 不會 主動 push到 遠程\npull 會主動將 不存在的 tag 同步 回來 但 不會 改變 已經存在的 不同 tag\n\n在 修改 遠程 共享的 tag 時應該慎重 盡量不要改變\n\u003c/pre\u003e"

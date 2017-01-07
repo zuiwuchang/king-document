@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eregexp 包 實現了 Russ Cox的RE2 正則表達式\n詳細語法見 \u003ca target=\"_blank\" href=\"https://code.google.com/p/re2/wiki/Syntax\"\u003ehttps://code.google.com/p/re2/wiki/Syntax\u003c/a\u003e\u003c/pre\u003e"

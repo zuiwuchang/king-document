@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當 多個版本 將 同名文件 改名為不同時(git mv) 出現此 衝突\n\n暫存區 會保留 原名 當前版本名 合併版本名\n使用 \ngit rm\ngit rm\n刪除 暫存區中 不需要的名稱後 提交 即可\ngit commit \n\u003c/pre\u003e\n"

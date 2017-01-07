@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit 是一個開源(GNU General Public License) 快速 高效 靈活的 分佈式 版本控制 軟體\n\ngit由 linus(linux 之父) 創作\n\n官網 \u003ca target=\"_blank\" href=\"https://git-scm.com/\"\u003ehttps://git-scm.com/\u003c/a\u003e\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將 HEAD 指向 指定分支\ngit checkout branch\n\n//匯總 暫存區 工作區 與 HEAD 的差別\ngit checkout\ngit checkout HEAD\n\n//用暫存區的 filename 替換 工作區的 filename\ngit checkout -- filename\n\n//維持 HEAD 不變 用 branch 的 filename 替換 暫存區 工作區 的 filename\ngit checkout branch -- filename\n\n\n//用 暫存區的 所有文件 替換 工作區\ngit checkout .\n\u003c/pre\u003e"

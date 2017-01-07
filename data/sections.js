@@ -1895,5 +1895,201 @@ var __v=[
 			"Name": "git 協議",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 276,
+			"Panel": 149,
+			"Name": "regexp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 277,
+			"Panel": 150,
+			"Name": "Match",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 278,
+			"Panel": 150,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 279,
+			"Panel": 151,
+			"Name": "Find",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 280,
+			"Panel": 151,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 281,
+			"Panel": 152,
+			"Name": "Replace",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 282,
+			"Panel": 152,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 283,
+			"Panel": 153,
+			"Name": "git",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 284,
+			"Panel": 154,
+			"Name": "命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 285,
+			"Panel": 154,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 286,
+			"Panel": 155,
+			"Name": "命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 287,
+			"Panel": 156,
+			"Name": "git reset",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 288,
+			"Panel": 157,
+			"Name": "git checkout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 289,
+			"Panel": 158,
+			"Name": "git stash",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 290,
+			"Panel": 159,
+			"Name": "協作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 291,
+			"Panel": 159,
+			"Name": "智能協議",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 292,
+			"Panel": 160,
+			"Name": "非快進式 推送",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 293,
+			"Panel": 160,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 294,
+			"Panel": 161,
+			"Name": "git merge",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 295,
+			"Panel": 161,
+			"Name": "文本衝突",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 296,
+			"Panel": 161,
+			"Name": "樹衝突",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 297,
+			"Panel": 162,
+			"Name": "git tag",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 298,
+			"Panel": 162,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 299,
+			"Panel": 163,
+			"Name": "git branch",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 300,
+			"Panel": 164,
+			"Name": "svn",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 301,
+			"Panel": 165,
+			"Name": "命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 302,
+			"Panel": 166,
+			"Name": "RabbitVCS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 303,
+			"Panel": 166,
+			"Name": "Ubuntu 下 安裝",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
