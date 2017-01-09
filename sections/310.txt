@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"fmt\"\n\t\"time\"\n)\n\nfunc main() {\n\n\tt := time.Now()\n\tfmt.Println(t)\n\ttime.Sleep(time.Second * 1)\n\tt = time.Now()\n\tfmt.Println(t)\n\n\tt = t.Add(time.Hour * 24)\n\tfmt.Println(t)\n\n}\u003c/pre\u003e"

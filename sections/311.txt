@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etime.Timer 是一個定時器 \n其在 當前中goroutine中 延遲一定時間 執行一個 function\n\u003c/pre\u003e"

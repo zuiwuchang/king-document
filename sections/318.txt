@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enet/rpc/jsonrpc  提供了 以 json 編碼的 rpc\n\n请求格式\n{\"method\":\"MyNumber.Add\",\"params\":[{\"First\":1,\"Second\":2}],\"id\":0}\n\n响应格式\n{\"id\":0,\"result\":{\"First\":3,\"Second\":-1,\"C\":[]},\"error\":null}\n\u003c/pre\u003e"

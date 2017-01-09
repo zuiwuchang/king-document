@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//使當前 goroutine 睡眠一段時間\nfunc Sleep(d Duration)\n\u003c/pre\u003e"

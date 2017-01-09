@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\t...\n\t//使用 tcp http 連接 到 rpc服務器\n\tclient, e := jsonrpc.Dial(\"tcp\", \"127.0.0.1:9090\")\n\t...\u003c/pre\u003e"

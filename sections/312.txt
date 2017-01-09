@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建計時器\nfunc AfterFunc(d Duration, f func()) *Timer\nfunc NewTimer(d Duration) *Timer\n\n//復位計時器\nfunc (t *Timer) Reset(d Duration) bool\n\n//停止計時器\nfunc (t *Timer) Stop() bool\n\u003c/pre\u003e"

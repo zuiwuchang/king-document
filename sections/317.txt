@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003erpc 使用默認的 gob 編碼 若其它語言 需要使用 必須指定 其它的 編碼\n\u003c/pre\u003e"

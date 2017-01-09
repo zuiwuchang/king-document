@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etime 包 提供了時間 處理的常用 函數\ntime包 對於時間的概念 類似c++ boost date_time 庫 時間點 時間段的 概念\n(參見 c++ boost date_time)\n可用 時間點 +- 時間段 兩時間點相減 得時間段\u003c/pre\u003e"

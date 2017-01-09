@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e時間點 用於表示 某個時刻 (如 2014-11-02 17:19:19.0760086 +0800 CST)\n使用 type Time struct 表示\u003c/pre\u003e\n"

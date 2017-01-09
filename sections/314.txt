@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enet/rpc 包 提供了 rpc 功能\n\n對於rpc函數 go要求是 如下簽名\n\tfunc (t *T)MethodName(args T1,reply *T2)error\n\tT為導出對象 T1 T2 為任意Go 型別\n\u003c/pre\u003e"
