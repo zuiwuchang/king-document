@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"html/template\"\n\t\"os\"\n)\n\ntype Person struct {\n\tUserName string\n}\n\nfunc main() {\n\tt := template.New(\"fieldname example\")\n\tt, _ = t.Parse(\"hello {{.UserName}}!\")\n\tp := Person{UserName: \"Astaxie\"}\n\tt.Execute(os.Stdout, p)\n}\u003c/pre\u003e"

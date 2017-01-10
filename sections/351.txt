@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGo 使用 \u003cstrong\u003e{{}}\u003c/strong\u003e 表示要替換的 字段\n\u003cstrong\u003e{{.}}\u003c/strong\u003e 表示當前對象\n\u003cstrong\u003e{{.Name}}\u003c/strong\u003e 訪問對象 導出 屬性\n\u003c/pre\u003e"

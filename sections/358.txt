@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"os\"\n\t\"text/template\"\n)\n\nfunc main() {\n\tt := template.New(\"pipelines\")\n\tt = template.Must(t.Parse(\"{{. |  html}}\"))\n\tt.Execute(os.Stdout, \"\u0026lt;script\u0026gt;\u0026lt;/script\u0026gt;\")\n}\n\u003c/pre\u003e"

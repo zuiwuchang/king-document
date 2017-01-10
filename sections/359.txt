@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可以 在 \u003cstrong\u003e{{width}} {{if}}\u003c/strong\u003e 中 定義局部變量\n\t{{with $x := \"output\" | printf \"%q\"}}{{$x}}{{end}}\n\t{{with $x := \"output\"}}{{printf \"%q\" $x}}{{end}}\n\t{{with $x := \"output\"}}{{$x | printf \"%q\"}}{{end}}\n\u003c/pre\u003e"

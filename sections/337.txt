@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e操作基本同 zip 只是 創建tar時 必須寫入完整的 header 信息 \n且數據都寫入了同一個 Writer\n\u003c/pre\u003e"

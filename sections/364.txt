@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//聲明 子模板\n{{define \"子模板名称\"}}内容{{end}}\n\n//調用子模板\n{{template \"子模板名称\"}}\n\u003c/pre\u003e"

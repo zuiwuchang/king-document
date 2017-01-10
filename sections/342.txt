@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage main\n\nimport (\n\t\"crypto/sha512\"\n\t\"encoding/hex\"\n\t\"fmt\"\n)\n\nfunc main() {\n\tsha := sha512.New()\n\tsha.Write([]byte(\"any byte\"))\n\tfmt.Println(hex.EncodeToString(sha.Sum(nil)))\n\n\tsha.Reset()\n\tsha.Write([]byte(\"new hash\"))\n\tfmt.Println(hex.EncodeToString(sha.Sum(nil)))\n\n}\u003c/pre\u003e"

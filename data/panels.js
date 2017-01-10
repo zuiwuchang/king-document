@@ -479,16 +479,136 @@ var __v={
 			"Name": "File",
 			"Sort": 0
 		},
+		"174": {
+			"Id": 174,
+			"Chapter": 69,
+			"Name": "encoding/xml",
+			"Sort": 0
+		},
+		"175": {
+			"Id": 175,
+			"Chapter": 69,
+			"Name": "encoding/json",
+			"Sort": 0
+		},
+		"176": {
+			"Id": 176,
+			"Chapter": 69,
+			"Name": "encoding/gob",
+			"Sort": 0
+		},
+		"177": {
+			"Id": 177,
+			"Chapter": 69,
+			"Name": "archive/zip",
+			"Sort": 0
+		},
+		"178": {
+			"Id": 178,
+			"Chapter": 69,
+			"Name": "archive/tar",
+			"Sort": 0
+		},
+		"179": {
+			"Id": 179,
+			"Chapter": 70,
+			"Name": "crypto",
+			"Sort": 0
+		},
 		"18": {
 			"Id": 18,
 			"Chapter": 6,
 			"Name": "if",
 			"Sort": 0
 		},
+		"180": {
+			"Id": 180,
+			"Chapter": 70,
+			"Name": "摘要算法",
+			"Sort": 0
+		},
+		"181": {
+			"Id": 181,
+			"Chapter": 70,
+			"Name": "對稱加密",
+			"Sort": 0
+		},
+		"182": {
+			"Id": 182,
+			"Chapter": 70,
+			"Name": "非對稱加密",
+			"Sort": 0
+		},
+		"183": {
+			"Id": 183,
+			"Chapter": 71,
+			"Name": "log",
+			"Sort": 0
+		},
+		"184": {
+			"Id": 184,
+			"Chapter": 72,
+			"Name": "reflect",
+			"Sort": 0
+		},
+		"185": {
+			"Id": 185,
+			"Chapter": 73,
+			"Name": "template",
+			"Sort": 0
+		},
+		"186": {
+			"Id": 186,
+			"Chapter": 73,
+			"Name": "字段操作",
+			"Sort": 0
+		},
+		"187": {
+			"Id": 187,
+			"Chapter": 73,
+			"Name": "slice struct",
+			"Sort": 0
+		},
+		"188": {
+			"Id": 188,
+			"Chapter": 73,
+			"Name": "if",
+			"Sort": 0
+		},
+		"189": {
+			"Id": 189,
+			"Chapter": 73,
+			"Name": "pipelines",
+			"Sort": 0
+		},
 		"19": {
 			"Id": 19,
 			"Chapter": 6,
 			"Name": "for",
+			"Sort": 0
+		},
+		"190": {
+			"Id": 190,
+			"Chapter": 73,
+			"Name": "模板變量",
+			"Sort": 0
+		},
+		"191": {
+			"Id": 191,
+			"Chapter": 73,
+			"Name": "模板函數",
+			"Sort": 0
+		},
+		"192": {
+			"Id": 192,
+			"Chapter": 73,
+			"Name": "Must",
+			"Sort": 0
+		},
+		"193": {
+			"Id": 193,
+			"Chapter": 73,
+			"Name": "模板 嵌套",
 			"Sort": 0
 		},
 		"2": {

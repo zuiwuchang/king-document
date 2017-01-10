@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eReader 只能 遍歷 tar 檔案 無法 只讀取 其中某個檔案\n\u003c/pre\u003e"

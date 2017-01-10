@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eencoding/json 包提供了對 json解析 的功能 用法 同 encoding/xml\n\u003c/pre\u003e"

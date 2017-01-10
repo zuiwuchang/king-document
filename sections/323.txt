@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eos.File 實現了 io.Writer io.Reader 故 亦可使用 fmt 的 進行讀寫\n\u003c/pre\u003e"

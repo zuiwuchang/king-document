@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//打開一個zip包\nfunc OpenReader(name string) (*ReadCloser, error)\n//保存了所有 打包文件 包括子目錄[]zip.File\n[]ReadCloser.Reader.File\n\n//打開zip中一個 對應文件\nfunc (f *File) Open() (rc io.ReadCloser, err error)\n\u003c/pre\u003e"

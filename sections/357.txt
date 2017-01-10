@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cstrong\u003e{{}}\u003c/strong\u003e 中 可以使用 類似 linux 中 \u003cstrong\u003e|\u003c/strong\u003e 管道數據 流通 \n\u003c/pre\u003e"

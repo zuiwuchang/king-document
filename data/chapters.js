@@ -291,13 +291,13 @@ var __v={
 			"Id": 53,
 			"Doc": 17,
 			"Name": "sql",
-			"Sort": 0
+			"Sort": 7
 		},
 		"54": {
 			"Id": 54,
 			"Doc": 17,
 			"Name": "net",
-			"Sort": 1
+			"Sort": 8
 		},
 		"55": {
 			"Id": 55,
@@ -339,13 +339,13 @@ var __v={
 			"Id": 60,
 			"Doc": 17,
 			"Name": "字符串",
-			"Sort": 3
+			"Sort": 0
 		},
 		"61": {
 			"Id": 61,
 			"Doc": 17,
 			"Name": "regexp",
-			"Sort": 4
+			"Sort": 1
 		},
 		"62": {
 			"Id": 62,
@@ -381,25 +381,49 @@ var __v={
 			"Id": 67,
 			"Doc": 17,
 			"Name": "time",
-			"Sort": 5
+			"Sort": 3
 		},
 		"68": {
 			"Id": 68,
 			"Doc": 17,
 			"Name": "net/rpc",
-			"Sort": 2
+			"Sort": 9
 		},
 		"69": {
 			"Id": 69,
 			"Doc": 17,
 			"Name": "檔案操作",
-			"Sort": 6
+			"Sort": 5
 		},
 		"7": {
 			"Id": 7,
 			"Doc": 3,
 			"Name": "簡介",
 			"Sort": 0
+		},
+		"70": {
+			"Id": 70,
+			"Doc": 17,
+			"Name": "加密解密",
+			"Sort": 6
+		},
+		"71": {
+			"Id": 71,
+			"Doc": 17,
+			"Name": "log",
+			"Sort": 2
+		},
+		"72": {
+			"Id": 72,
+			"Doc": 17,
+			"Name": "反射",
+			"Sort": 4
+		},
+		"73": {
+			"Id": 73,
+			"Doc": 17,
+			"Name": "html/template",
+			"Sort": 10
 		},
 		"8": {
 			"Id": 8,

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003earchive/tar 包提供了 讀寫 tar 檔案的能力\n配合 compress/gzip compress/bzip2 可以 操作 tar.gz 和 tar.bz2\n\u003c/pre\u003e"

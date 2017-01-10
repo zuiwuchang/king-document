@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elog 是一個 日誌包 實現了簡單的 日誌功能（線程安全）\n可以將日誌 輸出到 任意 io.Writer\n\n即可以 直接調用 log包中 的 函數\n亦可 先實例化一個 type Logger struct 調用其接口\n\u003c/pre\u003e"

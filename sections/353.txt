@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於 slice 可以使用 \u003cstrong\u003e{{range}} {{end}}\u003c/strong\u003e操作\n對於 struct 可以使用 \u003cstrong\u003e{{with}} {{end}}\u003c/strong\u003e 操作\n\u003c/pre\u003e"

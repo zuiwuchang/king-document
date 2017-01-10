@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ereflect 反射包 提供了 運行時 檢測數據型別的 能力\n\n//返回 type value\nfunc TypeOf(i interface{}) Type\nfunc ValueOf(i interface{}) Value\n\n//動態創建指針\nfunc New(typ Type) Value\n\u003c/pre\u003e"

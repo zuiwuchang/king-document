@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epipelines 可以過濾數據 這些過濾函數 是template 定義的 \n亦可自行定義之後 使用 type FuncMap map[string]interface{} 註冊即可\n\u003c/pre\u003e"
