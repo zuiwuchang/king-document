@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003esudo apt install proxychains\u003c/li\u003e\n\t\u003cli\u003esudo vi /etc/proxychains.conf\n\u003cpre class='prettyprint linenums'\u003e[ProxyList]\n# add proxy here ...\n# meanwile\n# defaults set to \"tor\"\n#socks4         127.0.0.1 9050\nsocks5  127.0.0.1 1080\n\u003c/pre\u003e\u003c/li\u003e\n\n\u003c/ol\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n只需要在 原命令前加上 proxychains 即可\n\u003cpre class='prettyprint linenums'\u003eproxychains git clone git@github.com:zuiwuchang/king-document.git\u003c/pre\u003e\u003c/pre\u003e"

@@ -2518,5 +2518,33 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 366,
+			"Panel": 194,
+			"Name": "proxychains",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 367,
+			"Panel": 195,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 368,
+			"Panel": 196,
+			"Name": "使用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 369,
+			"Panel": 194,
+			"Name": "原理",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

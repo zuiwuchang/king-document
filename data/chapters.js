@@ -425,6 +425,12 @@ var __v={
 			"Name": "html/template",
 			"Sort": 10
 		},
+		"74": {
+			"Id": 74,
+			"Doc": 23,
+			"Name": "簡介",
+			"Sort": 0
+		},
 		"8": {
 			"Id": 8,
 			"Doc": 3,

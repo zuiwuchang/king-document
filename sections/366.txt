@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nproxychains 是命令行一個 透明代理 工具 可以爲不支持 代理的 軟體 提供 代理功能\n\u003c/pre\u003e"

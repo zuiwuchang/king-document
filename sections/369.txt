@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nproxychains 對 socket 進行了 hook 從而達到 透明代理的 功能 \n\u003c/pre\u003e"
