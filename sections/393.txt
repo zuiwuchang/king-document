@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//路徑 是以Mir200\\Envir\\QuestDiary 為當前路徑\n#Call [路徑] 段名\n\n被調用的 段 必須使用 {} 擴起來\u003c/pre\u003e"

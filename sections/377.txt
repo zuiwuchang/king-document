@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 /etc/rc.d/rc.loacl 中 增加啟動項即可 \n若需要sudo到其他用戶 需要設置sudo可以在tty中使用\n\u003c/pre\u003e"

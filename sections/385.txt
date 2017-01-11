@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e編輯 Mir200\\Envir\\AdminList.txt 增加GM 角色名 如：\n\u003cstrong\u003e*   king\u003c/strong\u003e\n\n或者 運行 M2Server.exe\n菜單 -\u0026gt; 查看-\u0026gt; 列表信息1 -\u0026gt; 管理員列表\n新增 權限為10 的角色名\u003c/pre\u003e"

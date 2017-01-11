@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eBuffer 是一個 []byte 輸入輸出 流\u003c/pre\u003e\n"

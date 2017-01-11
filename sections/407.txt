@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//召喚 小狗\nReCallMob 狗名 [等級(最高7)] [叛變時間(分鐘)] [0/1(是否自動變色)] [固定顏色([1,7])]\n\n\n//檢查 小狗 數量\nChecksLaveCount \u0026lt;=\u0026gt; n\n\n//殺死 全部 小狗\nKillsLave\n\n//殺死 指定 小狗\nKillsLave 狗名\n\u003c/pre\u003e"

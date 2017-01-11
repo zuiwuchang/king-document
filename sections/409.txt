@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e編輯 MirServer\\Mir200\\Envir\\MonGen.txt\n\u003cpre class='prettyprint linenums'\u003e;地图代码\t坐标X\t坐标Y\t怪物名称\t\t移动范围\t数量\t刷新时间(單位分鐘)\t是否内功怪\t怪物颜色\n;0\t\t334\t266\t鸡\t\t10\t1\t5\n3\t\t300\t300\t骷髅\t\t10\t15\t20\u003c/pre\u003e\u003c/pre\u003e"

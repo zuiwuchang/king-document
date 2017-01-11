@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e#IF\n\tCheckJob warrior\n#SAY\n\t战士\n#ACT\nBREAK\n\n#IF\n\tCheckJob wizard\n#SAY\n\t法师\n#ACT\nBREAK\n\n#IF\n\tCheckJob taoist\n#SAY\n\t道士\n#ACT\nBREAK\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//檢測/轉變 職業\nCheckJob\twarrior/wizard/taoist\nChangeJob\twarrior/wizard/taoist\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//移動到指定 地圖 坐標\n\u003cpre class='prettyprint linenums'\u003e@PositionMove\tmap_id\tx\ty\u003c/pre\u003e\u003c/pre\u003e"

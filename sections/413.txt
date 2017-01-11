@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e永久被封 數據 被記錄在 Mir200\\Envir 下的\nDenyIPAddrList.txt\nDenyAccountList.txt\nDenyChrNameList.txt\n中\n\n重新加載 數據列表 可使用之生效 或者使用 gm命令 \n然 gm 命令似乎有bug 當重新加載 數據列表 \n之後再使用 gm命令 新加封鎖 數據 會將之前數據全部 清空\u003c/pre\u003e"

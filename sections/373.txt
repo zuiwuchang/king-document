@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e網頁 不能直接存放在 webapps 目錄下 \n必須在 webapps 目錄下 至少創建一個文件夾 將代碼放在文件夾中\n\u003c/pre\u003e"

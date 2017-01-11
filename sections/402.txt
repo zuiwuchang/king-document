@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//檢測元寶\nCheckGameGold \u0026lt;/\u0026gt;/= n\n\n//提升/降低/設置 元寶\nGameGold +/-/= n\n\u003c/pre\u003e"

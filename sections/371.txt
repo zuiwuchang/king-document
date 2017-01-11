@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從官網 下載最新版本 並解壓\u003c/li\u003e\n\t\u003cli\u003e安裝java運行環境\u003c/li\u003e\n\t\u003cli\u003e設置環境變量 JRE_HOME\u003c/li\u003e\n\t\u003cli\u003e運行 Tomcat 目錄下 startup.bat/startup.sh 啟動服務 shutdown.bat/shutdown.sh 關閉服務\u003c/li\u003e\n\u003c/ol\u003e"

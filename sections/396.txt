@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 類似 彙編的方式 操作(自定義變量 也可這樣 操作)\n//l = r\nMOV l r\n\n//l -= r\nDEC l r\n\n//l += r\nINC l r\nSUM l r\n\n//v = l / r\nDIV v l r\n\n//v = l * r\nMUL v l r\n\n//v = l / r * 100\nPERCENT v l r\n\n\n\n//判斷 l\u0026lt;r 是否為真\nSMALL l r\n\n//判斷 l\u0026gt;r 是否為真\nLARGE l r\n\n//判斷 字符串 是否相等(對於字符串 比較 不區分大小寫)\nEQUAL 變量 字符串\u003c/pre\u003e"

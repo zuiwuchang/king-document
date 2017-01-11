@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//在指定 地圖 位置 製造 指定時間段(單位：秒) 噴泉\nFounTain [map] [x] [y] [time]\n\n//在指定 地圖 位置 製造 指定效果 指定時間段(單位：秒) 的特效\nGmExecute Mobfireburn  [map] [x] [y] [effect] [time] 0\n\u003c/pre\u003e"

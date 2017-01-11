@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eeasydarwin 是一個開源的(APPLE PUBLIC SOURCE LICENSE Version 2.0 ) 流媒體 平台 框架\n\nEasyDarwin 提供了 RTSP/HLS/HTTP 協議的支持\n提供了 點播(Mp4) 直播(H264/MJPEG/MPEG4、AAC/PCMA/PCMU/G726) \n\n官網 \u003ca href=\"http://www.easydarwin.org/\" target=\"_blank\"\u003ehttp://www.easydarwin.org/\u003c/a\u003e\u003c/pre\u003e"

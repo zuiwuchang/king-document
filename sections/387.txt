@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e編輯\nMirServer/DBServer/!serverinfo.txt\n\nMirServer/Config.ini\n\t[RunGate]\n\tCount=n\n\n確保此兩文件 設置的 網關數量 端口 一致\n\n\n編輯\nMirServer/SelGate/Config.ini\n將\n\tKeepConnectTimeOut=60000\n改為\n\tKeepConnectTimeOut=120000\u003c/pre\u003e"

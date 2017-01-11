@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//在角色 正對面 增加一個 npc\n@MobNpc mpc顯示名稱 執行腳本名(此參數不包括 -地圖.txt) npc外形\n\n//刪除 角色 正對面的 npc\n@DelNpc\u003c/pre\u003e"

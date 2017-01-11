@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//穿裝備\nTakeOnItem 裝備名 位置\n\n//取下裝備\nTakeOffItem 裝備名 位置\nTakeOffItem not 位置 (不限制名稱)\n\u003c/pre\u003e"

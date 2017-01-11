@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eEQUAL 操作 的右值 不能是 變量\n\nSMALL LARGE 如果 右值 為 變量 其可能存在 bug \n(會將 值作為字符串比較 即使 是 數字)\u003c/pre\u003e"

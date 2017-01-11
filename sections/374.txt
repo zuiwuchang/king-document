@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e修改 tomcat下 conf/tomcat-users.xml 設置web管理\n\nmanager-gui\t\t- allows access to the HTML GUI and the status pages\nmanager-script\t- allows access to the text interface and the status pages\nmanager-jmx\t\t- allows access to the JMX proxy and the status pages\nmanager-status\t- allows access to the status pages only\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003econtainer/list 包中 提供了一個雙向 鍊錶 List\u003c/pre\u003e"

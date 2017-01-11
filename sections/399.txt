@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//隨機產生 判斷結果 為真的機會為 1/n\nRandom n\n\n//如果 自己在 指定地圖 坐標 範圍(0 指定點)內 返回 真 \nCheckInMapRange [map] [x] [y] [range]\u003c/pre\u003e"

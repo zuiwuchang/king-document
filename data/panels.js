@@ -629,6 +629,24 @@ var __v={
 			"Name": "使用",
 			"Sort": 0
 		},
+		"197": {
+			"Id": 197,
+			"Chapter": 75,
+			"Name": "Tomcat",
+			"Sort": 0
+		},
+		"198": {
+			"Id": 198,
+			"Chapter": 75,
+			"Name": "安裝",
+			"Sort": 0
+		},
+		"199": {
+			"Id": 199,
+			"Chapter": 75,
+			"Name": "配置網頁",
+			"Sort": 0
+		},
 		"2": {
 			"Id": 2,
 			"Chapter": 1,
@@ -641,16 +659,190 @@ var __v={
 			"Name": "go-xorm",
 			"Sort": 0
 		},
+		"200": {
+			"Id": 200,
+			"Chapter": 75,
+			"Name": "安全配置",
+			"Sort": 0
+		},
+		"201": {
+			"Id": 201,
+			"Chapter": 75,
+			"Name": "linux隨系統啟動",
+			"Sort": 0
+		},
+		"202": {
+			"Id": 202,
+			"Chapter": 75,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"203": {
+			"Id": 203,
+			"Chapter": 76,
+			"Name": "Siege",
+			"Sort": 0
+		},
+		"204": {
+			"Id": 204,
+			"Chapter": 77,
+			"Name": "easydarwin",
+			"Sort": 0
+		},
+		"205": {
+			"Id": 205,
+			"Chapter": 77,
+			"Name": "點播",
+			"Sort": 0
+		},
+		"206": {
+			"Id": 206,
+			"Chapter": 78,
+			"Name": "新增GM",
+			"Sort": 0
+		},
+		"207": {
+			"Id": 207,
+			"Chapter": 78,
+			"Name": "小退再進黑屏",
+			"Sort": 0
+		},
+		"208": {
+			"Id": 208,
+			"Chapter": 79,
+			"Name": "全服脚本",
+			"Sort": 0
+		},
+		"209": {
+			"Id": 209,
+			"Chapter": 79,
+			"Name": "移動",
+			"Sort": 0
+		},
 		"21": {
 			"Id": 21,
 			"Chapter": 8,
 			"Name": "創建 xorm 引擎",
 			"Sort": 0
 		},
+		"210": {
+			"Id": 210,
+			"Chapter": 79,
+			"Name": "重新加載",
+			"Sort": 0
+		},
+		"211": {
+			"Id": 211,
+			"Chapter": 79,
+			"Name": "動態增刪npc",
+			"Sort": 0
+		},
+		"212": {
+			"Id": 212,
+			"Chapter": 80,
+			"Name": "代碼段",
+			"Sort": 0
+		},
+		"213": {
+			"Id": 213,
+			"Chapter": 80,
+			"Name": "系統變量",
+			"Sort": 0
+		},
+		"214": {
+			"Id": 214,
+			"Chapter": 80,
+			"Name": "條件 判斷",
+			"Sort": 0
+		},
+		"215": {
+			"Id": 215,
+			"Chapter": 80,
+			"Name": "等級 相關",
+			"Sort": 0
+		},
+		"216": {
+			"Id": 216,
+			"Chapter": 80,
+			"Name": "貨幣 相關",
+			"Sort": 0
+		},
+		"217": {
+			"Id": 217,
+			"Chapter": 80,
+			"Name": "職業 相關",
+			"Sort": 0
+		},
+		"218": {
+			"Id": 218,
+			"Chapter": 80,
+			"Name": "裝備 相關",
+			"Sort": 0
+		},
+		"219": {
+			"Id": 219,
+			"Chapter": 80,
+			"Name": "寵物相關 相關",
+			"Sort": 0
+		},
 		"22": {
 			"Id": 22,
 			"Chapter": 8,
 			"Name": "Session 注意",
+			"Sort": 0
+		},
+		"220": {
+			"Id": 220,
+			"Chapter": 80,
+			"Name": "特效 相關",
+			"Sort": 0
+		},
+		"221": {
+			"Id": 221,
+			"Chapter": 81,
+			"Name": "增加怪物",
+			"Sort": 0
+		},
+		"222": {
+			"Id": 222,
+			"Chapter": 82,
+			"Name": "自動解包",
+			"Sort": 0
+		},
+		"223": {
+			"Id": 223,
+			"Chapter": 83,
+			"Name": "沙巴克",
+			"Sort": 0
+		},
+		"224": {
+			"Id": 224,
+			"Chapter": 84,
+			"Name": "封號",
+			"Sort": 0
+		},
+		"225": {
+			"Id": 225,
+			"Chapter": 85,
+			"Name": "bytes",
+			"Sort": 0
+		},
+		"226": {
+			"Id": 226,
+			"Chapter": 85,
+			"Name": "Buffer",
+			"Sort": 0
+		},
+		"227": {
+			"Id": 227,
+			"Chapter": 86,
+			"Name": "container/list",
+			"Sort": 0
+		},
+		"228": {
+			"Id": 228,
+			"Chapter": 86,
+			"Name": "container/ring",
 			"Sort": 0
 		},
 		"23": {

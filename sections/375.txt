@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\u0026lt;!--增加一個 管理員帳號--\u0026gt;\n\u0026lt;role rolename=\"manager-gui\"/\u0026gt;\n\u0026lt;user username=\"Cerberus\" password=\"***\" roles=\"manager-gui\"/\u0026gt;\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e舊版本tomcat 存在默認帳號 tomcat tomcat \n若使用舊版本 應該至少修改此密碼(似乎是6.0以及以前版本)\n\u003c/pre\u003e"

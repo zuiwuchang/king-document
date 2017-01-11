@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eTomcat 是Apache下 Jakarta項目開發的一個 開源 跨平台 的Servlet容器 \n其實現了對Servlet 和 JavaServer Page(JSP)的支持\n\nTomcat包含了一個http服務器 故亦被視為Web服務器\n其和  apache web server 是各自單獨的組件\n\n官網 \u003ca href=\"http://tomcat.apache.org/\" target=\"_blank\"\u003ehttp://tomcat.apache.org/\u003c/a\u003e\u003c/pre\u003e"
