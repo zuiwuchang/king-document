@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eencoding/binary 包 提供了 將 struct 和 二進制 數據轉換的操作\n同時 提供了 大(net)小(x86)端序列轉換\u003c/pre\u003e"

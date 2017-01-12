@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eflag 包 提供了 對命令行 參數 進行解析 的 功能\n\n\nflag 支持 下面 三種 參數 格式\n-flag\n-flag=x\n-flag x  // non-boolean flags only(不能是 bool)\n\t\u003cstrong\u003ebool 取值\n\t1, 0, t, f, T, F, true, false, TRUE, FALSE, True, False\u003c/strong\u003e\n\u003c/pre\u003e"

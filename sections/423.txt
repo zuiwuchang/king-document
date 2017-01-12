@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWrite 傳入的結構 其成員 內存必須是 明確的(不能是 slice map ...)\u003c/pre\u003e"

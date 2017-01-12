@@ -291,13 +291,13 @@ var __v={
 			"Id": 53,
 			"Doc": 17,
 			"Name": "sql",
-			"Sort": 9
+			"Sort": 10
 		},
 		"54": {
 			"Id": 54,
 			"Doc": 17,
 			"Name": "net",
-			"Sort": 10
+			"Sort": 11
 		},
 		"55": {
 			"Id": 55,
@@ -381,19 +381,19 @@ var __v={
 			"Id": 67,
 			"Doc": 17,
 			"Name": "time",
-			"Sort": 4
+			"Sort": 5
 		},
 		"68": {
 			"Id": 68,
 			"Doc": 17,
 			"Name": "net/rpc",
-			"Sort": 11
+			"Sort": 13
 		},
 		"69": {
 			"Id": 69,
 			"Doc": 17,
 			"Name": "檔案操作",
-			"Sort": 7
+			"Sort": 8
 		},
 		"7": {
 			"Id": 7,
@@ -405,25 +405,25 @@ var __v={
 			"Id": 70,
 			"Doc": 17,
 			"Name": "加密解密",
-			"Sort": 8
+			"Sort": 9
 		},
 		"71": {
 			"Id": 71,
 			"Doc": 17,
 			"Name": "log",
-			"Sort": 3
+			"Sort": 4
 		},
 		"72": {
 			"Id": 72,
 			"Doc": 17,
 			"Name": "反射",
-			"Sort": 5
+			"Sort": 6
 		},
 		"73": {
 			"Id": 73,
 			"Doc": 17,
 			"Name": "html/template",
-			"Sort": 12
+			"Sort": 14
 		},
 		"74": {
 			"Id": 74,
@@ -501,13 +501,25 @@ var __v={
 			"Id": 85,
 			"Doc": 17,
 			"Name": "bytes",
-			"Sort": 2
+			"Sort": 3
 		},
 		"86": {
 			"Id": 86,
 			"Doc": 17,
 			"Name": "container 容器",
-			"Sort": 6
+			"Sort": 7
+		},
+		"87": {
+			"Id": 87,
+			"Doc": 17,
+			"Name": "encoding/binary",
+			"Sort": 12
+		},
+		"88": {
+			"Id": 88,
+			"Doc": 17,
+			"Name": "flag",
+			"Sort": 2
 		},
 		"9": {
 			"Id": 9,
