@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emargin: 0 auto; 可以讓元素水平居中(必須同時 指定 width)\n(width 會使用瀏覽器產生 滾動條[如果需要的話] 可以使用 max-width屬性 替代 width)\n\u003c/pre\u003e"

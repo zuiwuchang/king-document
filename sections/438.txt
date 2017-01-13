@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efixed 使元素 相對 窗口位置顯示\n.fixed {\n\tposition: fixed;\n\tbottom: 0;\n\tright: 0;\n\twidth: 200px;\n\tbackground-color: white;\n}\n\u003c/pre\u003e"

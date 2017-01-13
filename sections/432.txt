@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於inline是一個行內元素 其不會打亂佈局\n(span a ...)\n\u003c/pre\u003e"

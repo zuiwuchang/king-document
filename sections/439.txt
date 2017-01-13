@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eabsolute 同fixed 不過 其不是相對 窗口 而是相對 最近的 position 祖先元素\n\u003c/pre\u003e"

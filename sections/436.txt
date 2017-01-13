@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emargin 和 padding 會因為邊距 而撑大元素\n(故若不使用 box-sizin 需要用數學 計算一個 比實際需求小 的尺寸)\n指定 box-sizing 屬性可以 使元素不被撑大\n\n(IE8以下只能滾回原始的 數學計算)\n-webkit-box-sizing: border-box;\n     -moz-box-sizing: border-box;\n          box-sizing: border-box;\n\u003c/pre\u003e"

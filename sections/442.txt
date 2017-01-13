@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efloat 的元素 可能溢出父元素 設置如下值 可解決\noverflow: auto;\nzoom: 1;\t\t\t//ie6 此需要設置此值\n\u003c/pre\u003e"

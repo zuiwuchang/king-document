@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eHTML 5 于 2014年10月 由 W3C(萬維網聯盟) 完成標準定制\n目的是 替換 1999年 制定的 HTML 4.0.1 和 XHTML 1.0\n\u003c/pre\u003e"

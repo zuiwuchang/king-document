@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於 none 用來在不刪除 元素的情況下 隱藏元素\n和 visibility: hidden 不同 none 不會為元素保留本應該顯示的空間 (visibility: hidden 會)\n\u003c/pre\u003e"

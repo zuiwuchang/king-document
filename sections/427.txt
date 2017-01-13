@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 firefox 地址欄 輸入 about:config 可以 進入 高級 設置\n\u003c/pre\u003e"

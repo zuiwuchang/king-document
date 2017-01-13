@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebootstrap 只提供了一個 界面配色風格 而且是 明亮系的\n對於優秀的 人類來說 暗黑系才是 最舒服的\n\nbootswatch 是從bootstrap 建立的 分支 爲bootstrap 提供了 各種 配色風格\n用 bootswatch 提供的 bootstrap.min.css 替換掉 bootstrap的 原本 css 即可 爲 bootstrap 使用不同的風格\n\n官網 \u003ca href=\"http://bootswatch.com/\" target=\"_blank\"\u003ehttp://bootswatch.com/\u003c/a\u003e\n\u003c/pre\u003e"

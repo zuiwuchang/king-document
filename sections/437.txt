@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e元素默認 position 值為 static 表示其不會被 特殊定位\nrelative  同 static 除非指定額外屬性 left top right bottom 會使用元素偏離正常位置(相對父元素) \n其他元素不會調整彌補它離開後的空隙 \n\u003c/pre\u003e"

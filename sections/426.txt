@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efirefox 既Mozilla Firefox 的 簡寫 是一個 開源(MPL2.0) 跨平臺的 網頁 瀏覽器\n\n官網 \u003ca href=\"https://www.mozilla.org/firefox/\" target=\"_blank\"\u003ehttps://www.mozilla.org/firefox/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Firefox\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/Firefox\u003c/a\u003e\n\u003c/pre\u003e"

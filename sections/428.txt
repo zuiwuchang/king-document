@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebrowser.cache.* 的設置可以 詳細定義 firefox 如何 使用 緩存\n\n將 browser.cache.disk.enable browser.cache.memory.enable 設置爲 false\n可以將 緩存 禁用\n\u003c/pre\u003e"

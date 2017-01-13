@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於 block是一個 塊元素 , 一個塊元素會新啟一行 並盡可能充滿容器\n(div p from header footer sction ...)\n\u003c/pre\u003e"

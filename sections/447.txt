@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebootstrap 最初由Twitter的 Mark Otto 和 Jacob Thornton 編寫\n之後 Twitter 開發者 將其開源(MIT)出來的 html 前端 樣式庫\nbootstrap 支持響應式佈局 可以自動 適應 pc 手機 平板\n\n官網 \u003ca href=\"http://getbootstrap.com/\" target=\"_blank\"\u003ehttp://getbootstrap.com/\u003c/a\u003e\n\u003c/pre\u003e"

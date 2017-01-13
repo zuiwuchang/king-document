@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e响应式设计（Responsive Design） 可以查詢 屏幕寬度 以在不同 情況使用不同的css\n@media screen and (min-width:600px) {\n\tnav {\n\t\tfloat: left;\n\t\twidth: 25%;\n\t}\n\tsection {\n\t\tmargin-left: 25%;\n\t}\n}\n@media screen and (max-width:599px) {\n\tnav li {\n\t\tdisplay: inline;\n\t}\n}\n\u003c/pre\u003e"

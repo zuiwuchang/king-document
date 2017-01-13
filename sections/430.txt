@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e每個元素通常都 有一個默認的display值 大多數是block 或inline\n不過我們可以手動修改display值 例如 li 改為 inline 以製作水平菜單\n\u003c/pre\u003e"
