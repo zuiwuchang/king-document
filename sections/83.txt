@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003egopher-lua 是一個開源(MIT) 完全使用 go(\u003e=1.4) 實現的 lua解析器\n\n官網 \u003ca target=\"_blank\" href=\"https://github.com/yuin/gopher-lua\"\u003ehttps://github.com/yuin/gopher-lua\u003c/a\u003e\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003egopher-lua 是一個開源(MIT) 完全使用 go(\u0026gt;=1.5) 實現的 lua5.1解析器\n\n官網 \u003ca target=\"_blank\" href=\"https://github.com/yuin/gopher-lua\"\u003ehttps://github.com/yuin/gopher-lua\u003c/a\u003e\ngo get github.com/yuin/gopher-lua\n\u003c/pre\u003e"

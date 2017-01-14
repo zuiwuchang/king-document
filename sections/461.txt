@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e使用 func (ls *LState) NewUserData() *LUserData 創建 userdata\u003c/li\u003e\n\t\u003cli\u003e將 go 指針 存儲到 LUserData.Value\u003cpre class='prettyprint linenums'\u003etype LUserData struct {\n    Value     interface{}\n    Env       *LTable\n    Metatable LValue\n}\u003c/pre\u003e\u003c/li\u003e\n\u003c/ol\u003e"

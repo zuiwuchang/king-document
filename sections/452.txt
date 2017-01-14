@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egopher-lua 和 lua c api 運行方式 類似\n\n使用 Get Pop Push 操作 堆棧\u003c/pre\u003e"

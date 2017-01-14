@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego 沒有動態模塊 故無法爲 lua 定義 動態模塊\n但 可以 在代碼中 定義一個 靜態模塊 讓lua 使用\n\n值需要定義一個 模塊註冊函數\n並將 此函數 傳給PreloadModule註冊 即可\u003c/pre\u003e"
