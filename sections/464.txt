@@ -1,0 +1,1 @@
+var __v="\u003ca href=\"https://github.com/revel/revel/issues\" target=\"_blank\"\u003ehttps://github.com/revel/revel/issues\u003c/a\u003e"

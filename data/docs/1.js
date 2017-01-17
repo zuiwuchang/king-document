@@ -28,5 +28,11 @@ var __v=[
 			"Doc": 1,
 			"Name": "template",
 			"Sort": 0
+		},
+		{
+			"Id": 95,
+			"Doc": 1,
+			"Name": "bug fix",
+			"Sort": 0
 		}
 	]
