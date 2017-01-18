@@ -129,6 +129,11 @@ var __v={
 			"Tag": 2,
 			"Name": "net/http"
 		},
+		"33": {
+			"Id": 33,
+			"Tag": 4,
+			"Name": "javascript"
+		},
 		"4": {
 			"Id": 4,
 			"Tag": 7,

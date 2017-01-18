@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMath 封装了和数学相关的一些特性\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar str=\"this is a string\";\n\tvar s='other string';\n\talter(s[0]+str[1]);\u003c/pre\u003e"

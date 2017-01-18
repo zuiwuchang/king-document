@@ -25,7 +25,7 @@ var __v=[
 			"Pid": 6,
 			"Name": "javascript",
 			"Sort": 2,
-			"Docs": 0
+			"Docs": 1
 		},
 		{
 			"Id": 5,

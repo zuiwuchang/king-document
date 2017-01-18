@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDate 是JavaScript中对时间日期的包装\n\n\n\n//以当前时间日期 构造Date\ndate=new Date();\n\n//以相对1970-01-01 0:0:0的相对毫秒数 构造Date\ndate=new Date(val);\n\n//以指定时间日期构造\ndate=new Date(year,month,date[,hour[,min[,sec[,ms]]]]);\u003c/pre\u003e"

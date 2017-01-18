@@ -3421,5 +3421,145 @@ var __v=[
 			"Name": "文件上传",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 497,
+			"Panel": 264,
+			"Name": "javascript",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 498,
+			"Panel": 265,
+			"Name": "use strict",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 499,
+			"Panel": 265,
+			"Name": "Example",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 501,
+			"Panel": 266,
+			"Name": "字符串",
+			"Sort": 4,
+			"Str": ""
+		},
+		{
+			"Id": 502,
+			"Panel": 266,
+			"Name": "转义字符",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 503,
+			"Panel": 266,
+			"Name": "Example",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 504,
+			"Panel": 267,
+			"Name": "数值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 505,
+			"Panel": 268,
+			"Name": "boolean",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 506,
+			"Panel": 269,
+			"Name": "对象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 507,
+			"Panel": 269,
+			"Name": "常用对象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 508,
+			"Panel": 270,
+			"Name": "Date",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 509,
+			"Panel": 270,
+			"Name": "成員函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 510,
+			"Panel": 271,
+			"Name": "函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 511,
+			"Panel": 271,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 512,
+			"Panel": 272,
+			"Name": "Math",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 513,
+			"Panel": 272,
+			"Name": "常用接口",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 514,
+			"Panel": 272,
+			"Name": "屬性",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 515,
+			"Panel": 273,
+			"Name": "新段落",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 516,
+			"Panel": 273,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 517,
+			"Panel": 266,
+			"Name": "常用函數",
+			"Sort": 3,
+			"Str": ""
 		}
 	]

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e2009年的 ECMAScript 增加了 use strict 模式\n\n若js檔案 第一句 \u003cstrong\u003e\"use strict\";\u003c/strong\u003e 可以讓 js使用 嚴格的語法執行\n在函數實現 最前加上此標記 可限定 此函數 使用 嚴格的語法執行\u003c/pre\u003e\n"

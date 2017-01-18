@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar a=new Array();\n\tvar a=new Array(1,2,3,'array',4.1);\n\tvar a=[1,2,3,\"array\",4]; \n\tvar a=new Array(3);\u003c/pre\u003e"

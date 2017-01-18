@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003ca href=\"https://zh.wikipedia.org/wiki/JavaScript\" target=\"_blank\"\u003eJavaScript\u003c/a\u003e 一種解釋執行的 腳本 是 \u003ca href=\"https://zh.wikipedia.org/wiki/ECMAScript\" target=\"_blank\"\u003eECMAScrip\u003c/a\u003e 的具體實現\n\n最初由 網景公司 開發\n現在一些 js 引擎 並不解釋執行 而是 即時編譯執行 以提高效率\u003c/pre\u003e"

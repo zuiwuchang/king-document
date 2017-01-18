@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n//圆周率\nPI\n\n//2的平方根\nSQRT2\n\u003c/pre\u003e"

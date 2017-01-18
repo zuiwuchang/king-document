@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e只有true和false的逻辑判断表达 此外非0便是true 0就是false\nnull undefined 都爲 false\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejavascript中不区分integer or float 全部用double表示\n\n\n\n对于10进制可以用普通计数法或科学计数法\n10 10.1 0.1 3e7 0.3e7\n\n对于16进制以 0x or 0X 开头 后接0~F or 0~f\n0xF 0XfF\n\n对于8进制以 0 开头 后接 0~7\n010\u003c/pre\u003e"

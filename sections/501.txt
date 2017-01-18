@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejavascript中的 字符 和 字符串 是同一物\n(可将字符串当字符数组处理) \n\n字符串被表示于引号中(单引号 或 双引号 均可)\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar str=\"123.45\";\n\ti=parseInt(str);\n\tf=parseFloat(str);\u003c/pre\u003e"
