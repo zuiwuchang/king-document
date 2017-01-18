@@ -11,7 +11,7 @@ var __v=[
 			"Pid": 1,
 			"Name": "Go",
 			"Sort": 1,
-			"Docs": 2
+			"Docs": 3
 		},
 		{
 			"Id": 3,

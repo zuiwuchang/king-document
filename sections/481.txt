@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003egetint,err:=strconv.Atoi(r.Form.Get(\"age\"))\nif err!=nil{\n    //数字转化出错了，那么可能就不是数字\n}\n//接下来就可以判断这个数字的大小范围了\nif getint \u0026gt;100 {\n    //太大了\n}\n\n//或者使用正則表達式\nif m, _ := regexp.MatchString(\"^[0-9]+$\", r.Form.Get(\"age\")); !m {\n    return false\n}\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGo實現的是 RE2 正則表達式 所有字符使用 UTF-8\u003c/pre\u003e"

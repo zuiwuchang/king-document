@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eexpiration := time.Now()\nexpiration = expiration.AddDate(1, 0, 0)\ncookie := http.Cookie{Name: \"username\", Value: \"astaxie\", Expires: expiration}\nhttp.SetCookie(w, \u0026amp;cookie)\u003c/pre\u003e"

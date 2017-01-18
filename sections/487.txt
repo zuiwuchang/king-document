@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003et := time.Date(2009, time.November, 10, 23, 0, 0, 0, time.UTC)\nfmt.Printf(\"Go launched at %s\\n\", t.Local())\u003c/pre\u003e"

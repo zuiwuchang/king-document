@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e為表單 添加 一個 hide 元素 其中 記錄請求時間 同時服務器 在session 記錄此值\n若收到客戶端 請求 驗證此值\u003c/pre\u003e"

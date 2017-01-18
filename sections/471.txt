@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用Go 編寫服務器 需要 調用 如下兩個函數\nhttp.HandleFunc(\"/\", sayhelloName)\t//設置請求url響應函數\n...\nhttp.ListenAndServe(\":9090\", nil)\t//開始監聽端口\u003c/pre\u003e"

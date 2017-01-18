@@ -3204,5 +3204,222 @@ var __v=[
 			"Name": "prod 模式 Redirect 後 session 丟失",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 466,
+			"Panel": 253,
+			"Name": "email",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 467,
+			"Panel": 253,
+			"Name": "導出接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 468,
+			"Panel": 253,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 469,
+			"Panel": 254,
+			"Name": "net/http",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 470,
+			"Panel": 255,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 471,
+			"Panel": 256,
+			"Name": "server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 472,
+			"Panel": 256,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 473,
+			"Panel": 256,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 474,
+			"Panel": 257,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 475,
+			"Panel": 258,
+			"Name": "cookie",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 476,
+			"Panel": 258,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 477,
+			"Panel": 259,
+			"Name": "form",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 478,
+			"Panel": 259,
+			"Name": "request.Form",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 479,
+			"Panel": 260,
+			"Name": "驗證表單數據",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 480,
+			"Panel": 260,
+			"Name": "驗證必填數據",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 481,
+			"Panel": 260,
+			"Name": "驗證數字",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 482,
+			"Panel": 260,
+			"Name": "中文",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 483,
+			"Panel": 260,
+			"Name": "英文",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 484,
+			"Panel": 260,
+			"Name": "电子邮件地址",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 485,
+			"Panel": 260,
+			"Name": "手机号码",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 486,
+			"Panel": 260,
+			"Name": "身份证号码",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 487,
+			"Panel": 260,
+			"Name": "日期和时间",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 488,
+			"Panel": 260,
+			"Name": "下拉菜单",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 489,
+			"Panel": 260,
+			"Name": "单选按钮",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 490,
+			"Panel": 260,
+			"Name": "复选框",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 491,
+			"Panel": 260,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 492,
+			"Panel": 261,
+			"Name": "預防跨站腳本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 493,
+			"Panel": 261,
+			"Name": "轉義",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 494,
+			"Panel": 261,
+			"Name": "轉義",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 495,
+			"Panel": 262,
+			"Name": "防止多次提交表单",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 496,
+			"Panel": 263,
+			"Name": "文件上传",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

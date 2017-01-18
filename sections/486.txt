@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//验证15位身份证，15位的是全部数字\nif m, _ := regexp.MatchString(`^(\\d{15})$`, r.Form.Get(\"usercard\")); !m {\n    return false\n}\n\n//验证18位身份证，18位前17位为数字，最后一位是校验位，可能为数字或字符X。\nif m, _ := regexp.MatchString(`^(\\d{17})([0-9]|X)$`, r.Form.Get(\"usercard\")); !m {\n    return false\n}\u003c/pre\u003e"

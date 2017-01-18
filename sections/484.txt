@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eif m, _ := regexp.MatchString(`^([\\w\\.\\_]{2,10})@(\\w{1,}).([a-z]{2,4})$`, r.Form.Get(\"email\")); !m {\n    fmt.Println(\"no\")\n}else{\n    fmt.Println(\"yes\")\n}\u003c/pre\u003e"

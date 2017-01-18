@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e跨站腳本(Cross Site Scripting [XSS]) 既用戶在一些 由其定義的輸出內容 嵌入 JavaScript VBScript ActiveX Flash 等\n(從而到達 盜取用戶信息 修改用戶設置 盜取/污染cookie 植入廣告等)\n\n針對XSS\n\u003col\u003e\u003cli\u003e驗證用戶輸入\u003c/li\u003e\u003cli\u003e對輸出適當處理\u003c/li\u003e\u003c/ol\u003e\u003c/pre\u003e"

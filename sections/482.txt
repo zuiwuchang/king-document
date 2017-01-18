@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eif m, _ := regexp.MatchString(\"^[\\\\x{4e00}-\\\\x{9fa5}]+$\", r.Form.Get(\"realname\")); !m {\n    return false\n}\u003c/pre\u003e"

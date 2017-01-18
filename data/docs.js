@@ -124,6 +124,11 @@ var __v={
 			"Tag": 26,
 			"Name": "bootstrap"
 		},
+		"32": {
+			"Id": 32,
+			"Tag": 2,
+			"Name": "net/http"
+		},
 		"4": {
 			"Id": 4,
 			"Tag": 7,

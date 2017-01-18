@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回表單值 不存在返回 \u003cstrong\u003e\"\"\u003c/strong\u003e\nr.Form.Get(\"username\")\n\n//若是 map/slice 只能 \nr.Form[\"username\"]\u003c/pre\u003e"

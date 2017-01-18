@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eimport (\n\t\"fmt\"\n\t\"net/http\"\n)\n\ntype Hello struct{}\n\nfunc (h Hello) ServeHTTP(\n\tw http.ResponseWriter,\n\tr *http.Request) {\n\tfmt.Fprint(w, \"Hello!\")\n}\n\nfunc main() {\n\tvar h Hello\n\thttp.ListenAndServe(\"localhost:4000\", h)\n}\u003c/pre\u003e"
