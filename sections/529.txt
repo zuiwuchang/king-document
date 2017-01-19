@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cstrong\u003e方式一\u003c/strong\u003e\nfunction sum(a,b){\n\treturn a+b;\n}\nvar sum = function(a,b){\n\treturn a+b;\n}\n\n\u003cstrong\u003e方式二\u003c/strong\u003e\n//var name=new Function([参数,...],函数体);\nvar sum = new Function(\"a\",\"b\",\"return a+b;\");\nsum(1,2);\u003c/pre\u003e"

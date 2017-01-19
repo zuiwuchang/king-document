@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003evar array=new Array(1,2,3);\narray.reverse();\t//3,2,1\u003c/pre\u003e"

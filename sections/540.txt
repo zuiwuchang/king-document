@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar array=new Array(1,2,3);\n\n\t//删除尾部队一个元素\n\tarray.pop();\n\t//删除顶端的一个元素\n\tarray.shift();\n\n\t//删除数组中指定元素(但此举不会改变数组的length属性)\n\tdelete array[1];\u003c/pre\u003e"

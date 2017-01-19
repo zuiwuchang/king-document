@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e函数的参数可以是另外的函数 \n可用 if(\u003cstrong\u003e参数 instanceof Function\u003c/strong\u003e) 判断传入的是否是函数\n\njavascript中的函数都是对象Function的实例\u003c/pre\u003e"

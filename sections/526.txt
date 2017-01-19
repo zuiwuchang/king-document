@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eApache Hadoop 是一款 數據密集型分佈式應用的 開源(Apache 2.0)軟體框架\n其以 google 的 MapReduce 和 Google File System 為理論 自行實現\n\n官網 \u003ca href=\"http://hadoop.apache.org/\" target=\"_blank\"\u003ehttp://hadoop.apache.org/\u003c/a\u003e\u003c/pre\u003e"

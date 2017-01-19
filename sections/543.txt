@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar array=new Array(1,2,3);\n\tarray[0];//1\n\t//1,2 数组名.slice(start,count)获取多个值到新数组\n\ta = array.slice(0,2);\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar array=new Array(1,2,3);\n\t//在数组开头添加元素\n\tarray.unshift(-1,0,...);\n\t//在元素尾添加元素\n\tarray.push(4,5,...);\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//创建空数组\nvar array=new Array();\nvar array = [];\n\n//创建长度为3的数组\nvar array=new Array(3);\n\n//用指定值创建数组\nvar array = new Array(1,2,3);\nvar array = [1,2,3];\u003c/pre\u003e"

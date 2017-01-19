@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSeaweed-FS 是一個 以go實現的 開源(Apache License, Version 2.0) 分佈式 文件系統\n\nSeaweed-FS 參照了 facebook 的圖片存儲系統論文 Facebook-Haystack\nSeaweed-FS 被設計成 快速 處理 上億的 海量 小塊文件\n(Seaweed-FS 會使用 gzip 壓縮 文件)\n\ngithub \u003ca href=\"https://github.com/chrislusf/seaweedfs\" target=\"_blank\"\u003ehttps://github.com/chrislusf/seaweedfs\u003c/a\u003e\u003c/pre\u003e"

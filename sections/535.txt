@@ -1,0 +1,1 @@
+var __v="\u003cpre class='prettyprint linenums'\u003e//将字符串进行 url 编码 \t\n//java.net.URLEncoder.encode(str, \"UTF-8\").replaceAll(\"\\\\+\",  \"%20\")\t\n//(java中 很sb的把 空格 换为了+ 而非%20 故需要自己再替换回%20);\nencodeURIComponent(URIstring)\n\n//将url编码的字符串 解码\t\n//java.net.URLDecoder.decode(str, \"UTF-8\");\ndecodeURIComponent(URIstring)\u003c/pre\u003e"

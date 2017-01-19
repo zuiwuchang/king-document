@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esplice删除1个或多个元素 \n同时可在删除處插入指定元素 返回删除的元素(array形式返回)\n\u003cpre class='prettyprint linenums'\u003e\tdelete_array = old_array.splice(start,count,[insert1,insert2,...]);\n\n\tvar a = new Array(1,2,3,4);\n\t//na為2,3  a为1,0,4\n\tna = a.splice(1,2,0);\u003c/pre\u003e\u003c/pre\u003e"

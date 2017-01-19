@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSeaweed-FS 提供了 http接口 以方便 訪問FS\u003c/pre\u003e"

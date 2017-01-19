@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003evar a=new Array(1,3,2);\nfunction sortFunction(a,b){\n\tif(a==b){\n\t\treturn 0;\n\t}else if(a\u0026gt;b){\n\t\t//升序\n    \treturn 1;\n\t}else{\n    \treturn -1;\n    }\n}\n\na.sort(sortFunction);\n//a.sort();对于基本型别默认升序\u003c/pre\u003e"

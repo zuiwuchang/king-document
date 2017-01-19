@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efunction A(name){\n\tthis.name=name;\n\tthis.getName=getName;\n}\nfunction getName(){\n\treturn this.name;\n}\n\nvar a=new A(\"123\");\nalert(a.getName());\u003c/pre\u003e"

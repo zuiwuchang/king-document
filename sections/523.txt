@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e{\"fid\":\"7,14dcf25713\"}\n7\t是uint32 標識了 volume id\n14\t是 uint64 唯一的key d...3 是file cookie\u003c/pre\u003e"

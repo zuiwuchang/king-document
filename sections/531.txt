@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003earguments对象代表了当前被调用的函数的参数数组 其length代表了实际传入参数数\nfun.length代表了函数定义的参数数\n\n參數 是基本型別則為 值傳遞 複合型別為應引用傳遞\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecurl -X POST http://localhost:9333/dir/assign?replication=001\u003c/pre\u003e"

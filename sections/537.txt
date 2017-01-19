@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar array=new Array(3);\n\t//返回長度\n\tarray.length();\u003c/pre\u003e"

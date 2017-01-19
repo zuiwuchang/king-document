@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar array=new Array(1,2,3);\n\n\t//1,2,3 用,隔开元素\n\tarray.toString();\n\t//1-2-3 用指定字符串隔开元素\n\tarrat.join('-');\u003c/pre\u003e"

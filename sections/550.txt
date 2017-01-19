@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ehtml中可用frame在一个窗口中显示多个不同web页面\n\nwindow.frames[](或 window.[frame的name])\n返回每个框架的window引用\u003c/pre\u003e"

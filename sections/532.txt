@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e对于基本型别javascript函数返回值的副本\n\n对于\u003cstrong\u003e复合型别\u003c/strong\u003ejavascript函数返回 \u003cstrong\u003e引用\u003c/strong\u003e\njavascript还可以返回函数的引用(函数 是复合型别 Function的实例)\u003c/pre\u003e"

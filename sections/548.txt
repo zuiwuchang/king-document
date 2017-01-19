@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewindow对象代表了当前打开的浏览器窗口\n对于当前浏览器窗口的window方法调用可省略window.\n对于其他浏览器窗口对象的window方法调用需要指明引用\u003c/pre\u003e"

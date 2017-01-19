@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar array=new Array(1,2);\n\tvar array1=new Array(3,4);\n\tvar array2=new Array(5,6);\n\n\tarray=array.concat(array1,array2,...);//1,2,3,4,5,6\u003c/pre\u003e"

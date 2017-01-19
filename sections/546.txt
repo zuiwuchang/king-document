@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efunction onKeyUp(_e){\n\t//获取有效键盘事件\n\tvar e=_e?_e:window.event;\n\n\t//判断具体哪个键 13是回车\n\tif(e.keyCode==13);{\n}\u003c/pre\u003e"
