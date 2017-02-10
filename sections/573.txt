@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e安裝java運行環境\u003c/li\u003e\n\t\u003cli\u003e下載最新 jar 包\u003c/li\u003e\n\t\u003cli\u003ejava -jar yuicompressor-x.y.z.jar myfile.js --type js -o myfile.min.js --charset utf-8\u003cbr\u003e\n\tjava -jar yuicompressor-x.y.z.jar myfile.css --type css -o myfile.min.css --charset utf-8\u003c/li\u003e\n\u003c/ol\u003e"

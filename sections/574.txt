@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 檔案存在 .js/.css 後綴 可以 省略 --type 參數\n\n如果 不使用 --charset 參數 將 使用 os 默認 字符編碼\n\u003c/pre\u003e"
