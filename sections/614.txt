@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGenerator 返回的 obj 存在一個 throw 函數\n將 使用當前等待的yield 拋出一個 異常 \n\nGenerator 實例的 throw 函數 將在 Generator返回 或 遇到 yield時 返回\n其返回值 和 next 的返回值 內容一致\n\u003c/pre\u003e"

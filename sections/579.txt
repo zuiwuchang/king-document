@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecookie用于保存用户的临时信息 一个cookie文件不可超过4kb 每个cookie文件不可超过300个cookie\ncookie中不能有 空格 分号 逗号等\n\u003c/pre\u003e"

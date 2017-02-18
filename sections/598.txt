@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003exmlhttp.open(\"GET\"\t//传输方式GET or POST\n\t,\"test.jsp?id=1\"\t//URL\n\t,true\t//是否异步\n);\n\n//发送\nxmlhttp.send();\u003c/pre\u003e"

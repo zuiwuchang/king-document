@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e所有常規浏览器\n(IE7+、Firefox、Chrome、Safari 以及 Opera)\n均内建 XMLHttpRequest 对象\n\nxmlhttp = new XMLHttpRequest();\n\n老版本的 Internet Explorer (IE5 和 IE6)使用 ActiveX 对象：\nxmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");\n\u003c/pre\u003e"

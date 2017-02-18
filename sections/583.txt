@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efunction addCookie(name,value,second){\n\tif(arguments.length==3){\n\t\tvar date = new Date(); \n\t\tdate.setTime(date.getTime() + second*1000);\n\t\tdocument.cookie = name + \"=\"+ escape (value) + \";expires=\" + date.toGMTString();\n\t}else{\n\t\tdocument.cookie = name + \"=\"+ escape (value);\n\t}\n}\u003c/pre\u003e"

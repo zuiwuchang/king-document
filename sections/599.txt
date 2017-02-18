@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003exmlhttp.open(\"POST\",\"ajax_test.asp\",true);\n//添加http头\nxmlhttp.setRequestHeader(\n\t\"Content-type\"\t//规定头的名称\n\t,\"application/x-www-form-urlencoded\"\t//规定头的值\n);\nxmlhttp.send(\"id=1\u0026amp;x=2\");\u003c/pre\u003e"

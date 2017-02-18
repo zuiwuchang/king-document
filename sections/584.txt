@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efunction getCookie(cookie,cookieName){\n\tvar array=cookie.split(\"; \");\n\t\n\tfor(index in array){\n\t\tvar key_value=array[index].split(\"=\");\n\t\t\n\t\tif(key_value[0]==cookieName){\n\t\t\treturn unescape(key_value[1]);\n\t\t}\n\t}\n\treturn null;\n}\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e为了在cookie中保持分号等特殊符号\n\n可用escape(value) 编码写入\n读取后用unescape(value)解码\n\u003c/pre\u003e"

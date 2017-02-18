@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGenerator 函數體中 執行到 yield時\n函數將中斷 並將 yield 右邊的值 返回給 next\n\u003c/pre\u003e"

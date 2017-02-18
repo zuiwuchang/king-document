@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eif(navigator.cookieEnabled){\n\talert('yes');\n}else{\n\talert('no')\n}\u003c/pre\u003e"

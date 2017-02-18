@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e解決 js 異步調用 問題的最好方案 無疑 是 es6 加入的 Generator 特性\n然 一些 瀏覽器 並未支持 Generator 出於某些無奈 暫時還不能 使用  Generator\n\n故孤實現了 此 Async 組件 用於 將異步代碼 流程 轉化到 一個看似同步的寫法中 \n\u003c/pre\u003e"

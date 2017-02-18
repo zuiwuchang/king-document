@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGenerator 返回的 obj 存在一個 next 函數\n調用 將 執行 Generator 函數體 \nnext的 參數 將 傳入 作為 Generator的 參數 \n\nobj.value 存儲了 yield 傳入的值 或 Generator 的返回值\nobj.done 返回true 代表 Generator 已經執行結束 而非因為yield中斷\n\u003c/pre\u003e"

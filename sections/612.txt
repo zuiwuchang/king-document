@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejs 在 es6 後加入了 所謂的 Generator\n\nGenerator 是一個 函數 和普通函數 沒有任何 差別 \n只是 定義時  在函數名前加個 * 代表是 Generator\n\n其次 Generator 在被調用時 不會 執行 函數 而是 返回 一個 obj\n每次 調用 obj.next() 方法 才執行 函數體\n函數體 執行到 yield 時 將 中斷並返回 直到下次 obj.next() 的調用 才從 中斷處開始 繼續執行\n\u003c/pre\u003e"

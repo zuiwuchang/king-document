@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efunction delCookie(name){\n\tvar date = new Date(); \n\tdate.setTime(date.getTime() -1);\n\tdocument.cookie = name + \"=time out;expires=\" + date.toGMTString();\n}\u003c/pre\u003e"

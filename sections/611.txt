@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//向下 取整\nint floor(number)\n\n//向上 取整\nMath.ceil(number)\n\n//四捨五入 取整\nMath.round(number)\n\u003c/pre\u003e"

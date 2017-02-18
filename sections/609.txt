@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//刪除 obj 指定 屬性\ndelete obj[key]\ndelete obj.key\n\u003c/pre\u003e"

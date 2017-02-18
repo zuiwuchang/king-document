@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eajax 就是使用 XMLHttpRequest对象和服务器通信\n使用javascript更新网页局部\n\u003c/pre\u003e"

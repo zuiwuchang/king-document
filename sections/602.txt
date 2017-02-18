@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejavascript 中沒有 類 故只能使用 對象進行模擬 一般有3中方法\n\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e構造方法\u003c/li\u003e\n\t\u003cli\u003eobject.create\u003c/li\u003e\n\t\u003cli\u003eminimalist approach \u003cstrong\u003e推薦\u003c/strong\u003e\u003c/li\u003e\n\u003c/ol\u003e"

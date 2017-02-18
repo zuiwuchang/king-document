@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e(function(){\n\thistory.go(0);\n\tlocation.reload();\n\tlocation=location;\n\tlocation.replace(location);\n\twindow.navigate(location);\n})()\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若js檔案 第一句 \"use strict\"; 可以讓 js使用 嚴格的語法執行\n在函數實現 最前加上此標記 可限定 此函數 使用 嚴格的語法執行\n\u003c/pre\u003e"

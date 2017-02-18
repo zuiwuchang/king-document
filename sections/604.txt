@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eObject.create() 是Javascript 國際編組ECMAScript 第5版 提出的 一個 簡化 構造方法 模擬類的 方案\n其對於 老瀏覽器 可能不支持 且其沒有 minimalist approach 有趣(個人意見)\n\u003c/pre\u003e"

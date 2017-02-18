@@ -1457,16 +1457,178 @@ var __v={
 			"Name": "插入數據",
 			"Sort": 0
 		},
+		"320": {
+			"Id": 320,
+			"Chapter": 124,
+			"Name": "history对象",
+			"Sort": 0
+		},
+		"321": {
+			"Id": 321,
+			"Chapter": 124,
+			"Name": "location对象",
+			"Sort": 0
+		},
+		"322": {
+			"Id": 322,
+			"Chapter": 125,
+			"Name": "cookie",
+			"Sort": 0
+		},
+		"323": {
+			"Id": 323,
+			"Chapter": 125,
+			"Name": "cookie编码",
+			"Sort": 0
+		},
+		"324": {
+			"Id": 324,
+			"Chapter": 125,
+			"Name": "设置cookie",
+			"Sort": 0
+		},
+		"325": {
+			"Id": 325,
+			"Chapter": 126,
+			"Name": "DOM",
+			"Sort": 0
+		},
+		"326": {
+			"Id": 326,
+			"Chapter": 126,
+			"Name": "HTML DOM",
+			"Sort": 0
+		},
+		"327": {
+			"Id": 327,
+			"Chapter": 127,
+			"Name": "使用正在表達式",
+			"Sort": 0
+		},
+		"328": {
+			"Id": 328,
+			"Chapter": 127,
+			"Name": "匹配語法",
+			"Sort": 0
+		},
+		"329": {
+			"Id": 329,
+			"Chapter": 128,
+			"Name": "ajax",
+			"Sort": 0
+		},
 		"33": {
 			"Id": 33,
 			"Chapter": 12,
 			"Name": "查詢數據",
 			"Sort": 0
 		},
+		"330": {
+			"Id": 330,
+			"Chapter": 128,
+			"Name": "实例化 XMLHttpRequest 对象",
+			"Sort": 0
+		},
+		"331": {
+			"Id": 331,
+			"Chapter": 128,
+			"Name": "向服务器发送请求",
+			"Sort": 0
+		},
+		"332": {
+			"Id": 332,
+			"Chapter": 128,
+			"Name": "异步处理函数",
+			"Sort": 0
+		},
+		"333": {
+			"Id": 333,
+			"Chapter": 128,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"334": {
+			"Id": 334,
+			"Chapter": 131,
+			"Name": "class",
+			"Sort": 0
+		},
+		"335": {
+			"Id": 335,
+			"Chapter": 131,
+			"Name": "構造方法",
+			"Sort": 0
+		},
+		"336": {
+			"Id": 336,
+			"Chapter": 131,
+			"Name": "object.create",
+			"Sort": 0
+		},
+		"337": {
+			"Id": 337,
+			"Chapter": 131,
+			"Name": "minimalist approach",
+			"Sort": 0
+		},
+		"338": {
+			"Id": 338,
+			"Chapter": 132,
+			"Name": "use strict",
+			"Sort": 0
+		},
+		"339": {
+			"Id": 339,
+			"Chapter": 132,
+			"Name": "obj",
+			"Sort": 0
+		},
 		"34": {
 			"Id": 34,
 			"Chapter": 12,
 			"Name": "查詢條件",
+			"Sort": 0
+		},
+		"340": {
+			"Id": 340,
+			"Chapter": 132,
+			"Name": "string",
+			"Sort": 0
+		},
+		"341": {
+			"Id": 341,
+			"Chapter": 132,
+			"Name": "Math",
+			"Sort": 0
+		},
+		"342": {
+			"Id": 342,
+			"Chapter": 133,
+			"Name": "yield",
+			"Sort": 0
+		},
+		"343": {
+			"Id": 343,
+			"Chapter": 133,
+			"Name": "同步",
+			"Sort": 0
+		},
+		"344": {
+			"Id": 344,
+			"Chapter": 133,
+			"Name": "孤實現的 Generator 的 替代組件",
+			"Sort": 0
+		},
+		"345": {
+			"Id": 345,
+			"Chapter": 133,
+			"Name": "孤的 Async 示例",
+			"Sort": 0
+		},
+		"346": {
+			"Id": 346,
+			"Chapter": 134,
+			"Name": "變量範圍",
 			"Sort": 0
 		},
 		"35": {

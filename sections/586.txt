@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eHTML DOM提供了对HTML更简单方便的操作方式\n\n可不用setAttribute getAttribute操作属性 \n直接用 node.属性名=\n\u003c/pre\u003e"

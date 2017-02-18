@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDOM接口可以操作所有符合DOM规范的文档\n\u003c/pre\u003e"

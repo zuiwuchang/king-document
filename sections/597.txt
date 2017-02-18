@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003evar xmlhttp;\n//检查是否内置XMLHttpRequest对象\nif (window.XMLHttpRequest){\n\t// code for IE7+, Firefox, Chrome, Opera, Safari\n\txmlhttp = new XMLHttpRequest();\n}else{\n\t// code for IE6, IE5\n\txmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");\n}\u003c/pre\u003e"

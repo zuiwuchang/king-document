@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e\tvar reg=new RegExp(regexp[,flags]);\n\treg.test(str);\n\n\n\t//var reg = new RegExp(/^a.*b$/); //中無需轉義字符串\n\tvar reg=new RegExp(\"^a.*b$\");\n\tif(reg.test(\"a123b\")){\n\t\talert('ok');\n\t}\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e(function() {\n\t\"use strict\";\n\t//變量 必聲明後 使用\n\tvar str = \"ok\";\n\talert(str)\n \n\t//eval 有自己的 作用域\n\t//eval 最後的 數據 被作爲返回值 返回\n\tvar val = eval(\"var x=1;\");\n\talert(val);\t//undefined\n\tval = eval(\"var x=1;x;\");\n\talert(val);\t//1\n})();\u003c/pre\u003e"
