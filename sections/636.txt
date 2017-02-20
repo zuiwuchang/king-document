@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egoalng 提供了 CGO 以讓go 可以和c 交換\n\nimport \"C\" 將引入一個 C包 其中 包括了 所有 c的 導出定義\n\u003c/pre\u003e"

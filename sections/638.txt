@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport \"C\" 必須單獨位於一行中\n\nC.CString 產生的 char* 內存 不會 背 go 的gc 處理 必須 自己使用 C.free 釋放\n\n使用 //#cgo LDFLAGS: *** 指定 鏈接的庫\n\u003c/pre\u003e"
