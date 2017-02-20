@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//顯示使用 說明\nopencc -h\n\n//顯示版本信息\nopencc --version\n\n//將 src 使用 cnffile規則 轉換到 dist\n//opencc -i zh_tw.zh -o zh_cn.zh -c t2s.json\nopencc -i src -o dist -c cnffile\n\tcnffile 默認保存在 \u003cstrong\u003e/usr/share/opencc/\u003c/strong\u003e\n\u003c/pre\u003e"

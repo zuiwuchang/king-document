@@ -134,11 +134,13 @@ $(document).ready(function() {
 
 	//search
 	var ICON_WAIT = "public/img/throbber.gif";
+	var lastSearchId = null;
 	var onSearch = function(tree,node){
-		if(isDisable()){
+		if(isDisable() || lastSearchId == node.id){
 			return;
 		}
 		enable(false);
+		lastSearchId = node.id;
 		var url = "data/tags/" + node.id + ".js";
 		tree.set_icon(node,ICON_WAIT);
 		newScript({
@@ -190,6 +192,7 @@ $(document).ready(function() {
 				data:{
 					Sort:tag.Sort,
 					Name:tag.Name,
+					Docs:tag.Docs,
 				},
 			};
 			if(tag.Id == 0){
@@ -255,7 +258,18 @@ $(document).ready(function() {
 			$(this).show();
 
 			async.Notify();
-		});
+		}).on("select_node.jstree",function(e,obj){
+			var tree = $(this).jstree(true);
+
+			var node = obj.node;
+			if(!tree.is_leaf(node) && tree.is_closed(node)){
+				tree.open_node(node);
+			}
+
+			if(node.data.Docs != 0){
+				onSearch(tree,node);
+			}
+		}).off("keydown");
 	})
 	.Do({
 		/*Ok:function(){

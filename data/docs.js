@@ -154,6 +154,11 @@ var __v={
 			"Tag": 33,
 			"Name": "YUI Compressor"
 		},
+		"38": {
+			"Id": 38,
+			"Tag": 35,
+			"Name": "OpenCC"
+		},
 		"4": {
 			"Id": 4,
 			"Tag": 7,

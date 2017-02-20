@@ -1631,10 +1631,52 @@ var __v={
 			"Name": "變量範圍",
 			"Sort": 0
 		},
+		"347": {
+			"Id": 347,
+			"Chapter": 135,
+			"Name": "OpenCC",
+			"Sort": 0
+		},
+		"348": {
+			"Id": 348,
+			"Chapter": 135,
+			"Name": "常用命令",
+			"Sort": 0
+		},
+		"349": {
+			"Id": 349,
+			"Chapter": 135,
+			"Name": "安裝/環境配置",
+			"Sort": 0
+		},
 		"35": {
 			"Id": 35,
 			"Chapter": 12,
 			"Name": "表連接 Join",
+			"Sort": 0
+		},
+		"350": {
+			"Id": 350,
+			"Chapter": 136,
+			"Name": "c api",
+			"Sort": 0
+		},
+		"351": {
+			"Id": 351,
+			"Chapter": 136,
+			"Name": "c++ api",
+			"Sort": 0
+		},
+		"353": {
+			"Id": 353,
+			"Chapter": 135,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"354": {
+			"Id": 354,
+			"Chapter": 137,
+			"Name": "golang",
 			"Sort": 0
 		},
 		"36": {

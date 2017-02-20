@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eOpenCC 是一個 使用c++ 寫的 開源(Apache2.0) 跨平臺(Windows Linux Mac) 用於 中文 和 殘體 間轉換的 工具/程式庫\n\n支持 c c++ Python PHP Java Ruby Node.js Android 調用程式庫\n\n官網 \u003ca href=\"https://github.com/BYVoid/OpenCC\" target=\"_blank\"\u003ehttps://github.com/BYVoid/OpenCC\u003c/a\u003e\n\u003c/pre\u003e"

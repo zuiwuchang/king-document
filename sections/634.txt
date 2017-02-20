@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopencc 沒有提供 golang 的api 只能通過 CGO 調用\n\u003c/pre\u003e"

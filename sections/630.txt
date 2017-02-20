@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//class SimpleConverter 提供了 轉換函數\nSimpleConverter (const std::string \u0026configFileName)\n\u003c/pre\u003e"

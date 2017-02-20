@@ -4289,5 +4289,89 @@ var __v=[
 			"Name": "變量範圍",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 624,
+			"Panel": 347,
+			"Name": "OpenCC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 625,
+			"Panel": 348,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 626,
+			"Panel": 348,
+			"Name": "預設配置檔案",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 627,
+			"Panel": 349,
+			"Name": "安裝/環境配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 628,
+			"Panel": 350,
+			"Name": "c api",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 629,
+			"Panel": 350,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 630,
+			"Panel": 351,
+			"Name": "SimpleConverter",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 631,
+			"Panel": 351,
+			"Name": "Example",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 632,
+			"Panel": 351,
+			"Name": "SimpleConverter public 方法",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 633,
+			"Panel": 353,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 634,
+			"Panel": 354,
+			"Name": "golang",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 635,
+			"Panel": 354,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

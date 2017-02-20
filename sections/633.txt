@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopencc 的輸入輸出 文字 都是utf8編碼\n\u003c/pre\u003e"
