@@ -159,6 +159,11 @@ var __v={
 			"Tag": 35,
 			"Name": "OpenCC"
 		},
+		"39": {
+			"Id": 39,
+			"Tag": 39,
+			"Name": "duktape"
+		},
 		"4": {
 			"Id": 4,
 			"Tag": 7,

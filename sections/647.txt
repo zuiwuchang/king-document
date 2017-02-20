@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e类似 lua 使用\nduk_push_*\n将值 设置到 栈中 便可供js调用\n\u003c/pre\u003e"

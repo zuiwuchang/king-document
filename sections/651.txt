@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 duk_config.h 中 添加 導出聲明\n#define DUK_EXTERNAL_DECL  _declspec(dllexport)\n\u003c/pre\u003e"

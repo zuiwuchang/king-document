@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e嵌入 duktape 只需要 3 步\n\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e初始化 js 執行環境 duk_create_heap\u003c/li\u003e\n\t\u003cli\u003e調用 duktape 提供的函數 和js 交換\u003c/li\u003e\n\t\u003cli\u003e在不在使用時 釋放 就是環境 duk_destroy_heap\u003c/li\u003e\n\u003c/ol\u003e"

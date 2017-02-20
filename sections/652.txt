@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ego-duktape.v2 是一個 duktape 的開源(MIT) go 綁定 \n爲 go 提供了 在cgo下 使用 duktape的功能\n\u003c/pre\u003e"

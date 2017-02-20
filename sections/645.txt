@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eduktape 中 交换方式 同 lua 以虚拟的 栈 \n按照类似 汇编方式进行 交换\n(duktape c api 概率 颇多类似 lua 作者应该是参照了 lua)\n\n将 函数 参数 从左到右 入栈 之后 调用 duk_pcall 即可\n\u003c/pre\u003e"
