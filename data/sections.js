@@ -4604,5 +4604,33 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 670,
+			"Panel": 377,
+			"Name": "doxygen",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 671,
+			"Panel": 378,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 672,
+			"Panel": 379,
+			"Name": "使用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 673,
+			"Panel": 379,
+			"Name": "配置檔案 常用參數",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

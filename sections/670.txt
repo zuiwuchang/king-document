@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edoxygen 是一個 開源的(GNU通用公眾授權條款) api 文檔生產工具\n可以爲 c++ c jsjava python .... 由源碼中的註釋 產生api文檔\n\n官網 \u003ca href=\"http://www.stack.nl/~dimitri/doxygen/index.html\" target=\"_blank\"\u003ehttp://www.stack.nl/~dimitri/doxygen/index.html\u003c/a\u003e\n\u003c/pre\u003e"
