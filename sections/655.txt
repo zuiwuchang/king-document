@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e創建一個 package main 的 包\u003c/li\u003e\n\t\u003cli\u003e使用 go build -buildmode=plugin 將包編譯爲動態庫\u003c/li\u003e\n\u003c/ol\u003e"

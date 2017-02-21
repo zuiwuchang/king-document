@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e無法導出一個 型別\n\n導出的 變量都是 對應型別的 指針\n\u003c/pre\u003e"
