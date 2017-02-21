@@ -31,8 +31,8 @@ var __v=[
 			"Id": 5,
 			"Pid": 4,
 			"Name": "瀏覽器組件",
-			"Sort": 0,
-			"Docs": 1
+			"Sort": 2,
+			"Docs": 3
 		},
 		{
 			"Id": 6,
@@ -215,6 +215,20 @@ var __v=[
 			"Name": "JavaScript",
 			"Sort": 1,
 			"Docs": 1
+		},
+		{
+			"Id": 40,
+			"Pid": 4,
+			"Name": "jquery",
+			"Sort": 1,
+			"Docs": 0
+		},
+		{
+			"Id": 41,
+			"Pid": 4,
+			"Name": "通用組件",
+			"Sort": 0,
+			"Docs": 2
 		},
 		{
 			"Id": 0,

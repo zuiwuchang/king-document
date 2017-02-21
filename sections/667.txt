@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從官網下載最新源碼 並解壓\u003c/li\u003e\n\t\u003cli\u003e將 webuploader.nolog.min.js webuploader.css 引入項目\u003c/li\u003e\n\u003c/ol\u003e"

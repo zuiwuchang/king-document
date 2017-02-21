@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ekindeditor 是一個 開源(GPL) 的 富文本框\n\n官網 \u003ca href=\"http://kindeditor.net/demo.php\" target=\"_blank\"\u003ehttp://kindeditor.net/demo.php\u003c/a\u003e \u003cimg src=\"sections/664/image/k.png\" alt=\"\" /\u003e\u003c/pre\u003e"

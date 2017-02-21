@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e在html中 引入 QUnit 的 js(qunit-xxx.js) css(qunit-xxx.css) 文件\u003c/li\u003e\n\t\u003cli\u003e在html中定義 分別一個id為 qunit 和 qunit-fixture 的div\u003c/li\u003e\n\t\u003cli\u003e使用 QUnit.test 定義 測試函數\u003c/li\u003e\n\u003c/ol\u003e"
