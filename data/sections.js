@@ -4639,5 +4639,33 @@ var __v=[
 			"Name": "graphviz",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 675,
+			"Panel": 381,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 676,
+			"Panel": 380,
+			"Name": "Docker",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 677,
+			"Panel": 382,
+			"Name": "映像管理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 678,
+			"Panel": 383,
+			"Name": "容器管理",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

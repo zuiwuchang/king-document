@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003esudo apt update\nsudo apt install -y docker.io\u003c/pre\u003e"
