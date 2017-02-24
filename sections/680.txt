@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e以 $() 传入DOM元素 便会返回jQuery元素\n$(document.getElementsByTagName(\"div\"))\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//为元素绑定 mouseenter事件f1 mouseleave事件f2\n$(\"p\").hover(f1,f2);\n\n\n\n//为元素绑定事件 第一此单击触发 f1 二次 f2 n次fn n+1次f1 ...\n$(\"p\").toggle(f1,f2,....fn);\n\u003c/pre\u003e"

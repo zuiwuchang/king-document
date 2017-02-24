@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//清除字符串空格\nstr = \"\t123\t\";\nalert($.trim(str));\u003c/pre\u003e"

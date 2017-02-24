@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003estr = 123;\n$(\"p\").bind(\"click\",{msg:str},function(e){\n\talert(e.data.msg); \n}));\nstr = 456;\u003c/pre\u003e"

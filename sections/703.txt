@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回value\n$(selector).val();\n\n//设置value\n$(selector).val(value);\n\n//设置value 为函数返回值\n$(selector).val(fun(index,value));\n\n\n\n//把 单选框 或 列表框 中value值为 value1,value2,...的选中\n$(selector).val([value1,value2,...])\t\n\t\u003cstrong\u003e$(\"select[name=select_test]\").value(\"option1\",\"option3\");\u003c/strong\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eanimate会把调用次序放入一个队列中依次执行\n\u003c/pre\u003e"

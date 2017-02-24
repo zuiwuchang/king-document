@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可用 $(html) 生成jQuery对象 如$(\u003cp /\u003e) 生成了一个 p标签\n$(selector1)为数组时 其每个元素都会被加上 selector2\n移动后对象就不在原位置了 $(selector1)\n想要保存selector2在原位 用 $(selector).clone()返回selector2的副本 \n\u003cstrong\u003e如$(selector).after($(selector).clone());\u003c/strong\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//可改变ajax默认参数 其调用方法同$.ajax\n$.ajaxSetUp(option);\n\u003c/pre\u003e"

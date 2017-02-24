@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e调用$().get()方法;\n\n\n\n//返回所有元素为dom元素数组\nvar dom=$('li').get();\n\n//返回所有元素中第一个为dom元素\nvar dom=$('li').get(0);\n\n//返回所有元素中第二个为dom元素\nvar dom=$('li').get(1);\n\n//返回所有元素中倒数第一个为dom元素\nvar dom=$('li').get(-1);\n\n//返回所有元素中倒数第二个为dom元素\nvar dom=$('li').get(-2);\n\u003c/pre\u003e"

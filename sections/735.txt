@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e插件開發 有兩種方式 \n一種 用於擴展 jQuery基本 方法\n另一種用於 擴展 jQuery對象 的方法\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一般浏览器阻止从不同域名获取数据\njQuery的\n$.getScript(url,[,data],[sucess])\n$getJSON(url,[,data][,sucess])\n可以跨域\n\u003c/pre\u003e"

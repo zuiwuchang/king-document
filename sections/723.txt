@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ee.type\t//返回事件类型\ne.namespace\t//返回事件类型名字空间\ne.currentTarget\t//当前dom元素\ne.target\t//事件触发dom元素 由于冒泡的存在 当前元素的后代也能触发事件哦\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//增加 test 到样式表\n$(selector).addClass(\"test\");\n\n//从样式表中移除 test\n$(selector).removeClass(\"test\");\n\n//切换样式表 test (既样式表中有test则移除test 否则添加test)\n$(selector).toggleClass(\"test\");\n\n//查询样式表中是否有test\n$(selector).hasClass(\"test\");\n\n\n其次class属性亦可用 attr 操作\n\u003c/pre\u003e"

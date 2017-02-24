@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回 name 属性\n$(selector).attr(\"name\")\n\n//设置 name 属性为 test\n$(selector).attr(\"name\",\"test\");\n\n//为匹配selector的数组设置 name 属性值为 函数返回值\n$(selector).attr(name,fun(index,value));\n\n//一次设置多个属性\n$(selector).attr({\"name\":\"test\",\"width\":200});\n\n\n\n//移除 name 属性\n$(selector).removeAttr(\"name\");\n\u003c/pre\u003e"

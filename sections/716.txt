@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e绑定事件只对存在的元素有效 委派会为存在和以后添加到元素自动绑定事件\n$(\"p\").live(\"click\",function);\n...\nlive还会自动为不再匹配的元素移除绑定事件\n\u003c/pre\u003e"

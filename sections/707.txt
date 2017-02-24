@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efadeOut fadeIn fadeToggle 动态改变 不透明度 最终使元素是隐藏或显示\n\n\n\n//隐藏 slow(0.6秒) normal(0.4秒) fast(0.2秒) 最终修改display属性为none\n$(selector).fadeOut(\"slow\");\n\n//显示单位毫秒 最终恢复display属性\n$(selector).fadeIn(200);\n\n//切换显示状态 最终修改display属性\n$(selector).fadeToggle(200);\n\n//修改透明度到指定值 0完全透明 1完全不透明\n$(selector).fadeTO(\"slow\",0.5);\n\u003c/pre\u003e"

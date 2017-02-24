@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e$(\"p\").ubind();\t//移除所有事件\n$(\"p\").ubind(\"click\");\t//移除指定事件\n$(\"p\").ubind(\"click.namespace\");\t//移除指定名字空间下跌指定事件\n$(\"p\").ubind(\".namespace\");\t//移除指定名字空间下所有事件\n$(\"p\").one(\"click\",function);\t//只触发一次 之后自动移除事件\n\u003c/pre\u003e"

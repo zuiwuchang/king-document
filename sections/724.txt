@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e$.ajax({\n\turl:\"请求的URL地址\",\n\tdataType:\"html\",\t//服务器传回数据类型 可以是 html xml json script\n\tdata:{\"name\":\"test\",\"id\":\"123\"},\t//向服务器传输的数据\n\ttype:\"get\",\t//请求的方式post get 默认get\n\tsuccess:function(data){}\t//请求成功时代处理函数\n})\u003c/pre\u003e"

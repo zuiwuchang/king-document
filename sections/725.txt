@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e$.ajax({\n\turl:\"example.jsp\",\n\tdataType:\"html\",\n\ttype:\"post\",\n\tdata:{\"name\":\"test\"},\n\tsucess:function(data){\n\t\talert(data);\n\t}\n});\u003c/pre\u003e"

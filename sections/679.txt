@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一個 跨瀏覽器的 開源(MIT) javascript 函式庫\n\n官網 \u003ca href=\"http://jquery.com/\" target=\"_blank\"\u003ehttp://jquery.com/\u003c/a\u003e\n\u003c/pre\u003e"

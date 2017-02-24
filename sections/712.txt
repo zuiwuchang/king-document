@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//jQuery的 代碼一般 從 ready 開始運行(既 html 加載完成)\n$(document).ready(function(){\n\t//其他 操作\n});\u003c/pre\u003e"

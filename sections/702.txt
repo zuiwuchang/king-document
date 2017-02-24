@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回/设置 html\n$(selector).html();\n\n$(selector).html(html);\n\n//设置html为 函数返回值\n$(selector).html(fun(index,value));\t\n\n\n\n//返回/设置 文本\n$(selector).text();\n$(selector).text(\"\u003cstrong\u003etext 返回/设置 会连同所有后代元素的文本一起 返回/设置\u003c/strong\u003e\");\n\u003c/pre\u003e"

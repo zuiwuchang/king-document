@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ehide show toggle 动态改变元素 高 宽 不透明度 最终使元素是隐藏或显示;\n\n\n\n//隐藏 slow(0.6秒) normal(0.4秒) fast(0.2秒) 最终修改display属性为none\n$(selector).hide(\"slow\");\n\n//显示单位毫秒 最终恢复display属性\n$(selector).show(200);\n\n//切换显示状态 最终效果display属性\n$(selector).toggle(200);\n\u003c/pre\u003e"

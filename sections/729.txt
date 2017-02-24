@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若$.ajax的dataType属性是script 可以接受一段javascript\n这段代码将作为全局javascript\n比如接受的js中定义了一个变量 于是可以sucess函数中直接使用这个变量\n\u003c/pre\u003e"

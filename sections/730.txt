@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejQuery封装了三个快捷的方法 以让我们可以填入更少的参数\n$.get(url,[,data][,sucess],[dateType]);\t//其实就是默认get传输\n$.post(url,[,data][,sucess],[dateType]);\t//...post...\n$.get(\"get.test\",{\"id\":\"123\"},function(){},\"html\");\n\nload...\t//估计余不会用 且打字累了 故不列出具体用法\n\u003c/pre\u003e"

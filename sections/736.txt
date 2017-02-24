@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e$.funName = function(arguments){\n\t...\n}\n\n//或者\n$.extend({\n\t\"funName\":function(){\n\t\t...\n\t}\n\t,\"funName1\":function(){\n\t\t...\n\t}\n\t...\n});\n\u003c/pre\u003e"

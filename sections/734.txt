@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003efor(i=0;i\u0026lt;5;++i){\n\t//為元素 設置附加值\n\t$(\"#test_id\").data(\"key\" + i,\"value\" + i);\n}\n//獲取元素附加值\nalert($(\"#test_id\").data(\"key0\"));\n\n//移除指定 key 的附加值\n$(\"#test_id\").removeData(\"key0\");\nalert($(\"#test_id\").data(\"key0\"));\u003c/pre\u003e"

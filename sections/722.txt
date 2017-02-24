@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ee.which 返回触发的按键信息\n1\t鼠标左键\n2\t鼠标中键\n3\t鼠标右键\n13\t[enter]\n\ne.pageX\t//鼠标相当页面左上角x坐标\ne.pageY\t//...y坐标\n\u003c/pre\u003e"

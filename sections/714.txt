@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可以对元素 事件绑定多个处理函数 \n多次绑定便可实现 触发事件时 依次执行\n\n\n\n$(\"p\").click(function);\n$(\"p\").bind(\"click\",function);\n$(\"p\").bind(\"click dblclick\",function);\t//一次绑定多个事件\n$(\"p\").bind(\"click.namespace\",function);\t//为绑定事件指顶名字空间 \n\n$(\"p\").one(\"click\",function);\t//只触发一次 之后自动移除事件\n\u003c/pre\u003e"

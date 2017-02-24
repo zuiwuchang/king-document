@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e$.fn.underline = function(arguments){\n\t...\n\treturn $(this);\t//jQuery對象方法 一般返回對象 一般可以以連.()形式書寫\n}\n\u003c/pre\u003e"

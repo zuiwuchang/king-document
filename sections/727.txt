@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e[\n\t{\"name\":\"jay\",\"phone\":\"12345\"},\n\t{\"name\":\"illusive man\",\"phone\":\"54321\"}\n]\n上为json数据格式 也可动态生成\n\nfunction(data){\n\t$.each(data,function(index,obj){\n\t\talert(obj.name + obj.phone);\n\t})\n})\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e多个选择器同时使用 选择符合所有选择器要求的元素\n$('div.mydiv') //选择了所有包含class为mydiv的div元素\n\n多个选择器以,(逗号)隔开 选择符合其中之一的元素 ,相当于逻辑或\n$('p,.mydiv')//选择了所有p标签和所有class属性为mydiv的元素\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//在0.2秒内使p的width为0\n$(\"p\").animate({\"width\":\"hide\"},200);\n\n//延迟0.6秒后 在0.2秒内使p的width为0\n$(\"p\").delay(slow).animate({\"width\":\"hide\"},200);\u003c/pre\u003e"
