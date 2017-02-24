@@ -2,7 +2,7 @@ var __v=[
 		{
 			"Id": 652,
 			"Panel": 364,
-			"Name": "go-duktape.v2",
+			"Name": "go-duktape",
 			"Sort": 0,
 			"Str": ""
 		},

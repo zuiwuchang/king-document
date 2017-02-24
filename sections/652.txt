@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003ego-duktape.v2 是一個 duktape 的開源(MIT) go 綁定 \n爲 go 提供了 在cgo下 使用 duktape的功能\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003ego-duktape 是一個 duktape 的開源(MIT) go 綁定 \n爲 go 提供了 在cgo下 使用 duktape的功能\n\n官网 \u003ca href=\"https://github.com/olebedev/go-duktape/tree/v3\" target=\"_blank\"\u003ehttps://github.com/olebedev/go-duktape/tree/v3\u003c/a\u003e\ngo get gopkg.in/olebedev/go-duktape.v3\n\u003c/pre\u003e"

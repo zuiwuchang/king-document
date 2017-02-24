@@ -1742,7 +1742,7 @@ var __v={
 		"364": {
 			"Id": 364,
 			"Chapter": 140,
-			"Name": "go-duktape.v2",
+			"Name": "go-duktape",
 			"Sort": 0
 		},
 		"365": {
