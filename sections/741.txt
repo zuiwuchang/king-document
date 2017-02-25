@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejQuery 使用 $ 调用函数 然 若和不同版本jquery 或其他javascript库一起使用\n$可能冲突 jQuery可以 使用 $.noConflict(true) 改变变量名\n\u003c/pre\u003e"

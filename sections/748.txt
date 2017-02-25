@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e$('div').grumble({\n\ttext: 'this is a test',\n\thideAfter: 2000,\n});\u003c/pre\u003e"

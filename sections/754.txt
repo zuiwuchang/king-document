@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從官網下載最新版本 jQuery-contextMenu-master.zip 並解壓\u003c/li\u003e\n\t\u003cli\u003e將src/ 中所有 文件引入項目\u003c/li\u003e\n\t\u003cli\u003e調用 $.contextMenu 爲元素增加右鍵菜單\u003c/li\u003e\n\u003c/ol\u003e"

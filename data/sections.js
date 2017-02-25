@@ -4667,5 +4667,551 @@ var __v=[
 			"Name": "容器管理",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 679,
+			"Panel": 384,
+			"Name": "jquery",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 680,
+			"Panel": 385,
+			"Name": "DOM to jQuery",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 681,
+			"Panel": 385,
+			"Name": "jQuery to DOM",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 682,
+			"Panel": 386,
+			"Name": "基本选择器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 683,
+			"Panel": 386,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 684,
+			"Panel": 387,
+			"Name": "过滤选择器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 685,
+			"Panel": 387,
+			"Name": "基本 过滤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 686,
+			"Panel": 387,
+			"Name": "子元素 过滤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 687,
+			"Panel": 387,
+			"Name": "内容 过滤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 688,
+			"Panel": 387,
+			"Name": "可见性 过滤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 689,
+			"Panel": 387,
+			"Name": "属性 过滤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 690,
+			"Panel": 388,
+			"Name": "层次选择器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 691,
+			"Panel": 389,
+			"Name": "表单选择器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 692,
+			"Panel": 390,
+			"Name": "改为后代元素",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 693,
+			"Panel": 391,
+			"Name": "改为祖先元素",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 694,
+			"Panel": 392,
+			"Name": "改为兄弟元素",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 695,
+			"Panel": 393,
+			"Name": "other",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 696,
+			"Panel": 394,
+			"Name": "移动 添加",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 697,
+			"Panel": 394,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 698,
+			"Panel": 395,
+			"Name": "替换 包裹 删除",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 699,
+			"Panel": 396,
+			"Name": "attr",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 700,
+			"Panel": 397,
+			"Name": "css",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 701,
+			"Panel": 396,
+			"Name": "class",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 702,
+			"Panel": 396,
+			"Name": "html",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 703,
+			"Panel": 396,
+			"Name": "表單",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 704,
+			"Panel": 397,
+			"Name": "尺寸",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 705,
+			"Panel": 397,
+			"Name": "位置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 706,
+			"Panel": 398,
+			"Name": "隐藏 显示",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 707,
+			"Panel": 399,
+			"Name": "淡入 淡出",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 708,
+			"Panel": 400,
+			"Name": "滑出 滑入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 709,
+			"Panel": 401,
+			"Name": "自定义动画",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 710,
+			"Panel": 401,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 711,
+			"Panel": 401,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 712,
+			"Panel": 402,
+			"Name": "ready",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 713,
+			"Panel": 403,
+			"Name": "事件类型",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 714,
+			"Panel": 404,
+			"Name": "绑定事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 715,
+			"Panel": 404,
+			"Name": "移除事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 716,
+			"Panel": 404,
+			"Name": "委派事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 717,
+			"Panel": 404,
+			"Name": "移除委派",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 718,
+			"Panel": 404,
+			"Name": "触发事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 719,
+			"Panel": 405,
+			"Name": "hover toggle",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 720,
+			"Panel": 406,
+			"Name": "事件对象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 721,
+			"Panel": 406,
+			"Name": "参数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 722,
+			"Panel": 406,
+			"Name": "触发信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 723,
+			"Panel": 406,
+			"Name": "other",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 724,
+			"Panel": 407,
+			"Name": "ajax",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 725,
+			"Panel": 407,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 726,
+			"Panel": 407,
+			"Name": "sucess处理xml",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 727,
+			"Panel": 407,
+			"Name": "sucess处理json",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 728,
+			"Panel": 408,
+			"Name": "ajax全局设置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 729,
+			"Panel": 409,
+			"Name": "other",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 730,
+			"Panel": 409,
+			"Name": "ajax快捷方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 731,
+			"Panel": 409,
+			"Name": "跨域",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 732,
+			"Panel": 410,
+			"Name": "字符串",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 733,
+			"Panel": 411,
+			"Name": "each 遍歷元素",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 734,
+			"Panel": 412,
+			"Name": "data 附加數據",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 735,
+			"Panel": 413,
+			"Name": "插件開發",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 736,
+			"Panel": 414,
+			"Name": "擴展 jQuery基本 方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 737,
+			"Panel": 414,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 738,
+			"Panel": 415,
+			"Name": "擴展 jQuery對象 方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 739,
+			"Panel": 415,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 741,
+			"Panel": 417,
+			"Name": "多版本共存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 742,
+			"Panel": 417,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 743,
+			"Panel": 418,
+			"Name": "messenger",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 744,
+			"Panel": 418,
+			"Name": "依賴",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 745,
+			"Panel": 418,
+			"Name": "Doc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 746,
+			"Panel": 419,
+			"Name": "新段落",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 747,
+			"Panel": 420,
+			"Name": "grumble",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 748,
+			"Panel": 420,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 749,
+			"Panel": 421,
+			"Name": "jstree",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 750,
+			"Panel": 421,
+			"Name": "獲取支持",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 751,
+			"Panel": 422,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 752,
+			"Panel": 423,
+			"Name": "jqplot",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 753,
+			"Panel": 424,
+			"Name": "contextMenu",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 754,
+			"Panel": 424,
+			"Name": "獲取支持",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 755,
+			"Panel": 424,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 756,
+			"Panel": 425,
+			"Name": "jqModal",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 757,
+			"Panel": 425,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

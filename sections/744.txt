@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e將build 文件夾複製到項目\n\nJS\n\tjquery-*.min.js\n\t/build/js/messenger.min.js\n\t/build/js/messenger-theme-future.js\n\nCSS\n\t/build/css/messenger.css\n\t/build/css/messenger-theme-future.css\n\u003c/pre\u003e"

@@ -1871,10 +1871,106 @@ var __v={
 			"Name": "容器管理",
 			"Sort": 0
 		},
+		"384": {
+			"Id": 384,
+			"Chapter": 157,
+			"Name": "jquery",
+			"Sort": 0
+		},
+		"385": {
+			"Id": 385,
+			"Chapter": 158,
+			"Name": "jQuery和DOM转换",
+			"Sort": 0
+		},
+		"386": {
+			"Id": 386,
+			"Chapter": 158,
+			"Name": "基本选择器",
+			"Sort": 0
+		},
+		"387": {
+			"Id": 387,
+			"Chapter": 158,
+			"Name": "过滤选择器",
+			"Sort": 0
+		},
+		"388": {
+			"Id": 388,
+			"Chapter": 158,
+			"Name": "层次选择器",
+			"Sort": 0
+		},
+		"389": {
+			"Id": 389,
+			"Chapter": 158,
+			"Name": "表单选择器",
+			"Sort": 0
+		},
 		"39": {
 			"Id": 39,
 			"Chapter": 15,
 			"Name": "事務",
+			"Sort": 0
+		},
+		"390": {
+			"Id": 390,
+			"Chapter": 159,
+			"Name": "改为后代元素",
+			"Sort": 0
+		},
+		"391": {
+			"Id": 391,
+			"Chapter": 159,
+			"Name": "改为祖先元素",
+			"Sort": 0
+		},
+		"392": {
+			"Id": 392,
+			"Chapter": 159,
+			"Name": "改为兄弟元素",
+			"Sort": 0
+		},
+		"393": {
+			"Id": 393,
+			"Chapter": 159,
+			"Name": "other",
+			"Sort": 0
+		},
+		"394": {
+			"Id": 394,
+			"Chapter": 160,
+			"Name": "移动 添加",
+			"Sort": 0
+		},
+		"395": {
+			"Id": 395,
+			"Chapter": 160,
+			"Name": "替换 包裹 删除",
+			"Sort": 0
+		},
+		"396": {
+			"Id": 396,
+			"Chapter": 161,
+			"Name": "attr",
+			"Sort": 0
+		},
+		"397": {
+			"Id": 397,
+			"Chapter": 161,
+			"Name": "css",
+			"Sort": 0
+		},
+		"398": {
+			"Id": 398,
+			"Chapter": 162,
+			"Name": "隐藏 显示",
+			"Sort": 0
+		},
+		"399": {
+			"Id": 399,
+			"Chapter": 162,
+			"Name": "淡入 淡出",
 			"Sort": 0
 		},
 		"4": {
@@ -1889,10 +1985,160 @@ var __v={
 			"Name": "緩存",
 			"Sort": 0
 		},
+		"400": {
+			"Id": 400,
+			"Chapter": 162,
+			"Name": "滑出 滑入",
+			"Sort": 0
+		},
+		"401": {
+			"Id": 401,
+			"Chapter": 162,
+			"Name": "自定义动画",
+			"Sort": 0
+		},
+		"402": {
+			"Id": 402,
+			"Chapter": 163,
+			"Name": "ready",
+			"Sort": 0
+		},
+		"403": {
+			"Id": 403,
+			"Chapter": 163,
+			"Name": "事件类型",
+			"Sort": 0
+		},
+		"404": {
+			"Id": 404,
+			"Chapter": 163,
+			"Name": "绑定事件",
+			"Sort": 0
+		},
+		"405": {
+			"Id": 405,
+			"Chapter": 163,
+			"Name": "hover toggle",
+			"Sort": 0
+		},
+		"406": {
+			"Id": 406,
+			"Chapter": 163,
+			"Name": "事件对象",
+			"Sort": 0
+		},
+		"407": {
+			"Id": 407,
+			"Chapter": 164,
+			"Name": "ajax",
+			"Sort": 0
+		},
+		"408": {
+			"Id": 408,
+			"Chapter": 164,
+			"Name": "ajax全局设置",
+			"Sort": 0
+		},
+		"409": {
+			"Id": 409,
+			"Chapter": 164,
+			"Name": "other",
+			"Sort": 0
+		},
+		"410": {
+			"Id": 410,
+			"Chapter": 165,
+			"Name": "字符串",
+			"Sort": 0
+		},
+		"411": {
+			"Id": 411,
+			"Chapter": 165,
+			"Name": "each 遍歷元素",
+			"Sort": 0
+		},
+		"412": {
+			"Id": 412,
+			"Chapter": 165,
+			"Name": "data 附加數據",
+			"Sort": 0
+		},
+		"413": {
+			"Id": 413,
+			"Chapter": 166,
+			"Name": "插件開發",
+			"Sort": 0
+		},
+		"414": {
+			"Id": 414,
+			"Chapter": 166,
+			"Name": "擴展 jQuery基本 方法",
+			"Sort": 0
+		},
+		"415": {
+			"Id": 415,
+			"Chapter": 166,
+			"Name": "擴展 jQuery對象 方法",
+			"Sort": 0
+		},
+		"417": {
+			"Id": 417,
+			"Chapter": 157,
+			"Name": "多版本共存",
+			"Sort": 0
+		},
+		"418": {
+			"Id": 418,
+			"Chapter": 167,
+			"Name": "messenger",
+			"Sort": 0
+		},
+		"419": {
+			"Id": 419,
+			"Chapter": 167,
+			"Name": "Example",
+			"Sort": 0
+		},
 		"42": {
 			"Id": 42,
 			"Chapter": 18,
 			"Name": "Google Search",
+			"Sort": 0
+		},
+		"420": {
+			"Id": 420,
+			"Chapter": 168,
+			"Name": "grumble",
+			"Sort": 0
+		},
+		"421": {
+			"Id": 421,
+			"Chapter": 169,
+			"Name": "jstree",
+			"Sort": 0
+		},
+		"422": {
+			"Id": 422,
+			"Chapter": 169,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"423": {
+			"Id": 423,
+			"Chapter": 170,
+			"Name": "jqplot",
+			"Sort": 0
+		},
+		"424": {
+			"Id": 424,
+			"Chapter": 171,
+			"Name": "contextMenu",
+			"Sort": 0
+		},
+		"425": {
+			"Id": 425,
+			"Chapter": 172,
+			"Name": "jqModal",
 			"Sort": 0
 		},
 		"43": {
