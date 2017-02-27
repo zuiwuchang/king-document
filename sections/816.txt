@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//在倉庫中 查找 ubuntu 映像\nsudo docker search ubuntu\n\n//將 倉庫中 名爲 ubuntu 的映像 下載到本地\nsudo docker pull ubuntu\n\u003c/pre\u003e"

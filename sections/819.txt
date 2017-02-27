@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e資料卷容器 就是一個 帶資料卷的 正常的容器\n其它容器 使用 --volumes-from 來 掛接 資料卷\n\u003c/pre\u003e"

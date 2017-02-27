@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建 容器 kt 掛接 /home/king:/webapp \nsudo docker run -it --name kt  -v /home/king:/webapp  ubuntu /bin/bash\n\n//創建 容器 ktd0 ktd1 掛接 容器 kt 的資料卷\nsudo docker run -it --volumes-from kt --name ktd0 ubuntu /bin/bash\nsudo docker run -it --volumes-from kt --name ktd1 ubuntu /bin/bash\n\u003c/pre\u003e"

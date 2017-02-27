@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e刪除容器 不會刪除 資料卷\n需要 在刪除 最後一個 使用 資料卷 的容器時 加上 -v 參數\n\nsudo docker rm -v kt\n\u003c/pre\u003e"
