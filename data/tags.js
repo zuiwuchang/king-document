@@ -38,7 +38,7 @@ var __v=[
 			"Id": 6,
 			"Pid": 0,
 			"Name": "web",
-			"Sort": 7,
+			"Sort": 8,
 			"Docs": 0
 		},
 		{
@@ -52,14 +52,14 @@ var __v=[
 			"Id": 8,
 			"Pid": 0,
 			"Name": "中華美食",
-			"Sort": 11,
+			"Sort": 12,
 			"Docs": 1
 		},
 		{
 			"Id": 10,
 			"Pid": 0,
 			"Name": "其它",
-			"Sort": 12,
+			"Sort": 13,
 			"Docs": 0
 		},
 		{
@@ -94,14 +94,14 @@ var __v=[
 			"Id": 15,
 			"Pid": 0,
 			"Name": "編程",
-			"Sort": 2,
+			"Sort": 5,
 			"Docs": 3
 		},
 		{
 			"Id": 18,
 			"Pid": 0,
 			"Name": "os",
-			"Sort": 5,
+			"Sort": 4,
 			"Docs": 0
 		},
 		{
@@ -115,21 +115,21 @@ var __v=[
 			"Id": 20,
 			"Pid": 0,
 			"Name": "代理",
-			"Sort": 10,
+			"Sort": 11,
 			"Docs": 4
 		},
 		{
 			"Id": 21,
 			"Pid": 0,
 			"Name": "版本控制",
-			"Sort": 9,
+			"Sort": 10,
 			"Docs": 2
 		},
 		{
 			"Id": 22,
 			"Pid": 0,
 			"Name": "服務器",
-			"Sort": 8,
+			"Sort": 9,
 			"Docs": 3
 		},
 		{
@@ -157,7 +157,7 @@ var __v=[
 			"Id": 27,
 			"Pid": 0,
 			"Name": "分佈式系統",
-			"Sort": 6,
+			"Sort": 7,
 			"Docs": 0
 		},
 		{
@@ -192,7 +192,7 @@ var __v=[
 			"Id": 34,
 			"Pid": 0,
 			"Name": "開源項目",
-			"Sort": 4,
+			"Sort": 6,
 			"Docs": 0
 		},
 		{
@@ -242,6 +242,13 @@ var __v=[
 			"Pid": 43,
 			"Name": "梅豔芳",
 			"Sort": 1,
+			"Docs": 1
+		},
+		{
+			"Id": 45,
+			"Pid": 0,
+			"Name": "遊戲攻略",
+			"Sort": 2,
 			"Docs": 1
 		},
 		{

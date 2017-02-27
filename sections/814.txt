@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cimg src=\"sections/814/image/N43_E.jpg\" style=\"width: 100%\" /\u003e\n\u003cstrong\u003e天文台 天文望遠鏡後邊\u003c/strong\u003e\n\u003cimg src=\"sections/814/image/N43.jpg\" style=\"width: 100%\" /\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cimg src=\"sections/807/image/N36_E.jpg\" style=\"width: 100%\" /\u003e\n\u003cstrong\u003e中國餐館 鴉片室\u003c/strong\u003e\n\u003cimg src=\"sections/807/image/N36.jpg\" style=\"width: 100%\" /\u003e\n\u003c/pre\u003e"

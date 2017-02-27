@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cimg src=\"sections/787/image/N19_E.jpg\" style=\"width: 100%\" /\u003e\n\u003cstrong\u003e工廠交火 左轉後 第一個 右側房子內\u003c/strong\u003e\n\u003cimg src=\"sections/787/image/N19.jpg\" style=\"width: 100%\" /\u003e\n\u003c/pre\u003e"

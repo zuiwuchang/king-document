@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cimg src=\"sections/765/image/N1_E.jpg\" style=\"width: 100%\" /\u003e\n\u003cstrong\u003eMike辦公室對面 車房木架上\u003c/strong\u003e\n\u003cimg src=\"sections/765/image/N1.jpg\" style=\"width: 100%\" /\u003e\n\u003c/pre\u003e"

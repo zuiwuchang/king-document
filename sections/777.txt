@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cimg src=\"sections/777/image/N11_E.jpg\" style=\"width: 100%\" /\u003e\n\u003cstrong\u003e223公寓頂樓地上\u003c/strong\u003e\n\u003cimg src=\"sections/777/image/N11.jpg\" style=\"width: 100%\" /\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cimg src=\"sections/788/image/N21_E.jpg\" style=\"width: 100%\" /\u003e\n\u003cstrong\u003e工廠交火結束 油桶下\u003c/strong\u003e\n\u003cimg src=\"sections/788/image/N21.jpg\" style=\"width: 100%\" /\u003e\n\u003c/pre\u003e"
