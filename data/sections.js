@@ -5647,5 +5647,12 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 822,
+			"Panel": 383,
+			"Name": "離開 docket",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

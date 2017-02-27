@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//離開 容器 並且 停止 容器\nexit\n\n//離開容器 但 不要停止 容器(在後臺繼續運行)\nCTRL-p + CTRL-q\n\u003c/pre\u003e"
