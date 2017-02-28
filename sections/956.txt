@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCipher Book Chaining (密文链接模式)\n前面前 加密块先与前一块加密的密文异或 然后在和密钥加密\n第一块加密数据 先和iv异或 在和密匙加密\n\u003c/pre\u003e"

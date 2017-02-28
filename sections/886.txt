@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eJTextArea jTextArea = new JTextArea(3,20);\nJScrollPane jScrollPane = new JScrollPane(jTextArea);\nadd(jScrollPane);\u003c/pre\u003e"

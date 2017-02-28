@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport java.text.NumberFormat;\n\nclass NumberFormat 提供了 格式化貨幣的 功能\n\n1\t使用 getCurrencyInstance() 返回一個系統貨幣格式\n\t或getCurrencyInstance(Locale) 返回一個指定的貨幣格式\n2\t調用 format 傳入數值 返回格式化後的字符串\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//帶各種格式的 文本輸出 對象\nPrintWriter(File file)\nPrintWriter(Writer out)\n\n//文本輸出 緩衝對象\nBufferedWriter(Writer out) \n\n//文本輸出 對象\nFileWriter(File file) \nFileWriter(String fileName, boolean append/*true 添加到文件尾*/) \n\n\n\nPrintWriter\n\t-\u0026gt;BufferedWriter\n\t\t-\u0026gt;FileWriter\n\u003c/pre\u003e"

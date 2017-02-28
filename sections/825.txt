@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//查看版本\njava -version\njavac -version\n\n//編譯 java 字節碼\njavac *.java\n\n//執行 java 程序\njava path\n\u003c/pre\u003e"

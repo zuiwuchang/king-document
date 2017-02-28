@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eThread 提供了一些函數 用於控制線程\n\u003c/pre\u003e"

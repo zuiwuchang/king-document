@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava.util.zip 包中 提供了對 zip gzip的支持\n\n//gzip 輸入 輸出 流對象\nGZIPInputStream(InputStream in)\nGZIPOutputStream(OutputStream out)\n\n//zip 輸入 輸出 流對象\nZipInputStream(InputStream in)\nZipOutputStream(OutputStream out)\n\u003c/pre\u003e"

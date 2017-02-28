@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//文本輸入 緩衝區\nBufferedReader(Reader in)\n\n//文本輸入 對象\nFileReader(File file)\n\n\n\nBufferedReader\n\t-\u0026gt;FileReader\n\u003c/pre\u003e"

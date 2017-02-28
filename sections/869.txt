@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCollections 提供了一些static算法 用於容器\n包括 逆序 排序 搜索  亂序 替換 返回最大/小值...\n\u003c/pre\u003e"

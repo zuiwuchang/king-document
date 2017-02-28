@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eString str   =   \"1911-10-10\";\nStringTokenizer  token   =   new  StringTokenizer(str,\"-\");\n\nwhile(token.hasMoreTokens())\n{\n\tSystem.out.println(token.nextToken());\n}\u003c/pre\u003e"

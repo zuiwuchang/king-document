@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 的 if while 同c++\nswitch\n?:\nfor\ndo{}while;\nbreak\ncontinue\n不過其判別式必須是 true false 而非 非0既真(真是SB)\n\u003c/pre\u003e"

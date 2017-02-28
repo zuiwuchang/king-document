@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 無參rollback()可以 回滾事\n亦可設置一個 回滾 標記 只 回滾到 此處\nSaveopint point\t=\tnull;\ntry\n{\n\t...\n\tstm.exe...\n\tpoint = con.setSavepoint();\n\tstm.exe...\n\t...\n}\ncatch()\n{\n\tif(point != null)\n\t{\n\t\tcon. rollback( point)\n\t}\n}\n\u003c/pre\u003e"

@@ -2357,11 +2357,65 @@ var __v={
 			"Name": "資料卷容器",
 			"Sort": 0
 		},
+		"459": {
+			"Id": 459,
+			"Chapter": 179,
+			"Name": "java",
+			"Sort": 0
+		},
 		"46": {
 			"Id": 46,
 			"Chapter": 19,
 			"Name": "Chrome",
 			"Sort": 3
+		},
+		"461": {
+			"Id": 461,
+			"Chapter": 179,
+			"Name": "安裝",
+			"Sort": 0
+		},
+		"462": {
+			"Id": 462,
+			"Chapter": 179,
+			"Name": "常用java命令",
+			"Sort": 0
+		},
+		"464": {
+			"Id": 464,
+			"Chapter": 181,
+			"Name": "基礎語法",
+			"Sort": 0
+		},
+		"465": {
+			"Id": 465,
+			"Chapter": 181,
+			"Name": "位操作",
+			"Sort": 0
+		},
+		"466": {
+			"Id": 466,
+			"Chapter": 181,
+			"Name": "基本型別",
+			"Sort": 0
+		},
+		"467": {
+			"Id": 467,
+			"Chapter": 181,
+			"Name": "class",
+			"Sort": 0
+		},
+		"468": {
+			"Id": 468,
+			"Chapter": 181,
+			"Name": "包",
+			"Sort": 0
+		},
+		"469": {
+			"Id": 469,
+			"Chapter": 181,
+			"Name": "基本輸入輸出",
+			"Sort": 0
 		},
 		"47": {
 			"Id": 47,
@@ -2369,16 +2423,196 @@ var __v={
 			"Name": "啟動參數",
 			"Sort": 1
 		},
+		"470": {
+			"Id": 470,
+			"Chapter": 181,
+			"Name": "控制流程",
+			"Sort": 0
+		},
+		"471": {
+			"Id": 471,
+			"Chapter": 181,
+			"Name": "異常",
+			"Sort": 0
+		},
+		"472": {
+			"Id": 472,
+			"Chapter": 181,
+			"Name": "格式化輸出",
+			"Sort": 0
+		},
+		"473": {
+			"Id": 473,
+			"Chapter": 181,
+			"Name": "轉型",
+			"Sort": 0
+		},
+		"474": {
+			"Id": 474,
+			"Chapter": 182,
+			"Name": "深入",
+			"Sort": 0
+		},
+		"475": {
+			"Id": 475,
+			"Chapter": 182,
+			"Name": "繼承",
+			"Sort": 0
+		},
+		"476": {
+			"Id": 476,
+			"Chapter": 182,
+			"Name": "interface",
+			"Sort": 0
+		},
+		"477": {
+			"Id": 477,
+			"Chapter": 183,
+			"Name": "array",
+			"Sort": 0
+		},
+		"478": {
+			"Id": 478,
+			"Chapter": 183,
+			"Name": "for",
+			"Sort": 0
+		},
+		"479": {
+			"Id": 479,
+			"Chapter": 183,
+			"Name": "class Arrays",
+			"Sort": 0
+		},
 		"48": {
 			"Id": 48,
 			"Chapter": 19,
 			"Name": "Chromium",
 			"Sort": 2
 		},
+		"480": {
+			"Id": 480,
+			"Chapter": 183,
+			"Name": "字符串",
+			"Sort": 0
+		},
+		"481": {
+			"Id": 481,
+			"Chapter": 183,
+			"Name": "StringTokenizer",
+			"Sort": 0
+		},
+		"482": {
+			"Id": 482,
+			"Chapter": 183,
+			"Name": "正則表達式",
+			"Sort": 0
+		},
+		"483": {
+			"Id": 483,
+			"Chapter": 183,
+			"Name": "jar",
+			"Sort": 0
+		},
+		"484": {
+			"Id": 484,
+			"Chapter": 184,
+			"Name": "容器算法",
+			"Sort": 0
+		},
+		"485": {
+			"Id": 485,
+			"Chapter": 184,
+			"Name": "容器",
+			"Sort": 0
+		},
+		"486": {
+			"Id": 486,
+			"Chapter": 184,
+			"Name": "算法",
+			"Sort": 0
+		},
+		"487": {
+			"Id": 487,
+			"Chapter": 185,
+			"Name": "thread",
+			"Sort": 0
+		},
+		"488": {
+			"Id": 488,
+			"Chapter": 185,
+			"Name": "線程控制",
+			"Sort": 0
+		},
+		"489": {
+			"Id": 489,
+			"Chapter": 185,
+			"Name": "同步",
+			"Sort": 0
+		},
 		"49": {
 			"Id": 49,
 			"Chapter": 20,
 			"Name": "Noto",
+			"Sort": 0
+		},
+		"490": {
+			"Id": 490,
+			"Chapter": 185,
+			"Name": "ReentrantReadWriteLock 讀寫鎖",
+			"Sort": 0
+		},
+		"491": {
+			"Id": 491,
+			"Chapter": 186,
+			"Name": "gui",
+			"Sort": 0
+		},
+		"492": {
+			"Id": 492,
+			"Chapter": 186,
+			"Name": "JFrame",
+			"Sort": 0
+		},
+		"493": {
+			"Id": 493,
+			"Chapter": 186,
+			"Name": "JPanel",
+			"Sort": 0
+		},
+		"494": {
+			"Id": 494,
+			"Chapter": 186,
+			"Name": "JButton ActionListener",
+			"Sort": 0
+		},
+		"495": {
+			"Id": 495,
+			"Chapter": 186,
+			"Name": "JScrollPane",
+			"Sort": 0
+		},
+		"496": {
+			"Id": 496,
+			"Chapter": 186,
+			"Name": "JLabel",
+			"Sort": 0
+		},
+		"497": {
+			"Id": 497,
+			"Chapter": 186,
+			"Name": "UI",
+			"Sort": 0
+		},
+		"498": {
+			"Id": 498,
+			"Chapter": 187,
+			"Name": "layout",
+			"Sort": 0
+		},
+		"499": {
+			"Id": 499,
+			"Chapter": 187,
+			"Name": "FlowLayout",
 			"Sort": 0
 		},
 		"5": {
@@ -2393,10 +2627,130 @@ var __v={
 			"Name": "Noto Sans CJK",
 			"Sort": 0
 		},
+		"500": {
+			"Id": 500,
+			"Chapter": 187,
+			"Name": "BorderLayout",
+			"Sort": 0
+		},
+		"501": {
+			"Id": 501,
+			"Chapter": 187,
+			"Name": "佈局嵌套 邊框",
+			"Sort": 0
+		},
+		"502": {
+			"Id": 502,
+			"Chapter": 187,
+			"Name": "JTabbedPane",
+			"Sort": 0
+		},
+		"503": {
+			"Id": 503,
+			"Chapter": 187,
+			"Name": "BoxLayout",
+			"Sort": 0
+		},
+		"504": {
+			"Id": 504,
+			"Chapter": 187,
+			"Name": "GridLayout",
+			"Sort": 0
+		},
+		"505": {
+			"Id": 505,
+			"Chapter": 188,
+			"Name": "File",
+			"Sort": 0
+		},
+		"506": {
+			"Id": 506,
+			"Chapter": 188,
+			"Name": "文本文件",
+			"Sort": 0
+		},
+		"507": {
+			"Id": 507,
+			"Chapter": 188,
+			"Name": "二進制文件",
+			"Sort": 0
+		},
+		"508": {
+			"Id": 508,
+			"Chapter": 188,
+			"Name": "序列化",
+			"Sort": 0
+		},
+		"509": {
+			"Id": 509,
+			"Chapter": 188,
+			"Name": "隨機文件",
+			"Sort": 0
+		},
 		"51": {
 			"Id": 51,
 			"Chapter": 20,
 			"Name": "安裝",
+			"Sort": 0
+		},
+		"510": {
+			"Id": 510,
+			"Chapter": 188,
+			"Name": "壓縮文件",
+			"Sort": 0
+		},
+		"511": {
+			"Id": 511,
+			"Chapter": 189,
+			"Name": "jdbc",
+			"Sort": 0
+		},
+		"512": {
+			"Id": 512,
+			"Chapter": 189,
+			"Name": "基本操作",
+			"Sort": 0
+		},
+		"513": {
+			"Id": 513,
+			"Chapter": 189,
+			"Name": "PreparedStatement 預處理",
+			"Sort": 0
+		},
+		"514": {
+			"Id": 514,
+			"Chapter": 189,
+			"Name": "事物處理",
+			"Sort": 0
+		},
+		"515": {
+			"Id": 515,
+			"Chapter": 190,
+			"Name": "email",
+			"Sort": 0
+		},
+		"516": {
+			"Id": 516,
+			"Chapter": 190,
+			"Name": "地址",
+			"Sort": 0
+		},
+		"517": {
+			"Id": 517,
+			"Chapter": 190,
+			"Name": "smpt example",
+			"Sort": 0
+		},
+		"518": {
+			"Id": 518,
+			"Chapter": 190,
+			"Name": "附件 example",
+			"Sort": 0
+		},
+		"519": {
+			"Id": 519,
+			"Chapter": 190,
+			"Name": "ssl example",
 			"Sort": 0
 		},
 		"52": {
@@ -2405,16 +2759,142 @@ var __v={
 			"Name": "gopher-lua",
 			"Sort": 0
 		},
+		"520": {
+			"Id": 520,
+			"Chapter": 191,
+			"Name": "解除限制",
+			"Sort": 0
+		},
+		"521": {
+			"Id": 521,
+			"Chapter": 191,
+			"Name": "添加BouncyCastle",
+			"Sort": 0
+		},
+		"522": {
+			"Id": 522,
+			"Chapter": 191,
+			"Name": "Hex",
+			"Sort": 0
+		},
+		"523": {
+			"Id": 523,
+			"Chapter": 192,
+			"Name": "Base64",
+			"Sort": 0
+		},
+		"524": {
+			"Id": 524,
+			"Chapter": 192,
+			"Name": "UrlBase64",
+			"Sort": 0
+		},
+		"525": {
+			"Id": 525,
+			"Chapter": 193,
+			"Name": "摘要算法",
+			"Sort": 0
+		},
+		"526": {
+			"Id": 526,
+			"Chapter": 193,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"527": {
+			"Id": 527,
+			"Chapter": 193,
+			"Name": "MAC算法",
+			"Sort": 0
+		},
+		"528": {
+			"Id": 528,
+			"Chapter": 193,
+			"Name": "other摘要算法",
+			"Sort": 0
+		},
+		"529": {
+			"Id": 529,
+			"Chapter": 193,
+			"Name": "文件摘要",
+			"Sort": 0
+		},
 		"53": {
 			"Id": 53,
 			"Chapter": 22,
 			"Name": "gettext-go",
 			"Sort": 0
 		},
+		"530": {
+			"Id": 530,
+			"Chapter": 193,
+			"Name": "CRC",
+			"Sort": 0
+		},
+		"531": {
+			"Id": 531,
+			"Chapter": 194,
+			"Name": "算法",
+			"Sort": 0
+		},
+		"532": {
+			"Id": 532,
+			"Chapter": 194,
+			"Name": "填充方式",
+			"Sort": 0
+		},
+		"533": {
+			"Id": 533,
+			"Chapter": 194,
+			"Name": "工作模式",
+			"Sort": 0
+		},
+		"534": {
+			"Id": 534,
+			"Chapter": 194,
+			"Name": "AES",
+			"Sort": 0
+		},
+		"535": {
+			"Id": 535,
+			"Chapter": 194,
+			"Name": "PBE",
+			"Sort": 0
+		},
+		"536": {
+			"Id": 536,
+			"Chapter": 195,
+			"Name": "RSA",
+			"Sort": 0
+		},
+		"537": {
+			"Id": 537,
+			"Chapter": 195,
+			"Name": "ElGamal",
+			"Sort": 0
+		},
+		"538": {
+			"Id": 538,
+			"Chapter": 196,
+			"Name": "RSA签名",
+			"Sort": 0
+		},
+		"539": {
+			"Id": 539,
+			"Chapter": 196,
+			"Name": "DSA签名",
+			"Sort": 0
+		},
 		"54": {
 			"Id": 54,
 			"Chapter": 22,
 			"Name": "po",
+			"Sort": 0
+		},
+		"540": {
+			"Id": 540,
+			"Chapter": 196,
+			"Name": "ECDSA签名",
 			"Sort": 0
 		},
 		"55": {

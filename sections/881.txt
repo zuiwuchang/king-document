@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 使用 JPanel 管理ui 其內部以及各低效的所謂控制板 嵌套組成 \n在創建窗口後 需要增加一個 JPanel的子類到 窗口 然後在 JPanel子類的構造函數中 初始化 需要的ui控件\n\u003c/pre\u003e"

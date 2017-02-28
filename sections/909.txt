@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//帶序列化的 二進制輸出對象\nDataOutputStream(OutputStream out)\n\n//二進制輸出 緩衝區\nBufferedOutputStream(OutputStream out)\n\n//二進制輸出對象\nFileOutputStream(File file)\nFileOutputStream(File file, boolean append)\n\n\n\nDataOutputStream\n\t-\u0026gt;BufferedOutputStream\n\t\t-\u0026gt;FileOutputStream\n\u003c/pre\u003e"

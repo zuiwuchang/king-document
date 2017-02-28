@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 存在4中訪問權限\npublic protected private 包訪問權限\n\n若不指定 則為包訪問權限(只能此包訪問)\n\njava中若參數為(java最SB的行為) \n基本型別 則為值傳遞\n\u003cstrong\u003e(String 是值傳遞 java中每個String都是不同的 Object)\u003c/strong\u003e\n否則 引用傳遞\n\n對於class 不能使用=賦值\n這相當於建立了一個引用\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e基本同百分比格式化\n只是由於getPercentInstance 改為調用getNumberInstance\n同樣是使用 setMinimumFractionDigits/setMaximumFractionDigits 設置小數點位數\n\u003c/pre\u003e"

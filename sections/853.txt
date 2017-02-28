@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//java 提供了新的 for 語法 用以 遍歷數組 容器\nint arrays[] = new int[10];\nfor(int i=0;i\u0026lt;arrays.length;++i)\n{\n\tarrays[i] =i;\n}\nfor(int var:arrays)\n{\n\tSystem.out.println(var);\n}\u003c/pre\u003e"

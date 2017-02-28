@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 的容器 真是 讓人想死\nGoogle android 應用還是必須用java包裝 ? Google你裝SB嗎 ?\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eNumberFormat fmt    =    NumberFormat.getCurrencyInstance();\nSystem.out.println(fmt.format(123));\n\nLocale locale   =   Locale.GERMAN;\nfmt    =    NumberFormat.getCurrencyInstance(locale);\nSystem.out.println(fmt.format(123));\u003c/pre\u003e"

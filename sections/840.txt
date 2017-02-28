@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 只能將數值 格式化為字符串 之後輸出 字符串(神一樣的裝b行為)\n\u003c/pre\u003e"

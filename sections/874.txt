@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e快速緩存 用於提高數據訪問 效率 然 某時 緩存值可能和 主存儲器值 不一致\n使用 volatile 關鍵字 可使跳過對緩存的訪問 而直接訪問 主存儲器\n(volatile int x= 0;\t//volatile只能用於 基本型別)\n\njava使用 synchronized 傳入一個同步對象 Object \n定義一個臨界區 臨界區中的 代碼 將自動 lock unlock\n\u003c/pre\u003e"

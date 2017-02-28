@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eToolkit 用於返回本機系統設置 如屏幕分辨率\n\u003c/pre\u003e"

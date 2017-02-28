@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e由于加密解密库的进出口限制 默认sun的java加密环境最大key长度往往不支持到安全长度\n故需要解除此限制\n\n到sun的官网下载jce_policy-6.zip 解除限制文件\t//6是java环境版本\n解压得到 local_policy.jar 和 US_export_policy.jar 文件\n替换JDK_HOME/jre/lib/security/ 和 JRE_HOME/lib/security/ 下的限制文件\n\u003c/pre\u003e"

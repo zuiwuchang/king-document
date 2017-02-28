@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 的異常語法類似 c++\n不過其可 同時\ncatch 和 finally\n\nfinally中的語句 無論 是否出現異常 都被執行\n且java 只能拋出 java.lang.Exception 及其子類作為異常(真是弱)\n\u003c/pre\u003e"

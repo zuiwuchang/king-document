@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 亦提供了對正則表達式的支持\n\n//matches 返回字符串 是否和 傳入的正則表達式 匹配\nboolean String::matches(String regex)\n\u003c/pre\u003e"

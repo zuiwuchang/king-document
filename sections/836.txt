@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport java.util.Scanner;\n\nScanner 接受一個輸入設備構造\n其方法\nnext()\nnextInt()\nnext...\n接受一個 字符串 int short... 輸入\n\nString cmd;\nScanner scan    =   new Scanner(System.in);\ncmd = scan.next();\n\u003c/pre\u003e"

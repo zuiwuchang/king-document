@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport java.math.BigDecimal;\n\nBigDecimal 用於操作超過16位的有效數字\n\nadd\nsubtract\n...\n等方法首先基本算數算法(c++的operator優勢 完秒java)\n\n格式化類 NumberFormat 的 format 亦可傳入BigDecimal\n\u003c/pre\u003e"

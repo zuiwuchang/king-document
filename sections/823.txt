@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 是一個跨平台 完全面向對象的 解釋執行語言\n由sun公司於 1995年正式 釋出\n隨着 2009年4月20日 sun 被 oracle 收購 淪落到 邪惡 oracle 手中(java 陷入無盡黑暗)\n\n官網 \u003ca href=\"http://www.java.com/\" target=\"_blank\"\u003ehttp://www.java.com/\u003c/a\u003e\n\njava 主要包含三個版本\nSE\t標準版 包含核心實現\nEE\t企業版 包含SE全部內容 以及網絡服務等組件\nME\t對手機 PDA設備 TV機頂盒 以及嵌入設備等\n\u003c/pre\u003e"

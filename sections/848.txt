@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e自動轉型基本同 c++\n\nclass\nByte\nShort\nInteger\nLong\nFloat\nDouble\nBoolean\nCharacter\n是對8種基本型別的包裝 其通過傳入基本型別構造\n\ntoString() 轉型為字符串\nintValue longValue...返回基本型別數據\n\nstatic parseByte parseShort... 從字符串轉型為包裝類\n\u003c/pre\u003e"

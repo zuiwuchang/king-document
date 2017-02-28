@@ -224,6 +224,16 @@ var __v={
 			"Tag": 7,
 			"Name": "Google Chrome"
 		},
+		"50": {
+			"Id": 50,
+			"Tag": 46,
+			"Name": "java"
+		},
+		"52": {
+			"Id": 52,
+			"Tag": 46,
+			"Name": "java加密解密"
+		},
 		"6": {
 			"Id": 6,
 			"Tag": 7,

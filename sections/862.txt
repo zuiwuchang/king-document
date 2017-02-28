@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 的程序庫 封裝在 jar 文件中\n要創建 jar 執行如下命令\n\njar cvf name.jar path\\*\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 使用 class String表示一個字符串\n可以使用\n+\n+=\n連接字符串 或基本型別(基本型別會被自動轉型為字符串 [真是糟糕的設計])\n\n要比較字符串是否相等 不能用 == != （這只是比較是否指向同一個地址）\n要調用 String的成員 函數equals 比較相等性\nequalsIgnoreCase 可忽略大小寫比較\n\n\n\njava每個字符串都是 單獨的 object \n任意的修改都將 創建新的 字符串\n\u003c/pre\u003e"

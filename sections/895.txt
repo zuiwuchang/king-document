@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 嵌套多個佈局 只需要 將要嵌套的佈局 設置到 一個 JPanel\n之後將 JPanel 作為UI add 到需要被嵌套的 JPanel中即可\n\njava 中可以給UI 面板 增加一個邊框 只需要創建 一個邊框 之後使用 組件的setBorder 即可\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGridLayout 將窗口分成 n*m 個格子(n行 m列) 每個UI 佔用一個格子\n\u003c/pre\u003e"

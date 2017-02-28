@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport javax.swing.*\n\njava 提供兩種gui組件 AWT\n1.2後 提供Swing 以替代 AWT 其類名前 都相對於AWT 類名 加了個 J\n\u003c/pre\u003e"

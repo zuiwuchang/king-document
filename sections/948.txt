@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eTiger\t摘要长192位 号称最快hash算法 对64位做了特别优化\nWhirlpool 摘要长512位 被称为最安全hash算法 被列入iso标准\nGOST3411 摘要长256位\n\u003c/pre\u003e"

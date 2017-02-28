@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eString str=\"this is CRC-32\";\nSystem.out.println(str);\nCRC32 crc32=new CRC32();\ncrc32.update(str.getBytes());\nstr=Long.toHexString(crc32.getValue());\nSystem.out.println(str);\n\nCheckedInputStream类和CheckedOutputStream类 提供从流进行校验的功能\u003c/pre\u003e"

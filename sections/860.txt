@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 以提供了專門處理正則表達式的 Pattern Matcher\n使用 Pattern 代表一個正則表達式 Matcher記錄匹配結果\n\u003c/pre\u003e"

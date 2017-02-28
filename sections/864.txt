@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava sb的容器只能存儲 Object的及其子類(既不可存儲基本型別)\n\nimport java.util.*\nCollection 是其他容器的 基類\n\njava 提供了 容器 \nArrayList \t\t//std::vector\nLinkedList \t\t//std::list\nHashSet\t\t\t//boost::unordered_set\nHashMap\t\t\t//boost::unordered_map\nTreeMap\t\t\t//std::map\n...\n容器\n\n對於 Hash* \t存儲型別 必須首先 hashCode 返回 hash值\n\u003c/pre\u003e"

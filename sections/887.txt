@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eJLabel 是靜態文本框\n\n使用\nsetText\ngetText\n設置/返回 文本\n\u003c/pre\u003e"

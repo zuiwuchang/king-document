@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 只能單繼承(弱爆)\n但java有 所謂的接口 子類可以繼承多個接口\n\n//定義一個child類 派生自 father\npublic class child extends father\n{};\n\njava 使用 super. 訪問被子類覆蓋的數據\n\njava使用 abstract 定義抽象類 和抽象方法(簽名沒有 優雅的 =0)\n\n在類名前 加上 final 的類 不能被其他類繼承\n\u003c/pre\u003e"

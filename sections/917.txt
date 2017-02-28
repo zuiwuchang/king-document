@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava.sql.*\n\nJDBC 是java数据库编程接口\njava未实现 具体的数据库操作 只定义了接口 由数据库厂商提供 实现\n\u003c/pre\u003e"

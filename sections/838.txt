@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava提供了帶標籤的break \n只能用在 嵌套循環中\n\n0\tout:\n1\tfor\n2\t\tfor\n3\t\tbreak out;\n\n0\t定義了一個標籤\n3\t此處的break 將調出 標籤下面那個循環 既此處外層的break\n\njava亦提供了帶標籤的continue(真是SB的特性)\n用法同帶標籤的 break不過 現在是進入下個循環 而非 跳出\n\u003c/pre\u003e"

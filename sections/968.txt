@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e用法同RSA\n基于离散对数问题 密钥长度 160到16384中8的倍数\n\u003c/pre\u003e"

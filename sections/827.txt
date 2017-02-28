@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 的基本語法 類似c++ 參見c++\n\n//如下 定義了一個常量(java使用final 而非c/c++優美的const)\nfinal int var\t=\t1;\n\njava 中實例化一個對象 必須使用 new 如\nClassName t = new ClassName(); \n\nJava調用static 方法 竟然是使用 . 而非優雅的 ::\n\njava的數學函數 基本額位於 class Math 的static 函數\n\u003c/pre\u003e"

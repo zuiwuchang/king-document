@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 使用class String 表示字符串\nString 的操作 只是創建一個新的引用到字符串 而不改變自身內存\n\nStringBuilder 操作基本同 String 只是 其改變字符串時 是為自己分配內存 之後拷貝字符串到內存\nStringBuffer 基本同StringBuilder 不過其操作都是 線程安全的\n\u003c/pre\u003e"

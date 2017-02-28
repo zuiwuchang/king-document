@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於gmail這種 高安全 郵箱 只能通過 SSL 安全連接 進行 email \n\n1\t下載與 jdk 對應版本 的 JCE 得到 UnlimitedJCEPolicyJDK7.zip 並解壓\n2\t將 local_policy.jar US_export_policy.jar 替換 jdk jre 下的原版本 lib\\security\\*\n\u003c/pre\u003e"

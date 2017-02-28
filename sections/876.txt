@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eReentrantReadWriteLock 是java提供的讀寫鎖\n\n其 readLock() 返回一個 ReadLock 實例 使用 實例的 lock unlock 進行 讀鎖定\nwriteLock() ... 寫鎖定\n\u003c/pre\u003e"

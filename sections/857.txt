@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport java.util.StringTokenizer;\n\nclass StringTokenizer 是java中 用於分解字符串的類\n\nString[] String::split(String regex) 亦可分解字符串\n\u003c/pre\u003e"

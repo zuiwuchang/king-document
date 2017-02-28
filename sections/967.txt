@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e既可以用 public key 加密 private key 解密\n也可以用 private key 加密 public key 解密\n\u003cstrong\u003e由byte数据 恢复 public key 和 private key 所用到密钥材料是不同的类 见上文实例\u003c/strong\u003e\n\u003c/pre\u003e"

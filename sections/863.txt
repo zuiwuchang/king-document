@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++ 的STL 開創了 泛型編程的 新時代 boost 的補充更加是神來之筆\n\njava 妄圖實現類似 的美好世界 結果只是畫貓不成是條蟲\n\u003c/pre\u003e"

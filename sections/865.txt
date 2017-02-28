@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eadd 方法 增加一個 元素到容器尾巴\nget(int n)\t返回容器元素(即使是鍊錶亦可 真是SB行為)\nremove(i)\t//刪除一個元素\n\n//map 插入元素\nput(T,T)\n\n\n//返回一個迭代器類 使用其hasnext next 遍歷容器\niterator()\t//map不提供此方法\n\u003c/pre\u003e"

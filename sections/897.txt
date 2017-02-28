@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eJTabbedPane 同 JPanel 一樣是個控制板 不過 其提供了一個 tab選項頁功能\n\u003c/pre\u003e"

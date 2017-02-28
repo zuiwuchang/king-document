@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eJavaMail 提供了email 功能\n\n從 \u003ca href=\"http://www.oracle.com/technetwork/java/javamail/index.html\" target=\"_blank\"\u003ehttp://www.oracle.com/technetwork/java/javamail/index.html\u003c/a\u003e\n下最新 JavaMail 得到javamail1_4_7.zip 解壓 將 mail.jar 加入到 classpath中\n\nProperties\t會話設置\nSession\t\t會話\nMessage\t\t代發送消息\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eECB\t不需要iv 下面的都需要\nCBC\nCFB\nOFB\nCTR\n\u003c/pre\u003e"

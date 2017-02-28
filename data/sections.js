@@ -5654,5 +5654,1062 @@ var __v=[
 			"Name": "離開 docket",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 823,
+			"Panel": 459,
+			"Name": "java",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 824,
+			"Panel": 461,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 825,
+			"Panel": 462,
+			"Name": "命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 827,
+			"Panel": 464,
+			"Name": "基礎語法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 828,
+			"Panel": 465,
+			"Name": "位操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 829,
+			"Panel": 466,
+			"Name": "新段落",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 830,
+			"Panel": 466,
+			"Name": "字符串 String",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 831,
+			"Panel": 467,
+			"Name": "class",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 832,
+			"Panel": 468,
+			"Name": "包",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 833,
+			"Panel": 468,
+			"Name": "常用包",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 834,
+			"Panel": 469,
+			"Name": "JOptionPance",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 835,
+			"Panel": 469,
+			"Name": "System.out",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 836,
+			"Panel": 469,
+			"Name": "Scanner",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 837,
+			"Panel": 470,
+			"Name": "控制流程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 838,
+			"Panel": 470,
+			"Name": "帶標籤的break",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 839,
+			"Panel": 471,
+			"Name": "異常",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 840,
+			"Panel": 472,
+			"Name": "格式化輸出",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 841,
+			"Panel": 472,
+			"Name": "貨幣格式化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 842,
+			"Panel": 472,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 843,
+			"Panel": 472,
+			"Name": "百分比格式化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 844,
+			"Panel": 472,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 845,
+			"Panel": 472,
+			"Name": "數值格式化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 846,
+			"Panel": 472,
+			"Name": "BigDecimal",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 847,
+			"Panel": 472,
+			"Name": "Date",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 848,
+			"Panel": 473,
+			"Name": "轉型",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 849,
+			"Panel": 474,
+			"Name": "深入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 850,
+			"Panel": 475,
+			"Name": "繼承",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 851,
+			"Panel": 476,
+			"Name": "interface",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 852,
+			"Panel": 477,
+			"Name": "array",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 853,
+			"Panel": 478,
+			"Name": "for",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 854,
+			"Panel": 479,
+			"Name": "class Arrays",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 855,
+			"Panel": 479,
+			"Name": "sort",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 856,
+			"Panel": 480,
+			"Name": "字符串",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 857,
+			"Panel": 481,
+			"Name": "StringTokenizer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 858,
+			"Panel": 481,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 859,
+			"Panel": 482,
+			"Name": "正則表達式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 860,
+			"Panel": 482,
+			"Name": "Pattern Matcher",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 861,
+			"Panel": 482,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 862,
+			"Panel": 483,
+			"Name": "jar",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 863,
+			"Panel": 484,
+			"Name": "容器算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 864,
+			"Panel": 485,
+			"Name": "容器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 865,
+			"Panel": 485,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 866,
+			"Panel": 485,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 867,
+			"Panel": 485,
+			"Name": "泛型編程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 868,
+			"Panel": 485,
+			"Name": "不得不說",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 869,
+			"Panel": 486,
+			"Name": "算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 870,
+			"Panel": 487,
+			"Name": "thread",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 871,
+			"Panel": 487,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 872,
+			"Panel": 488,
+			"Name": "線程控制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 873,
+			"Panel": 488,
+			"Name": "成員函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 874,
+			"Panel": 489,
+			"Name": "同步",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 875,
+			"Panel": 489,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 876,
+			"Panel": 490,
+			"Name": "ReentrantReadWriteLock 讀寫鎖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 877,
+			"Panel": 491,
+			"Name": "gui",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 878,
+			"Panel": 492,
+			"Name": "JFrame",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 879,
+			"Panel": 492,
+			"Name": "Toolkit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 880,
+			"Panel": 492,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 881,
+			"Panel": 493,
+			"Name": "JPanel",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 882,
+			"Panel": 493,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 883,
+			"Panel": 494,
+			"Name": "JButton ActionListener",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 884,
+			"Panel": 494,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 885,
+			"Panel": 495,
+			"Name": "JScrollPane",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 886,
+			"Panel": 495,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 887,
+			"Panel": 496,
+			"Name": "JLabel",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 888,
+			"Panel": 497,
+			"Name": "UI",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 889,
+			"Panel": 498,
+			"Name": "layout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 890,
+			"Panel": 499,
+			"Name": "FlowLayout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 891,
+			"Panel": 499,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 892,
+			"Panel": 499,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 893,
+			"Panel": 500,
+			"Name": "BorderLayout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 894,
+			"Panel": 500,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 895,
+			"Panel": 501,
+			"Name": "佈局嵌套 邊框",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 896,
+			"Panel": 501,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 897,
+			"Panel": 502,
+			"Name": "JTabbedPane",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 898,
+			"Panel": 502,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 899,
+			"Panel": 503,
+			"Name": "BoxLayout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 900,
+			"Panel": 503,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 901,
+			"Panel": 504,
+			"Name": "GridLayout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 902,
+			"Panel": 504,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 903,
+			"Panel": 505,
+			"Name": "File",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 904,
+			"Panel": 505,
+			"Name": "成員函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 905,
+			"Panel": 505,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 906,
+			"Panel": 506,
+			"Name": "輸出",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 907,
+			"Panel": 506,
+			"Name": "輸入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 908,
+			"Panel": 506,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 909,
+			"Panel": 507,
+			"Name": "輸出",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 910,
+			"Panel": 507,
+			"Name": "輸入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 911,
+			"Panel": 507,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 912,
+			"Panel": 508,
+			"Name": "序列化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 913,
+			"Panel": 508,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 914,
+			"Panel": 509,
+			"Name": "隨機文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 915,
+			"Panel": 510,
+			"Name": "壓縮文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 916,
+			"Panel": 510,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 917,
+			"Panel": 511,
+			"Name": "jdbc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 918,
+			"Panel": 512,
+			"Name": "基本操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 919,
+			"Panel": 512,
+			"Name": "連接字符串",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 920,
+			"Panel": 512,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 921,
+			"Panel": 513,
+			"Name": "PreparedStatement 預處理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 922,
+			"Panel": 513,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 923,
+			"Panel": 513,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 924,
+			"Panel": 514,
+			"Name": "事物處理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 925,
+			"Panel": 514,
+			"Name": "Saveopint",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 926,
+			"Panel": 514,
+			"Name": "隔離性",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 927,
+			"Panel": 514,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 928,
+			"Panel": 515,
+			"Name": "email",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 929,
+			"Panel": 516,
+			"Name": "地址",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 930,
+			"Panel": 517,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 931,
+			"Panel": 518,
+			"Name": "附件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 932,
+			"Panel": 518,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 933,
+			"Panel": 519,
+			"Name": "ssl",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 934,
+			"Panel": 519,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 935,
+			"Panel": 520,
+			"Name": "解除限制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 936,
+			"Panel": 521,
+			"Name": "添加BouncyCastle",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 937,
+			"Panel": 521,
+			"Name": "修改配置文件支持BouncyCastle",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 938,
+			"Panel": 521,
+			"Name": "代码实现支持BouncyCastle",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 939,
+			"Panel": 522,
+			"Name": "Hex",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 940,
+			"Panel": 522,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 941,
+			"Panel": 523,
+			"Name": "Base64",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 942,
+			"Panel": 524,
+			"Name": "UrlBase64",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 943,
+			"Panel": 525,
+			"Name": "摘要算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 944,
+			"Panel": 526,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 945,
+			"Panel": 527,
+			"Name": "MAC算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 946,
+			"Panel": 527,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 947,
+			"Panel": 528,
+			"Name": "RipeMD",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 948,
+			"Panel": 528,
+			"Name": "其他 用法同md",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 949,
+			"Panel": 529,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 950,
+			"Panel": 530,
+			"Name": "CRC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 951,
+			"Panel": 530,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 952,
+			"Panel": 531,
+			"Name": "算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 953,
+			"Panel": 532,
+			"Name": "填充方式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 954,
+			"Panel": 533,
+			"Name": "工作模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 955,
+			"Panel": 533,
+			"Name": "ECB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 956,
+			"Panel": 533,
+			"Name": "CBC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 957,
+			"Panel": 533,
+			"Name": "CFB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 958,
+			"Panel": 533,
+			"Name": "OFB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 959,
+			"Panel": 533,
+			"Name": "CTR",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 960,
+			"Panel": 534,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 961,
+			"Panel": 534,
+			"Name": "需要iv的工作模式 Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 962,
+			"Panel": 535,
+			"Name": "PBE",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 963,
+			"Panel": 535,
+			"Name": "算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 964,
+			"Panel": 535,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 965,
+			"Panel": 536,
+			"Name": "RSA",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 966,
+			"Panel": 536,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 967,
+			"Panel": 536,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 968,
+			"Panel": 537,
+			"Name": "ElGamal",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 969,
+			"Panel": 538,
+			"Name": "RSA签名算法名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 970,
+			"Panel": 538,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 971,
+			"Panel": 539,
+			"Name": "DSA签名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 972,
+			"Panel": 539,
+			"Name": "DSA签名算法名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 973,
+			"Panel": 540,
+			"Name": "ECDSA签名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 974,
+			"Panel": 540,
+			"Name": "ECDSA签名算法名",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

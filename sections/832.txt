@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava 將API封裝在一個叫包的 地方\nimport 包名 可以 導入包\n\nimport java.text.*;\t//將java.text中 所有類導入\nimport java.swing.JOptionPane;\t//將java.swing中的JOptionPane類導入\n\u003c/pre\u003e"

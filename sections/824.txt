@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從 \u003ca href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\" target=\"_blank\"\u003eoracle\u003c/a\u003e 官網下載 最先 jdk 安裝之\u003c/li\u003e\n\t\u003cli\u003e配置 環境變量 JAVA_HOME PATH CLASS_PATH\u003c/li\u003e\n\u003c/ol\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eJTextField\t單行文本\nJPasswordField\t密碼框\nJTextArea\t多行文本\nJCheckBox\t選項框\nJRadioButton\t單選框\n\u003c/pre\u003e"

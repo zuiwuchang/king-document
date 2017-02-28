@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e要顯示一個窗口 只需要從 JFrame 派生一個子類 在子類 構造函數中 定義窗口基本實現\n在 實例化子類 並且調用 setVisible 顯示即可\n\u003c/pre\u003e"

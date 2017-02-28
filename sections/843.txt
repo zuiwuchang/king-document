@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e同樣是使用 class NumberFormat\n\n1\t使用getPercentInstance()\n\t或getPercentInstance(Locale) 返回需要的格式\n2\t調用setMinimumFractionDigits/setMaximumFractionDigits 設置最大/最少 小數點位數\n3\t調用 format 返回格式化字符串\n\u003c/pre\u003e"

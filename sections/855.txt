@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//對於自定義數組 若要使用 Arrays.sort 需要實現 Comparable 接口\npublic class test implements  Comparable\n{\n\tint x;\n\n\t@Override\n\tpublic int compareTo(Object t) {\n\t\t//返回負 \u0026lt;\n\t\t//...0 ==\n\t\t//...正 \u0026gt;\n\t\ttest tmp  =   (test)t;\n\t\treturn this.x - tmp.x;\n\t}\n\n}\u003c/pre\u003e"

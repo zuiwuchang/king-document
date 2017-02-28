@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eString str   =   \"1911-10-10\";\nPattern regex    =   Pattern.compile(\"1.*0\");\nMatcher matcher = regex.matcher(str);\n\nif(matcher.matches())\n{\n\tSystem.out.println(\"matches\");\n}\u003c/pre\u003e"

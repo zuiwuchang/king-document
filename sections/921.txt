@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava可以使用 PreparedStatement 替代 Statement\n好處是 PreparedStatement 可以傳入一個 預處理sql指令 其中 以 ? 代表數據\n之後使用 PreparedStatement 的 set* 替換? 為指定數據\n\u003c/pre\u003e"

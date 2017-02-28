@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eJScrollPane 是滾動版 為UI增加一個滾動條\n\n要使用 滾動版 只要 用UI構造JScrollPane 再將 JScrollPane添加到 JPane 即可\n\u003c/pre\u003e"

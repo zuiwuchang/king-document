@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//帶序列化的 二進制輸入對象\nDataInputStream(InputStream in)\n\n//二進制輸入 緩衝區\nBufferedInputStream(InputStream in)\n\n//二進制輸入對象\nFileInputStream(File file)\n\n\n\nDataInputStream\n\t-\u0026gt;BufferedInputStream\n\t\t-\u0026gt;FileInputStream\n\u003c/pre\u003e"

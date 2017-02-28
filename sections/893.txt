@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport java.awt.BorderLayout;\n\nBorderLayout 提供了 NORTH(上) NORTH(下) WEST(左) CENTER(中) EAST(右) 五種佈局方式 UI隨窗口大小改變而變化\n\u003c/pre\u003e"

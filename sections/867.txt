@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//java 亦可自己實現 泛型算法 語法類似 c++ 不過 不需要template聲明\nclass test\u0026lt;T\u0026gt;\n{\n\tT t;\n\t//...\n}\u003c/pre\u003e"

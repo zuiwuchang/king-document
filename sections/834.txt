@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport javax.swing.JOptionPane;\n\nJOptionPane只提供了static函數 \n主要用於彈出一個 輸入框 showInputDialog 或彈出框showMessageDialog\n或一個 帶有 yes no 的彈出框 showConfirmDialog\n\u003c/pre\u003e"

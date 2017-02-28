@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava中要啟動一個線程 需要派生自 class child extends Thread 或實現 class no_child implements Runnable\n之後實現 public void run() 線程函數\n\n在實例化 線程對象 t = new child 或 t = new Thread(no_child)\n\n調用 t.start() 啟動線程\n\u003c/pre\u003e"

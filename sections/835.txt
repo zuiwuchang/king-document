@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclass System.out 位於 java.lang 被默認加載\n\nSystem.out.print 和 System.out.println 重載了多種基本型別 用於將其輸出到 標準輸出設備 \nln版本 多輸出一個 \\n 換行\n\nprint 將調用 傳入 Object的 toString()返回字符串 之後輸出\n故對於自定義類 只需要 覆蓋 toString 即可\npublic String toString()\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport java.awt.FlowLayout;\n\nFlowLayout 提供了 LEFT CENTER(默認) RIGHT 三種佈局方式 UI隨窗口大小改變而變化\n\u003c/pre\u003e"

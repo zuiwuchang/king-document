@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava.io.File 是專門的文件對象\n提供了各種文件操作\n\u003c/pre\u003e"

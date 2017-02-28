@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eLinkedList\u0026lt;String\u0026gt; col   =   new LinkedList\u0026lt;String\u0026gt;() {};\n\nfor(int i=0;i\u0026lt;10;++i)\n{\n\tcol.add(Integer.toString(i));\n}\nIterator\u0026lt;String\u0026gt; iterator = col.iterator();\nwhile(iterator.hasNext())\n{\n\tSystem.out.println(iterator.next());\n}\u003c/pre\u003e"

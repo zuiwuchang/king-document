@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCRC常用于数据完整性校验\nCRC-1\t硬件奇偶校验\nCRC-32-IEEE 802.3 通信差错控制 既现在说的CRC-32\nCRC-32-Adler CRC-32的一个变种和CRC-32一样可靠但更快\nCRC-128\t演变为MD算法\nCRC-160\t演变为SHA算法\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimport java.util.Arrays;\n\nclass java.util.Arrays 提供了一些static方法對數組 進行操作\n\n//返回兩個數組是否相等\npublic static boolean equals(a1,a2)\n//將數組 全部填充為 value\nfill(a,value);\n//在數組中查找v 失敗返回負\nint binarySearch(a,v)\n\n//複製數組 到返回值\ncopyOf\n//複製數組區間 到返回值\ncopyOfRange\n\n//排序數組 可指定排序區間\nsort(a)\nsort(a,i1,i2)\n\u003c/pre\u003e"

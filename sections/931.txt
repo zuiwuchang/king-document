@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e要添加 附加 會多種內容 需要使用 MimeMultipart(message.setContent(muti_part);) 而非\nmessage.setText(\"郵件正文\");\n\nMimeMultipart 中 每個內容 有MimeBodyPart 組成\n使用MimeMultipart.addBodyPart 將MimeBodyPart增加到 MimeMultipart\n\u003c/pre\u003e"

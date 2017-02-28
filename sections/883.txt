@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eJButton 是一個按鈕UI \nActionListener 以一個常用事件 完成其public void actionPerformed(ActionEvent ae) 可處理大多事件\n\u003c/pre\u003e"

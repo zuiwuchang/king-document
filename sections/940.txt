@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003eString str=\"l\";\nbyte [] date=Hex.encode(str.getBytes());\nstr=new String(date);\nSystem.out.println(str);\t//输出\t6c 因为l的编码时108 转为16进制就是 6c\ndate=Hex.decode(str.getBytes());\nstr=new String(date);\t\nSystem.out.println(str);\t//输出\tl\u003c/pre\u003e"

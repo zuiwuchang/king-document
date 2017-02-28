@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejava在定義class時 需要在其前加上 訪問權限\npublic\t任何包 類 皆可使用\n\n成員訪問權限 參見c++\n\n\njava中 每個定義的 方法 變量前 都需要寫出訪問權限(真是裝b)\n\njava中一般變量都定義為 private\n之後定義一個 public 的 set* 和 get* 方法\n\u003c/pre\u003e"

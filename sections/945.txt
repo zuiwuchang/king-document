@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emac是一种有密匙对摘要算法 其结合了md sha算法 主要有 HMACMD2 HMACMD4 HMACMD5 HMACSHA1 HMACSHA224 HMACSHA256 HMACSHA384 HMACSHA512 摘要长度同相应md sha\n\u003c/pre\u003e"
