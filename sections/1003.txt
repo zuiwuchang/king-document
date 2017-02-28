@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e設置form 的enctype='multipart/form-data 即可 上傳文件\n\n服務的 通過 getInputStream 獲取文件數據\n然很 麻煩 Servlet3 提供了 getPart() getParts() 取得上次文件\n\u003c/pre\u003e"

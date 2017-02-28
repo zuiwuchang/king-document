@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003epackage test\npublic class util\n{\n\tpublic static int length(Collection c){\n    \treturn c.size();\n\t}\n};\n\n//TLD文件\n...\u003c/pre\u003e"

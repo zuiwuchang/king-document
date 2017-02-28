@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回一個 日誌對象的單件實例 (以傳入不同字符串 創建不同單件)\nLogger LogManager.getLogger();\nLogger LogManager.getLogger(String);\n\n//記錄不同級別 日誌 等級從低到高\nLogger.trace\nLogger.debug\nLogger.info\nLogger.warn\nLogger.error\nLogger.fatal\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e增加cookie 必須在 服務器 做出響應 之前\n因為 其實通過 sek-cookie 標題 告知瀏覽器 需要創建cookie\n\u003c/pre\u003e"

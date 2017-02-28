@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003erequest.setCharacterEncoding(\"UTF-8\");\nBufferedReader reader = request.getReader();\nString body\t=\t\"\";\nString tmp;\nwhile((tmp\t=\treader.readLine())\t!=\tnull)\n{\n\tbody\t+=\ttmp;\n}\nresponse.getWriter().println(body);\u003c/pre\u003e"

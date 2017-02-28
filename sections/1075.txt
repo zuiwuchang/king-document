@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e@With 可以用來標註一個 class 或 function\n用於 將 @With 指定的 多個 Action.Simple 的 call 方法 \n添加到 class所有function 或指定的 function\n\n使用 @With 可以方便的 實現 filter\u003c/pre\u003e"

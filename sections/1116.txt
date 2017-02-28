@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t加載配置參數(可選)\n2\t獲取實例對象\n3\t記錄日誌\n\u003c/pre\u003e"

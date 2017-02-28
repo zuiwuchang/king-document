@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eHttpServletRequestWrapper 實現了 所有HttpServletRequest接口\n故 只需要 從 HttpServletRequestWrapper 派生(派生類 必須以 HttpServletRequest 傳入父類構造) 之後 自定義 getParam 返回 替換後的參數 即可 返回過濾後的 參數\n當然 在此之前 需要定義一個 過濾器 並將 request 由自定義 類 替換\n\u003c/pre\u003e"

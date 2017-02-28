@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eloadOnstartup默认为-1 表示 Servlet在第一次用户请求时 实例化\n(这意味着 第一个应用 需要等待实例化 完成)\n\n若loadOnstartup \u0026gt; 0 表示 Servlet在程序启动时 就实例化 \n对于多個Servlet loadOnstartup值小的 先實例化\n若loadOnstartup相同 web容器廠商 自行決定 先實例化 哪個容器\n\u003c/pre\u003e"

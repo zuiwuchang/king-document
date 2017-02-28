@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 \u0026lt;%! \u0026gt;  之間的函數 變量 會被編譯為servlet的 成員函數 成員變量\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGET向服務器 發出一個請求\n\n如下為一個GET請求\nhttp://localhost:8080/test.jsp?search=anita\u0026amp;music=value\n\n以一個URL開始 作為請求地址 \n? 後是參數 \n以 = 隔開參數名 參數值\n多個參數以 \u0026amp; 隔開\n\u003c/pre\u003e"

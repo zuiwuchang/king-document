@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eroutes 路由函數的參數 是寫參數名 而非型別\n\u003c/pre\u003e"

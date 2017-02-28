@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estruts2 是一個apache下開源的 java ee MVC 框架\n\n官網 \u003ca href=\"http://struts.apache.org/development/2.x/\" target=\"_blank\"\u003ehttp://struts.apache.org/development/2.x/\u003c/a\u003e\n\u003c/pre\u003e"

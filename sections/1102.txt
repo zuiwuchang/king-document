@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eplay 使用 Logback 作為日誌引擎 \n詳細配置見 Logback 官網 \u003ca href=\"http://logback.qos.ch/manual/configuration.html\" target=\"_blank\"\u003ehttp://logback.qos.ch/manual/configuration.html\u003c/a\u003e\u003c/pre\u003e"

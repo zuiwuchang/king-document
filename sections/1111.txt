@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當用戶 提交請求時 請求交給 struts2控制器處理 控制器依據處理結果 決定將哪個頁面呈現給客戶端\n\nstruts2 的控制器(Action) 就是一個 包含有 execute 方法的普通 java類\nstruts2 的攔截機制負責 解析用戶請求參數 並且將值設置到Action對應屬性中\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eplay 提供了完整的 日誌 組件Logger\n\nLogger可以定義 多個自定義的 日誌系統\n(每個都被 定義在一個字符串 名字空間中 默認application\n以.代表繼承關係 如 application.admins 是application的子系統\n將繼承 application的配置)\n\nLogger可是設置 附加的輸出槽\n(文件 數據庫 輸出流 ...)\n\n\n\n日誌等級\noff\nerror\nwarn\ninfo\ndebug\ntrace\u003c/pre\u003e"

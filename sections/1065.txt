@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eaction 是一個 http 請求的映射(一個 static method)\n其返回 play.mvc.Result 作為 http請求\n\u003c/pre\u003e"

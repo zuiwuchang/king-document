@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e要使用 getPart getParts 需要在Servlet 前 增加標籤 @MultipartConfig\n\n@MultipartConfig\n@WebServlet(\"/ServletTest\")\n\n\n對於多個文件上傳 可以使用 getParts() 返回 Collection\u0026lt;Part\u0026gt; \n\u003c/pre\u003e"

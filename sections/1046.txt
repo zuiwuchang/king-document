@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//頁面參數\n${param.user}\t${param.password}\n\n//數組 容器 JavaBean map ...\n${array[0]}\t${coll[0]} ${map[0]} ${map[\"fuck\"]}\n${map.fuck} ${java_bean.fuck}\n(實際上 JavaBean map 可以使用 . 外(亦可使用 [] 訪問) 其他都是用 [] 訪問 \n對於list java竟然可以使用 索引訪問 真是 病得不輕) \n([] 中 內容 若為使用 引號 擴起來 會先 進行 運算)\n\n//獲取cookie\n${cookie.id}\n\u003c/pre\u003e"

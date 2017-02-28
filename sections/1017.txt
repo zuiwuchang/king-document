@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eServlet 可以註冊監聽器 當發生 監聽事件時 調用 對於函數\n\u003c/pre\u003e"

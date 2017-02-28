@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 \nrequest.setCharacterEncoding(\"UTF-8\");\n設置 獲取參數時 使用的編碼\n\n此方法對GET無效 setCharacterEncoding只對 body的內容有效\n\u003c/pre\u003e"

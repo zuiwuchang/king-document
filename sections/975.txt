@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ehttp 是一種 基於 請求/響應 模型 的無狀態通信協議\n\n瀏覽器 發出請求 http服務器返回響應\n\n瀏覽器一般可以用如下請求\nGET\nPOST\nHEAD\nPUT\nDELETE\n...\n\u003c/pre\u003e"

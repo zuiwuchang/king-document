@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIDE 的文件部署 不一定是上傳到 web容器之後的 架構\nWeb容器 要求如下部署\n\nWEB-INF\n\t必須位於程序根目錄下。此目錄下的文件目錄對外界來說是 封閉的\n\t(既客戶端無法使用 http的任何方式 直接訪問)\n\t(若需要 必須通過 Servlet/JSP 的請求轉發(Forward))\n\t(只要放在 不想讓外界存取的資源)\n\nWEB-INF/web.xml\n\tweb程序的部署文件(Servlet 3.0 可以沒有)\n\nWEB-INF/lib\n\t放置jar文件\n\nWEB-INF/class\n\t放置編譯後的.class文件\n\u003c/pre\u003e"

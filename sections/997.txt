@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e//返回 標題 值\nString value\t=\trequest.getHeader(\"name\");\nEnumeration\u0026lt;String\u0026gt; values\t=\trequest.getHeaders(\"name\");\n\n//返回所有表頭名\nEnumeration\u0026lt;String\u0026gt; names\t=\trequest.getHeaderNames();\u003c/pre\u003e"

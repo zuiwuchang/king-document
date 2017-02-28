@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e定義\nimport play.*;\n\npublic class Global extends GlobalSettings {\n\n}\n\n可以改變 對程式 進行一些定制\u003c/pre\u003e"

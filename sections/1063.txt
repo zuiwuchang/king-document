@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建一個java項目\nactivator new my-first-app play-java\n\n//創建項目 使用 play ui\nactivator ui\n\n//運行 web\nactivator run\n//在80端口運行\nactivator \"run 80\"\n\n//以debug方式 運行 web\nactivator test\n\n//為 項目 創建 play ui\nactivator ui\n\u003c/pre\u003e"

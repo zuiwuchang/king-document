@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIf-blocks are nothing special. Simply use Scala’s standard if statement:\n\n@if(items.isEmpty()) {\n  \u0026lt;h1\u0026gt;Nothing to display\u0026lt;/h1\u0026gt;\n} else {\n  \u0026lt;h1\u0026gt;@items.size() items!\u0026lt;/h1\u0026gt;\n}\u003c/pre\u003e"

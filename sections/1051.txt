@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etomact 從7.0 開始 提供了一個 jdbc 連接池 用於提高數據庫操作效率\n其可以 單獨 用在 應用程序中\n亦可 用在 web 服務器中\n\u003c/pre\u003e"

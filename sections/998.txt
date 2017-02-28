@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e亂碼的原因在於 發出請求的頁面 和 獲取參數時使用了 不同編碼方式\n瀏覽器發送請求時 相當於做了 java.net.URLEncoder.encode(str,\"UTF-8\"); 加密\n服務器獲取請求時 相對於做了 java.net.URLDecoder.decode(str,\"ISO-8859-1\"); 解密\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用  getReader 可以返回一個 BufferedReader 其中包含了所有 \n客戶端傳來的 body內容\n\u003c/pre\u003e"

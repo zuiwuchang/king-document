@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eServletContext存在於整個應用週期 可以使用讀取 程序初始化參數(同ServletConfig)\n(初始化參數 在 web.xml 中設置)\n\n此外可以用其設置屬性 以在多個 servlet間 共享數據\nServletContext.setAttribute(string,Object)\t\t//設置屬性\nServletContext.getAttribute(String)\t\t\t//獲取屬性\nServletContext.removeAttribute(String)\t\t\t//移除屬性\n\u003c/pre\u003e"

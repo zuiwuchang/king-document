@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當請求 到達時 web容器 會新啟一個線程 故可能多個線程 在執行同一個 Servlet響應函數\n故需要 做線程 安全同步\n\u003c/pre\u003e"

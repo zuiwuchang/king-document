@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePOST 同 GET 只不過 其不通過 網頁地址 傳遞參數 而是將參數移到 最後的信息體中\n\u003c/pre\u003e"

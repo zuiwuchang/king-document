@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWeb容器 會為 每個 Servlet 創建一個 ServletConfig 以記錄其 啟動設置信息\n使用 getServletConfig() 可以返回 此ServletConfig\n\n使用getInitParameter返回指定初始化參數值\nString ServletConfig.getInitParameter(String)\t\n\n使用getInitParameterNames 返回所有初始化 參數名\nEnumeration\u0026lt;String\u0026gt; getInitParameterNames()\n\n在@WebServlet中 設置參數\n\u003c/pre\u003e"

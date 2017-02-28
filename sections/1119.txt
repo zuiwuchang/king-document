@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elog4j 支持 xml 或 json 配置文件\n\nlog4j 在src目錄下依次查找以下配置文件 並加載配置(等級從高到低)\nlog4j2-test.json(或 log4j2-test.jsn)\nlog4j2-text.xml\nlog4j2.json(或log4j2.jsn)\nlog4j2.xml\n\n默都沒有使用 默認配置配置 由DefaultConfiguration提供\n\u003c/pre\u003e"

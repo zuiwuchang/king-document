@@ -2897,10 +2897,124 @@ var __v={
 			"Name": "ECDSA签名",
 			"Sort": 0
 		},
+		"541": {
+			"Id": 541,
+			"Chapter": 197,
+			"Name": "http",
+			"Sort": 0
+		},
+		"542": {
+			"Id": 542,
+			"Chapter": 197,
+			"Name": "GET",
+			"Sort": 0
+		},
+		"543": {
+			"Id": 543,
+			"Chapter": 197,
+			"Name": "POST",
+			"Sort": 0
+		},
+		"544": {
+			"Id": 544,
+			"Chapter": 197,
+			"Name": "GET or POST",
+			"Sort": 0
+		},
+		"545": {
+			"Id": 545,
+			"Chapter": 197,
+			"Name": "Servlet 請求/響應",
+			"Sort": 0
+		},
+		"546": {
+			"Id": 546,
+			"Chapter": 197,
+			"Name": "MVC/Model 2",
+			"Sort": 0
+		},
+		"547": {
+			"Id": 547,
+			"Chapter": 197,
+			"Name": "eclipse",
+			"Sort": 0
+		},
+		"548": {
+			"Id": 548,
+			"Chapter": 198,
+			"Name": "servlet",
+			"Sort": 0
+		},
+		"549": {
+			"Id": 549,
+			"Chapter": 198,
+			"Name": "@WebServlet",
+			"Sort": 0
+		},
 		"55": {
 			"Id": 55,
 			"Chapter": 22,
 			"Name": "Gettext",
+			"Sort": 0
+		},
+		"550": {
+			"Id": 550,
+			"Chapter": 198,
+			"Name": "web.xml",
+			"Sort": 0
+		},
+		"551": {
+			"Id": 551,
+			"Chapter": 198,
+			"Name": "文件組織與部署",
+			"Sort": 0
+		},
+		"552": {
+			"Id": 552,
+			"Chapter": 199,
+			"Name": "請求與響應",
+			"Sort": 0
+		},
+		"553": {
+			"Id": 553,
+			"Chapter": 199,
+			"Name": "HttpServletRequest",
+			"Sort": 0
+		},
+		"554": {
+			"Id": 554,
+			"Chapter": 199,
+			"Name": "參數亂碼",
+			"Sort": 0
+		},
+		"555": {
+			"Id": 555,
+			"Chapter": 199,
+			"Name": "getReader 獲取body",
+			"Sort": 0
+		},
+		"556": {
+			"Id": 556,
+			"Chapter": 199,
+			"Name": "getInputStream 上傳文件",
+			"Sort": 0
+		},
+		"557": {
+			"Id": 557,
+			"Chapter": 199,
+			"Name": "getPart getParts 上傳文件",
+			"Sort": 0
+		},
+		"558": {
+			"Id": 558,
+			"Chapter": 199,
+			"Name": "ajax 上傳文件",
+			"Sort": 0
+		},
+		"559": {
+			"Id": 559,
+			"Chapter": 199,
+			"Name": "getRequestDispatcher 調派請求",
 			"Sort": 0
 		},
 		"56": {
@@ -2909,10 +3023,130 @@ var __v={
 			"Name": "炒雞蛋",
 			"Sort": 0
 		},
+		"560": {
+			"Id": 560,
+			"Chapter": 199,
+			"Name": "HttpServletResponse",
+			"Sort": 0
+		},
+		"561": {
+			"Id": 561,
+			"Chapter": 200,
+			"Name": "cookie",
+			"Sort": 0
+		},
+		"562": {
+			"Id": 562,
+			"Chapter": 200,
+			"Name": "HttpSession",
+			"Sort": 0
+		},
+		"563": {
+			"Id": 563,
+			"Chapter": 201,
+			"Name": "ServletConfig",
+			"Sort": 0
+		},
+		"564": {
+			"Id": 564,
+			"Chapter": 201,
+			"Name": "ServletContext",
+			"Sort": 0
+		},
+		"565": {
+			"Id": 565,
+			"Chapter": 201,
+			"Name": "事件監聽器",
+			"Sort": 0
+		},
+		"566": {
+			"Id": 566,
+			"Chapter": 201,
+			"Name": "過濾器",
+			"Sort": 0
+		},
+		"567": {
+			"Id": 567,
+			"Chapter": 201,
+			"Name": "過濾器 字符過濾 Example",
+			"Sort": 0
+		},
+		"568": {
+			"Id": 568,
+			"Chapter": 201,
+			"Name": "字符編碼過濾 Example",
+			"Sort": 0
+		},
+		"569": {
+			"Id": 569,
+			"Chapter": 202,
+			"Name": "jsp",
+			"Sort": 0
+		},
 		"57": {
 			"Id": 57,
 			"Chapter": 23,
 			"Name": "蛋炒飯",
+			"Sort": 0
+		},
+		"570": {
+			"Id": 570,
+			"Chapter": 202,
+			"Name": "jsp to servlet",
+			"Sort": 0
+		},
+		"571": {
+			"Id": 571,
+			"Chapter": 202,
+			"Name": "jsp 隱式對象",
+			"Sort": 0
+		},
+		"572": {
+			"Id": 572,
+			"Chapter": 202,
+			"Name": "運行異常",
+			"Sort": 0
+		},
+		"573": {
+			"Id": 573,
+			"Chapter": 202,
+			"Name": "標準標籤",
+			"Sort": 0
+		},
+		"574": {
+			"Id": 574,
+			"Chapter": 202,
+			"Name": "model 1",
+			"Sort": 0
+		},
+		"575": {
+			"Id": 575,
+			"Chapter": 202,
+			"Name": "表達式語言 el",
+			"Sort": 0
+		},
+		"576": {
+			"Id": 576,
+			"Chapter": 203,
+			"Name": "jdbc 連接池",
+			"Sort": 0
+		},
+		"577": {
+			"Id": 577,
+			"Chapter": 203,
+			"Name": "應用程序",
+			"Sort": 0
+		},
+		"578": {
+			"Id": 578,
+			"Chapter": 203,
+			"Name": "web",
+			"Sort": 0
+		},
+		"579": {
+			"Id": 579,
+			"Chapter": 204,
+			"Name": "分頁",
 			"Sort": 0
 		},
 		"58": {
@@ -2921,10 +3155,130 @@ var __v={
 			"Name": "炒土豆",
 			"Sort": 0
 		},
+		"580": {
+			"Id": 580,
+			"Chapter": 204,
+			"Name": "更好分頁方式",
+			"Sort": 0
+		},
+		"581": {
+			"Id": 581,
+			"Chapter": 205,
+			"Name": "play",
+			"Sort": 0
+		},
+		"582": {
+			"Id": 582,
+			"Chapter": 205,
+			"Name": "環境配置",
+			"Sort": 0
+		},
+		"583": {
+			"Id": 583,
+			"Chapter": 205,
+			"Name": "常用命令",
+			"Sort": 0
+		},
+		"584": {
+			"Id": 584,
+			"Chapter": 206,
+			"Name": "action",
+			"Sort": 0
+		},
+		"585": {
+			"Id": 585,
+			"Chapter": 206,
+			"Name": "routes",
+			"Sort": 0
+		},
+		"586": {
+			"Id": 586,
+			"Chapter": 206,
+			"Name": "response",
+			"Sort": 0
+		},
+		"587": {
+			"Id": 587,
+			"Chapter": 206,
+			"Name": "session flash",
+			"Sort": 0
+		},
+		"588": {
+			"Id": 588,
+			"Chapter": 206,
+			"Name": "Body parsers",
+			"Sort": 0
+		},
+		"589": {
+			"Id": 589,
+			"Chapter": 207,
+			"Name": "with",
+			"Sort": 0
+		},
 		"59": {
 			"Id": 59,
 			"Chapter": 25,
 			"Name": "使用方法",
+			"Sort": 0
+		},
+		"590": {
+			"Id": 590,
+			"Chapter": 208,
+			"Name": "template",
+			"Sort": 0
+		},
+		"591": {
+			"Id": 591,
+			"Chapter": 208,
+			"Name": "parameters",
+			"Sort": 0
+		},
+		"592": {
+			"Id": 592,
+			"Chapter": 208,
+			"Name": "Iterating",
+			"Sort": 0
+		},
+		"593": {
+			"Id": 593,
+			"Chapter": 208,
+			"Name": "If-blocks",
+			"Sort": 0
+		},
+		"594": {
+			"Id": 594,
+			"Chapter": 208,
+			"Name": "Declaring reusable blocks",
+			"Sort": 0
+		},
+		"595": {
+			"Id": 595,
+			"Chapter": 208,
+			"Name": "Declaring reusable values",
+			"Sort": 0
+		},
+		"596": {
+			"Id": 596,
+			"Chapter": 208,
+			"Name": "Import statements",
+			"Sort": 0
+		},
+		"597": {
+			"Id": 597,
+			"Chapter": 208,
+			"Name": "Comments",
+			"Sort": 0
+		},
+		"598": {
+			"Id": 598,
+			"Chapter": 208,
+			"Name": "Escaping",
+			"Sort": 0
+		},
+		"599": {
+			"Id": 599,
+			"Chapter": 209,
+			"Name": "i18n",
 			"Sort": 0
 		},
 		"6": {
@@ -2939,16 +3293,142 @@ var __v={
 			"Name": "Closure Compiler",
 			"Sort": 0
 		},
+		"600": {
+			"Id": 600,
+			"Chapter": 210,
+			"Name": "jdbc",
+			"Sort": 0
+		},
+		"601": {
+			"Id": 601,
+			"Chapter": 211,
+			"Name": "json",
+			"Sort": 0
+		},
+		"602": {
+			"Id": 602,
+			"Chapter": 211,
+			"Name": "request",
+			"Sort": 0
+		},
+		"603": {
+			"Id": 603,
+			"Chapter": 211,
+			"Name": "response",
+			"Sort": 0
+		},
+		"604": {
+			"Id": 604,
+			"Chapter": 212,
+			"Name": "Global object",
+			"Sort": 0
+		},
+		"605": {
+			"Id": 605,
+			"Chapter": 212,
+			"Name": "start-up and shutdown",
+			"Sort": 0
+		},
+		"606": {
+			"Id": 606,
+			"Chapter": 212,
+			"Name": "error page",
+			"Sort": 0
+		},
+		"607": {
+			"Id": 607,
+			"Chapter": 212,
+			"Name": "not found",
+			"Sort": 0
+		},
+		"608": {
+			"Id": 608,
+			"Chapter": 212,
+			"Name": "requests",
+			"Sort": 0
+		},
+		"609": {
+			"Id": 609,
+			"Chapter": 213,
+			"Name": "log",
+			"Sort": 0
+		},
 		"61": {
 			"Id": 61,
 			"Chapter": 26,
 			"Name": "離線使用",
 			"Sort": 0
 		},
+		"610": {
+			"Id": 610,
+			"Chapter": 213,
+			"Name": "use",
+			"Sort": 0
+		},
+		"611": {
+			"Id": 611,
+			"Chapter": 213,
+			"Name": "Creating loggers",
+			"Sort": 0
+		},
+		"612": {
+			"Id": 612,
+			"Chapter": 213,
+			"Name": "cnf",
+			"Sort": 0
+		},
+		"613": {
+			"Id": 613,
+			"Chapter": 214,
+			"Name": "struts2",
+			"Sort": 0
+		},
+		"614": {
+			"Id": 614,
+			"Chapter": 214,
+			"Name": "環境配置",
+			"Sort": 0
+		},
+		"615": {
+			"Id": 615,
+			"Chapter": 214,
+			"Name": "實現控制器",
+			"Sort": 0
+		},
+		"616": {
+			"Id": 616,
+			"Chapter": 214,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"617": {
+			"Id": 617,
+			"Chapter": 215,
+			"Name": "log4j",
+			"Sort": 0
+		},
+		"618": {
+			"Id": 618,
+			"Chapter": 215,
+			"Name": "使用 log4j",
+			"Sort": 0
+		},
+		"619": {
+			"Id": 619,
+			"Chapter": 215,
+			"Name": "配置 log4j",
+			"Sort": 0
+		},
 		"62": {
 			"Id": 62,
 			"Chapter": 27,
 			"Name": "code-prettify",
+			"Sort": 0
+		},
+		"620": {
+			"Id": 620,
+			"Chapter": 215,
+			"Name": "配置文件 xml",
 			"Sort": 0
 		},
 		"63": {

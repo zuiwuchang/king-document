@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在jsp運行 異常時 可以通過 \n\u0026lt;%@page errorPage = \"error.jsp\"\u0026gt; 指定一個錯誤處理頁面\n\n一般此頁面中 只是 調用 exception.printStackTrace(new PrintWriter(out)); 簡單輸出堆棧信息 或 toString輸出錯誤\n(錯誤處理頁面 必須) \u0026lt;%@page isError = true\u0026gt;\n\u003c/pre\u003e"

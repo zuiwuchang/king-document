@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eA template is like a function, so it needs parameters, which must be declared at the top of the template file:\n\n@(customer: models.Customer, orders: List[models.Order])\nYou can also use default values for parameters:\n\n@(title: String = \"Home\")\nOr even several parameter groups:\n\n@(title:String)(body: Html)\u003c/pre\u003e"

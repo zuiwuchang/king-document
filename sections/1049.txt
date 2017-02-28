@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e自定義 el函數\n1\t定義public 類 \n2\t為類定義 public static 靜態 方法(el函數)\n3\t創建 TLD 描述文件 並放入 web-inf 下\n\u003c/pre\u003e"

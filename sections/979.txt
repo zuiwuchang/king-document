@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在form中可以通過 method 屬性指定請求方式\n\u0026lt;form method=\"get\" action=\"http://google.com\" name = \"test\"\u0026gt;\n\u003c/pre\u003e"

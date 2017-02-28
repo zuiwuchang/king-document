@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eYou can define scoped values using the defining helper:\n\n@defining(user.getFirstName() + \" \" + user.getLastName()) { fullName =\u0026gt;\n  \u0026lt;div\u0026gt;Hello @fullName\u0026lt;/div\u0026gt;\n}\u003c/pre\u003e"

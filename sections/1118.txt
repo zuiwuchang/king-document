@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e Logger log = LogManager.getLogger();   \n        \n        //輸出不同等級日誌\n        log.trace(\"trace\");  \n        log.debug(\"debug\");  \n        log.info(\"hello\");  \n        log.warn(\"warn\");  \n        log.error(\"error\");  \n        log.fatal(\"fatal\");\u003c/pre\u003e"

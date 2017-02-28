@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejsp 是servlet的一體兩面 在jsp第一次被請求時 jsp會被 轉譯為 servlet\n\n在servlet中 可以重寫 init destroy service 定義初始化 結束 響應 操作 在jsp中 可以重新定義 _jspInit _jspDestroy _jspService \n(在tomcat下 轉以後的 jsp 的 init ...等函數 將 調用 jspInit ... \n\u003c/pre\u003e"

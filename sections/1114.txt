@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elog4j 是apache下 一個開源的(apache 2) java 日誌庫\n\n官網 \u003ca href=\"http://logging.apache.org/log4j/2.x/manual/customconfig.html\" target=\"_blank\"\u003ehttp://logging.apache.org/log4j/2.x/manual/customconfig.html\u003c/a\u003e\n\u003c/pre\u003e"

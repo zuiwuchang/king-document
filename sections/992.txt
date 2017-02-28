@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eweb.xml 中的配置 會覆蓋 標註\n(既存在標準 然此Servlet在web.xml中 配置 以web.xml為準)\n[可以使用 標準作為默認設置 而 web.xml作為 自定義設置]\n\u003c/pre\u003e"

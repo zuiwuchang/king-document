@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMVC/Model 2 既然 Model(模塊) View(視圖) Controller(控制器)\n\nControlle\t取得請求參數 驗證請求參數 轉發請求給Model 轉發請求給View\n\nModel\t接受Controlle的請求調用 負責處理業務邏輯 負責數據存取邏輯\n\nVIEW\t接受Controlle的請求調用 從Model取得運算結果 根據需要呈現畫面\n\u003c/pre\u003e"

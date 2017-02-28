@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eYou can override log levels in application.conf as follows:\n\n# Root logger:\nlogger.root=ERROR\n\n# Logger used by the framework:\nlogger.play=INFO\n\n# Logger provided to your application:\nlogger.application=DEBUG\n\n# Logger for a third party library\nlogger.org.springframework=INFO\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t從官網 下載最新版本(此處是 apache-log4j-2.0-bin)\n2\t解壓 將其中 log4j-api-*.jar log4j-core-*.jar 加入庫目錄\n3\t配置日誌參數 (可選 不配置使用默認設置) \n\u003c/pre\u003e"

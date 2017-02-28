@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e好吧 play 其實 只是使用 另外一個開源項目 fasterxml 處理json\n\n其他詳細用法 見 fasterxml\n\u003ca href=\"http://fasterxml.github.io/\" target=\"_blank\"\u003ehttp://fasterxml.github.io/\u003c/a\u003e\u003c/pre\u003e"

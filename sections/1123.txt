@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eConfiguration.Loggers.Root\t\t的level 設置 記錄日誌的最小等級\n\nConfiguration.Loggers.AppenderRef\t的ref 設置 日誌輸出到何地 可以是 RollingFile(滾動文件) File(文件) Console(控制台)\n\n\n\nConfiguration.Appenders 內地標籤 是具體如何 輸入到 目的地\n\u003c/pre\u003e"

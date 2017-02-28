@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eajax 上傳 之不過是 動態生成一個 iframe 然後使用此iframe 上傳\n\u003c/pre\u003e\n"

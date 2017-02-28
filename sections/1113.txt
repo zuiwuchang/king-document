@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e最好 不要手動配置 struts2 設置\n將 apps 下任意示例項目 配置和jar 複製到項目 之後修改\n\u003c/pre\u003e"

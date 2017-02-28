@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e獲取參數 當前使用編碼的 byte 數組 \n之後 使用 請求頁面相同的編碼 重新構造 字符串\n\n//請求頁面使用 UTF-8\tServlet使用ISO-8859-1\nnew String(request.getParameter(\"name\").getBytes(\"ISO-8859-1\"),\"UTF-8\");\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一个 servlet 第一次执行时被 构造\n当浏览器发送GET请求时 doGet 方法被调用\n当浏览器发送POST请求时 doPost 方法被调用\n\u003c/pre\u003e"

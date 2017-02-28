@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eplay 使用 message文件 支持i18n\n\n編輯 翻譯文件 /conf/messages.zh-TW (正體中文)\n原字符串=翻譯字符串\n\n編輯 /conf/application.conf 設置使用的語言\n# \u003cstrong\u003e# 用於註釋此行\u003c/strong\u003e\napplication.langs=\"zh-TW\"\n\n在模板中使用 @import play.i18n._ 導入語言\n使用 @Messages.get(\"key\") 獲取翻譯\u003c/pre\u003e"

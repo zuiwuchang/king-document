@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t將tomat的 lib/tomcat-jdbc.jar bin/tomcat-juli.jar 加入CLASSPATH\n2\t初始化連接池\n3\t獲取連接\n...\n\u003c/pre\u003e"

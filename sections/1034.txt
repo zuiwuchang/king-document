@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u0026lt;%@ 指示類型 屬性=值 %\u0026gt; \n(多個屬性值 可以 寫在一個 或多個 元素中)\njsp 有三種 常用 指示元素  page include taglib\n\n\n//page\t指示如何轉譯 當前頁面\n\u0026lt;%@ page language=\"java\" contentType=\"text/html; charset=UTF-8\" pageEncoding=\"UTF-8\"%\u0026gt;\n\u0026lt;%@page import=\"java.util.Date\" %\u0026gt;\n\u003c/pre\u003e"

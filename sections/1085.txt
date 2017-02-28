@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eBy default, dynamic content parts are escaped according to the template type’s (e.g. HTML or XML) rules. If you want to output a raw content fragment, wrap it in the template content type.\n\nFor example to output raw HTML:\n\n\u0026lt;p\u0026gt;\n  @Html(article.content)    \n\u0026lt;/p\u0026gt;\nNext: Common use cases\u003c/pre\u003e"

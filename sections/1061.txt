@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eplay 是一個輕量級的 開源(Apache 2 License) java/scala web framework\n\n官網 \u003ca href=\"https://www.playframework.com/\" target=\"_blank\"\u003ehttps://www.playframework.com/\u003c/a\u003e\n\u003c/pre\u003e"

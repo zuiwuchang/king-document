@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e將 驅動 放入 項目 /lib(play2以後 需要自己創建 此文件夾) 下\n\n編輯 /conf/application.conf\ndb.default.driver=org.mariadb.jdbc.Driver\ndb.default.url=\"mysql://root:12345678@localhost/db_name\" \n\nimport play.db.*;\nDataSource ds = DB.getDatasource();\nConnection connection = DB.getConnection();\n\n...詳見 play官網\u003c/pre\u003e"

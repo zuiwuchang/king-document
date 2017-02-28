@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e啟動應用程序調用 contextInitialized\t\t//一般初始化資源\n結束前調用 contextDestroyed\t\t//一般釋放資源\n\u003c/pre\u003e"

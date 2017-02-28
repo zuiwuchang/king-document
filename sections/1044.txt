@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eel 提供了簡單的邏輯 處理 用於 消除 jsp頁面 的 java代碼 el腳本 用 ${} 括起來\n2.4 及以上版本 容器 默認啟用 el  以下 默認不啟用\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 model 1 模型中 用戶請求某個 jsp頁面\njsp 收集參數 並將請求交給JavaBean處理\nJavaBean 處理後 將結果返回給 jsp\njsp 呈現結構給用戶\n\u003c/pre\u003e"

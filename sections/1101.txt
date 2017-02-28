@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e亦可創建 自己的 日誌空間 而非使用默認的 application\n(使用 Logger.of(name) 創建)\n\nfinal Logger.ALogger accessLogger = Logger.of(\"access\");\nfinal Logger.ALogger logger = Logger.of(this.getClass());\naccessLogger.info(\"accessLogger\");\nlogger.info(\"this\");\u003c/pre\u003e"
