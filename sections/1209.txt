@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecreate user 'name'@'localhost' identified by 'password';\ninsert into mysql.user(host,user,password,ssl_cipher,x509_issuer,x509_subject) values \n('localhost','name',password('password'),'','','');\ngrant select on 'name'@'localhost' identified by 'password';\n\u003c/pre\u003e"

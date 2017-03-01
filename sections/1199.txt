@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e@name/*用户变量*/\ndeclare a int default 10;\ndeclare a int;\nset a=1+2,b=3;\nselect id,name[,...] into var_id,var_name[,...] from test where ...;\n\u003c/pre\u003e"

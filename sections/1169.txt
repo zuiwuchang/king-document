@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\ncreate [undefined|merge|temptable] view 视图名 [(字段...)] as select ...[with [cascaded|local] check option]; \n\nwith check option表示更新视图时要保证在该视图的权限范围之内 \ncascaded表示更新时要满足所有相关视图和表条件 \nlocal表示更新时只需要保证满足视图本身定义条件 \n\nundefined默认 具体定义余未了解 \nmerge余暂时不解 \ntemptable将视图结果存储到临时表，在再临时表中执行sql语句\n\u003c/pre\u003e"

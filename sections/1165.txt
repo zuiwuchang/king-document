@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecreate table name(id int primary key auto_increment,test int not null unique default 123)engine=innodb;\ncreate table name(id int,id1 int,primary key(id,id1));\n外键 constraint 外键别名 foreign key (属性1,属性2,...) references 表名(属性1,属性2,...);\n查看表结构\ndesc 表名\nshow create table 表名\n\u003c/pre\u003e"

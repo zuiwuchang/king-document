@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003erevoke update on *.* from 'name'@'localhost';\nrevoke all privileges ,gant option from user[,user];//收回所有权限\nrevoke priv_type[(column_list)] on database.table from user,[user]\n\u003c/pre\u003e"

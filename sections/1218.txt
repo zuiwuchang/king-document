@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eselect * from mysql.user;\nshow grants for 'name'@'localhost';\n\u003c/pre\u003e"

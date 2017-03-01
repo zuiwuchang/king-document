@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e--skip-grant-tables mysql停止权限验证\nwin mysqld --skip-grant-tables\nlinux /etc/init.d/mysql start --mysqld --skip-grant-tables\n\u003c/pre\u003e"

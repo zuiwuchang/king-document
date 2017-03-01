@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emysqladmin -u name -p password \"new password\";\nupdate mysql.user set password=password('new password') where user='...' and host='...';\nset password=password('new password');\nset password for 'name'@‘localhost’= password('new password');\ngrant select on *.* to 'name'@'localhost' identified by 'password';\n\u003c/pre\u003e"

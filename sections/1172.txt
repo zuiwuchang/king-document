@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nalter [undefined|merge|temptable] view 视图名 [(字段...)] as select ...[with [cascaded|local] check option]; \n//若view不存在创建之\ncreate or replace [undefined|merge|temptable] view 视图名 [(字段...)] as select ...[with [cascaded|local] check option];\n\u003c/pre\u003e"

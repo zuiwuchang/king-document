@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e错误日志文件名为 主机名.err\n通过配置my.cnf可改变其名\n[mysqld]\nlog-error=/home/dark/mysql-log/err;/*会在mysql-log目录下生成err.err的日志文件*/\n\n可用任意文本编辑器查看\n\n删除错误日志\nmysqladmin -u root -p flush-logs;或在mysql中执行 flush logs 执行此命令后会生成新的日志文件 并把旧日志改名为 原名-old\n\u003c/pre\u003e"

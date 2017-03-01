@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\ndesc 视图名 \nshow create view 视图名 \nshow table status like '视图名' \n\nmysql中视图信息存储在information_schema.views中 \n\u003cstrong\u003eso\u003c/strong\u003e\nselect * from information_schema.views;\n\u003c/pre\u003e"

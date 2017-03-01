@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eshow triggers \nselect * from information_schema.triggers;\n\u003c/pre\u003e"

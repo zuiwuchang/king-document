@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//設置 mysql 使用utf8 字符集\n[client]\ndefault-character-set=utf8\n[mysqld]\ncharacter_set_server   = utf8\ninit_connect='SET NAMES utf8'\t\t//(可選)\n\n//查看使用 字符集\nshow variables like 'character%';\n\n若在win32下 使用 字符終端 或linux ring3 下 字符終端\n是不支持utf8顯示的\n\u003c/pre\u003e"

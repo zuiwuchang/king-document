@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emysql -u root -p -e 'sql...' database_name\u0026gt;out.txt;\n\u003c/pre\u003e\n"

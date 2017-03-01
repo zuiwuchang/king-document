@@ -1,0 +1,1 @@
+var __v="optimize table 表名[,表名...]"

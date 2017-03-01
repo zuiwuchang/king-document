@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edrop user 'name'@'localhost';\ndelete from mysql.user where host='localhost' and user='name';\n\u003c/pre\u003e"

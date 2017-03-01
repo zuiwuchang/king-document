@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eupdate 表名 set 字段1=值1,字段2=值2,... where ...\n\u003c/pre\u003e"

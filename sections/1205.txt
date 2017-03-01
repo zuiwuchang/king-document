@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可分为用户列 权限列 \n用户列 db有 host db user ;host有host db \n权限列db比host多create_routine_priv 和 alter_routine_priv 分别表示创建和修改存储过程的权限\n\u003c/pre\u003e"

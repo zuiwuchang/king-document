@@ -7964,5 +7964,579 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1155,
+			"Panel": 634,
+			"Name": "mysql",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1156,
+			"Panel": 635,
+			"Name": "中文亂碼",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1157,
+			"Panel": 636,
+			"Name": "Linux 存儲位置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1158,
+			"Panel": 637,
+			"Name": "整型",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1159,
+			"Panel": 638,
+			"Name": "浮点",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1160,
+			"Panel": 639,
+			"Name": "时间日期",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1161,
+			"Panel": 640,
+			"Name": "字符串",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1162,
+			"Panel": 641,
+			"Name": "二进制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1163,
+			"Panel": 642,
+			"Name": "操作數據庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1164,
+			"Panel": 643,
+			"Name": "数据库引擎 ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1165,
+			"Panel": 644,
+			"Name": "创建表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1166,
+			"Panel": 645,
+			"Name": "修改表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1167,
+			"Panel": 646,
+			"Name": "删除表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1168,
+			"Panel": 647,
+			"Name": "索引",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1169,
+			"Panel": 648,
+			"Name": "创建视图",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1171,
+			"Panel": 649,
+			"Name": "查看视图",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1172,
+			"Panel": 650,
+			"Name": "修改视图",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1173,
+			"Panel": 651,
+			"Name": "更新视图",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1174,
+			"Panel": 652,
+			"Name": "删除视图",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1175,
+			"Panel": 653,
+			"Name": "创建触发器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1176,
+			"Panel": 654,
+			"Name": "查看触发器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1177,
+			"Panel": 655,
+			"Name": "删除触发器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1178,
+			"Panel": 656,
+			"Name": "查询",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1179,
+			"Panel": 657,
+			"Name": "连接",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1180,
+			"Panel": 658,
+			"Name": "其他查询",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1181,
+			"Panel": 659,
+			"Name": "插入记录",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1182,
+			"Panel": 660,
+			"Name": "更新记录",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1183,
+			"Panel": 661,
+			"Name": "删除记录",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1184,
+			"Panel": 662,
+			"Name": "运算符",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1185,
+			"Panel": 663,
+			"Name": "运算符优先级",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1186,
+			"Panel": 664,
+			"Name": "数学函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1187,
+			"Panel": 665,
+			"Name": "字符串",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1188,
+			"Panel": 666,
+			"Name": "时间日期",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1189,
+			"Panel": 666,
+			"Name": "时间类型",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1190,
+			"Panel": 666,
+			"Name": "时间格式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1191,
+			"Panel": 666,
+			"Name": "get_format",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1192,
+			"Panel": 667,
+			"Name": "条件判断",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1193,
+			"Panel": 668,
+			"Name": "系统信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1194,
+			"Panel": 669,
+			"Name": "加密解密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1195,
+			"Panel": 670,
+			"Name": "其他",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1196,
+			"Panel": 671,
+			"Name": "创建存储过程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1197,
+			"Panel": 671,
+			"Name": "创建存储函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1198,
+			"Panel": 671,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1199,
+			"Panel": 672,
+			"Name": "变量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1200,
+			"Panel": 673,
+			"Name": "流程控制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1201,
+			"Panel": 674,
+			"Name": "调用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1202,
+			"Panel": 675,
+			"Name": "查看与修改",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1203,
+			"Panel": 676,
+			"Name": "权限表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1204,
+			"Panel": 676,
+			"Name": "user表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1205,
+			"Panel": 676,
+			"Name": "db表和host表 ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1206,
+			"Panel": 676,
+			"Name": "tables_priv colums_priv",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1207,
+			"Panel": 676,
+			"Name": "procs_priv表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1208,
+			"Panel": 677,
+			"Name": "登录",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1209,
+			"Panel": 678,
+			"Name": "新建用户",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1210,
+			"Panel": 679,
+			"Name": "刷新权限",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1213,
+			"Panel": 678,
+			"Name": "删除用户",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1214,
+			"Panel": 678,
+			"Name": "修改密码",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1215,
+			"Panel": 678,
+			"Name": "root忘记密码",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1216,
+			"Panel": 679,
+			"Name": "授权",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1217,
+			"Panel": 679,
+			"Name": "收回权限",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1218,
+			"Panel": 679,
+			"Name": "查看权限",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1219,
+			"Panel": 679,
+			"Name": "mysql权限",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1220,
+			"Panel": 682,
+			"Name": "mysqldump",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1221,
+			"Panel": 683,
+			"Name": "select",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1222,
+			"Panel": 683,
+			"Name": "mysqldump",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1223,
+			"Panel": 683,
+			"Name": "mysql",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1224,
+			"Panel": 684,
+			"Name": "load data",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1225,
+			"Panel": 684,
+			"Name": "mysqlimport",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1226,
+			"Panel": 685,
+			"Name": "日志",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1227,
+			"Panel": 686,
+			"Name": "二进制日志",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1228,
+			"Panel": 687,
+			"Name": "错误日志",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1229,
+			"Panel": 688,
+			"Name": "通用查询日志",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1230,
+			"Panel": 689,
+			"Name": "慢查询日志",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1231,
+			"Panel": 690,
+			"Name": "mysql数据统计",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1232,
+			"Panel": 690,
+			"Name": "优化查询",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1233,
+			"Panel": 690,
+			"Name": "使用索引",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1234,
+			"Panel": 691,
+			"Name": "优化表结构",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1235,
+			"Panel": 692,
+			"Name": "优化插入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1236,
+			"Panel": 693,
+			"Name": "分析表 检查表 优化表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1237,
+			"Panel": 693,
+			"Name": "分析表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1238,
+			"Panel": 693,
+			"Name": "检查表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1239,
+			"Panel": 693,
+			"Name": "优化表",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

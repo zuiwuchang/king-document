@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\ndrop view 视图名 ; \ndrop view viewname; \ndrop view if exists viewname;\n\u003c/pre\u003e"

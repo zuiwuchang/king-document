@@ -1,0 +1,1 @@
+var __v="check table 表名[,表名...][option]"

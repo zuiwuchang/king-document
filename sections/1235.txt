@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e禁用索引后在插入\nalter table 表名 disable keys;/*禁用索引*/\nalter table 表名 enable keys ;/*重启索引*/\n对于新表 应先不建立索引 待数据插入后再建立索引\n禁用唯一性检查\nset unique_checks=0;/*禁用*/\nset unique_checks=1;/*重新开启*/\ninsert插入多条记录\nload data infile比insert快\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//配置文件\n/etc/my.cnf\n\n//my-small.cnf ...\n/usr/share/mysql/\n\n//命令程序\n/usr/bin\n\n//查詢 database 存儲目錄\nmysqladmin variables | egrep datadir\n\u003c/pre\u003e"

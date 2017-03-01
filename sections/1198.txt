@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003edelimiter \u0026amp;\u0026amp; \ncreate function name(id int)\nreturns varchar(20)\nbeging\nreturn (select name from test where id=id);\nend \u0026amp;\u0026amp; \ndelimiter ; \u003c/pre\u003e"

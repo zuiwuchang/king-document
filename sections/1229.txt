@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e启动通用查询日志\n于my.cnf中配置\n[mysqld]\nlog[=file]\n\u003cstrong\u003e如\u003c/strong\u003e log=/dark/home/mysql-log/log.log\n\u003cstrong\u003e如\u003c/strong\u003e log/*在默认位置以默认名称(主机名.log)生成日志*/\n\n以任何文本编辑器查看\n\n删除\nmysqladmin -u root -p flush-logs/*会直接删除日志不会像错误日志一样备份*/\n\u003c/pre\u003e"

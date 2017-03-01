@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edrop table 表名 \n若待删除的表是其他表的父表 需先删除外键约束 或子表\n\u003c/pre\u003e"

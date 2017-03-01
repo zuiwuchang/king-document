@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\ncreate trigger 触发器名 before|after 触发事件 on 表名 for each row 执行语句 \ndelimiter \u0026amp;\u0026amp; \nbegin \nend \n\ndelimiter \u0026amp;\u0026amp; \ncreate trigger name after delete on tablename for each row \nbegin \nsql \nend \n\u0026amp;\u0026amp; \ndelimiter ;\n\u003c/pre\u003e"

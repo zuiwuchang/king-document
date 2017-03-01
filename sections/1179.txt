@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e内连接 \nselect * from test1,test2 where test1.id=test2.id;\n\n外连接 \nselect 字段 from 表1 left|right join 表2 on 表1.字段名=表2.字段名 \nleft显示表1全部内容表2符合要求才显示 \nright显示表2全部内容表1符合要求才显示\n\u003c/pre\u003e"

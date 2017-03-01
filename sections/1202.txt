@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e查看\nshow procedure status like 'proc_name'\\G\nshow create procedure|function name\\G\nselect * from information_schema.routines where routine_name='name';\n\n修改\nalter procedure|function name characteristic ;\n\n删除\ndrop procedure|function name;\n\u003c/pre\u003e"
