@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若使用 sqlite3_get_table 查詢數據 \n再不使用數據時 需要手動調用 sqlite3_free_table 釋放 資源\n\u003c/pre\u003e"

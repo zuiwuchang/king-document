@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMariaDB 是MySQL創始人 Michael Widenius 在Oracle收購SUN(此時MySQL被 SUN收購)後 開發的社區 維護版MySQL分支\n其語法API完全 兼容 MySQL 故有MySql的連接接口 可用在 MariaDB\n且 文件名 配置完全同MySQL 故可直接 替代 MySQL \n\n官網 \u003ca href=\"https://mariadb.org/\" target=\"_blank\"\u003ehttps://mariadb.org/\u003c/a\u003e\n\u003c/pre\u003e"

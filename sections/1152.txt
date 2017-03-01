@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003exerial是一個 java jdbc驅動 用於操控 sqlite \n其在 win linux mac 分別使用native 操作 sqlite 在其他平台使用 純java操作\n\n官網 \u003ca href=\"https://bitbucket.org/xerial/sqlite-jdbc\" target=\"_blank\"\u003ehttps://bitbucket.org/xerial/sqlite-jdbc\u003c/a\u003e\nsqlite-jdbc4-3.8.2-SNAPSHOT\n\u003c/pre\u003e"

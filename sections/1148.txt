@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSQLite 開源代碼中 之預留了 加密接口 而沒有實現\n故 若需要 加密 功能 需要 自己實現 相應接口\n\nwxSQLite3 是 wxWidgets 庫 的擴展組件 對wxWidgets的c++封裝 \n其實現了 SQLite 需要的 加密接口(256 bit AES)\n\n\n官網 \u003ca href=\"http://wxcode.sourceforge.net/components/wxsqlite3/\" target=\"_blank\"\u003ehttp://wxcode.sourceforge.net/components/wxsqlite3/\u003c/a\u003e\n\u003c/pre\u003e"

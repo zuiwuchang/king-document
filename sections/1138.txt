@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSQLite 一個 快速 開源 的嵌入式 關係型 數據庫\n\n官網 \u003ca href=\"http://www.sqlite.org\" target=\"_blank\"\u003ehttp://www.sqlite.org\u003c/a\u003e\n\u003c/pre\u003e"

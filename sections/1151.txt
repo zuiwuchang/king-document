@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t新建 項目 將 wxsqlite3-3.1.1\\sqlite3\\secure\\src\\ 中文件複製到項目 \n並導入 sqlite3.def sqlite3secure.c 兩個文件\n\n2\t設置 屬性 c/c++ 預處理命令 預處理器定義\n\t為其添加\n\tSQLITE_HAS_CODEC=1\n\tCODEC_TYPE=CODEC_TYPE_AES128\n\tSQLITE_CORE\n\tTHREADSAFE\n\tSQLITE_SECURE_DELETE\n\tSQLITE_SOUNDEX\n\tSQLITE_ENABLE_COLUMN_METADATA\n\n3\t編譯之\n\u003c/pre\u003e"

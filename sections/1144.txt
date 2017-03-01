@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t調用 sqlite3_open 創建/打開 數據庫\n\tdefer 調用 sqlite3_close 關閉數據庫\n\n2\t調用 sqlite3_exec 執行 sql 命令\n\n3\t調用 sqlite3_exec(回調式查詢) 或 \n\tsqlite3_get_table (defer sqlite3_free_table 釋放查詢結果)\n\t執行查詢\n\u003c/pre\u003e"

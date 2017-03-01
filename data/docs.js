@@ -264,10 +264,30 @@ var __v={
 			"Tag": 48,
 			"Name": "周易"
 		},
+		"59": {
+			"Id": 59,
+			"Tag": 49,
+			"Name": "PostgreSQL"
+		},
 		"6": {
 			"Id": 6,
 			"Tag": 7,
 			"Name": "Noto"
+		},
+		"60": {
+			"Id": 60,
+			"Tag": 49,
+			"Name": "MariaDB"
+		},
+		"61": {
+			"Id": 61,
+			"Tag": 49,
+			"Name": "mysql"
+		},
+		"62": {
+			"Id": 62,
+			"Tag": 49,
+			"Name": "SQLite"
 		},
 		"7": {
 			"Id": 7,

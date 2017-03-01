@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSQLite 提供了 一套 c api 以供c/c++程序員操作 SQLite\n\u003c/pre\u003e\n"

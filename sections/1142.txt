@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e%\t任意字符串\n_\t單個字符\n[]\t指定範圍\n[^]\t排除範圍\n\u003c/pre\u003e"

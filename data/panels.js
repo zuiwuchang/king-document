@@ -3461,10 +3461,58 @@ var __v={
 			"Name": "五行",
 			"Sort": 0
 		},
+		"626": {
+			"Id": 626,
+			"Chapter": 218,
+			"Name": "PostgreSQL",
+			"Sort": 0
+		},
+		"627": {
+			"Id": 627,
+			"Chapter": 219,
+			"Name": "MariaDB",
+			"Sort": 0
+		},
+		"628": {
+			"Id": 628,
+			"Chapter": 220,
+			"Name": "SQLite",
+			"Sort": 0
+		},
+		"629": {
+			"Id": 629,
+			"Chapter": 220,
+			"Name": "環境配置",
+			"Sort": 0
+		},
 		"63": {
 			"Id": 63,
 			"Chapter": 27,
 			"Name": "如何使用",
+			"Sort": 0
+		},
+		"630": {
+			"Id": 630,
+			"Chapter": 220,
+			"Name": "常用命名",
+			"Sort": 0
+		},
+		"631": {
+			"Id": 631,
+			"Chapter": 221,
+			"Name": "c api",
+			"Sort": 0
+		},
+		"632": {
+			"Id": 632,
+			"Chapter": 221,
+			"Name": "wxSQLite3 加密",
+			"Sort": 0
+		},
+		"633": {
+			"Id": 633,
+			"Chapter": 222,
+			"Name": "xerial",
 			"Sort": 0
 		},
 		"64": {

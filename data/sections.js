@@ -7831,5 +7831,138 @@ var __v=[
 			"Name": "五行",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1136,
+			"Panel": 626,
+			"Name": "PostgreSQL",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1137,
+			"Panel": 627,
+			"Name": "MariaDB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1138,
+			"Panel": 628,
+			"Name": "SQLite",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1139,
+			"Panel": 629,
+			"Name": "環境配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1140,
+			"Panel": 630,
+			"Name": "常用命名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1141,
+			"Panel": 630,
+			"Name": "轉義字符",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1142,
+			"Panel": 630,
+			"Name": "like",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1143,
+			"Panel": 631,
+			"Name": "c api",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1144,
+			"Panel": 631,
+			"Name": "一般操作步驟",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1145,
+			"Panel": 631,
+			"Name": "常用API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1146,
+			"Panel": 631,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1147,
+			"Panel": 631,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1148,
+			"Panel": 632,
+			"Name": "wxSQLite3 加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1149,
+			"Panel": 632,
+			"Name": "編譯",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1150,
+			"Panel": 632,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1151,
+			"Panel": 632,
+			"Name": "vs編譯",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1152,
+			"Panel": 633,
+			"Name": "xerial",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1153,
+			"Panel": 633,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1154,
+			"Panel": 633,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
