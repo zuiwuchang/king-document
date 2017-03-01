@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\u003cimg src=\"sections/1124/image/y2.png\" style=\"max-width: 100px;\" /\u003e\n(\n\t天地之初萬物之始 混元之氣\n)\n\u003c/pre\u003e"

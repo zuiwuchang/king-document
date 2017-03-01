@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e洛書 各行列之和 皆為15\n此亦有能量守恆 之意\n\u003c/pre\u003e"
