@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果某个函数的一个或多个参数的型别，乃定义于函数所处的namespace中，那么可以不为该函数指定namespace（koenig lookup 规则）\n\nnamespace dark;\nusing namespace std; using namespace std::cout;\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 中 運行構造函數 在初始化時 調用其它構造函數\n\u003c/pre\u003e"

@@ -3899,6 +3899,42 @@ var __v={
 			"Name": "分析表 检查表 优化表",
 			"Sort": 0
 		},
+		"694": {
+			"Id": 694,
+			"Chapter": 239,
+			"Name": "glibc",
+			"Sort": 0
+		},
+		"695": {
+			"Id": 695,
+			"Chapter": 240,
+			"Name": "ucontext",
+			"Sort": 0
+		},
+		"696": {
+			"Id": 696,
+			"Chapter": 241,
+			"Name": "gcc",
+			"Sort": 0
+		},
+		"697": {
+			"Id": 697,
+			"Chapter": 241,
+			"Name": "常用命令",
+			"Sort": 0
+		},
+		"698": {
+			"Id": 698,
+			"Chapter": 242,
+			"Name": "makefile",
+			"Sort": 0
+		},
+		"699": {
+			"Id": 699,
+			"Chapter": 243,
+			"Name": "c++",
+			"Sort": 0
+		},
 		"7": {
 			"Id": 7,
 			"Chapter": 3,
@@ -3911,10 +3947,130 @@ var __v={
 			"Name": "Example",
 			"Sort": 0
 		},
+		"700": {
+			"Id": 700,
+			"Chapter": 244,
+			"Name": "宏",
+			"Sort": 0
+		},
+		"701": {
+			"Id": 701,
+			"Chapter": 244,
+			"Name": "## 連接 字符串",
+			"Sort": 0
+		},
+		"702": {
+			"Id": 702,
+			"Chapter": 244,
+			"Name": "__VA_ARGS__ 可變長參數",
+			"Sort": 0
+		},
+		"703": {
+			"Id": 703,
+			"Chapter": 245,
+			"Name": "構造函數",
+			"Sort": 0
+		},
+		"704": {
+			"Id": 704,
+			"Chapter": 245,
+			"Name": "拋出異常",
+			"Sort": 0
+		},
+		"705": {
+			"Id": 705,
+			"Chapter": 246,
+			"Name": "析構函數",
+			"Sort": 0
+		},
+		"706": {
+			"Id": 706,
+			"Chapter": 246,
+			"Name": "virtual",
+			"Sort": 0
+		},
+		"707": {
+			"Id": 707,
+			"Chapter": 247,
+			"Name": "c++11",
+			"Sort": 0
+		},
+		"708": {
+			"Id": 708,
+			"Chapter": 248,
+			"Name": "初始化列表 initializer_list",
+			"Sort": 0
+		},
+		"709": {
+			"Id": 709,
+			"Chapter": 248,
+			"Name": "{} 統一初始化",
+			"Sort": 0
+		},
 		"71": {
 			"Id": 71,
 			"Chapter": 32,
 			"Name": "observer-pattern 觀察模式",
+			"Sort": 0
+		},
+		"710": {
+			"Id": 710,
+			"Chapter": 248,
+			"Name": "decltype",
+			"Sort": 0
+		},
+		"711": {
+			"Id": 711,
+			"Chapter": 248,
+			"Name": "auto 類型推導",
+			"Sort": 0
+		},
+		"712": {
+			"Id": 712,
+			"Chapter": 248,
+			"Name": "基於範圍的 for",
+			"Sort": 0
+		},
+		"713": {
+			"Id": 713,
+			"Chapter": 248,
+			"Name": "Lambda",
+			"Sort": 0
+		},
+		"714": {
+			"Id": 714,
+			"Chapter": 248,
+			"Name": "右值引用 \u0026\u0026",
+			"Sort": 0
+		},
+		"715": {
+			"Id": 715,
+			"Chapter": 248,
+			"Name": "對象構造改良",
+			"Sort": 0
+		},
+		"716": {
+			"Id": 716,
+			"Chapter": 248,
+			"Name": "回返型別後置的函數簽名",
+			"Sort": 0
+		},
+		"717": {
+			"Id": 717,
+			"Chapter": 248,
+			"Name": "顯示virtual函數重載",
+			"Sort": 0
+		},
+		"718": {
+			"Id": 718,
+			"Chapter": 248,
+			"Name": "nullptr",
+			"Sort": 0
+		},
+		"719": {
+			"Id": 719,
+			"Chapter": 248,
+			"Name": "強類型枚舉",
 			"Sort": 0
 		},
 		"72": {
@@ -3923,10 +4079,130 @@ var __v={
 			"Name": "Example",
 			"Sort": 0
 		},
+		"720": {
+			"Id": 720,
+			"Chapter": 248,
+			"Name": "顯示類型轉換 explicit",
+			"Sort": 0
+		},
+		"721": {
+			"Id": 721,
+			"Chapter": 248,
+			"Name": "新的 字符串定義",
+			"Sort": 0
+		},
+		"722": {
+			"Id": 722,
+			"Chapter": 248,
+			"Name": "字符串 轉義",
+			"Sort": 0
+		},
+		"723": {
+			"Id": 723,
+			"Chapter": 249,
+			"Name": "變長模板參數",
+			"Sort": 0
+		},
+		"724": {
+			"Id": 724,
+			"Chapter": 249,
+			"Name": "靜態 assert",
+			"Sort": 0
+		},
+		"725": {
+			"Id": 725,
+			"Chapter": 250,
+			"Name": "cstdint",
+			"Sort": 0
+		},
+		"726": {
+			"Id": 726,
+			"Chapter": 251,
+			"Name": "數組 array",
+			"Sort": 0
+		},
+		"727": {
+			"Id": 727,
+			"Chapter": 251,
+			"Name": "散列表 unordered_*",
+			"Sort": 0
+		},
+		"728": {
+			"Id": 728,
+			"Chapter": 251,
+			"Name": "tuple",
+			"Sort": 0
+		},
+		"729": {
+			"Id": 729,
+			"Chapter": 252,
+			"Name": "bind function",
+			"Sort": 0
+		},
 		"73": {
 			"Id": 73,
 			"Chapter": 33,
 			"Name": "decorator-pattern 裝飾模式",
+			"Sort": 0
+		},
+		"730": {
+			"Id": 730,
+			"Chapter": 252,
+			"Name": "reference_wrapper",
+			"Sort": 0
+		},
+		"731": {
+			"Id": 731,
+			"Chapter": 253,
+			"Name": "atomic",
+			"Sort": 0
+		},
+		"732": {
+			"Id": 732,
+			"Chapter": 254,
+			"Name": "template",
+			"Sort": 0
+		},
+		"733": {
+			"Id": 733,
+			"Chapter": 254,
+			"Name": "基本型别的显示初始化",
+			"Sort": 0
+		},
+		"734": {
+			"Id": 734,
+			"Chapter": 254,
+			"Name": "exception",
+			"Sort": 0
+		},
+		"735": {
+			"Id": 735,
+			"Chapter": 254,
+			"Name": "namespace",
+			"Sort": 0
+		},
+		"736": {
+			"Id": 736,
+			"Chapter": 254,
+			"Name": "explicit",
+			"Sort": 0
+		},
+		"737": {
+			"Id": 737,
+			"Chapter": 254,
+			"Name": "新的型别转换",
+			"Sort": 0
+		},
+		"738": {
+			"Id": 738,
+			"Chapter": 255,
+			"Name": "pair",
+			"Sort": 0
+		},
+		"739": {
+			"Id": 739,
+			"Chapter": 255,
+			"Name": "auto_ptr",
 			"Sort": 0
 		},
 		"74": {
@@ -3935,10 +4211,130 @@ var __v={
 			"Name": "Example",
 			"Sort": 0
 		},
+		"740": {
+			"Id": 740,
+			"Chapter": 255,
+			"Name": "数值极限",
+			"Sort": 0
+		},
+		"741": {
+			"Id": 741,
+			"Chapter": 255,
+			"Name": "辅助函数",
+			"Sort": 0
+		},
+		"742": {
+			"Id": 742,
+			"Chapter": 255,
+			"Name": "辅助性比较操作符",
+			"Sort": 0
+		},
+		"743": {
+			"Id": 743,
+			"Chapter": 255,
+			"Name": "其他",
+			"Sort": 0
+		},
+		"744": {
+			"Id": 744,
+			"Chapter": 256,
+			"Name": "所有容器的方法",
+			"Sort": 3
+		},
+		"745": {
+			"Id": 745,
+			"Chapter": 256,
+			"Name": "deque",
+			"Sort": 1
+		},
+		"746": {
+			"Id": 746,
+			"Chapter": 256,
+			"Name": "vector",
+			"Sort": 2
+		},
+		"747": {
+			"Id": 747,
+			"Chapter": 256,
+			"Name": "list",
+			"Sort": 0
+		},
+		"748": {
+			"Id": 748,
+			"Chapter": 256,
+			"Name": "set multiset",
+			"Sort": 0
+		},
+		"749": {
+			"Id": 749,
+			"Chapter": 256,
+			"Name": "map multimap",
+			"Sort": 0
+		},
 		"75": {
 			"Id": 75,
 			"Chapter": 34,
 			"Name": "factor-pattern 工廠模式",
+			"Sort": 0
+		},
+		"750": {
+			"Id": 750,
+			"Chapter": 256,
+			"Name": "运行时机",
+			"Sort": 0
+		},
+		"751": {
+			"Id": 751,
+			"Chapter": 257,
+			"Name": "迭代器",
+			"Sort": 0
+		},
+		"752": {
+			"Id": 752,
+			"Chapter": 257,
+			"Name": "stream迭代器",
+			"Sort": 0
+		},
+		"753": {
+			"Id": 753,
+			"Chapter": 258,
+			"Name": "仿函数",
+			"Sort": 0
+		},
+		"754": {
+			"Id": 754,
+			"Chapter": 258,
+			"Name": "判断式",
+			"Sort": 0
+		},
+		"755": {
+			"Id": 755,
+			"Chapter": 258,
+			"Name": "预定义的functor",
+			"Sort": 0
+		},
+		"756": {
+			"Id": 756,
+			"Chapter": 258,
+			"Name": "函数配接器",
+			"Sort": 0
+		},
+		"757": {
+			"Id": 757,
+			"Chapter": 259,
+			"Name": "算法",
+			"Sort": 0
+		},
+		"758": {
+			"Id": 758,
+			"Chapter": 259,
+			"Name": "尾词",
+			"Sort": 0
+		},
+		"759": {
+			"Id": 759,
+			"Chapter": 259,
+			"Name": "算法分类",
 			"Sort": 0
 		},
 		"76": {
@@ -3947,16 +4343,196 @@ var __v={
 			"Name": "Example",
 			"Sort": 0
 		},
+		"760": {
+			"Id": 760,
+			"Chapter": 259,
+			"Name": "非变动性算法",
+			"Sort": 0
+		},
+		"761": {
+			"Id": 761,
+			"Chapter": 259,
+			"Name": "变动性算法",
+			"Sort": 0
+		},
+		"762": {
+			"Id": 762,
+			"Chapter": 259,
+			"Name": "移除性算法",
+			"Sort": 0
+		},
+		"763": {
+			"Id": 763,
+			"Chapter": 259,
+			"Name": "pair",
+			"Sort": 0
+		},
+		"764": {
+			"Id": 764,
+			"Chapter": 259,
+			"Name": "排序算法",
+			"Sort": 0
+		},
+		"765": {
+			"Id": 765,
+			"Chapter": 259,
+			"Name": "已序区间算法",
+			"Sort": 0
+		},
+		"766": {
+			"Id": 766,
+			"Chapter": 259,
+			"Name": "数值算法",
+			"Sort": 0
+		},
+		"767": {
+			"Id": 767,
+			"Chapter": 260,
+			"Name": "stack",
+			"Sort": 0
+		},
+		"768": {
+			"Id": 768,
+			"Chapter": 260,
+			"Name": "queue",
+			"Sort": 0
+		},
+		"769": {
+			"Id": 769,
+			"Chapter": 260,
+			"Name": "priority_queue",
+			"Sort": 0
+		},
 		"77": {
 			"Id": 77,
 			"Chapter": 35,
 			"Name": "singleton-pattern 單件模式",
 			"Sort": 0
 		},
+		"770": {
+			"Id": 770,
+			"Chapter": 260,
+			"Name": "bitset",
+			"Sort": 0
+		},
+		"771": {
+			"Id": 771,
+			"Chapter": 261,
+			"Name": "string",
+			"Sort": 0
+		},
+		"772": {
+			"Id": 772,
+			"Chapter": 261,
+			"Name": "构造 析构",
+			"Sort": 0
+		},
+		"773": {
+			"Id": 773,
+			"Chapter": 261,
+			"Name": "find",
+			"Sort": 0
+		},
+		"774": {
+			"Id": 774,
+			"Chapter": 262,
+			"Name": "时间操作",
+			"Sort": 0
+		},
+		"775": {
+			"Id": 775,
+			"Chapter": 262,
+			"Name": "计时",
+			"Sort": 0
+		},
+		"776": {
+			"Id": 776,
+			"Chapter": 262,
+			"Name": "获取时间",
+			"Sort": 0
+		},
+		"777": {
+			"Id": 777,
+			"Chapter": 262,
+			"Name": "时间格式化",
+			"Sort": 0
+		},
+		"778": {
+			"Id": 778,
+			"Chapter": 263,
+			"Name": "重要的类",
+			"Sort": 0
+		},
+		"779": {
+			"Id": 779,
+			"Chapter": 263,
+			"Name": "重要全局对象",
+			"Sort": 0
+		},
 		"78": {
 			"Id": 78,
 			"Chapter": 36,
 			"Name": "command-pattern 命令模式",
+			"Sort": 0
+		},
+		"780": {
+			"Id": 780,
+			"Chapter": 263,
+			"Name": "操控器",
+			"Sort": 0
+		},
+		"781": {
+			"Id": 781,
+			"Chapter": 263,
+			"Name": "继承图表",
+			"Sort": 0
+		},
+		"782": {
+			"Id": 782,
+			"Chapter": 263,
+			"Name": "stream狀態",
+			"Sort": 0
+		},
+		"783": {
+			"Id": 783,
+			"Chapter": 263,
+			"Name": "无格式输入输出",
+			"Sort": 0
+		},
+		"784": {
+			"Id": 784,
+			"Chapter": 263,
+			"Name": "格式化",
+			"Sort": 0
+		},
+		"785": {
+			"Id": 785,
+			"Chapter": 263,
+			"Name": "文件存取",
+			"Sort": 0
+		},
+		"786": {
+			"Id": 786,
+			"Chapter": 263,
+			"Name": "连接io与重定向",
+			"Sort": 0
+		},
+		"787": {
+			"Id": 787,
+			"Chapter": 263,
+			"Name": "string stream",
+			"Sort": 0
+		},
+		"788": {
+			"Id": 788,
+			"Chapter": 263,
+			"Name": "自定义型别",
+			"Sort": 0
+		},
+		"789": {
+			"Id": 789,
+			"Chapter": 263,
+			"Name": "C 文件操作",
 			"Sort": 0
 		},
 		"79": {

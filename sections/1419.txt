@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003estd::wstring text;\nstd::time_t time\t=\tstd::time(NULL);\nstd::tm t;\nlocaltime_s(\u0026amp;t,\u0026amp;time);\nwchar_t buffer[100];\nwcsftime(buffer,sizeof(buffer),L\"%Y/%m/%d %H:%M:%S %A\",\u0026amp;t);\n\ntext\t+=\tbuffer;\u003c/pre\u003e"

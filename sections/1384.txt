@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e算法中传入functor 其实是执行的functor的拷贝 既不会改变原functor内部状态(变量) 除非以显示引用的方式出让引用\n\n\u003cstrong\u003e如\u003c/strong\u003e\nfunctor f;\nstd::generate\u0026lt;...,functor \u0026amp;\u0026gt;(..,..,f);\n\u003cstrong\u003e或 for_each()会返回functor\u003c/strong\u003e\nfunctor f=for_each(begin,end,functor);\n\u003c/pre\u003e"

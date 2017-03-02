@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e行為像函數的任意東西 為仿函數\n\u003c/pre\u003e\n"

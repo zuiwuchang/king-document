@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e通过template numeric_limits提供极值替代c的预处理常数\n整数常数定义于\u0026lt;climits\u0026gt;浮点\u0026lt;cfloat\u0026gt;\n\u003c/pre\u003e"

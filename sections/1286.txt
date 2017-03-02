@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 增強了對 virtual 函數的 控制\n\n在 重載 的 virtual 後減少 \u003cstrong\u003eoverride\u003c/strong\u003e 描述\n代表 是在重載基類的 virtual 函數 如果 基類不存在 此 virtual 編譯器將 給出錯誤\n\n在 virtual 後 加上 \u003cstrong\u003efinal\u003c/strong\u003e 描述\n將使用 子類無法 重載 此 virtual 函數\n\u003c/pre\u003e"

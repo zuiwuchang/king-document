@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;functional\u0026gt;\n\nc++11 提供了 新的 函數適配器 std::bind 和新的 functor std::function\n將 boost 的 boost::bind boost::function\n直接 納入了標準庫 使用方式和 boost 中的庫 一樣 只是現在 namespace 變為 std\n_1,_2 ... 需要寫成 std::placeholders::_1 std::placeholders::_2 ...\n\u003c/pre\u003e"

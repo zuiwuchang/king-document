@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e此异常皆派生自logic_error\ninvalid_argument表示无效参数\nlength_error表示超出某个最大极限\nout_of_range数值不在范围内 如数组索引越界\ndomain_error指出专业领域范畴内的错误 \n此外I/O提供了一个ios_base::failure异常(派生自exceptio)\n\u003c/pre\u003e"

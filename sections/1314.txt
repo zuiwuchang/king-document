@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etemplate中的任何标识符(如果不以typename标识)都被认为是一个value\n\ntemplate \u0026lt;typename T\u0026gt;\nclass Test\n{\n\ttypename T::data * ptr;\n};\n\n若无 typename T::data 或被认为是static成员而非 T中的一个型别\n\u003c/pre\u003e"

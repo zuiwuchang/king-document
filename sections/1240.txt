@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eglibc 既 GNU C Library 是gnu社區 提供的一個 開源 (GPL LGPL) 跨平台 c api 庫\n\n官網 \u003ca href=\"http://www.gnu.org/software/libc/\" target=\"_blank\"\u003ehttp://www.gnu.org/software/libc/\u003c/a\u003e\n\u003c/pre\u003e"

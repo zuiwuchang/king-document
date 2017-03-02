@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emakefile 是 gcc 支持的一個編譯 腳本\n\u003c/pre\u003e"

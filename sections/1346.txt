@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e有四个template functions 分别定义了!=,\u0026gt;,\u0026lt;=,\u0026gt;=他们依据==和\u0026lt;完成 被定义于\u0026lt;utility\u0026gt;中 std::rel_ops名字空间内\n故对于自定义型别自需要提供==和\u0026lt;的全局比较特化函数 并使用 std::rel_ops名字空间便自动获得此四种操作符\n\u003c/pre\u003e"

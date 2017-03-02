@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e返回布尔值(可转换为bool)的一个 functor\n\u003c/pre\u003e"

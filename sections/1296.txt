@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e現在 c++11 模板 支持變長參數\n\n使用\ntypename ...Name 定義 變長型別\nName... name 定義 變長 參數\nname... 使用 變長參數\n\u003c/pre\u003e"

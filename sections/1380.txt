@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eistream_iterator\u0026lt;T\u0026gt;() //产生一个end-of-ostream迭代器 当读取失败 所有istream_iterator都会被设置为此值 可用之检查读取是否失败\nistream_iterator\u0026lt;T\u0026gt;(istream,delim) //同上 不过每个元素以delim(const char *)分隔符分开\niter-\u0026gt;member //传回读取元素的成员(如果有的话)\n*iter //无实际操作返回iter\n++iter //读取下一个元素\niter++  //同上\niter1==iter2\niter1!=iter2\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 中 使用 初始化 對象 變得更加 簡單\n\u003c/pre\u003e"

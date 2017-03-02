@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e对STL而言 正确的判断试 对于传入同样的参数始终返回同样的结果\n(如不能 第一次调用fun(x) 返回true 下一次调用fun(x)却返回false)\n\u003c/pre\u003e"

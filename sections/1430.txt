@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eostream\u0026amp; ostream::put(char c);\nc写入stream、\n\nostream\u0026amp; ostream::write(const char* str,streamsize count);\nstr中的count个字符写入到stream需保证str中至少有count个字符 否则会导致未定义行为\n\nostream\u0026amp; ostream::flush();\n刷新缓冲区\n\u003c/pre\u003e"

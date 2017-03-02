@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;stack\u0026gt;\n\nnamespace std{\n\ttemplate\u0026lt;calss T,class Container=deque\u0026lt;T\u0026gt;\u0026gt;\n\tclass stack; \n}\nstack只是单纯的吧操作 转化为对内部对应容器的调用 故只有内部容器支持back push_back pop_back等就行\n\u003c/pre\u003e"

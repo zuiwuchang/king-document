@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;list\u0026gt;\n\n一个双向链表\n\u003c/pre\u003e\n\u003cimg src='/sections/1359/image/list.png' style=\"max-width: 100%;\"\u003e"

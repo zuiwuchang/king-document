@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e現在 c++ 運行 將 函數 返回值 寫在 簽名 之後\n配合 decltype 可以寫出 更加 靈活的 模板\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\tstd::istream_iterator\u0026lt;int\u0026gt; inError,in_iter(std::cin);\n\twhile(in_iter!=inError)\n\t{\n\t\tstd::cout\u0026lt;\u0026lt;*in_ite\u0026lt;\u0026lt;std::endl;\n\t\t++in_iter;\n\t}\u003c/pre\u003e"

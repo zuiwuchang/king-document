@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;map\u0026gt;\nmap multimap 以key value 的pair当元素 以key自动排序(以平衡叉树实现)\nmap不允许按入重复值 multimap允许\n\u003cimg src='/sections/1367/image/map.png' style=\"max-width: 100%;\"\u003e\n\n内存结构\n\u003cimg src='/sections/1367/image/map1.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

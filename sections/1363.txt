@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t反对称\n\t若x\u0026lt;y为真 则y\u0026lt;x必须为假\n\t若op(x,y)为真 则op(y,x)必须为假\n2\t可传递\n\t若 x\u0026lt;y y\u0026lt;z 为真 则x\u0026lt;z为真\n\t...op...\n3\t非自反\n\tx\u0026lt;x 必为假\n\t...op...\n\u003c/pre\u003e"

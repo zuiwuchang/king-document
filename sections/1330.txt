@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e去除型别的常数性 亦可去除volatile饰词\n\nconst int a=1;\nint *lp=const_cast\u0026lt;int*\u0026gt;(\u0026amp;a);\n*lp=2;\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003einsert 传入的安插位置只是一个 为提升性能的位置提示 其不影响安插位置（因为是序列容器）\n对于multiset 不能用erase(elem)删除重复的第一个元素 应该\n\niterator iter=s.find(elem);\nif(iter!=s.end())\ns.erase(iter);\n\u003c/pre\u003e\n"

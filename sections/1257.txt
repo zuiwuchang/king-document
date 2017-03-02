@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 一個 class 會被 派生 應該將 析構函數 定義為 virtual\n因為 如果 delete 一個 基類指針 然而 其卻保存的是 子類對象 時\n若 析構函數 不是 virtual 子類的 將調用的是基類的 析構函數\n\u003c/pre\u003e"

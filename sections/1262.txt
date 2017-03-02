@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003einitializer_list 由編譯器 靜態構造 一旦創建 其成員 便不可變動\n\ninitializer_list 可以使用在 非構造函數中\n\u003c/pre\u003e"

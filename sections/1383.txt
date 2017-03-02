@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunctor可以拥有状态\n每个functor都有其型别\nfunctor执行速度通常比function快\n\u003c/pre\u003e"

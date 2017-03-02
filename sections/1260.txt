@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e現在 c++允許定義 一個 初始化列表 構造函數\n以允許 使用 形如\nT instance{...,...,..}\nT instance = {...,...,..}\n的方式 去實例化 對象\n\n這對於 像 vector list ... 等容器的 初始化 提供了方便\n終於告別了 沒完沒了的 push_back insert\n\u003c/pre\u003e"

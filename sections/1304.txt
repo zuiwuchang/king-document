@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost::tuple 被納入c++11 現在是 std::tuple\n#include \u0026lt;tuple\u0026gt;\n\nstd::tuple 去掉了 get 成員函數\n在 #include \u0026lt;utility\u0026gt; 中 提供了一個 std::get\u0026lt;N\u0026gt;(T\u0026amp;) \n完成 操作tuple 成員的 功能\n\n同時 std::get 還可以 操作 std::pair \n\u003c/pre\u003e"

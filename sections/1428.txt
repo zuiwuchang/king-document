@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estream默认不抛出异常 但cout.exceptions(failbit)/*或其他标志*/\n函数指定当指定标准设置时抛出ios_base::failure异常 \n若标准已经设置立刻抛出异常 \n\n无参cout.exceptions()返回引发异常的标志\n\u003c/pre\u003e"

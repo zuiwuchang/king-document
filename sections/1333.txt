@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epair存储到两个数据型别可不同(如std::pair\u0026lt;intint,float\u0026gt;)\n当多个pair比较大小 第一个数据有较高优先级\nstd::make_pair返回一个pair 可省略型别(如 std::make_pair(1,1.1) 或std::make_pair\u0026lt;int,float\u0026gt;(1,1.1) \n第一个pair的second是double 第二个是float)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eclass Stack{\n\n\texplicit Stack(int size);\n\n....\n\n};\u003c/pre\u003e"

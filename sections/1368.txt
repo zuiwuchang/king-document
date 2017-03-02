@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etemplate\u0026lt;class Key,class T, \n\tclass Compare=less\u0026lt;Key\u0026gt;, \n\tclass Allocator=allocator\u0026lt;pair\u0026lt;const Key,T\u0026gt; \u0026gt; \u0026gt;\nclass map;\n\nless\u0026lt;Key\u0026gt; 同set的默认\n\u003c/pre\u003e"

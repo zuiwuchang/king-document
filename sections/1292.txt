@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 使用 u8 u U 定義字符串 字面值\n同時 定義了 新string 型別\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//把迭代器向后移动n 对于随机迭代器 iter+=n\nvoid advance (InputIterator\u0026amp; iter,Dist dis)\n\n//返回迭代器距离 i1必须小于i2否则引发未定义行为 对于随机迭代器i1-i2\nDist distance(InputIterator\u0026amp; i1,InputIterator i2)\n\n//交换迭代器所指的值的内容\u0026lt;algorithm\u0026gt;\niter_swap(ForWardIterator i1,ForWardIterator i2)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;array\u0026gt;\n\nc++11 提供了 一個使用容器包裝的 數組 以更方便的將數組作為容器 \n將 boost 的 array\n直接 納入了標準庫 使用方式和 boost 中的庫 一樣 只是現在 namespace 變為 std\n\u003c/pre\u003e"

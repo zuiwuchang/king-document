@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 構造函數前 加上 explicit 可以避免 隱式 轉換\n現在 explicit 可以使用 在 operator bool() 等型別轉換 上\n以避免 型別隱式 轉換\n\u003c/pre\u003e"

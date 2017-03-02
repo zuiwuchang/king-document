@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e文件与class构造打开 析构自动关闭\n对于既可读又可写的stream 不能随便转换读写属性 转换时必须先seek到当前位置再转换\n\u003c/pre\u003e"

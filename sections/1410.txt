@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;string\u0026gt;\n\n凡是以 一个索引和一个长度作为参数 的地方 字符串遵循以下两规则\n1.\t索引值必须合法\n\t对于搜索函数 可接受超过实际字符数的索引 这是会返回 string::npos\n2.\t字符长度可任意 若大于实际剩余字符数 或用 string::npos 表示剩余所有字符\n\u003c/pre\u003e"

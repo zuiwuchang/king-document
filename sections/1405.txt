@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//压入一个元素\npush()\n\n//返回队列第一个元素 不会检查存在元素 调用者处理\nfront()\n\n//返回队列最后一个元素 ... pop()\t//弹出第一个元素 ...\nback()\n\nempty()\nsize()\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ealgorithm 中包含了 大量有用的 算法 然 大部分需要一個自定義的 functor \n現在 可以使用 Lambda 定義一個匿名 函數 \n[](int x,int y){return x+y;}\n[](int x,int y) -\u0026gt; int{return x+y;}\n\u003c/pre\u003e"

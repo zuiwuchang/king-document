@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++ 對象在被 創建後 其析構函數 會被自動調用\n\u003c/pre\u003e"

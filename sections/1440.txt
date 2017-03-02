@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emode\t含义\t\t文件不存在\n\nr\t读\t\t返回NULL 打开失败\nr+\t读写\t\t...\nw\t写\t\t清空文件\nw+\t读写\t\t...\na\t写\t\t创建文件(若存在 写入到文件尾 fseek不影响写位置)\na+\t读写\t\tftell=0\n\nb\t二进制模式打开 不需跟在 上面字符之后如 rb 或 r+b\n\u003c/pre\u003e"

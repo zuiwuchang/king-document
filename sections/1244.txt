@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//顯示 gcc 版本 信息\ngcc -v\ngcc --version\n\n\n// 編譯 代碼\ngcc [options] [filenames]\n\u003c/pre\u003e"

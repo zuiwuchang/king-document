@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003enamespace std{\n\ttemplate\u0026lt;class T,class Compare\u0026gt;\n\tinline const T\u0026amp; min (const T\u0026amp; a,const T\u0026amp; Comare comp)\n\t{\n\t\treturn omp(b,a)?b:a;\n\t}\n}\n//Comare需要是函数或者仿函数\u003c/pre\u003e"

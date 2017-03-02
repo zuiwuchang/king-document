@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#define TEST_SHOW_1 puts(\"1\");\n#define TEST_SHOW_2 puts(\"2\");\n#define TEST_SHOW(XXX) TEST_SHOW_##XXX\nint main()\n{\n\tTEST_SHOW(1)    //show 1\n\tTEST_SHOW(2)    //show 2\n\n\treturn 0;\n}\u003c/pre\u003e"

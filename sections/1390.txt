@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSTL算法被设计用于处理一个或多个迭代器区间 \n第一区间通常以起点终点表示 其他区间只提供起点 其终点由第一区间推倒出来\nSTL算法采用覆盖模式 若需要安插可以安插迭代器改变其行为\n\n#include\u0026lt;algorithm\u0026gt;\n#include\u0026lt;numeric\u0026gt;//包含一些和数值相关的算法\n\u003c/pre\u003e"

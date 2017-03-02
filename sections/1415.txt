@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclock_t clock( void ); //返回进程启动 到调用此 函数经过的计时单位 一般为毫秒(\u003cstrong\u003e既每过1毫秒 clock的返回值+1\u003c/strong\u003e)\ntypedef long clock_t;\n#define CLOCKS_PER_SEC  1000 //计时单位\n\u003c/pre\u003e"

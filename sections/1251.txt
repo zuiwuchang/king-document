@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec99 標準開始 c的宏支持了可變參數 \n使用 ... 定義 可變長\n使用 __VA_ARGS__ 使用 可變長\n\u003c/pre\u003e"

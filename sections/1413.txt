@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efind()\t\t\t//搜索第一个与value相等的字符\nrfind()\t\t\t//搜索最后一个与...\nfind_first_of()\t\t//搜索第一个与\"value中某个值相等\"的字符\nfind_last_of()\t\t//...最后一个...\nfind_first_not_of\t//...不相等...\nfind_last_not_of()\t//...最后一个...不相等...\n\u003c/pre\u003e"

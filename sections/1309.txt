@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;utility\u0026gt;\n\nboost::ref boost::reference_wrapper 被納入 c++11標準\n現在只是 將namespace 改為 std 其它不變\n\u003c/pre\u003e"

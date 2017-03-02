@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e算法程序库(定义于\u0026lt;algorithm\u0026gt;)内含三个辅助函数，用来挑选两值中较大 较小 或交换\n\u003c/pre\u003e"

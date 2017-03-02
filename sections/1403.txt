@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epush()\t//压入一个元素\ntop()\t//返回栈顶元素 不会检查存在元素 调用者处理\npop()\t//弹出一个元素 ...\nempty()\nsize()\n\n==\n!=\n\u0026lt;\n\u0026gt;\n\u0026lt;\n\u0026gt;\n两个stack 需要元素size相等 且对应元素相等 才等 (采用字典比较)\n\u003c/pre\u003e"

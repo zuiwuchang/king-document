@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;bitset\u0026gt;\nnamespace std{\n\ttemplate\u0026lt;size_t Bits\u0026gt;\n\tclass bitset; \n}\n用以表示固定长度的位 1 0 序列\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//压入一个元素\npush()\n\n//返回下一个元素 既容器尾 pop()\t//弹出下一个元素 从容器尾 ...\ntop()\n\nempty()\nsize()\n\u003c/pre\u003e"

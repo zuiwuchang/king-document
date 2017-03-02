@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 運行派生類 繼承 父類 構造函數\n使用 using PClass::PClass; 繼承\n一旦繼承 就必須繼承 所有 基類 構造函數\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 引入新的關鍵字 nullptr 作為空指針\n\nnullptr 的型別為 nullptr_t 可以隱式轉換為其它任意指針\n\nnullptr 在判別式中 為 false\n\n為了兼容 舊代碼 0 依然可以 作為 空指針\nnullptr 相對 0 的壞處在於 不能隱式 轉換為 整型 亦不可和 整型 計算 比較 \n\u003c/pre\u003e"

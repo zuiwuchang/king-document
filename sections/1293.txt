@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#include \u0026lt;iostream\u0026gt;\n#include \u0026lt;string\u0026gt;\n\nint main()\n{\n    std::string utf8 = u8\"this is UTF-8 string\";\n    std::u16string utf16 = u\"this is UTF-16 string\";\n    std::u32string utf32 = U\"this is UTF-32 string\";\n    return 0;\n}\u003c/pre\u003e"

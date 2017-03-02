@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enamespace std{\ntemplate\u0026lt;class T\u0026gt;\n\tinline const T\u0026amp; min (const T\u0026amp; a,const T \u0026amp;b)\n\t{\n\t\treturn b\u0026lt;a?b:a;\n\t}\n} \nmax 同min\n如果两值相等通常返回第一值(所谓通常也可不如此 故程序不应依赖此)\n\u003c/pre\u003e"

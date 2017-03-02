@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e派生自runtime_errot\nrange_error指出内部计算时发生区间错误\noverflow_error指出算术运算发生上溢位\nunderflow_error指出算术运算发生下溢位\n\u003c/pre\u003e"

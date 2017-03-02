@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eenum class Animal\n{\n    Cat,\n    Dog,\n};\nenum class Monster\n{\n    Cat,\n    Snake,\n};\nint main()\n{\n    Animal animal = Animal::Cat;\n    Monster monster = Monster::Cat;\n\n    return 0;\n}\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++ 從c 繼承來了 宏 使用 方式 基本 同 c\n\u003c/pre\u003e"

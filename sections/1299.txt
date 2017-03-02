@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 將 boost 的 static_assert 加入到 標準庫中\n\n#include \u0026lt;type_traits\u0026gt;\u003c/pre\u003e"

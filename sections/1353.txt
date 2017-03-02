@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;deque\u0026gt;\n以动态模拟一个数组 接口基本同vector 但头尾都开放\n提供随机访问 迭代器支持+n -n\n\n逻辑结构\n\u003cimg src='/sections/1353/image/deque.png' style=\"max-width: 100%;\"\u003e\n\n内存结构(位于不同内存块)\n\u003cimg src='/sections/1353/image/deque1.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

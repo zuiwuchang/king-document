@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++ 11 提供了 右值引用 用於增強性能(消除不需要的 臨時對象創建)\n使用 T \u0026amp;\u0026amp; v 定義一個 右值引用\n\n同時 c++11 提供了 std::move 將1個左值 轉為右值\n\n對於模板 T \u0026amp;\u0026amp; 將根據 傳入參數 確定v為 左值引用 還是 右值引用\ntemplate\nT \u0026amp;\u0026amp; v\n\n測試後續代碼時 務必打開 -fno-elide-constructors 選項 禁用gcc的 值傳遞優化否則\n\u003c/pre\u003e"

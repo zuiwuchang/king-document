@@ -1,0 +1,1 @@
+var __v="\u003cpre class='prettyprint linenums'\u003enamespace std{\n\ttemplate\u0026lt;class T\u0026gt;\n\tinline void swap(T\u0026amp; a,T\u0026amp; b)\n\t{\n\t\tT temp(a);\n\t\ta=b; \n\t\tb=temp; \n\t} \n}\u003c/pre\u003e\n\u003cpre class=\"k-pre\"\u003e由声明可知 调用swap 需要copy构造函数和 assignment存在方可调用\n\u003c/pre\u003e"

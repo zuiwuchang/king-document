@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etemplate\u0026lt;class T, \nclass Compare=less\u0026lt;T\u0026gt;, \nclass Allocator=allocator\u0026lt;T\u0026gt; \u0026gt;\nclass set;\n\n\u003cstrong\u003eless\u0026lt;T\u0026gt; 是默认排序准则 一个仿函数 以 operator\u0026lt; 比较\u003c/strong\u003e\n\u003c/pre\u003e"

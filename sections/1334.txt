@@ -1,0 +1,1 @@
+var __v="不在使用 請使用 c++11的 shared_ptr"

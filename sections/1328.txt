@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e将一个值以符合逻辑的方式转换（可看作 利用原值重建一个临时对象 并在设立初始值时使用型别转换） 。唯有型别转换有所定义（可是语言内建规则或程序员自定义转换动作），转换才会成功\n\nfloat x;\ncout\u0026lt;\u0026lt;static_cast\u0026lt;int\u0026gt;(x)\u0026lt;\u0026lt;static_cast\u0026lt;string\u0026gt;(\"this is a test\");\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++11 提供了 統一使用 {} 初始化的 方式\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;queue\u0026gt;\nnamespace std{\n\ttemplate\u0026lt;calss T,class Container=deque\u0026lt;T\u0026gt;\u0026gt;\n\tclass queue; \n}\nqueue只是单纯的吧操作 转化为对内部对应容器的调用 故只有内部容器支持front back push_back pop_front等就行\n\u003c/pre\u003e"

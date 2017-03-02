@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e由编译器定义 使用通常会带来不可移植性\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edecltype 是一個 新加入到 操作符 \n將 boost BOOST_TYPEOF 宏 的功能 作為標準 實現\n\u003c/pre\u003e"

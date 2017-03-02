@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estl 標準容器 都實現了 move 語義\n\u003c/pre\u003e"

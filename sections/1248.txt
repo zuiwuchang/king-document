@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++ 是20世紀80年代(1983年) 發明的 一種 通用 靜態 強類型 高效 的 編程語言\n(由c語言 擴展而來)\n\nc++ 兼容 90%的 c 特性 可以直接使用 c源碼/模塊\n\nc++ 首創了 模板元編程 \n\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/C%2B%2B\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/C%2B%2B\u003c/a\u003e\n\u003c/pre\u003e"

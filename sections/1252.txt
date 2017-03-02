@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#define PRINTF(...) printf(__VA_ARGS__);\nint main()\n{\n\tPRINTF(\"ok %d\",1);\n\treturn 0;\n}\u003c/pre\u003e"

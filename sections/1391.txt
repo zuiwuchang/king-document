@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cstrong\u003e_if\u003c/strong\u003e\n对于_if算法通常可传入一个函数或仿函数判别式 只对满足判别式的元素操作\n\n\u003cstrong\u003e_copy\u003c/strong\u003e\n此类算法中不但操作元素 元素还会被拷贝到新的目标区间\n\u003c/pre\u003e"

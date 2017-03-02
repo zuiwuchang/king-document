@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e現在 std::string 不再是一個 ascii 字符串 而是 utf8 字符串\n\u003c/pre\u003e"

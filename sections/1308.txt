@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estd::function 和 boost::function 一樣 參數使用 值傳遞\n需要使用 引用 需要用 reference_wrapper 包裝\n\u003c/pre\u003e"

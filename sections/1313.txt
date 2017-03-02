@@ -1,0 +1,1 @@
+var __v="\u003cpre class='prettyprint linenums'\u003etemplate\u0026lt;typename T\u0026gt;\ninline const T\u0026amp; max(const T \u0026amp;a, const T \u0026amp; b)\n{\n\treturn a\u0026gt;b?a:b;\n}\u003c/pre\u003e\n\u003cpre class=\"k-pre\"\u003etemplate的参数可以是 型别 非型别 可带默认值\n\u003c/pre\u003e"

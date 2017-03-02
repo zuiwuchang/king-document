@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e将多态型别向下转向为其实际的静态型别\nclass Father{ virtual...};\n\nclass Son : public Father{..};\n\nclass Girl : public Father{..};\n\nSon son;\n\nFather *lp=\u0026amp;son;\n\nSon *p=dynamic_cast\u0026lt;Son*\u0026gt;(lp);\n\u003c/pre\u003e"

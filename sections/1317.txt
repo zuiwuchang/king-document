@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eint a = int();\n\ntemplate\u0026lt;typename T\u0026gt;\n\nvoid f()\n{\n\tT t=T();\n}\u003c/pre\u003e"

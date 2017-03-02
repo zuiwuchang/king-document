@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSTL对 std::vector\u0026lt;bool\u0026gt; 进行了特例化 其每个元素以bit表示 且提供了对位的取反操作\n相当于动态大小的bit 若需要静态大小bit应该使用bitset\n\u003c/pre\u003e"

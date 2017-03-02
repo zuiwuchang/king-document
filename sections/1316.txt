@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e以 constructor 调用语法 基本型别会被初始化为 0\n\u003c/pre\u003e"

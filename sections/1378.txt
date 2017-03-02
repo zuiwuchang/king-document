@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eostream_iterator\u0026lt;T\u0026gt;(ostream) //产生一个ostream迭代器\nostream——iterator\u0026lt;T\u0026gt;(ostream,delim) //同上 不过每个元素以delim(const char *)分隔符分开\niter=value //将value希尔stream\n*iter //无实际操作返回iter\n++iter //同上\niter++  //同上\n\u003c/pre\u003e"

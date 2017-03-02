@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egcc 既 GNU Compiler Collection 的簡稱\n以 GPL LGPL 發行的 編譯器\n\n官網 \u003ca href=\"http://gcc.gnu.org/\" target=\"_blank\"\u003ehttp://gcc.gnu.org/\u003c/a\u003e\n\u003c/pre\u003e"
