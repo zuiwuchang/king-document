@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e輸出像素 為 核內像素值的 均值\n\nvoid blur(InputArray src,\t\t//輸入圖像\n\tOutputArray dst,\t\t//輸出圖像\n\tSize ksize,\t\t\t//核 大小\n\tPoint anchor=Point(-1,-1),\t//錨點(平滑點) 如果為負值 取 核中心 為錨點 \n\tint borderType=BORDER_DEFAULT )\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclass Mat\t是用來 容納圖像數據的容器 OpenCV2以前 使用 c接口IplImage 管理\n\nMat\t的好處在於 不用程序員操心 內存 分配\nMat\t分為 信息頭 和 矩陣像素\n\n信息頭 記錄了 圖像的基本信息 如寬度 高度 色深等 \n矩陣像素 則是圖像具體的 像素數據指針\n\nMat\t使用 引用計數 的手法 在 copy語義時 只拷貝 信息頭 和矩陣指針\n當最後一個 Mat 析構時 才 釋放 矩陣指針(故 多個copy的 Mat 操作圖像將相互 影響)\n\u003c/pre\u003e"

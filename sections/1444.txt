@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eiconv 是 GNU社區 提供的 一個開源(GPL LGPL) 跨平台的 c 字符集 轉換庫\n\n官網 \u003ca href=\"https://www.gnu.org/software/libiconv/\" target=\"_blank\"\u003ehttps://www.gnu.org/software/libiconv/\u003c/a\u003e\n\u003c/pre\u003e"

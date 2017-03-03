@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eint _tmain(int argc, _TCHAR* argv[])\n{\n\tcv::Mat mat = cv::imread(\"a.png\",1)\n\tassert(mat.data);\n\n\tstd::vector\u0026lt;int\u0026gt; params;\n\tparams.push_bakck(CV_IMWRITE_JPEG_QUALITY); \n\tparams.push_bakck(100); \n\n\tassert(cv::imwrite(\"b.jpg\",mat,params));\n}\u003c/pre\u003e"

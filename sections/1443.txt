@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e直接 連接 nvwa 庫即可 \n如果還需要 獲取洩漏 源碼位置 加入 #include \"debug_new.h\"\n\u003c/pre\u003e"

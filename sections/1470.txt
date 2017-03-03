@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eOpenCV是跨平台庫 未提供到指定平台設備的 輸出\n其提供的 事件處理 亦無平台API強大 故而常用 OpenCV處理圖像 混和到 平台本地API中\n\n以下示例顯示了如何在 Mat 餘GDI+的Bitmap 間轉換數據 \n以將Mat 應用到MFC中\u003c/pre\u003e"

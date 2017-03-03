@@ -4541,6 +4541,66 @@ var __v={
 			"Name": "Example",
 			"Sort": 0
 		},
+		"790": {
+			"Id": 790,
+			"Chapter": 266,
+			"Name": "新面板",
+			"Sort": 0
+		},
+		"791": {
+			"Id": 791,
+			"Chapter": 266,
+			"Name": "使用 nvwa",
+			"Sort": 0
+		},
+		"792": {
+			"Id": 792,
+			"Chapter": 267,
+			"Name": "iconv",
+			"Sort": 0
+		},
+		"793": {
+			"Id": 793,
+			"Chapter": 267,
+			"Name": "使用 iconv",
+			"Sort": 0
+		},
+		"794": {
+			"Id": 794,
+			"Chapter": 268,
+			"Name": "jsoncpp",
+			"Sort": 0
+		},
+		"795": {
+			"Id": 795,
+			"Chapter": 268,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"796": {
+			"Id": 796,
+			"Chapter": 269,
+			"Name": "二分查找法",
+			"Sort": 0
+		},
+		"797": {
+			"Id": 797,
+			"Chapter": 269,
+			"Name": "base64",
+			"Sort": 0
+		},
+		"798": {
+			"Id": 798,
+			"Chapter": 270,
+			"Name": "vlc",
+			"Sort": 0
+		},
+		"799": {
+			"Id": 799,
+			"Chapter": 270,
+			"Name": "libvlc",
+			"Sort": 0
+		},
 		"8": {
 			"Id": 8,
 			"Chapter": 3,
@@ -4553,10 +4613,124 @@ var __v={
 			"Name": "adapter-pattern 適配器模式",
 			"Sort": 0
 		},
+		"800": {
+			"Id": 800,
+			"Chapter": 271,
+			"Name": "OpenCV",
+			"Sort": 0
+		},
+		"801": {
+			"Id": 801,
+			"Chapter": 271,
+			"Name": "模塊",
+			"Sort": 0
+		},
+		"802": {
+			"Id": 802,
+			"Chapter": 271,
+			"Name": "環境配置win32",
+			"Sort": 0
+		},
+		"803": {
+			"Id": 803,
+			"Chapter": 272,
+			"Name": "Mat",
+			"Sort": 0
+		},
+		"804": {
+			"Id": 804,
+			"Chapter": 272,
+			"Name": "加載 保存",
+			"Sort": 0
+		},
+		"805": {
+			"Id": 805,
+			"Chapter": 272,
+			"Name": "矩陣",
+			"Sort": 0
+		},
+		"806": {
+			"Id": 806,
+			"Chapter": 272,
+			"Name": "Mat 轉換GDI+",
+			"Sort": 0
+		},
+		"807": {
+			"Id": 807,
+			"Chapter": 272,
+			"Name": "遍歷像素點",
+			"Sort": 0
+		},
+		"808": {
+			"Id": 808,
+			"Chapter": 272,
+			"Name": "LUT",
+			"Sort": 0
+		},
+		"809": {
+			"Id": 809,
+			"Chapter": 273,
+			"Name": "矩陣掩碼操作",
+			"Sort": 0
+		},
 		"81": {
 			"Id": 81,
 			"Chapter": 37,
 			"Name": "facade-pattern 外觀模式",
+			"Sort": 0
+		},
+		"810": {
+			"Id": 810,
+			"Chapter": 273,
+			"Name": "過度疊加",
+			"Sort": 0
+		},
+		"811": {
+			"Id": 811,
+			"Chapter": 273,
+			"Name": "調整亮度 對比度",
+			"Sort": 0
+		},
+		"812": {
+			"Id": 812,
+			"Chapter": 273,
+			"Name": "基本繪製",
+			"Sort": 0
+		},
+		"813": {
+			"Id": 813,
+			"Chapter": 273,
+			"Name": "繪製文本",
+			"Sort": 0
+		},
+		"814": {
+			"Id": 814,
+			"Chapter": 273,
+			"Name": "离散傅立叶变换",
+			"Sort": 0
+		},
+		"815": {
+			"Id": 815,
+			"Chapter": 274,
+			"Name": "模糊處理",
+			"Sort": 0
+		},
+		"816": {
+			"Id": 816,
+			"Chapter": 274,
+			"Name": "腐蚀与膨胀",
+			"Sort": 0
+		},
+		"817": {
+			"Id": 817,
+			"Chapter": 274,
+			"Name": "形態學變化",
+			"Sort": 0
+		},
+		"818": {
+			"Id": 818,
+			"Chapter": 274,
+			"Name": "圖像金字塔",
 			"Sort": 0
 		},
 		"82": {

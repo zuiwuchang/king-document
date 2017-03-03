@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e將圖像每個點 的每個相鄰像素 用 \n鄰域(以當前像素為中心的 正方形區域)\n像素的中值 代替\n\nvoid medianBlur(InputArray src,\n\tOutputArray dst,\n\tint ksize\t//內核大小 必須為正 奇數\n\t)\n\u003c/pre\u003e"

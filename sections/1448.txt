@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejsoncpp 是一個開源(MIT) 跨平台的 c++ json 解析庫\n\n官網 \u003ca href=\"https://github.com/open-source-parsers/jsoncpp\" target=\"_blank\"\u003ehttps://github.com/open-source-parsers/jsoncpp\u003c/a\u003e\n\u003c/pre\u003e"

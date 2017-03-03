@@ -1,0 +1,1 @@
+var __v="nvwa 只能檢測到 new delete 不能檢測 malloc free\n"

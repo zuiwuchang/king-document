@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLUT 以一個 查找表 對像素 進行變換\n查找表是一個 灰度圖 uchar [256]\t記錄了 將[0,256)的 灰度設置為何值\nLUT 會以相同 查找表 指定的灰度變換方式 對圖像 所有顏色通道 進行 相同的 變化\n\n使用LUT 比直接遍歷圖像像素 進行設置 要快 很多 因為 其會使用 內部多線程 和cpu 優化 故比直接遍歷快\n推薦使用此方法 修改圖像\n\nCV_EXPORTS_W void LUT(InputArray src,\t//原\n\tInputArray lut,\t\t//查找表\n\tOutputArray dst,\t//輸出\n\tint interpolation=0);\t//插值\n\u003c/pre\u003e"

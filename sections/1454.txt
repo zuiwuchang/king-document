@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1 安裝 vlc 播放器 將 \n\tlibvlccore.dll\n\tlibvlc.dll\n\tplugins\n\t複製到項目\n\n2 https://github.com/RSATom/libvlc-sdk 項目 包含了 win32下 vlc需要的 include *.lib 檔案\n\u003c/pre\u003e"

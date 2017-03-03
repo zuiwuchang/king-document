@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eOpenCV的基本數據結構 包括基本圖像的像素讀寫 及相關操作\n\u003c/pre\u003e"

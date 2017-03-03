@@ -9945,5 +9945,425 @@ var __v=[
 			"Name": "文件打开方式 mode",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1441,
+			"Panel": 790,
+			"Name": "nvwa",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1442,
+			"Panel": 790,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1443,
+			"Panel": 791,
+			"Name": "使用 nvwa",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1444,
+			"Panel": 792,
+			"Name": "iconv",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1445,
+			"Panel": 793,
+			"Name": "使用 iconv",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1446,
+			"Panel": 793,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1447,
+			"Panel": 793,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1448,
+			"Panel": 794,
+			"Name": "jsoncpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1449,
+			"Panel": 795,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1450,
+			"Panel": 796,
+			"Name": "二分查找法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1451,
+			"Panel": 797,
+			"Name": "base64",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1452,
+			"Panel": 798,
+			"Name": "vlc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1453,
+			"Panel": 799,
+			"Name": "libvlc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1454,
+			"Panel": 799,
+			"Name": "環境 配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1455,
+			"Panel": 799,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1456,
+			"Panel": 800,
+			"Name": "OpenCV",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1457,
+			"Panel": 801,
+			"Name": "core 模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1458,
+			"Panel": 801,
+			"Name": "imgproc 模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1459,
+			"Panel": 802,
+			"Name": "環境配置win32",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1460,
+			"Panel": 802,
+			"Name": "staticlib",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1461,
+			"Panel": 803,
+			"Name": "Mat",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1462,
+			"Panel": 803,
+			"Name": "Copy",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1463,
+			"Panel": 803,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1464,
+			"Panel": 803,
+			"Name": "clone",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1465,
+			"Panel": 804,
+			"Name": "加載圖片",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1466,
+			"Panel": 804,
+			"Name": "保存 圖片",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1467,
+			"Panel": 804,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1468,
+			"Panel": 805,
+			"Name": "矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1469,
+			"Panel": 805,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1470,
+			"Panel": 806,
+			"Name": "Mat 轉換GDI+",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1471,
+			"Panel": 806,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1472,
+			"Panel": 806,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1473,
+			"Panel": 807,
+			"Name": "遍歷像素點",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1474,
+			"Panel": 807,
+			"Name": "Efficient Way",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1475,
+			"Panel": 807,
+			"Name": "The iterator (safe) method",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1476,
+			"Panel": 807,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1477,
+			"Panel": 808,
+			"Name": "LUT",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1478,
+			"Panel": 808,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1479,
+			"Panel": 809,
+			"Name": "矩陣掩碼操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1480,
+			"Panel": 809,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1481,
+			"Panel": 810,
+			"Name": "過度疊加",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1482,
+			"Panel": 810,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1483,
+			"Panel": 811,
+			"Name": "調整亮度 對比度",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1484,
+			"Panel": 811,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1485,
+			"Panel": 812,
+			"Name": "基本繪製",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1486,
+			"Panel": 813,
+			"Name": "繪製文本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1487,
+			"Panel": 814,
+			"Name": "离散傅立叶变换",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1488,
+			"Panel": 815,
+			"Name": "模糊處理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1489,
+			"Panel": 815,
+			"Name": "歸一化塊 濾波器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1490,
+			"Panel": 815,
+			"Name": "高斯 濾波器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1491,
+			"Panel": 815,
+			"Name": "中值 濾波器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1492,
+			"Panel": 815,
+			"Name": "雙邊 濾波器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1493,
+			"Panel": 815,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1494,
+			"Panel": 816,
+			"Name": "腐蚀与膨胀",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1495,
+			"Panel": 816,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1496,
+			"Panel": 817,
+			"Name": "形態學變化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1497,
+			"Panel": 817,
+			"Name": "op 取值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1498,
+			"Panel": 817,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1499,
+			"Panel": 818,
+			"Name": "圖像金字塔",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1500,
+			"Panel": 818,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

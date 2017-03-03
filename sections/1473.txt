@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eOpenCV 提供了多種遍歷 像素點的方法 其各有優勢\n\nEfficient Way\t(高效)\n\tMat::data 是記錄了像素 數據的 矩陣 \n\t通過遍歷Mat::data即可遍歷 所有像素點\n\nThe iterator (safe) method\t(安全)\n\t通過迭代器遍歷\n\u003c/pre\u003e"

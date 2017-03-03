@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMat的Copy語義 只是 增加了 引用計數\n如果 需要一份 真實像素的 拷貝 可以使用 clone 函數 進行克隆 或copyTo\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\ncv::Mat mat\t=\tcv::imread(\"test.jpg\");\nif(mat.data)\n{\n\t//克隆 真實像素\n\tcv::Mat mat_a\t=\tmat.clone();\n\tcv::Mat mat_b;\n\tmat_a.copyTo(mat_b);\n}\n\u003c/pre\u003e"

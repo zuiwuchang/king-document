@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003envwa 是一個開源 跨平台的 c++ 內存洩漏檢測 庫\n類似 win mfc 的 _CrtDumpMemoryLeaks\n\n其 重載了 c++ 的 new delete 操作符 用於檢測內存洩漏\n\n官網 \u003ca href=\"http://wyw.dcweb.cn/leakage.htm\" target=\"_blank\"\u003ehttp://wyw.dcweb.cn/leakage.htm\u003c/a\u003e\n\u003c/pre\u003e"

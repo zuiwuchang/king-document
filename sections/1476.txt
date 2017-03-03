@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMat::data 是一個 uchar 的 一維數組\n以 BGRA 或 BGR 或灰度像素 排列\n\u003c/pre\u003e"

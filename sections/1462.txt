@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMat的Copy語義 只是增加圖像引用計數 以及在新的 Mat中記錄 矩陣數據指針 而不會拷貝真實像素信息\n\n在使用 Copy語義時 可以將 新的 Mat 限制在 被Copy的Mat 像素區域的 以部分\n\u003c/pre\u003e"

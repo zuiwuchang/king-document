@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於兩幅圖像 對其每個像素執行 dst = alpha * src1 + (1-alpha) * src2 即可 實現幻燈片 切換時的 淡入淡出混合過度效果\n\u003c/pre\u003e"

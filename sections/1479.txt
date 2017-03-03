@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e矩阵的掩码操作 就是根據矩陣(亦稱為核)重新計算圖像每個像素值\n\n//filter2D濾波器 完成掩碼操作\nCV_EXPORTS_W void filter2D( InputArray src, //輸入\n\tOutputArray dst,\t//輸出\n\tint ddepth,\t\t\t//深度\n\tInputArray kernel, Point anchor=Point(-1,-1),\t//掩碼\n\tdouble delta=0, int borderType=BORDER_DEFAULT );\n\u003c/pre\u003e"

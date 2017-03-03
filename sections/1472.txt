@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecv::Mat mat\t=\tcv::imread(\"test.png\",-1); \n//第二個參數 傳入-1 才能讀取 alpha通道\n//1 只讀取 RGB 通道\n//0\t讀取灰度圖\n\n上文中 兩個函數 的bool alpha 是指明 代轉換的 圖像是否存在 alpha通道\n\nmat_to_gbitmap 函數中的 shared_ptr 傳入了一個 刪除器 目的在於 調用 ::new ::delete 而非new delete \n這是GDI+的一個宏bug 詳見GDI+(會被宏 替換為GDI+函數 而非原本的c++ 內存管理函數) \n\u003c/pre\u003e"

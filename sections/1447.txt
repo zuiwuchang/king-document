@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eiconv 轉碼時 \n沒讀取 inbuf 一個字節 ++(*inbytesleft)\n每向outbuf寫入 一個 字節 --(*outbytesleft)\n\u003c/pre\u003e"

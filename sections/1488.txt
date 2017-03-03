@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class=\"k-pre\"\u003e模糊 亦稱為 平滑 其最常用於 降噪\n\n平滑處理 需要一個 濾波器 最常用的 是線性濾波器\n輸出像素值 (i.e.g(i,j)) 是輸入像素值 (i.e.f(i+k,j+l))的加權和\n\u003cimg src='/sections/1488/image/f.png' style=\"max-width: 100%;\"\u003e\nh(k,l) 稱為 核\n\u003c/pre\u003e"

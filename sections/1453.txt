@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elibvlc 是在vlc之上 提供給程序員使用的 vlc sdk 開發包\n\ndocument \u003ca href=\"http://www.videolan.org/developers/vlc/doc/doxygen/html/modules.html\" target=\"_blank\"\u003ehttp://www.videolan.org/developers/vlc/doc/doxygen/html/modules.html\u003c/a\u003e\n\u003c/pre\u003e"

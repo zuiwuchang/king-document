@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對每個像素的顏色通道 執行 g(x)\t=\ta * f(x)\t+ b\n即可調整 對比度(a)\tb(亮度)\n\u003c/pre\u003e"

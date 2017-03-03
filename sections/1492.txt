@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e類似於 高斯 濾波器 不過其在一定程度上 保證 邊緣不被 磨掉\n\nvoid bilateralFilter(InputArray src,\n\tOutputArray dst,\n\tint d,\t//像素鄰域直徑\n\tdouble sigmaColor,\t//顏色空間標準方差\n\tdouble sigmaSpace,\t//坐標...\n\tint borderType=BORDER_DEFAULT )\n\u003c/pre\u003e"
