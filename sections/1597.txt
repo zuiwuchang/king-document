@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e程序中的全局变量等 都使用了绝对地址 然若镜像不能加载到IMAGE_BASE 此地址便需要修正\n重定位表記錄了這類地址被操作的rva\n\n重定位表 以IMAGE_BASE_RELOCATION结构开始 代表一个页面的重定位信息 后跟 重定位信息\n最后以 IMAGE_BASE_RELOCATION.VirtualAddress为0代表重定位表结束\n\u003c/pre\u003e"

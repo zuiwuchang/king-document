@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//直接取消这三个标志 这不会影响调试\nmov eax, fs:[0x30];\n//获取 NtGlobalFlag 地址\nadd eax,0x68;\t\nmov ebx,0x70;\nnot ebx;\nand [eax],ebx;\u003c/pre\u003e"

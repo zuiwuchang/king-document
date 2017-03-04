@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e对于TypeOffset[n] 实际PE高4位 只用到了 0(只是用于对齐) 和3(这是一个重定位地址) 两个取值\n重定位地址数=(SizeOfBlock-sizeof(IMAGE_BASE_RELOCATION))/sizeof(WORD)\nRVA = VirtualAddress + ( TypeOffset[n] \u0026 0x0FFF )\n\u003c/pre\u003e"

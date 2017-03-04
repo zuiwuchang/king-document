@@ -4733,10 +4733,76 @@ var __v={
 			"Name": "圖像金字塔",
 			"Sort": 0
 		},
+		"819": {
+			"Id": 819,
+			"Chapter": 275,
+			"Name": "Aircrack-ng",
+			"Sort": 0
+		},
 		"82": {
 			"Id": 82,
 			"Chapter": 38,
 			"Name": "template-pattern 模板方法模式",
+			"Sort": 0
+		},
+		"820": {
+			"Id": 820,
+			"Chapter": 276,
+			"Name": "wep",
+			"Sort": 0
+		},
+		"821": {
+			"Id": 821,
+			"Chapter": 276,
+			"Name": "破解步驟",
+			"Sort": 0
+		},
+		"822": {
+			"Id": 822,
+			"Chapter": 277,
+			"Name": "wpa",
+			"Sort": 0
+		},
+		"823": {
+			"Id": 823,
+			"Chapter": 277,
+			"Name": "破解步驟",
+			"Sort": 0
+		},
+		"824": {
+			"Id": 824,
+			"Chapter": 278,
+			"Name": "Wireshark",
+			"Sort": 0
+		},
+		"825": {
+			"Id": 825,
+			"Chapter": 278,
+			"Name": "view",
+			"Sort": 0
+		},
+		"826": {
+			"Id": 826,
+			"Chapter": 278,
+			"Name": "捕獲過濾器",
+			"Sort": 0
+		},
+		"827": {
+			"Id": 827,
+			"Chapter": 278,
+			"Name": "顯示過濾器",
+			"Sort": 0
+		},
+		"828": {
+			"Id": 828,
+			"Chapter": 279,
+			"Name": "__declspec(naked)",
+			"Sort": 0
+		},
+		"829": {
+			"Id": 829,
+			"Chapter": 279,
+			"Name": "__stdcall",
 			"Sort": 0
 		},
 		"83": {
@@ -4745,10 +4811,130 @@ var __v={
 			"Name": "iterator-pattern 迭代器模式",
 			"Sort": 0
 		},
+		"830": {
+			"Id": 830,
+			"Chapter": 279,
+			"Name": "__cdecl",
+			"Sort": 0
+		},
+		"831": {
+			"Id": 831,
+			"Chapter": 279,
+			"Name": "__thiscall",
+			"Sort": 0
+		},
+		"832": {
+			"Id": 832,
+			"Chapter": 279,
+			"Name": "__clrcall",
+			"Sort": 0
+		},
+		"833": {
+			"Id": 833,
+			"Chapter": 279,
+			"Name": "__fastcall",
+			"Sort": 0
+		},
+		"834": {
+			"Id": 834,
+			"Chapter": 279,
+			"Name": "call esp ebp",
+			"Sort": 0
+		},
+		"835": {
+			"Id": 835,
+			"Chapter": 280,
+			"Name": "掃描",
+			"Sort": 0
+		},
+		"836": {
+			"Id": 836,
+			"Chapter": 280,
+			"Name": "搜索字符串",
+			"Sort": 0
+		},
+		"837": {
+			"Id": 837,
+			"Chapter": 280,
+			"Name": "代碼混淆",
+			"Sort": 0
+		},
+		"838": {
+			"Id": 838,
+			"Chapter": 280,
+			"Name": "PE文件格式",
+			"Sort": 0
+		},
+		"839": {
+			"Id": 839,
+			"Chapter": 280,
+			"Name": "鏈接",
+			"Sort": 0
+		},
 		"84": {
 			"Id": 84,
 			"Chapter": 39,
 			"Name": "composite-pattern 組合模式",
+			"Sort": 0
+		},
+		"840": {
+			"Id": 840,
+			"Chapter": 281,
+			"Name": "原理",
+			"Sort": 0
+		},
+		"841": {
+			"Id": 841,
+			"Chapter": 281,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"842": {
+			"Id": 842,
+			"Chapter": 282,
+			"Name": "IsDebuggerPresent",
+			"Sort": 0
+		},
+		"843": {
+			"Id": 843,
+			"Chapter": 282,
+			"Name": "CheckRemoteDebuggerPresent",
+			"Sort": 0
+		},
+		"844": {
+			"Id": 844,
+			"Chapter": 282,
+			"Name": "(os?) PEB NtGlobalFlag标志",
+			"Sort": 0
+		},
+		"845": {
+			"Id": 845,
+			"Chapter": 282,
+			"Name": "(os?) PEB.ProcessHeap.Flags标志",
+			"Sort": 0
+		},
+		"846": {
+			"Id": 846,
+			"Chapter": 282,
+			"Name": "(os?) PEB.ProcessHeap.ForceFlags标志",
+			"Sort": 0
+		},
+		"847": {
+			"Id": 847,
+			"Chapter": 282,
+			"Name": "SetUnhandledExceptionFilter",
+			"Sort": 0
+		},
+		"848": {
+			"Id": 848,
+			"Chapter": 282,
+			"Name": "EXCEPTION_EXECUTE_HANDLER",
+			"Sort": 0
+		},
+		"849": {
+			"Id": 849,
+			"Chapter": 282,
+			"Name": "SeDebugPrivilege 权限 ",
 			"Sort": 0
 		},
 		"85": {
@@ -4757,10 +4943,124 @@ var __v={
 			"Name": "state-pattern 狀態模式",
 			"Sort": 0
 		},
+		"850": {
+			"Id": 850,
+			"Chapter": 283,
+			"Name": "Themida壳",
+			"Sort": 0
+		},
+		"852": {
+			"Id": 852,
+			"Chapter": 284,
+			"Name": "DebugPort清0",
+			"Sort": 0
+		},
+		"853": {
+			"Id": 853,
+			"Chapter": 284,
+			"Name": "TP",
+			"Sort": 0
+		},
+		"854": {
+			"Id": 854,
+			"Chapter": 285,
+			"Name": "KdDisableDebugger",
+			"Sort": 0
+		},
+		"855": {
+			"Id": 855,
+			"Chapter": 285,
+			"Name": "tp",
+			"Sort": 0
+		},
+		"856": {
+			"Id": 856,
+			"Chapter": 286,
+			"Name": "TP",
+			"Sort": 0
+		},
+		"857": {
+			"Id": 857,
+			"Chapter": 286,
+			"Name": "NtOpenProcess 190 0xBE ",
+			"Sort": 0
+		},
+		"858": {
+			"Id": 858,
+			"Chapter": 286,
+			"Name": "NtOpenThread 198 0xC6",
+			"Sort": 0
+		},
+		"859": {
+			"Id": 859,
+			"Chapter": 286,
+			"Name": "NtReadVirtualMemory 277 0x115 ",
+			"Sort": 0
+		},
 		"86": {
 			"Id": 86,
 			"Chapter": 41,
 			"Name": "proxy-pattern 代理模式",
+			"Sort": 0
+		},
+		"860": {
+			"Id": 860,
+			"Chapter": 286,
+			"Name": "NtWriteVirtualMemory 399 0x18F ",
+			"Sort": 0
+		},
+		"861": {
+			"Id": 861,
+			"Chapter": 286,
+			"Name": "KiAttachProcess",
+			"Sort": 0
+		},
+		"862": {
+			"Id": 862,
+			"Chapter": 286,
+			"Name": "NtGetContextThread 135 0x87 ",
+			"Sort": 0
+		},
+		"863": {
+			"Id": 863,
+			"Chapter": 287,
+			"Name": "PE 结构",
+			"Sort": 0
+		},
+		"864": {
+			"Id": 864,
+			"Chapter": 287,
+			"Name": "DOS MZ 头",
+			"Sort": 0
+		},
+		"865": {
+			"Id": 865,
+			"Chapter": 287,
+			"Name": "PE 头",
+			"Sort": 0
+		},
+		"866": {
+			"Id": 866,
+			"Chapter": 287,
+			"Name": "IMAGE_DATA_DIRECTORY",
+			"Sort": 0
+		},
+		"867": {
+			"Id": 867,
+			"Chapter": 287,
+			"Name": "IMAGE_SECTION_HEADER 节表属性",
+			"Sort": 0
+		},
+		"868": {
+			"Id": 868,
+			"Chapter": 287,
+			"Name": "RVA to FOA",
+			"Sort": 0
+		},
+		"869": {
+			"Id": 869,
+			"Chapter": 287,
+			"Name": "校验和算法",
 			"Sort": 0
 		},
 		"87": {
@@ -4769,10 +5069,118 @@ var __v={
 			"Name": "win32下 硬盤安装",
 			"Sort": 0
 		},
+		"870": {
+			"Id": 870,
+			"Chapter": 288,
+			"Name": " 导入表",
+			"Sort": 0
+		},
+		"871": {
+			"Id": 871,
+			"Chapter": 288,
+			"Name": "图解",
+			"Sort": 0
+		},
+		"872": {
+			"Id": 872,
+			"Chapter": 288,
+			"Name": "IMAGE_IMPORT_DESCRIPTOR",
+			"Sort": 0
+		},
+		"873": {
+			"Id": 873,
+			"Chapter": 288,
+			"Name": "桥",
+			"Sort": 0
+		},
+		"874": {
+			"Id": 874,
+			"Chapter": 289,
+			"Name": "导出表",
+			"Sort": 0
+		},
+		"875": {
+			"Id": 875,
+			"Chapter": 289,
+			"Name": "IMAGE_EXPORT_DIRECTORY",
+			"Sort": 0
+		},
+		"876": {
+			"Id": 876,
+			"Chapter": 290,
+			"Name": "重定位表",
+			"Sort": 0
+		},
+		"877": {
+			"Id": 877,
+			"Chapter": 290,
+			"Name": "地址修正方法",
+			"Sort": 0
+		},
+		"878": {
+			"Id": 878,
+			"Chapter": 291,
+			"Name": "資源表",
+			"Sort": 0
+		},
+		"879": {
+			"Id": 879,
+			"Chapter": 291,
+			"Name": "图解",
+			"Sort": 0
+		},
 		"88": {
 			"Id": 88,
 			"Chapter": 44,
 			"Name": "Go",
+			"Sort": 0
+		},
+		"880": {
+			"Id": 880,
+			"Chapter": 291,
+			"Name": "資源類型",
+			"Sort": 0
+		},
+		"881": {
+			"Id": 881,
+			"Chapter": 292,
+			"Name": " 延遲導入表",
+			"Sort": 0
+		},
+		"882": {
+			"Id": 882,
+			"Chapter": 292,
+			"Name": "IMAGE_DELAY_IMPORT_DESCRIPTOR",
+			"Sort": 0
+		},
+		"883": {
+			"Id": 883,
+			"Chapter": 293,
+			"Name": "TLS表",
+			"Sort": 0
+		},
+		"884": {
+			"Id": 884,
+			"Chapter": 296,
+			"Name": "wil wix",
+			"Sort": 0
+		},
+		"885": {
+			"Id": 885,
+			"Chapter": 296,
+			"Name": "bitmap_16_565",
+			"Sort": 0
+		},
+		"886": {
+			"Id": 886,
+			"Chapter": 296,
+			"Name": "bitmap_256",
+			"Sort": 0
+		},
+		"887": {
+			"Id": 887,
+			"Chapter": 296,
+			"Name": "map",
 			"Sort": 0
 		},
 		"89": {

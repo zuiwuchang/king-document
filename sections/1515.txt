@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e标准调用 常用于 win32 api \n参数\u003cstrong\u003e从右向左入栈\n函数清理堆栈\u003c/strong\u003e\n名称修改 下划线(_)前缀 名称 后跟 @ 参数列表 如 fun(int a,double b) _fun@12\n/Gz\n\u003c/pre\u003e"

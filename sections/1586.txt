@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eRVA 是PE 加载到内存后 相对基址偏移\nVA 是PE 加载到内存后 实际内存地址\n\nFOA\t是文件地址\n内存中 地址相对节偏移 \u003cstrong\u003e等于\u003c/strong\u003e 文件中 地址相对皆偏移\n\u003c/pre\u003e"

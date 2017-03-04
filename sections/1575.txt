@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e目前tp未hook此函數 但會調用此函數獲取遊戲是否被下硬件斷點\n故需要自己hook此函數 為tp的調用返回自己偽造的線程環境\n\u003c/pre\u003e"

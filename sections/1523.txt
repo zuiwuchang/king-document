@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewindows 下的可執行文件 使用PE文件格式\n其中包含了 windows 加載器 必要的代碼信息\n(一些惡意代碼 會故意使用 過時的 兼容格式)\n\u003c/pre\u003e"

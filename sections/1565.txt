@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e將中將 call 一個地址 是一個函數地址記為A\n地址A偏移0x220處 一call 地址被TP 替換為自己的過濾函數\n\u003cimg src='/sections/1565/image/NtOpenProcess.PNG' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

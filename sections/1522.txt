@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epeid 的一些插件 會在沒有任何提示的 情況下 運行 可執行文件\n故 一定要在 安全的環境下 進行逆向\n\n一般壳至少會 包含 LoadLibrary GetProcAddress 函數\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSetUnhandledExceptionFilter函数 运行自定义一个回调函数用以 处理未处理的异常\n故 可用SetUnhandledExceptionFilter注册一个回调函数 于其中设置标志 表示程序未被调试 在检测代码触发一个异常一执行回调\n若程序被调试 会被调试器捕获到异常 而不会执行回调\n\u003c/pre\u003e"

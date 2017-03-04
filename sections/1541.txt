@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//获取 PEB\nmov eax,fs:[0x30];\n//获取 ProcessHeap (nt!_HEAP结构)\nmov eax,[eax+0x18];\n//获取 ForceFlags 未调试为0\nmov eax,[eax+0x44];\nmov is_debug,eax;\u003c/pre\u003e"

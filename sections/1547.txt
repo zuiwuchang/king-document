@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eBOOL is_debug=-1;\n__try\n{\n\t__asm\n\t{\n\t\tint 3;\n        //或者设置TF为1 既引发单步异常\n        //pushfd;\n\t\t//or dword ptr[esp],0x100;\n\t\t//popfd;\n\t}\n\tis_debug=1;\n}\n__except(EXCEPTION_EXECUTE_HANDLER)\n{\n\tis_debug=0;\n}\n\nSetDlgItemInt(IDC_EDIT1,is_debug);\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewil 為客戶的 圖片庫文件\nwix 為圖片索引文件 記錄了 wil中圖片索引信息\n\u003c/pre\u003e"

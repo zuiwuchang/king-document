@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e搜索 程序中的 字符串 是一個簡單的 猜測程序功能的 方法\n可以使用strings完成此步驟 \u003ca href=\"http://technet.microsoft.com/en-us/sysinternals/bb897439\" target=\"_blank\"\u003ehttp://technet.microsoft.com/en-us/sysinternals/bb897439\u003c/a\u003e\n\u003c/pre\u003e"

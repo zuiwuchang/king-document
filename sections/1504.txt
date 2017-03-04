@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e以ARP Request 讀取ARP請求報文 並偽造報文再次重新發出 以刺激AP 產生更多的數據包\n\naireplay-ng -3 -b AP的mac -h 客戶機mac mon0 \n\u003c/pre\u003e"

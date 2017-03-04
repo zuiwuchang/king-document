@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e导入表 记录了程序导入函数信息 数据目录中的IAT 也和此相关\n\u003cstrong\u003e导入表是 IMAGE_IMPORT_DESCRIPTOR 结构的数组 以一个全0数据代表导入表结束\n每个 IMAGE_IMPORT_DESCRIPTOR 代表了一个导入的dll\u003c/strong\u003e\n\u003c/pre\u003e"

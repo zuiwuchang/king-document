@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eTP 註冊了一個 DPC 定時器 一個內核線程A 另一個內核線程B (A 相對 B 在較低地址)\n線程B 不斷 Debug_Port 清0(代碼B中 也校驗了 B中 關鍵代碼)\n線程A 校驗線程B 代碼是否被hook (可能是 關鍵代碼處 CRC)\nDPC定時器 檢查線程A 是否正常\n(線程A還在校驗DPC定時器)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1 将IMAGE_OPTIONAL_HEADER32.CheckSum 清0\n2 以WORD为单位 对数据块进行带进位的累加 (超过范围数据自动溢出 adc)\n3 将第二部得到的WORD加上文件长度DWORD 得到校验和 DWORD\n\u003c/pre\u003e"

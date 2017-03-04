@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//禁用內核調試器\nNTSTATUS\n\tKdDisableDebugger(\n\tVOID\n\t); \n\n//啟用內核調試器\nNTSTATUS\n\tKdEnableDebugger(\n\tVOID\n\t); \n\u003c/pre\u003e"

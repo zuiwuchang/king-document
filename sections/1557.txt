@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e先 hook 廢掉 DPC\n再 hook 廢掉 線程A\nhook 廢掉線程 B中的代碼校驗\n最後 hook 廢掉線程 B中的 Debug_Port 清0\n\u003c/pre\u003e"

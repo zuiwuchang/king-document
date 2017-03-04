@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在調用KdDisableDebugger後 \n有句代碼 mov ecx,dword ptr [TesSafe+0x13264 (b095a264)] 使windbg無法調試 \nnop掉\n\u003c/pre\u003e"

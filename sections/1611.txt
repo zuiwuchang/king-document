@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewix 由文件頭 和 索引數據組成\n索引數據為 DWORD 數組 數組每個值 記錄了 對應索引圖片 在 wil中的 文件偏移\n\ntypedef struct _WIX_HEADER_\n{\n\tchar\ttitle[44];\t//標題\n\tDWORD\tcount;\t\t//包含圖片數量\n\n}WIX_HEADER,*PWIX_HEADER;\n\u003c/pre\u003e"

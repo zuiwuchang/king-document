@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eKiAttachProcess未導出 KaAttachProcess函數在偏移0x7E的位置 調用了KiAttachProcess \n故可根據KaAttachProcess 定位KiAttachProcess\n\n//獲取 KeAttachProcess 地址\nUNICODE_STRING fun_name;\nRtlInitUnicodeString(\u0026fun_name,L\"KeAttachProcess\");\naddress=(ULONG)MmGetSystemRoutineAddress(\u0026fun_name);\n\u003c/pre\u003e"

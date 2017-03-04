@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003emov eax, fs:[0x30];\n//获取 NtGlobalFlag 标志\nmov eax,[eax+0x68];\nand eax,0x70;\nmov is_debug,eax;\u003c/pre\u003e"

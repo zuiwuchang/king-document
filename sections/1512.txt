@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於TCP包 右擊選擇 Follow TCP Stream 可將 包以 tcp方式 顯示\n(安裝 tcp 收發 順序排列)\n\n紅色\tA到B\n白色\tB到A\n\u003c/pre\u003e"

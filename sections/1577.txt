@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDOS MZ 头 和 DOS Stub 用于在16位程序中运行 对32系统来说是冗余数据 可全部删除\n\u003cstrong\u003e但 DOS MZ头的 e_lfanew记录了 PE头的 偏移 必须保留 MZ标识也必须保留\u003c/strong\u003e\n\u003cimg src='/sections/1577/image/dos.PNG' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//更新 Aircrack-ng 套件\nairodump-ng-oui-update\n\u003c/pre\u003e"

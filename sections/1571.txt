@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eTP inline hook 此函數\n目前 直接恢復 便可\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etypedef struct _IMAGE_BASE_RELOCATION {\n\tDWORD   VirtualAddress;\t//需要重定位的 页面RVA\n\tDWORD   SizeOfBlock;\t//重定位信息长度 包括 VirtualAddress(4字节) SizeOfBlock(4字节) TypeOffset(n*2字节)\n\t//  WORD    TypeOffset[n];\t//重定信息\n} IMAGE_BASE_RELOCATION;\n\u003c/pre\u003e"

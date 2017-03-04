@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一般 對一個未知 程序的第一步 是上傳到 類似 \n\u003ca href=\"https://www.virustotal.com/\" target=\"_blank\"\u003ehttps://www.virustotal.com/\u003c/a\u003e\n的網站 可以讓 多個 反病毒 軟體 進行掃描 看是否有 能 識別出的信息\n\n之後可以 試下 google 文件的 hash 看是否有 識別出此 文件的 信息\n\u003c/pre\u003e"

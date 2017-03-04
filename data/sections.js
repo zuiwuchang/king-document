@@ -10365,5 +10365,817 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1501,
+			"Panel": 819,
+			"Name": "Aircrack-ng",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1502,
+			"Panel": 820,
+			"Name": "wep 通常key長度",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1503,
+			"Panel": 821,
+			"Name": "破解步驟",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1504,
+			"Panel": 821,
+			"Name": "ArpRequest注入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1505,
+			"Panel": 822,
+			"Name": "wpa",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1506,
+			"Panel": 823,
+			"Name": "破解步驟",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1507,
+			"Panel": 823,
+			"Name": "deauth 攻击",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1508,
+			"Panel": 824,
+			"Name": "Wireshark",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1509,
+			"Panel": 825,
+			"Name": "view",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1510,
+			"Panel": 826,
+			"Name": "捕獲過濾器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1511,
+			"Panel": 827,
+			"Name": "顯示過濾器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1512,
+			"Panel": 827,
+			"Name": "Follow TCP Stream",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1513,
+			"Panel": 827,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1514,
+			"Panel": 828,
+			"Name": "__declspec(naked)",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1515,
+			"Panel": 829,
+			"Name": "__stdcall",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1516,
+			"Panel": 830,
+			"Name": "__cdecl",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1517,
+			"Panel": 831,
+			"Name": "__thiscall",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1518,
+			"Panel": 834,
+			"Name": "call esp ebp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1519,
+			"Panel": 835,
+			"Name": "掃描",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1520,
+			"Panel": 836,
+			"Name": "搜索字符串",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1521,
+			"Panel": 837,
+			"Name": "代碼混淆",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1522,
+			"Panel": 837,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1523,
+			"Panel": 838,
+			"Name": "PE文件格式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1524,
+			"Panel": 839,
+			"Name": "鏈接",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1525,
+			"Panel": 840,
+			"Name": "原理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1526,
+			"Panel": 841,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1527,
+			"Panel": 842,
+			"Name": "IsDebuggerPresent",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1528,
+			"Panel": 842,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1529,
+			"Panel": 843,
+			"Name": "CheckRemoteDebuggerPresent",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1530,
+			"Panel": 843,
+			"Name": "ZwQueryInformationProcess Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1531,
+			"Panel": 843,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1532,
+			"Panel": 843,
+			"Name": "anti-anti Example *.h",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1533,
+			"Panel": 843,
+			"Name": "anti-anti Example *.cpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1534,
+			"Panel": 844,
+			"Name": "PEB NtGlobalFlag标志 ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1535,
+			"Panel": 844,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1536,
+			"Panel": 844,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1537,
+			"Panel": 845,
+			"Name": "PEB.ProcessHeap.Flags标志 ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1538,
+			"Panel": 845,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1539,
+			"Panel": 845,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1540,
+			"Panel": 846,
+			"Name": "PEB.ProcessHeap.ForceFlags标志",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1541,
+			"Panel": 846,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1542,
+			"Panel": 846,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1543,
+			"Panel": 847,
+			"Name": "SetUnhandledExceptionFilter",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1544,
+			"Panel": 847,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1545,
+			"Panel": 847,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1546,
+			"Panel": 848,
+			"Name": "EXCEPTION_EXECUTE_HANDLER",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1547,
+			"Panel": 848,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1548,
+			"Panel": 848,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1549,
+			"Panel": 849,
+			"Name": "SeDebugPrivilege 权限 ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1550,
+			"Panel": 849,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1551,
+			"Panel": 849,
+			"Name": "anti-anti ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1552,
+			"Panel": 850,
+			"Name": "Themida壳",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1553,
+			"Panel": 850,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1554,
+			"Panel": 852,
+			"Name": "DebugPort清0",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1555,
+			"Panel": 852,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1556,
+			"Panel": 853,
+			"Name": "TP",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1557,
+			"Panel": 853,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1558,
+			"Panel": 854,
+			"Name": "KdDisableDebugger",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1559,
+			"Panel": 855,
+			"Name": "tp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1560,
+			"Panel": 855,
+			"Name": "kdcom",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1561,
+			"Panel": 855,
+			"Name": "KdDisableDebugger 1",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1562,
+			"Panel": 855,
+			"Name": "KdDisableDebugger 2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1563,
+			"Panel": 855,
+			"Name": "KdDisableDebugger 3",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1564,
+			"Panel": 856,
+			"Name": "TP",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1565,
+			"Panel": 857,
+			"Name": "NtOpenProcess 190 0xBE ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1566,
+			"Panel": 857,
+			"Name": "anti-anti ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1567,
+			"Panel": 857,
+			"Name": "anti-anti Example *.h",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1568,
+			"Panel": 857,
+			"Name": "anti-anti Example *.cpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1569,
+			"Panel": 858,
+			"Name": "NtOpenThread 198 0xC6",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1570,
+			"Panel": 858,
+			"Name": "anti-anti",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1571,
+			"Panel": 859,
+			"Name": "NtReadVirtualMemory 277 0x115 ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1572,
+			"Panel": 860,
+			"Name": "NtWriteVirtualMemory 399 0x18F ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1573,
+			"Panel": 861,
+			"Name": "KiAttachProcess",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1574,
+			"Panel": 861,
+			"Name": "KiAttachProcess 定位",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1575,
+			"Panel": 862,
+			"Name": "NtGetContextThread 135 0x87",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1576,
+			"Panel": 863,
+			"Name": "PE 结构",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1577,
+			"Panel": 864,
+			"Name": "DOS MZ 头",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1578,
+			"Panel": 864,
+			"Name": "DOS MZ 头 结构",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1579,
+			"Panel": 865,
+			"Name": "PE 头",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1580,
+			"Panel": 865,
+			"Name": "IMAGE_FILE_HEADER",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1581,
+			"Panel": 865,
+			"Name": "IMAGE_OPTIONAL_HEADER",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1582,
+			"Panel": 866,
+			"Name": "IMAGE_DATA_DIRECTORY",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1583,
+			"Panel": 866,
+			"Name": "16种数据说明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1584,
+			"Panel": 867,
+			"Name": "IMAGE_SECTION_HEADER 节表属性",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1585,
+			"Panel": 868,
+			"Name": "RVA to FOA",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1586,
+			"Panel": 868,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1587,
+			"Panel": 869,
+			"Name": "校验和算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1588,
+			"Panel": 870,
+			"Name": " 导入表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1589,
+			"Panel": 871,
+			"Name": "图解",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1590,
+			"Panel": 872,
+			"Name": "IMAGE_IMPORT_DESCRIPTOR",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1591,
+			"Panel": 873,
+			"Name": "桥",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1592,
+			"Panel": 873,
+			"Name": "IMAGE_THUNK_DATA",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1593,
+			"Panel": 873,
+			"Name": "IMAGE_IMPORT_BY_NAME",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1594,
+			"Panel": 874,
+			"Name": "导出表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1595,
+			"Panel": 875,
+			"Name": "IMAGE_EXPORT_DIRECTORY",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1596,
+			"Panel": 875,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1597,
+			"Panel": 876,
+			"Name": "重定位表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1598,
+			"Panel": 876,
+			"Name": "IMAGE_BASE_RELOCATION",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1599,
+			"Panel": 876,
+			"Name": "重定位信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1600,
+			"Panel": 876,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1601,
+			"Panel": 876,
+			"Name": "image",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1602,
+			"Panel": 877,
+			"Name": "地址修正方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1603,
+			"Panel": 878,
+			"Name": "資源表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1604,
+			"Panel": 879,
+			"Name": "图解",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1605,
+			"Panel": 880,
+			"Name": "資源類型",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1606,
+			"Panel": 881,
+			"Name": " 延遲導入表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1607,
+			"Panel": 881,
+			"Name": "延遲導入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1608,
+			"Panel": 882,
+			"Name": "IMAGE_DELAY_IMPORT_DESCRIPTOR",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1609,
+			"Panel": 883,
+			"Name": "TLS表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1610,
+			"Panel": 884,
+			"Name": "wil wix",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1611,
+			"Panel": 884,
+			"Name": "wix",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1612,
+			"Panel": 884,
+			"Name": "wil",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1613,
+			"Panel": 885,
+			"Name": "bitmap_16_565",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1614,
+			"Panel": 886,
+			"Name": "bitmap_256",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1615,
+			"Panel": 887,
+			"Name": "map",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1616,
+			"Panel": 887,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

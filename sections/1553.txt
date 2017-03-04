@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ehook \nNtSetInformationThread 0x14F\nNtQueryInformationProcess 0xEA\nNtGetContextThread\t0x87\n\u003c/pre\u003e"

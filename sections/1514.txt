@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在vs等编译器下 编译器会生成许多额外代码 以完成 函数返回 堆栈平衡 申请临时变量等工作\n在函数前 以 __declspec(naked) 声明 表示\n\u003c/pre\u003e"

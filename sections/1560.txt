@@ -1,0 +1,1 @@
+var __v="在被替換的KdSendPacket KdReceivePacket 函數尾 jump到原函數地址"

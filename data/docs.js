@@ -339,10 +339,50 @@ var __v={
 			"Tag": 53,
 			"Name": "OpenCV"
 		},
+		"73": {
+			"Id": 73,
+			"Tag": 58,
+			"Name": "Aircrack-ng"
+		},
+		"74": {
+			"Id": 74,
+			"Tag": 59,
+			"Name": "Wireshark"
+		},
+		"75": {
+			"Id": 75,
+			"Tag": 60,
+			"Name": "彙編"
+		},
+		"76": {
+			"Id": 76,
+			"Tag": 60,
+			"Name": "逆向分析"
+		},
+		"77": {
+			"Id": 77,
+			"Tag": 57,
+			"Name": "windows"
+		},
+		"78": {
+			"Id": 78,
+			"Tag": 60,
+			"Name": "反調試技術"
+		},
+		"79": {
+			"Id": 79,
+			"Tag": 60,
+			"Name": "WinPE"
+		},
 		"8": {
 			"Id": 8,
 			"Tag": 3,
 			"Name": "gettext-go"
+		},
+		"80": {
+			"Id": 80,
+			"Tag": 61,
+			"Name": "傳奇"
 		},
 		"9": {
 			"Id": 9,

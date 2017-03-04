@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e调试器忽略anti中的异常(既调试器不捕获此异常 而让原程序自己处理) 如这里的 int 3\n\u003c/pre\u003e"

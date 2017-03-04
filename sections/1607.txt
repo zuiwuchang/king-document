@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e延遲導入dll能夠讓pe加載器 在程序加載時 不加載指定dll\n當dll中的函數被調用時 才加載dll 並且修改函數VA以調用真實函數\n\n第一次調用dll中的函數 將調用 _delayLoadHelper（不同版本編譯器此函數名不同） 此函數將加載dll 調用真實函數 並修改函數調用VA 以讓下次能直接調用真實函數\n\n對於vs可以在 選項-\u0026gt;配置屬性-\u0026gt;鏈接器-\u0026gt;輸入-\u0026gt;延遲加載的dll 中設置要延遲加載的dll\n\u003c/pre\u003e"

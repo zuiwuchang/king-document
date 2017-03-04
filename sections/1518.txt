@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eesp+0x4*n\t//第n个参数\nesp\t\t//函数返回地址\n\npush ebp;\nmov ebp,esp;\nsub esp,\t//申请临时变量\n\nebp+0x4\t//函数返回地址\nebp+0x4*(n+1)\t//第n个参数\nebp-0x4*n\t//第n个临时变量\n\nadd esp,\t//还原esp\npop ebp;\u003c/pre\u003e"

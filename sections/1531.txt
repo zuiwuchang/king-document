@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ering0下 hook NtQueryInformationProcess\nNtQueryInformationProcess将 检查内核下 进程_EPROCESS 结构的 DebugPort 是否为0(不可直接设置此值为0 )\n\u003c/pre\u003e"

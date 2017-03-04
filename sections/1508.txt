@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWireshark 一個強大 流行的 跨平台 網絡數據包分析 軟件\n\nWireshark中有兩種 過濾器\n捕獲過濾器\t指定要捕獲的數據\n顯示過濾器\t快速定位獲取數據\n\n官網 \u003ca href=\"http://www.wireshark.org/\" target=\"_blank\"\u003ehttp://www.wireshark.org/\u003c/a\u003e\n\u003c/pre\u003e"

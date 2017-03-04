@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e得到 RVA 计算其所在节 获取节起始RVA0\n得到相对节偏移 offset=RVA-RVA0\n得到节在文件中偏移 FOA\n得到RVA对于文件FOA FOA=FOA+offset\n\u003c/pre\u003e"

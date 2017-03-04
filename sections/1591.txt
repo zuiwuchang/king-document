@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e桥1 桥2 都是 IMAGE_THUNK_DATA 结构数组 其指向了 对应dll导入函数的 hint/name(索引/名称)\n桥1 为 INT\n\u003cstrong\u003e桥2 为 IAT PE加载到内存后桥2(IAT)中内容会被修改为 指向对应函数入口点\n桥以一个全0的 IMAGE_THUNK_DATA代表此dll导入函数结束\u003c/strong\u003e\n\u003c/pre\u003e"

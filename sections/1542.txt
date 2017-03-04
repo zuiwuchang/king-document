@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//直接设置这个标志为0 这不会影响调试\nmov eax,fs:[0x30];\nmov eax,[eax+0x18];\nadd eax,0x44;\nxor ebx,ebx;\nmov [eax],ebx;\u003c/pre\u003e"

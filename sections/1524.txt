@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e靜態鏈接很難被 識別 因為其不會在 PE 文件頭 中 存在任何信息\n\n運行時鏈接 大量使用在 惡意代碼中\n(LoadLibrary GetProcAddress LdrGetProcAddress LdrLoadDll)\n\n動態鏈接 導入表中 記錄了動態鏈接的 詳細函數 信息\n可以使用 Dependency Walker 查看 \u003ca href=\"http://www.dependencywalker.com/\" target=\"_blank\"\u003ehttp://www.dependencywalker.com/\u003c/a\u003e\n\u003c/pre\u003e"

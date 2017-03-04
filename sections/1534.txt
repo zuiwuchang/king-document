@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e被调试进程 在ring3 下 其PEB 结构中的 NtGlobalFlag 会被设置上 \nFLG_HEAP_ENABLE_TAIL_CHECK (0x10)\nFLG_HEAP_ENABLE_FREE_CHECK (0x20)\nFLG_HEAP_VALIDATE_PARAMETERS (0x40)\n\u003c/pre\u003e"

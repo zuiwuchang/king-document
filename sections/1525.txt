@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewindows 在加載 模塊時(如果使用相對路徑) 按照\n當前目錄\n系統目錄 system32\n系統目錄 system (兼容16位程式)\nwindows目錄\nPATH\n中尋找 模塊\n\n在 程式 找到 真的模塊 前 提供一個 導出表相同的\n模板 則 此模塊會被 加載\n從而實現 模塊 劫持\n\u003c/pre\u003e"

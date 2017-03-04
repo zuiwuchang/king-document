@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ekdcom 中的 KdSendPacket KdReceivePacket 用於串口通信 (tp idt hook此函數 使之無效)\ntp的驅動TesSafe.sys 中有三處 調用KdDisableDebugger 禁用內核調試\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIMAGE_OPTIONAL_HEADER的最后一个结构 数组 中的数据 用以描述 16中不同PE数据\n\tIMAGE_DATA_DIRECTORY STRUCT\n\tDWORD\t0000h\tVirtualAddress\t数据起始RVA\n\tDWORD\t0004h\tisize\t\t数据块长度\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWin32 API\nBOOL WINAPI IsDebuggerPresent(void);\n返回 进程是否被调试\n\n被调试进程 在ring3 下 其PEB 结构中的 BeingDebugged 会被设置为非0\nIsDebuggerPresent 只是简单的返回此值\n         \n亦可直接用汇编获取 BeingDebugged \nmov eax,fs:[0]\t\t//指向TEB\nmov eax, fs:[0x30];\t//TEB偏移 0x30 处是 PEB结构\nmov eax,[eax+0x2];\t//TEB偏移 0x2 处是 BeingDebugged(DWORD)\n\u003c/pre\u003e"

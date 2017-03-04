@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e延遲導入表是 IMAGE_DELAY_IMPORT_DESCRIPTOR 結構數組 每個元素代表一個延遲導入到dll\n以一個全0的IMAGE_DELAY_IMPORT_DESCRIPTOR代表 延遲導入表結束\n\nIMAGE_DELAY_IMPORT_DESCRIPTOR結構 未聲明 需要自己在程序中聲明\n\u003c/pre\u003e"

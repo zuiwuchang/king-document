@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e不可直接返回修改會正確的call地址 TP有檢測\n\n從push eax開始 或更上面 jump到自己函數 自己函數中調用正確原call\n自己的函數中需要處理 讓TP的進程執行被TPhook的代碼 而調試器執行正確的原內核代碼 (因為TP 自己會調用NtOpenProcess以能打開保護進程 作為發現調試)\n\u003c/pre\u003e"

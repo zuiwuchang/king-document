@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如 rva=VirtualAddress+TypeOffset[x]\nva=rva+image\n讀取va處記錄的地址 x (x便是需要修改的重定位地址)\nreal_x=x-預設加載地址+實際加載地址(得到重定位修訂後的地址)\n修改va處所記錄的地址為real_x\n\u003c/pre\u003e"

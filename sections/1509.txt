@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cimg src='/sections/1509/image/Wireshark.png' style=\"max-width: 100%;\"\u003e\n1\t菜單欄\n2\t菜單快捷鍵欄\n3\t顯示過濾器\t(定義過濾器)\n4\t封包列表\t\t(捕獲的封包)\n5\t封包詳細信息\t(封包信息)\n6\t16進制數據\t(16進制顯示的 封包信息)\n\u003c/pre\u003e"

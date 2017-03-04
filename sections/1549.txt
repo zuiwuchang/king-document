@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e进程默认没有 SeDebugPrivilege 权限 调试器打开的进程会从调试器继承SeDebugPrivilege权限\n拥有SeDebugPrivilege权限的进程 可以打开csrss.exe\n\u003c/pre\u003e"

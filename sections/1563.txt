@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在一個定時器中不斷調用 KdDisableDebugger \n直接hook KdDisableDebugger\n\u003c/pre\u003e"
