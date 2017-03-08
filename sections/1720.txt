@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxStaticBox 是一個 分組方框\n\u003c/pre\u003e"

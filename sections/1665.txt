@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e窗口需要繪製時 將 收到\nwxEVT_ERASE_BACKGROUND 繪製背景\nwxEVT_PAINT 繪製前景\n\n要創建自己的控件 需要處理這兩個事件\n(獲取窗口變動區域 自重繪變動區域是個 好主意)\n\u003c/pre\u003e"

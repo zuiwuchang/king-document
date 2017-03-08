@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ewxFontDialog dlg(this);\nif(dlg.ShowModal() == wxID_OK)\n{\n\twxFontData\u0026amp; data = dlg.GetFontData();\n\twxFont font = data.GetChosenFont();\n\ttext_command_-\u0026gt;SetFont(font);\n\tsingleton_configure::get_mutable_instance().font(font);\n}\u003c/pre\u003e"

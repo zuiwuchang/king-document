@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e窗口id 用來 唯一標識 一個 出口\n\n#define wxID_ANY                -1\n\n詳見 官方文檔 Topic overviews -\u0026gt; Event handling overview -\u0026gt; Window identifiers\n\u003c/pre\u003e"

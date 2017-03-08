@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxPanel 是最基本的容器窗口 用於 擺放 \n對話框 或者 除了frame窗口外的 其他 控件窗口\nwxPanel 也作為 wxNotebook 的 頁面\n\n同 對話框 一樣 可以使用InitDialog 產生一個 wxInitDialogEvent 事件\n\u003c/pre\u003e"

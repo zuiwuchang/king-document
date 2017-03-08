@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e实际加入到 wxGridSizer 的元素 可以少或多于 构造时 指定的 rows * cols\nrows 只是作为 参考 实际以 cols 计算的 真实 行为准确\n\u003c/pre\u003e"

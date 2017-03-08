@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當 對話框 第一次顯示 時 \nvirtual void \tInitDialog () 會被自動調用\n\nInitDialog會 產生一個 wxEVT_INIT_DIALOG 事件 \n\n此事件 默認處理函數 會 調用\nvirtual bool \tTransferDataToWindow ()\nTransferDataToWindow 負責把數據 設置給 變量\n\n當點擊 wxID_OK 等 的默認 處理函數 會 調用\nvirtual bool \tTransferDataFromWindow ()\n將 控件 數據 設置 給 c++變量 \n\n故 可以 重載 這兩個 函數 實現 自己的 數據 和 控件 交互\n\u003c/pre\u003e"

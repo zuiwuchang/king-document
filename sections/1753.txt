@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e窗口通常會收到 \nwxEVT_PAINT  \t繪製窗口\nwxEVT_ERASE_BACKGROUND\t擦除窗口背景(默認使用 wxWindow::SetBackgroundColour 設置的顏色 擦除窗口背景)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxBitmapButton 是一個以圖片為背景 的按鈕\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一定要先 make clean 之後再 make\n否則 可能 出現 \nmake: *** No rule to make target `lib/wx/include/xxx/wx/setup.h', needed by `wxregex_regcomp.o'. Stop.\n錯誤\n\n\n--with-opengl 需要 先安裝 freeglut3-dev 或 glutg3-dev\nsudo apt-get install freeglut3-dev\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxWidgets 提供了 使用 opengl的 能力\nwxGLCanvas 是一個 opengl 畫布 可以在其中 使用 opengl\n\u003c/pre\u003e"

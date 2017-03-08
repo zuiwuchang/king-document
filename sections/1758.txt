@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxMemoryDC用以在內存設備上 繪製一個與位圖綁定的 設備上下文\n使用同 其他dc 只是在構造時以無參構造 \n之後 使用 SelectObject將一個位圖綁定 \n繪製完後使用 SelectObject傳入 wxNullBitmap移除綁定的位圖\n\u003c/pre\u003e"

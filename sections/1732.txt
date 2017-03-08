@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxWidgets 會在 系統空間(所有事件處理完畢時)\n發送一個 wxUpdateUIEvent 事件 \n一般 可在此 依據控件狀態 改變外觀\n\n#define EVT_UPDATE_UI(winid, func)\n\n\u003cstrong\u003e這不是一個用 高效的 做法\n對於 要求 高效率的 程序 應該 慎重考慮 使用 此事件\u003c/strong\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxNotebook 是一個 tab 導航頁\n每個頁 都是一個 wxPanel 或其 子類\n\nwxNotebook 的tab按鈕 可以包含一個 圖片和 文本\n圖片由 wxImageList 提供\n\nwxListbook 和 wxNotebook 類似 只是 其使用一個 ListCtrl控件管理頁面\n控件 可以 在 多個方向\n\nwxChoicebook 則 使用一個 下拉列表 管理頁面\n\u003c/pre\u003e"

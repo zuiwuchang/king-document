@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一個類 可以有多個 事件表(以棧的結構保持)\n棧定的 表最先被 匹配\n\n\n1\t從wxEvtHandler派生子類\n2\t在子類中 綁定 需要處理的事件\n3\t使用PushEventHandler將wxEvtHandler的派生類 壓入\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003evoid darkDialogBack::OnButtonDirectory(wxCommandEvent\u0026amp; event)\n{\n    wxDirDialog dlg(this);\n    if(dlg.ShowModal() == wxID_OK)\n    {\n        wxString path = dlg.GetPath();\n        wxMessageBox(path);\n    }\n\n}\u003c/pre\u003e"

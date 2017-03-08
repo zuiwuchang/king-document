@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在某些 平台上 不允許直接繪製 wxFrame\n故需要 增加一個 wxPanel作為容器 放置子窗口\n\u003c/pre\u003e\n"

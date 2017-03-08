@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxGridSizer 使控件 按照 一个 n*m 的 二维表格 排列 \n其中 每个 格子的 大小 为 所有控件中 最大控件的大小\n\nwxGridSizer(int rows, int cols, int vgap, int hgap)\nwxGridSizer(int cols, int vgap = 0, int hgap = 0)\t//vgap hgap 分别为 行 列 间距\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e通常 擁有 wxHSCROLL wxVSCROLL 類型的 窗口才會自動生成 滾動條\n\u003c/pre\u003e"

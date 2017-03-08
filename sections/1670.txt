@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e除非特殊聲明 窗口 都將在 所有事件處理完畢後 收到 wxEVT_IDLE 以處理 空閒時間\n\n用戶可以 自定義一個 特殊的空間時間 處理 函數 \n以週期性 的在空閒時間 更新 窗口 狀態\nEVT_UPDATE_UI(id,func)\n\u003c/pre\u003e"

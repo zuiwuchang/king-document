@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e編譯時要 鏈接 opengl 和 wxGL\n-lGL -lGLU\n-lwx_gtk2u_gl-3.0\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxNotebook 會自動釋放 子頁面 故不需要 自己delete 子頁\n若要刪除 子頁 應該使用 DeletePage\n\n在創建時 指定 wxDefaultSize 且每個 wxPanel 都使用了 佈局\n則 每個頁面 都會自動 佈局\n\u003c/pre\u003e"

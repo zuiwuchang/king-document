@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxToggleButton 是 一個 外表像 按鈕 的wxCheckBox\n\u003c/pre\u003e"

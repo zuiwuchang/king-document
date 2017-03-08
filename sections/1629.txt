@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e調用 event.Skip(true) 將事件 傳遞到 父類等 處理\n故 要過濾事件 只需要 從基類派生 之後 綁定 事件 \n而不調用 event.Skip(true) / 或者調用 event.Skip(false)\n即可\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxWidgets Windows and X widgets 是一個開源(wxWidgets) 跨平台 gui庫\n\nwxWidgets 使用陽數版本 代表一個 開發中的 版本 如 3.1.x\nwxWidgets 使用陰數版本 代表一個 已穩定的 版本 如 3.0.x\n\n官網 \u003ca href=\"http://www.wxwidgets.org/\" target=\"_blank\"\u003ehttp://www.wxwidgets.org/\u003c/a\u003e\n\u003c/pre\u003e"

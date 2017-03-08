@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxMenuBar 是一個 主菜單\n\nwxMenuBar 使用和 wxMenu 類似\n菜單項 為 wxMenu\n\n使用 SetMenuBar 設置窗口 窗口主菜單\n\u003c/pre\u003e"

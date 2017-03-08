@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e窗口坐標系 通常以左上角為原點(0,0) 單位像素\n\u003c/pre\u003e\n"

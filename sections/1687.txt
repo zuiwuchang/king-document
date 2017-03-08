@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxControlWithItems 是一個 虛類 用來 \n作為 含有子項控件的 基類\n\nwxControlWithItems 的數據是一個字符串 和 可選的綁定客戶數據\n\n客戶數據 可以說 void* 或者 wxClientData*\nwxClientData*數據 在控件 被釋放時 自動被 釋放\n\u003c/pre\u003e"

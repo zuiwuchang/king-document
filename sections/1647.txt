@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxStaticBoxSizer 完全同 wxBoxSizer 只不过 在 布局的 边上 加上了一个 静态文本框 以作为装饰\nwxStaticBoxSizer 构造时 需要传入 一个 动态创建的 静态框 wxStaticBox \n其他 同 wxBoxSizer\n\nwxStaticBoxSizer(wxStaticBox* box, int orient)\n\u003c/pre\u003e"

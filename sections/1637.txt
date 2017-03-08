@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t從合適的 wxEvent及其子類 派生一個新事件類\n\n2\t實現 virtual wxEvent * \tClone () const 拷貝函數\n\n3\t定義事件處理函數簽名\n\n4\t在BEGIN_DECLARE_EVENT_TYPES() 和END_DECLARE_EVENT_TYPES() 宏之間 使用\n\tDECLARE_EVENT_TYPE(name, integer)宏 聲明支持的事件\n\n5\t在.cpp中 使用 DEFINE_EVENT_TYPE(name) 實現類\n\n6\t定義 事件 映射宏\n\u003c/pre\u003e"

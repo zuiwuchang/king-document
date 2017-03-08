@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t定義一個 處理函數\n2\t調用相應宏 綁定 事件 和 函數\n\u003c/pre\u003e"

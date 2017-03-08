@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e    //創建dc\n    wxMemoryDC dc;\n    wxBitmap bmp(100,100);\n    //綁定位圖\n    dc.SelectObject(bmp);\n    //繪製操作\n    //dc.Draw...\n\n    //移除位圖\n    dc.SelectObject(wxNullBitmap);\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxStaticLine 是一個 水平或垂直的 分割線\n\u003c/pre\u003e"

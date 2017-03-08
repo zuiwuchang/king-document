@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e頂層窗口類 是直接存在於桌面 之上的 窗口\nwxFrame\nwxDialog\nwxPopupWindow\n\nwxFrame wxDialog 都派生自 wxTopLevelWindow \n只不過 wxFrame 通常是 非模式的 wxDialog兩種皆可\nwxPopupWindow 直接派生自wxWindow\n\u003c/pre\u003e"

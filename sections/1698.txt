@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxScrolledWindow 為窗口 提供了 一個 有固定 滾動單位的 滾動條\n\n之需要為 wxScrolledWindow 提供 窗口 虛擬 大小 以及每次 滾動的 邏輯大小 \n其它則 由wxScrolledWindow 自動完成\n\u003c/pre\u003e"

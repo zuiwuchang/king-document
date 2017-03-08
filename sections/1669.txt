@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e窗口 在任何時候 都可以收到 鼠標事件\n在活動狀態 可以獲得鍵盤事件\n\n窗口獲取焦點 收到 wxEVT_SET_FOCUS event\n...失去... wxEVT_KILL_FOCUS event\n\u003c/pre\u003e"

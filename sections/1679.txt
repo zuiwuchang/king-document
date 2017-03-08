@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxMenuBar\twxFrame上的菜單條\nwxToolBar\t工具條\nwxStatusBar\t狀態欄\n\u003c/pre\u003e"

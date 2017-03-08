@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//設置 線條末端 \nvoid SetCap(int capStyle)\nwxCAP_ROUND\t\t\t默認 圓形\nwxCAP_PROJECTING \t方形 凸起\nwxCAP_BUTT\t\t\t方形\n\n//設置線段 連接方式\nvoid SetJoin(int join_style)\nwxJOIN_ROUND\t\t默認 轉角圓形\nwxJOIN_BEVEL\nwxJOIN_MITER\n\u003c/pre\u003e"

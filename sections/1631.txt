@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//壓入表\nvoid PushEventHandler( wxEvtHandler *handler );\n//彈出表\nvoid PopEventHandler( wxEvtHandler *handler );\n\n//返回下一個表\nwxEvtHandler* GetNextHandler()\n//返回上一個表\nwxEvtHandler* GetPreviousHandler()\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對話框 第一次顯示時將 自動 調用 TransferDataToWindow\n\n對話框 默認的 wxID_OK 按鈕事件 \n將先調用 Validate 驗證 數據\n如果成功之後調用 TransferDataFromWindow 將控件數據設置到關聯變量\n\nValidate 只會驗證 直接子窗口的 驗證器 設置\nSetExtraStyle(wxWS_EX_VALIDATE_RECURSIVELY);\n可以 檢查 全部 子窗口\n\u003c/pre\u003e"

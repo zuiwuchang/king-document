@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxwidgets 運行 流程\n1\t依據不同平臺 創建不同入口函數 \n\t並實例化一個 wxApp(代表一個應用程序實例) 對象\n\n2\t調用 wxApp::OnInit()  在次函數中創建一個 wxFrame(第一個窗口) 的實例 並且顯示\n\n3\twxApp::OnInit() 返回 true\n\t返回 false 程序自動 退出\n\n4\twxFrame 的構造函數 被調用 在此爲wxFrame創建 菜單狀態欄等\n\t程序員可以在此 爲wxFrame增加 自定義的 佈局 ui 綁定事件等 \n\n5\t進入事件循環 處理\n\u003c/pre\u003e"

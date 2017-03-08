@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e窗口可以 改變大小 刷新 顯示隱藏 包含其他窗口\n通常wxWidgets的窗口都和 一個wxWindow類及其子類對應\n\u003c/pre\u003e"

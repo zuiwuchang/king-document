@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxFRAME_EX_CONTEXTHELP:\n\t在window下 標題欄 會多一個 幫助 點擊 發送一個 wxEVT_HELP\n\nwxFRAME_EX_METAL:\n\tMac OS X 下窗口會使用 金屬外觀\n\u003c/pre\u003e"

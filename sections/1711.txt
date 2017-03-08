@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxSpinButton 是用於兩個按鈕 表示 上/下 或 左/右 的控件\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e通常 一個窗口 可以擁有一個 光標(wxCaret 顯示文本輸入)\n和 一個鼠標指針(wxCursor 顯示鼠標當前位置)\n\u003c/pre\u003e"

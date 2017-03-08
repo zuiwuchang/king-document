@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxMenu 用於處理 菜單\n菜單項 可以是一個 文本 單選框 複選框 或者 另外一個 wxMenu 指針\n\u003c/pre\u003e"

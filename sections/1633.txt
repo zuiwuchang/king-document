@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e傳遞給 PushEventHandler 的 應該是一個 new 的 表 \nwxEvtHandler 在析構時 會 自動 delete (故不可自行delete)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t創建 wxGLCanvas 實例\n2\t調用 wxGLCanvas::SetCurrent 設置opengl 環境\n3\t可選的 調用 wxGLCanvas::SetColour 設置 opengl 背景色\n4\t調用opengl 進行繪製\n5\t調用 wxGLCanvas::SwapBuffers 將 opengl 緩衝區內容 繪製到 wxGLCanvas窗口\n\u003c/pre\u003e"

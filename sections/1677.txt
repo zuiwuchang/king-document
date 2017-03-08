@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e提供線索 靜態信息的 控件\n\nwxGauge\t顯示數量的控件\nwxStaticText\t文字標籤\nwxStaticBitmap\t顯示圖片\nwxStaticLine\t顯示 一行信息\nwxStaticBox\t在別的控件外顯示一個 方框\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eadd時 需要 指定 wxEXPAND 元素 大小才會 改變 \n否則 只 改變了 行 列 大小 \n參見 wxBoxSizer Add flag 參數 \n\nwxGridBagSizer 的 頭文件wx/gbsizer.h 默認 未被 include \n需要 自己 include\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxSpinCtrl 是wxSpinButton 和 wxTextCtrl 的組合\n當 點擊 是wxSpinButton時 自動改變 wxTextCtrl\n\u003c/pre\u003e"

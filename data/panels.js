@@ -5183,10 +5183,82 @@ var __v={
 			"Name": "map",
 			"Sort": 0
 		},
+		"888": {
+			"Id": 888,
+			"Chapter": 297,
+			"Name": "wxWidgets",
+			"Sort": 0
+		},
+		"889": {
+			"Id": 889,
+			"Chapter": 297,
+			"Name": "linux 環境配置",
+			"Sort": 0
+		},
 		"89": {
 			"Id": 89,
 			"Chapter": 44,
 			"Name": "常用命令",
+			"Sort": 0
+		},
+		"890": {
+			"Id": 890,
+			"Chapter": 297,
+			"Name": "win32 環境配置",
+			"Sort": 0
+		},
+		"891": {
+			"Id": 891,
+			"Chapter": 297,
+			"Name": "wxwidgets 運行流程",
+			"Sort": 0
+		},
+		"892": {
+			"Id": 892,
+			"Chapter": 298,
+			"Name": "event",
+			"Sort": 0
+		},
+		"893": {
+			"Id": 893,
+			"Chapter": 298,
+			"Name": "靜態綁定事件",
+			"Sort": 0
+		},
+		"894": {
+			"Id": 894,
+			"Chapter": 298,
+			"Name": "過濾事件",
+			"Sort": 0
+		},
+		"895": {
+			"Id": 895,
+			"Chapter": 298,
+			"Name": "掛載事件表",
+			"Sort": 0
+		},
+		"896": {
+			"Id": 896,
+			"Chapter": 298,
+			"Name": "動態綁定事件",
+			"Sort": 0
+		},
+		"897": {
+			"Id": 897,
+			"Chapter": 298,
+			"Name": "自定義事件",
+			"Sort": 0
+		},
+		"898": {
+			"Id": 898,
+			"Chapter": 298,
+			"Name": "窗口id",
+			"Sort": 0
+		},
+		"899": {
+			"Id": 899,
+			"Chapter": 299,
+			"Name": "常用event",
 			"Sort": 0
 		},
 		"9": {
@@ -5201,10 +5273,130 @@ var __v={
 			"Name": "環境配置",
 			"Sort": 0
 		},
+		"900": {
+			"Id": 900,
+			"Chapter": 299,
+			"Name": "鼠標事件相關",
+			"Sort": 0
+		},
+		"901": {
+			"Id": 901,
+			"Chapter": 300,
+			"Name": "layout通用特性",
+			"Sort": 0
+		},
+		"902": {
+			"Id": 902,
+			"Chapter": 300,
+			"Name": "使用layout",
+			"Sort": 0
+		},
+		"903": {
+			"Id": 903,
+			"Chapter": 300,
+			"Name": "wxBoxSizer",
+			"Sort": 0
+		},
+		"904": {
+			"Id": 904,
+			"Chapter": 300,
+			"Name": "wxStaticBoxSizer",
+			"Sort": 0
+		},
+		"905": {
+			"Id": 905,
+			"Chapter": 300,
+			"Name": "wxGridSizer",
+			"Sort": 0
+		},
+		"906": {
+			"Id": 906,
+			"Chapter": 300,
+			"Name": "wxFlexGridSizer",
+			"Sort": 0
+		},
+		"907": {
+			"Id": 907,
+			"Chapter": 300,
+			"Name": "wxGridBagSizer",
+			"Sort": 0
+		},
+		"908": {
+			"Id": 908,
+			"Chapter": 301,
+			"Name": "窗口",
+			"Sort": 0
+		},
+		"909": {
+			"Id": 909,
+			"Chapter": 301,
+			"Name": "窗口類",
+			"Sort": 0
+		},
 		"91": {
 			"Id": 91,
 			"Chapter": 44,
 			"Name": "交叉編譯",
+			"Sort": 0
+		},
+		"910": {
+			"Id": 910,
+			"Chapter": 301,
+			"Name": "基礎窗口類",
+			"Sort": 0
+		},
+		"911": {
+			"Id": 911,
+			"Chapter": 301,
+			"Name": "頂層窗口類",
+			"Sort": 0
+		},
+		"912": {
+			"Id": 912,
+			"Chapter": 301,
+			"Name": "容器窗口類",
+			"Sort": 0
+		},
+		"913": {
+			"Id": 913,
+			"Chapter": 301,
+			"Name": "非靜態控件",
+			"Sort": 0
+		},
+		"914": {
+			"Id": 914,
+			"Chapter": 301,
+			"Name": "靜態控件",
+			"Sort": 0
+		},
+		"915": {
+			"Id": 915,
+			"Chapter": 301,
+			"Name": "菜單",
+			"Sort": 0
+		},
+		"916": {
+			"Id": 916,
+			"Chapter": 301,
+			"Name": "控制條",
+			"Sort": 0
+		},
+		"917": {
+			"Id": 917,
+			"Chapter": 302,
+			"Name": "定制對話框",
+			"Sort": 0
+		},
+		"918": {
+			"Id": 918,
+			"Chapter": 303,
+			"Name": "wxFileDialog",
+			"Sort": 0
+		},
+		"919": {
+			"Id": 919,
+			"Chapter": 303,
+			"Name": "wxDirDialog",
 			"Sort": 0
 		},
 		"92": {
@@ -5213,11 +5405,125 @@ var __v={
 			"Name": "hello world",
 			"Sort": 0
 		},
+		"920": {
+			"Id": 920,
+			"Chapter": 303,
+			"Name": "wxFontDialog",
+			"Sort": 0
+		},
+		"921": {
+			"Id": 921,
+			"Chapter": 304,
+			"Name": "wxValidator 控件輸入驗證",
+			"Sort": 0
+		},
+		"922": {
+			"Id": 922,
+			"Chapter": 304,
+			"Name": "wxTextValidator 文本驗證",
+			"Sort": 0
+		},
+		"923": {
+			"Id": 923,
+			"Chapter": 304,
+			"Name": "wxNumValidator wxIntegerValidator 數字過濾",
+			"Sort": 0
+		},
+		"924": {
+			"Id": 924,
+			"Chapter": 304,
+			"Name": "關聯變量",
+			"Sort": 0
+		},
+		"925": {
+			"Id": 925,
+			"Chapter": 304,
+			"Name": "自定義驗證器",
+			"Sort": 0
+		},
+		"926": {
+			"Id": 926,
+			"Chapter": 305,
+			"Name": "繪圖",
+			"Sort": 0
+		},
+		"927": {
+			"Id": 927,
+			"Chapter": 305,
+			"Name": "擦除窗口背景 wxClientDC",
+			"Sort": 0
+		},
+		"928": {
+			"Id": 928,
+			"Chapter": 305,
+			"Name": "wxEVT_PAINT wxPaintDC",
+			"Sort": 0
+		},
+		"929": {
+			"Id": 929,
+			"Chapter": 305,
+			"Name": "wxMemoryDC",
+			"Sort": 0
+		},
 		"93": {
 			"Id": 93,
 			"Chapter": 45,
 			"Name": "package 包",
 			"Sort": 4
+		},
+		"930": {
+			"Id": 930,
+			"Chapter": 305,
+			"Name": "wxScreenDC",
+			"Sort": 0
+		},
+		"931": {
+			"Id": 931,
+			"Chapter": 305,
+			"Name": "繪圖工具",
+			"Sort": 0
+		},
+		"932": {
+			"Id": 932,
+			"Chapter": 305,
+			"Name": "wxColour",
+			"Sort": 0
+		},
+		"933": {
+			"Id": 933,
+			"Chapter": 305,
+			"Name": "wxPen",
+			"Sort": 0
+		},
+		"934": {
+			"Id": 934,
+			"Chapter": 305,
+			"Name": "wxBrush",
+			"Sort": 0
+		},
+		"935": {
+			"Id": 935,
+			"Chapter": 305,
+			"Name": "wxFont",
+			"Sort": 0
+		},
+		"936": {
+			"Id": 936,
+			"Chapter": 305,
+			"Name": "DC繪製函數",
+			"Sort": 0
+		},
+		"937": {
+			"Id": 937,
+			"Chapter": 306,
+			"Name": "打印框架",
+			"Sort": 0
+		},
+		"938": {
+			"Id": 938,
+			"Chapter": 307,
+			"Name": "opengl",
+			"Sort": 0
 		},
 		"94": {
 			"Id": 94,

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxValidator 除了用於 數據過濾 還可以 實現類似 mfc 的 變量 關聯\nwxValidator 通常 構造時都 可以傳入 一個 與之關聯的 變量\n通過 \nTransferDataToWindow\nTransferDataFromWindow\n實現 變量 窗口間的 傳遞\n\nwxGenericValidator 是一個 只提供了 變量關聯 而沒有過濾數據 的驗證器\n\u003c/pre\u003e"

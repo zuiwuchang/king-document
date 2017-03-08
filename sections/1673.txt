@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e窗口類 實現了一些 基本的功能\n\nwxWindow 是所有窗口類的 基類\nwxControl 是所有控件的基類\nwxControlWithItems 是所有擁有多個子項目 控件的基類\n\u003c/pre\u003e"

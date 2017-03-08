@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxStaticText 是一個 靜態文本標籤\n\u003c/pre\u003e"

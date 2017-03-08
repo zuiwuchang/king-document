@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxWidgets\t没提供类似StretchBlt 的縮放绘制函数\n要縮放一个 图象 必须先将其 保存 到 wxImage 类 之后使用 wxImage::Scale 或 wxImage::Rescale 缩放整个图象\n详见image\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxStaticBoxSizer 当然 也可以作为 顶层布局 \n不过 那样 处于边缘位置的 静态文本框 边框就无法 显示清楚\n\u003c/pre\u003e"

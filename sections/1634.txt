@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e亦可 動態 綁定 解綁 事件\n\nConnect 綁定事件\nDisconnect 删除 綁定\n\nConnect Disconnect 都需要傳入 2個或3個 參數\nid\t\t//ui id\n事件類型\n處理函數\n\u003c/pre\u003e"

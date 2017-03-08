@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewx 的輸入控件通常 都可以綁定一個 wxValidator\n用於驗證 輸入數據是否合法\n\nnew wxTextCtrl(panel,\n\twxID_ANY,\n\twxEmptyString,\n\twxDefaultPosition,\n\twxDefaultSize,\n\t0,\n\twxTextValidator(wxFILTER_ALPHA)\n\t)\n\nvoid SetValidator(const wxValidator\u0026);\nwxValidator* GetValidator();\n\u003c/pre\u003e"

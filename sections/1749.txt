@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t從 wxValidator 派生子類\n2\t實現 \n\tvirtual wxObject * \tClone () const\n3\t實現 \n\t//重新驗證函數\n\tvirtual bool Validate(wxWindow *parent);\n\t//重寫 val to window\n\tvirtual bool TransferToWindow();\n\n\t//重寫 window to val\n\tvirtual bool TransferFromWindow();\n\u003c/pre\u003e\n"

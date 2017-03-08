@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e頂層窗口類 用於在桌面顯示\n\nwxFrame\t可以包含其他窗口 改變大小的 窗口類\nwxMDIParentFrame\t可以管理其他frame類的類\nwxMDIChildFrame\t可以被其他父窗口管理的frame類\nwxDialog\t可改變大小 用於給用戶提供選擇的 窗口類\nwxPopupWindow\t一種暫態的只有少量修飾的頂層窗口\n\u003c/pre\u003e"

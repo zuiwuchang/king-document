@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e容器窗口類 可以管理其他窗口\n\nwxPanel\t為其他窗口提供佈局\nwxNotebook\t可以使用tab頁切換窗口\nwxScrolledWindow 可以有滾動條的窗口\nwxSpliterWindow\t可以分割窗口\n\u003c/pre\u003e"

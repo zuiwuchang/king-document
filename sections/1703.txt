@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxChoice 是一個只讀文本選擇域 當指導文本時 選項 或以下拉列表 顯示\n和 wxComboBox 類似\n\u003c/pre\u003e"

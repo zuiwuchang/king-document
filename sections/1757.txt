@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e默認情況下 改變窗口大小 只有需要的部分才會重繪 \n設置wxFULL_REPAINT_ON_RESIZEI 窗口風格 可改變此特性\n\nwxBufferedPaintDC默認以 wxBUFFER_CLIENT_AREA風格創建\nwxBufferedPaintDC(wxWindow *window, wxBitmap\u0026 buffer, int style = wxBUFFER_CLIENT_AREA)\nwxBufferedPaintDC(wxWindow *window, int style = wxBUFFER_CLIENT_AREA)\n此時 PrepareDC無效 需要以wxBUFFER_VIRTUAL_AREA創建\n\u003c/pre\u003e"

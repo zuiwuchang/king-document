@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\twxMenuBar* bar = new wxMenuBar;\n\t\twxMenu* item = new wxMenu;\n\t\titem-\u0026gt;Append(wxID_OPEN,_(\"\u0026amp;Open\"));\n\t\titem-\u0026gt;Append(wxID_EXIT,_(\"\u0026amp;Exit\"));\n\tbar-\u0026gt;Append(item,_(\"title\"));\n\tSetMenuBar(bar);\u003c/pre\u003e"

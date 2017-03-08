@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於某些平台 攔截wxEVT_ERASE_BACKGROUND 還不能完全控制 系統重繪背景 操作\n此時應該使用 wxWindow::SetBackgroundStyle 設置 wxBG_STYLE_CUSTOM 風格 \n告訴wxWidgets 將所有背景繪製 留給程序自己處理(wxEVT_ERASE_BACKGROUND )\n\n為了避免閃屏 可以在 wxEVT_ERASE_BACKGROUND 中 什麼都 不做 \n而在 wxEVT_PAINT 中 繪製 背景和前景 \n\u003c/pre\u003e"

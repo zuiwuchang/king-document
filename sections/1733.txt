@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//在鼠標 劃過窗口時 彈出一個 小窗口 顯示 一段說明文字\nvoid \tSetToolTip (const wxString \u0026tipString)\n\u003c/pre\u003e"

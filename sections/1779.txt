@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e要使用 opengl 必須在編譯 wxWidgets 設置USE_OPENGL=1 選項\n\n對於 win32 還需要在編譯前 修改 include/wx/msw/setup.h 文件\n修改 #define wxUSE_GLCANVAS 0 為 #define wxUSE_GLCANVAS 1\n\n對於 其他平台 需要使用 --with-opengl 選項\n\u003c/pre\u003e"

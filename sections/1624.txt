@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxwidgets 是以事件驅動的\n\n每個wxEvtHandler的派生類 都維護着一個 事件表 用來 記錄 事件和 對應的 相應函數\n\n官方文檔 Topic overviews -\u0026gt; Event handling overview -\u0026gt; Event macros summary 記錄了常用event\n\u003c/pre\u003e"

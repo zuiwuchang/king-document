@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxControl 是一個 虛類 用來 作為 控件的 基類\n\u003c/pre\u003e\n"

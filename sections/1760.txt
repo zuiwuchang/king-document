@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxScreenDC 用以在屏幕繪圖\n\u003c/pre\u003e"
