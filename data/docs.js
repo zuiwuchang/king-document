@@ -389,6 +389,11 @@ var __v={
 			"Tag": 54,
 			"Name": "wxWidgets"
 		},
+		"82": {
+			"Id": 82,
+			"Tag": 63,
+			"Name": "SDL"
+		},
 		"9": {
 			"Id": 9,
 			"Tag": 8,

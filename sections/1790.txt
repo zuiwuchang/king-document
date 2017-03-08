@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ego get -v github.com/veandco/go-sdl2/sdl\ngo get -v github.com/veandco/go-sdl2/sdl_mixer\ngo get -v github.com/veandco/go-sdl2/sdl_image\ngo get -v github.com/veandco/go-sdl2/sdl_ttf\u003c/pre\u003e"

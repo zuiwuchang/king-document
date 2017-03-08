@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSDL_image\t對流行圖像格式的支持 BMP PPM XPM PCX GIF JPEG PNG TGA\nSDL_mixer\t聲音輸出和聲音格式的支持\nSDL_net\t網路\nSDL_ttf\tTrueType 字型支持\nSDL_rtf\t簡單的RTF彩現支持\n\u003c/pre\u003e"

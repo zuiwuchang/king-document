@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eubuntu 14.04 提供了 dev的安裝包 直接 apt install 即可\n\nsudo apt install libsdl2-dev libsdl2-gfx-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net-dev libsdl2-ttf-dev\n\u003c/pre\u003e"

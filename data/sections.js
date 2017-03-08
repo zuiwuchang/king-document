@@ -12339,5 +12339,61 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1784,
+			"Panel": 940,
+			"Name": "SDL",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1785,
+			"Panel": 941,
+			"Name": "go-sdl2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1786,
+			"Panel": 942,
+			"Name": "ubuntu",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1787,
+			"Panel": 940,
+			"Name": "子系統",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1788,
+			"Panel": 943,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1789,
+			"Panel": 943,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1790,
+			"Panel": 941,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1791,
+			"Panel": 941,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

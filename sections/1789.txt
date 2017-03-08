@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eg++ 需要 加上 -lSDL2 參數\n\u003c/pre\u003e"
