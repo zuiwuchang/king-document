@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e雖然 c++11 已經規定 std::string 為utf8 字符串\n然 std::string wxString::ToStdString()const 返回的 依然是locale字符串\nwxString::wxString(const std::string\u0026 str)\t等函數 亦不能從 utf8 構造\n\u003c/pre\u003e"

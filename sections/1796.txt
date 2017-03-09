@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxWizard 是一個嚮導對話框\n\n每頁 都是一個 wxWizardPageSimple 及其子類\n\n重載 wxWizardPageSimple 的 GetPre GetNext 返回要到達的頁面\n可改變 上頁 下頁的 效果\n\u003c/pre\u003e"

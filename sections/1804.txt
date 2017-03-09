@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;wx/webview.h\u0026gt;\nLibrary:  wxWebView\n\nwxWebView 是一個完整的 html 容器 以實現web瀏覽器\n\n在不同os下 使用相應 web內核 渲染 \nwxWEBVIEW_BACKEND_IE (MSW)\nwxWEBVIEW_WEBKIT (GTK)\nwxWEBVIEW_WEBKIT (OSX)\n\u003c/pre\u003e"

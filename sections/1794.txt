@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回當前行數\nint \tGetGridCursorCol () const\n\n//返回當前列數\nint \tGetGridCursorRow () const\n\n//返回總行數\nint \tGetNumberCols () const\n\n//返回列數\nint \tGetNumberRows () const\n\n...\n\u003c/pre\u003e"

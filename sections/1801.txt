@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxHtmlEasyPrinting 用來 打印本地 html\n1\t實例化 wxHtmlEasyPrinting \n2\t調用 \n\t//打印預覽 html\n\tbool \tPreviewFile (const wxString \u0026htmlfile)\n\t//打印 html\n\tbool \tPrintFile (const wxString \u0026htmlfile)\n\u003c/pre\u003e"

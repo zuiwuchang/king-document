@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxWidgets 使用 wxLocale 提供對於 國際化的 支持\n其支持 gettext 翻譯文件\n_() 和 宏 中的內容 將會被 gettext 翻譯\n\n一般在*app中定義一個 成員變量wxLocale\n在 *app::OnInit 中 初始化 wxLocale\n\n.mo文件 必須 放置在 相應文件夾下 如\n正體中文 必須 放置在 zh_TW\n\u003c/pre\u003e"

@@ -12395,5 +12395,292 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1792,
+			"Panel": 944,
+			"Name": "wxGrid",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1793,
+			"Panel": 944,
+			"Name": "事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1794,
+			"Panel": 944,
+			"Name": "成員函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1795,
+			"Panel": 944,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1796,
+			"Panel": 945,
+			"Name": "wxWizard",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1797,
+			"Panel": 945,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1798,
+			"Panel": 946,
+			"Name": "wxHtmlWindow",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1799,
+			"Panel": 946,
+			"Name": "事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1800,
+			"Panel": 946,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1801,
+			"Panel": 947,
+			"Name": "wxHtmlEasyPrinting",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1802,
+			"Panel": 947,
+			"Name": "成員函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1803,
+			"Panel": 947,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1804,
+			"Panel": 948,
+			"Name": "wxWebView",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1805,
+			"Panel": 948,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1807,
+			"Panel": 949,
+			"Name": "wxFile",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1808,
+			"Panel": 949,
+			"Name": "常用API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1809,
+			"Panel": 950,
+			"Name": "wxDir",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1810,
+			"Panel": 950,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1811,
+			"Panel": 951,
+			"Name": "剪切板",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1812,
+			"Panel": 951,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1813,
+			"Panel": 951,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1814,
+			"Panel": 952,
+			"Name": "wxString",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1815,
+			"Panel": 952,
+			"Name": "public",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1816,
+			"Panel": 952,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1817,
+			"Panel": 953,
+			"Name": "wxLocale",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1818,
+			"Panel": 953,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1819,
+			"Panel": 954,
+			"Name": "Poedit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1820,
+			"Panel": 955,
+			"Name": "ole",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1821,
+			"Panel": 955,
+			"Name": "常用方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1822,
+			"Panel": 956,
+			"Name": "Microsoft Excel Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1823,
+			"Panel": 957,
+			"Name": "wxTimer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1824,
+			"Panel": 957,
+			"Name": "常用 函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1825,
+			"Panel": 957,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1826,
+			"Panel": 958,
+			"Name": "wxDynamicLibrary 加載動態庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1827,
+			"Panel": 958,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1828,
+			"Panel": 959,
+			"Name": "托盤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1829,
+			"Panel": 959,
+			"Name": "事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1830,
+			"Panel": 959,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1831,
+			"Panel": 959,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1832,
+			"Panel": 960,
+			"Name": "移動 wxBORDER_NONE 窗口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1833,
+			"Panel": 960,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

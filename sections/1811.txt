@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對 剪切板 的 操作 通過 全局指針 wxClipboard* wxTheClipboard 進行\n\n1   使用 Open 打開 剪切板\n2   使用 SetData GetData 獲取數據\n3   使用 Close 釋放 剪切板 控制權\n\u003c/pre\u003e"

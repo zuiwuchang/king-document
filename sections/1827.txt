@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxDynamicLibrary 析構時 將自動 釋放加載的 動態庫\n如果期望 在wxDynamicLibrary 析構後 繼續使用 調用 wxDynamicLibrary::Detach()\n\u003c/pre\u003e"

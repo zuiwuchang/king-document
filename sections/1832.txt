@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxBORDER_NONE 是一個 沒有 邊框 標題欄 的窗口\n\n要移動 此窗口 只需要 捕獲 鼠標 按下\n之後 在 鼠標 移動 中 調整 窗口 位置 即可\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePoedit 是一個 可視化的 gettext 編輯工具\n\n官網 \u003ca href=\"http://poedit.net/\" target=\"_blank\"\u003ehttp://poedit.net/\u003c/a\u003e\n\u003c/pre\u003e"

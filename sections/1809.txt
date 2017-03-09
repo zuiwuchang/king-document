@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxDir 提供了對目錄的操作\n最常用的就是 遍歷指定目錄下的 所有 文件 | 目錄\n\u003c/pre\u003e"

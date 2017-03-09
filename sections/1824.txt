@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//啟動 定時器 \nvirtual bool \tStart (int milliseconds=-1, bool oneShot=wxTIMER_CONTINUOUS)\nbool \tStartOnce (int milliseconds=-1)\n\n//停止定時器\nvirtual void \tStop ()\n\n//定時器 是否啟動\nbool \tIsRunning () const\n\n//到時間被回調的 函數 (如果不想通過 事件方式 使用定時器 可以重載此函數)\nvirtual void \tNotify ()\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxGrid 是一個類似 office 表格 的控件\n\n表格中 每個 元素 都可以自定義\n\u003cimg src='/sections/1792/image/1.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxWidgets 使用 wxString 處理字符串\n\nwxString 提供了 STL like api 可以像使用 std::string 一樣使用 wxString\n\nwxWidgets 使用 _T() 宏 定義 字符串 _() 宏 定義 翻譯字符串\n\u003c/pre\u003e"

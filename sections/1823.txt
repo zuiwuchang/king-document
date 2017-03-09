@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxTimer 是一個定時器 可以用來 替代線程(以 避免那些煩人的 同步處理)\n\n使用 wxTimer 需要 在構造時 傳入 一個wxEvtHandler(關聯窗口) 和一個 id標識符\n或者使用 默認構造 之後 調用 void \tSetOwner (wxEvtHandler *owner, int id=-1)\n\nEVT_TIMER 宏 關聯 事件處理 函數\n\u003c/pre\u003e"

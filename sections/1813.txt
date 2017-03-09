@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSetData 設置剪切板的 數據 必須 用 new 申請\n且 必須釋放 其會在 剪切板 不使用 次資源時 由 框架 自動釋放\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\twxHtmlEasyPrinting* p = new wxHtmlEasyPrinting(_(\"name\"),this);\n\tp-\u0026gt;SetHeader(_(\"page @PAGENUM@/@PAGESCNT@\"));\n\tp-\u0026gt;PreviewFile(_(\"test.html\"));\u003c/pre\u003e"

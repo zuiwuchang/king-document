@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxFile 從底層對文件提供了 二進制讀寫功能 \n其類似於c的 FILE* (其實其內部就是保存了一個到 FILE* 的連接)\n\nwxFFile 基本同 wxFile 只是其提供了 緩衝區功能\n\u003c/pre\u003e"

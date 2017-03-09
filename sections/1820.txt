@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewxwidgets 的 wxAutomationObject 實現了在 msw平台下\n操作微軟 ole接口 的能力\n\u003c/pre\u003e"
