@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e倉頡輸入法 是由 朱邦復 於1976 創建的中文輸入法 方案\n是應用最廣的 中文 形碼輸入法\n\n最新版本爲 倉頡五代\n\nwiki\t\u003ca href=\"https://zh.wikipedia.org/wiki/%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/倉頡輸入法\u003c/a\u003e\n\u003c/pre\u003e"
