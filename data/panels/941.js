@@ -19,5 +19,12 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1837,
+			"Panel": 941,
+			"Name": "win32",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
