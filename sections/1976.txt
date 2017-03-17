@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\date_time\\posix_time\\posix_time.hpp\u0026gt;\nusing namespace boost::posix_time;\n\ntime_iterator重載了比較操作符 故可直接和 ptime比較\ntime_iterator以一個 ptime 和 一個 time_period代表++ --的步長 構造\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/optional.hpp\u0026gt;\n\noptional 用以容器的語義 來包裝一個函數 返回值 為無效值提供了一個 很好的解決方案 \n\noptional 重載了 -\u0026gt; * 使optional使用起來 像一個指向 被包裝型別的指針\n\noptional 隱式轉化為 bool  以代表 是否是有效值\n\u003c/pre\u003e"

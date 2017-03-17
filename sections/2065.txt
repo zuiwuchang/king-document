@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於multi版本 未重載 []\n\nboost::hash\u0026lt;T\u0026gt; 實際上 只是調用了 hash_value \n故只需為自定義型別 實現特化的   hash_value 即可使用 unordered_*\n\u003c/pre\u003e"

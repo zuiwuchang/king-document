@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\timer.hpp\u0026gt;\n\ntimer 類似一個計時器 可以返回以秒為單位的double時間\n以std::clock()實現 內部以一個std::clock_t _start_time記錄clock值\n其精度為 CLOSKS_PER_SEC 宏定義 win32下是 1000(毫秒) Linux下是1000000(微妙) \n\u003c/pre\u003e"

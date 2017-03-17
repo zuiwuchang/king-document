@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#include\u0026lt;boost\\pool\\pool.hpp\u0026gt;\n\nint _tmain(int argc, _TCHAR* argv[])\n{\n\t//一個管理 int 的 內存池\n\tboost::pool\u0026lt;\u0026gt; pool(sizeof(int));\n\n\tint* lp\t=\t(int*)pool.malloc();\n\tpool.is_from(lp);\n\tpool.free(lp);\n\n\tstd::system(\"pause\");\n\treturn 0;\n}\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/any.hpp\u0026gt;\n\nany 是一個特殊容器 其可以容納任意型別 值要求元素 具有copy 語義\n使用any 保存 指針三個錯誤的想法 然 保存智能指針如 shared_ptr 則是個好注意(any 析構時 不會delete 指針)\n\u003c/pre\u003e"

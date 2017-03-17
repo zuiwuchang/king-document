@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//分配一個 對象指針 最多傳入3個參數 給對象構造\nelement_type * construct()\nelement_type * construct(...)\n\n//釋放對象 指針\nvoid destroy(element_type * const chunk)\n\u003c/pre\u003e"

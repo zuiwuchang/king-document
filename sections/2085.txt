@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//可以為 multi_array 創建一個子視圖 其只包含了 原multi_array 中 部分元素 可對其訪問修改\n//子視圖依然是個 multi_array\n//視圖概念 類似SQL視圖\n\u003c/pre\u003e"

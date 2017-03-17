@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost 一個 高效 高質量 開源 的跨平台 c++ 庫\n其作者 大多為 c++ 標準委員會成員 故 其風格類似 STL \n且 標準庫 新組件 大多直接從boost中 選取\n\n官網 \u003ca href=\"www.boost.org\" target=\"_blank\"\u003ewww.boost.org\u003c/a\u003e\n\u003c/pre\u003e"

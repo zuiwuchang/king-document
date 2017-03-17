@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edate_time庫將時間處理 分為 時間點 時間段 時長 三個概念\n\n\n\n時間\t是一個向前向後無線延長的實數軸\n時間點\t是數軸上的一點\n時間段\t是數軸上的一個前開後閉區間\n時長\t是兩個時間點之差\n\n時間點+時長=時間點\n時長+時長=時長\n時間段 交 時間段 =時間段\n時間點 子集於 時間段\n\ndate_time枚舉類special_values 代表特殊時間\npos_infin\t表示正無線\nneg_infin\t表示負無線\nnot_a_date_time\t無效時間\nmin_date_time\t最小日期或時間\nmax_date_time\t最大日期或時間\n\u003c/pre\u003e"

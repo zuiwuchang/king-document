@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efree 是將 內存 歸還給 內存池 而非 系統\n\npurge_memory 會在 內存池 析構時 被自動調用\n\u003c/pre\u003e"

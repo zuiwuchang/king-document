@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//構造\nany(T)\n=\n\n//返回any 是否 為空 既沒有被包裝的型別\nbool empty() const\n\n//返回保存型別的 type_info\nconst std::type_info \u0026 type() const\n\n//交換數據\nswap\n\n//any未提供 訪問元素的接口 而是通過以下友元函數訪問\nany_cast\n\u003c/pre\u003e"

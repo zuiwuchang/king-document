@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eparse\t清空緩衝區 並重新設置格式方式\nclear\t清空緩衝區 既重新輸入格式參數\n.str()\t返回格式化好後的字符串\n.size()\t返回格式化好後的字符串長度\n\n\u003cstrong\u003e需要先傳入全部待格式化的參數後 \n才能進行輸出 返回等操作 否則拋出異常\u003c/strong\u003e\nformat 要進行許多安全檢測 故 效率比 printf 低2到5倍 \n\u003c/pre\u003e"

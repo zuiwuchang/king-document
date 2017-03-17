@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#include \u0026lt;boost/typeof/typeof.hpp\u0026gt;\n\nint _tmain(int argc, _TCHAR* argv[])\n{\n\tBOOST_AUTO(i1,1);\n\tBOOST_TYPEOF(i1) i2;\n\ti2\t=\ti1;\n\n\tstd::system(\"pause\");\n\treturn 0;\n}\u003c/pre\u003e"

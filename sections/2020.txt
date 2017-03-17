@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//动态语法\ncregex\t reg=cregex::compile(\"^123\\\\d*\\\\w+\");\n\n//静态语法\ncregex\t reg=bos\u0026gt;\u0026gt;\"123\"\u0026gt;\u0026gt;*_d\u0026gt;\u0026gt;*_w;\u003c/pre\u003e"

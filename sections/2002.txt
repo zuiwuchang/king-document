@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\pool\\singleton_pool.hpp\u0026gt;\n\nsingleton_pool 的接口 完全同 pool 不過其為一個 單件\n\nsingleton_pool 需要再模板中 傳入一個空類(作為單件的 標記) 一個大小(每次 malloc的大小)\n\u003c/pre\u003e"

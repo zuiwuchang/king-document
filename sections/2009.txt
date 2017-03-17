@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost::lexical_cast 在 字符串 轉換為 數值時 \u003cstrong\u003e字符串不能是 \"0x12\" \"12H\" 等形式\u003c/strong\u003e\n若無法轉換 throw boost::bad_lexical_cast\n\u003c/pre\u003e"

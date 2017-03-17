@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於vs 支持 自動鏈接 技術 然 其他編譯器 在 使用 boost時 \n若使用到需要 編譯的庫 需要 設置庫文件 \n\n庫文件名 一般如下\nlibboost_atomic-vc100-mt-sgd-1_53.lib\n前綴\tlib (windows下 只有靜態庫有)\n庫名\tboost_atomic\n編譯器\t-vc100\n多線程\t-mt\nABI標識 sgd\n\ts\t靜態庫\n\tdg\tdebug版本\n\tp\t使用STLPort\n版本號\t1_53\n擴展名\t.lib (.a .so linux)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003escoped_array 用法同 scoped_ptr\n不過是對 new [] delete[] 的包裝\n\u003c/pre\u003e"

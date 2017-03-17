@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/multi_array.hpp\u0026gt;\n\nmulti_array 是一個多維數組 其重載了 [] 可以像元素數組一樣使用 \n其亦提供了 STL 風格接口\nmulti_array 是遞歸定義了 每維都是一個 multi_array 最後一維則是個 一維的multi_array\n\nmulti_array在構造時 需要傳入模板指定 型別和 數組維數 構造函數需要傳入 boost::extents指定每維的維度\n\u003c/pre\u003e"

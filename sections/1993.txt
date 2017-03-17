@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eenable_shared_from_this的 子類 必須使用 shared_ptr包裝 才能調用 shared_from_this \n不能原始指針 或 靜態變量 調用 enable_shared_from_this\n\u003c/pre\u003e"

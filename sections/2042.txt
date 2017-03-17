@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eoptional 只要求被包裝型別 支持copy語義\n\n對於 包裝 的型別 若copy 消耗過大 boost 提供了 in_place 其可以通過  傳入 型別的 構造參數 in_place就地創建 一個 optional\n而不需要 創建一個臨時的 型別 再傳入 optional 構造\n#include \u0026lt;boost/utility/in_place_factory.hpp\u0026gt;\n\n對於 \u0026amp; 的包裝 不支持 就地創建 賦值 且可以不立刻指定初始值(無效值) 在賦值時可以轉移包裝對象\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e以 boost.system庫 為例\n1\t創建cpp文件 test.cpp 並加入工程\n2\t編輯 test.cpp 為\n\t#define BOOST_SYSTEM_NO_LIB\n\t#include\u0026lt;libs/system/src/error_code.cpp\u0026gt;\n\n\t對於vc 需要定義宏 BOOST_ALL_NO_LIB 或 BOOST_*_NO_LIB 以禁用vc的指定鏈接功能\n\u003c/pre\u003e"

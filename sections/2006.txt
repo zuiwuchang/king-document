@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost 提供的前3個 內存池 內存失敗時 返回0\n但  pool_alloc 內存失敗時 會拋出 std::bad_alloc 以符合 STL 標準\n\u003c/pre\u003e"

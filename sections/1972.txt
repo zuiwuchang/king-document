@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//\nptime(date,time_duration);\n其他類似date\n...\n\n//返回date部分以供操作時間點\ndate date();\n//返回time_duration以供操作時間點\ntime_duration time_of_day()\n\u003c/pre\u003e"

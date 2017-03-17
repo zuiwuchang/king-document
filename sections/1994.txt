@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\pool\\pool.hpp\u0026gt;\n\npool 提供了一個 內存池 其可以管理 POD 型別\n\npool 需要傳入一個模板參數(內存分配算法) 和一個大小(malloc 每次從 內存池 分配內存 大小)\n\u003c/pre\u003e"

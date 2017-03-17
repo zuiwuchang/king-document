@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#include \u0026lt;boost/noncopyable.hpp\u0026gt;\n\nclass Test\n\t: boost::noncopyable\n{\n\t\n};\n\nint _tmain(int argc, _TCHAR* argv[])\n{\n\tTest a,b;\n\t//a\t=\tb;\t//錯誤\n\n\tstd::system(\"pause\");\n\treturn 0;\n}\u003c/pre\u003e"

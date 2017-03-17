@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\progress.hpp\u0026gt;\n\nprogress_timer繼承自timer \n其唯一的不同在於析構時自動向std::cout\u0026lt;\u0026lt;progress_timer.elapsed()\u0026lt;\u0026lt; \" s\\n\"\u0026lt;\u0026lt; std::endl;\n其次progress_timer( std::ostream \u0026amp; os = std::cout )可以指定一個輸出流 以替換掉std::cout\n\u003c/pre\u003e"

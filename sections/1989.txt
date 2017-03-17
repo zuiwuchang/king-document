@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eweak_ptr 並非智能指針 其被設置為 配合 shared_ptr 工作\n以用於 觀察 shared_ptr 的 使用情況\n\nweak_ptr通過一個 weak_ptr 或 shared_ptr 構造 獲取其觀測權\n\u003c/pre\u003e"

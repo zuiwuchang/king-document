@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esingleton 要求 被包裝的class 構造析構 不能拋出異常\n\nsingleton 不是線程安全的 需要自己 同步線程\n\nsingleton 是noncopyable的 子類\n\u003c/pre\u003e"

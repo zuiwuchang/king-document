@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/typeof/typeof.hpp\u0026gt;\n\nc++11 提供了 decltype 用於返回一個型別的 數據類型\n\t\tauto 用於 定義一個 由編譯器推導的 型別\n\nboost 在c++11 之前便提供了宏 \n\tBOOST_TYPEOF 實現decltype\n\tBOOST_AUTO 實現 auto\n\u003c/pre\u003e"

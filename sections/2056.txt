@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/array.hpp\u0026gt;\narray\t已經納入c++11\n\narray\t包裝了 原始的數組 其通過為模板傳入 型別 數組大小 構造\narray\t重載了 [] 使用起來和 原始數組無異 接口多為 inline 故性能差別不多\narray\t提供了 一些類似 STL 容器接口 可以看作是比原始數組更好的 數組\n\u003c/pre\u003e"

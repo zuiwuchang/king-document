@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將指定位置設置為 環起點\nvoid rotate(const_iterator new_begin) \n\n//返回緩衝區是否 已滿\nbool full()\n\n//返回環的 線性數組\npointer linearize()\n//返回是否可 線性化\nbool is_linearized() const { return m_first \u0026lt; m_last || m_last == m_buff; }\n\u003c/pre\u003e"

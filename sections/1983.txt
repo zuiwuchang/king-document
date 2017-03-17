@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eshared_ptr是boost庫下 最有價值的一個組件 是一個引用計數型的智能指針\n善用shared_ptr能 完全替換代碼中的 new 和 delete\n\u003c/pre\u003e"

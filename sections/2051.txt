@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/serialization/singleton.hpp\u0026gt;\n\n單件頗有有用的模式 boost並未提供 單件庫 然在序列化庫serialization 中提供了一個 單件singleton 可用以實現單件模式\n\nsingleton 有兩種使用方式 \n1\t由singleton派生\n2\t將 class 傳入 singleton 的模板\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//cregex 匹配c字符串 sregex匹配std::string w[sc]regex匹配unicode\ncregex reg=cregex::compile(\"^12\\\\w*bc$\" /*,icase* 可忽略大小寫*/);\n\nstd::cout\u0026lt;\u0026lt;boost::xpressive::regex_match(\"123abc\",reg)\u0026lt;\u0026lt;std::endl;\u003c/pre\u003e"

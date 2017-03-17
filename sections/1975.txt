@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etime_period(ptime,ptime);\ntime_period(ptime,time_duration);\n\n...\nshift(hours(1))\t//平移1小時\nexpand(hours(1))//向兩端擴展1小時(既擴展了2小時)\n\n...其他參見date_period\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\lexical_cast.hpp\u0026gt;\nc中以 atoi atof 等提供把 字符串轉換為 數值 但未提供 數字 到 字符串 的轉換 除非用不安全的 printf\n一些編譯器 提供了 _itoa 等 非標準函數\nboost::lexical_cast 提供了統一的轉換操作\n\u003c/pre\u003e"

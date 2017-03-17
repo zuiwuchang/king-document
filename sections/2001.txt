@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eobject_pool 要求 分配對象的 析構函數 不能拋出異常\n\n且 一旦指定了 分配對象 object_pool 不能在分配其他指針\n\u003c/pre\u003e"

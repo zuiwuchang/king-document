@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\format.hpp\u0026gt;\nc的printf sprintf是不安全的 雖然如此的應用廣泛且語法簡單\nc++以operator\u0026lt;\u0026lt;和控制器 格式化 強大但書寫過於麻煩\nboost::format boost::wformat 提供了類似printf語法 以operator\u0026lt;\u0026lt;實現任意長度參數以保證安全\n\u003c/pre\u003e"

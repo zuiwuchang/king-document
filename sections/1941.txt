@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost 90% 組件不需要 編譯 直接 include 頭文件(*.hpp)即可 \n然 剩下部分組件 (data_time regex program_options test thread python ...) 需要編譯\n\n1\t從官網下載 源碼\n2\t編譯 boost\t(可選)\n3\t將boost 頭文件 設置到 include目錄 編譯的 庫文件 設置到 鏈接庫目錄\n4\t享受 boost\n\u003c/pre\u003e"

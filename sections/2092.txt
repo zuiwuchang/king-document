@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/property_tree/ptree.hpp\u0026gt;\n#include \u0026lt;boost/property_tree/json_parser.hpp\u0026gt;\n\njson\t是來自 javascript 的數據結構\n\n操作同 xml 唯一的區別是 使用 read_json write_json 讀取/寫入 數據\n\u003c/pre\u003e"

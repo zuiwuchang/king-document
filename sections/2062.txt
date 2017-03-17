@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eappend 是增加一個 Block\n若 Block為 unsigned long(32位) 即使append(1) 依然是增加了32位 \n\u003c/pre\u003e"

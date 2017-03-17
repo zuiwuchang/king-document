@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etype\nempty\t//返回true 只為兼容any語法\n\n使用 boost::get 可想類似 any_cast 的方式訪問 variant 參見 any_cast\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edate_time庫是boost的 時間 日期 處理庫\n其使用 (公曆)格利高里曆\n\n\u003cstrong\u003edate_time庫需要編譯\nbjam --toolset=msvc-10.0 --with-date_time --build-type=complete --prefix=D:\\Boost install\u003c/strong\u003e\n\u003c/pre\u003e"

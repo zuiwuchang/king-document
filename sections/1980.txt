@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003escoped_ptr 是一個在某作用域內的 智能指針 \nscoped_ptr 通過一個 new 指針 或 auto_ptr  或0  構造 獲取指針管理權\n一旦 構造 便不能 改變管理權\n指針 將在 scoped_ptr 析構時 被釋放\n\nscoped_ptr 不能比較 賦值\n\u003c/pre\u003e"

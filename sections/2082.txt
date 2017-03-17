@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//const 指針 記錄了 每維的 維度\nshape()\n//返回 維度 乘機\nnum_elements()\n//返回總維數\nnum_dimensions()\n\n[]\n...\n\u003c/pre\u003e"

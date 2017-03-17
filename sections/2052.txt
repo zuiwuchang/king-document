@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回實例應用\nstatic const T \u0026amp; get_const_instance()\nstatic T \u0026amp; get_mutable_instance()\n\u003c/pre\u003e"

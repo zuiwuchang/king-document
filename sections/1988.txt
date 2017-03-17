@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e其行為類似shared_ptr 同樣是引用計數指針\n\n不過對 new [] 和delete [] 智能化罷\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/tuple/tuple.hpp\u0026gt;\nnamespace boost::tuples\n\ntuple\t是一個有固定數目 指定型別的容器 是std::pair的泛化\ntuple\t已納入c++11\n其定義在namespace boost::tuples 但大多功能被引入 namespace boost\n\ntuple 最多支持10個 模板參數\nboost 提供了 make_tuple 創建tuple 用法同 std::make_pair\n\u003c/pre\u003e"

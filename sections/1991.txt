@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eweak_ptr 的一個重要功能 便是 通過 lock 獲取 this 的 shared_ptr\nboost 為此 提供了 通用方案\n1\t既從 enable_shared_from_this 派生\n2\t調用 shared_from_this 返回shared_ptr\n#include\u0026lt;boost\\enable_shared_from_this.hpp\u0026gt;\n\u003c/pre\u003e"

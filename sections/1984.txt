@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eshared_ptr()\t\t\t\t//構造空智能指針\nshared_ptr(T* lp)\t\t\t//構造保存lp的智能指針\nshared_ptr(T* lp, D d)\t\t\t//同上不過同時指定一個刪除器\nshared_ptr(const shared_ptr \u0026 r)\t//和另外一個 shared_ptr 共享指針(引用計數+1)\nshared_ptr(std::auto_ptr \u0026 r)\t\t//接管 auto_ptr 的指針\n\nrest()\t\t\t\t//放棄對指針的所有權 引用計數-1\n\u003c/pre\u003e"

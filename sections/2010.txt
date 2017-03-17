@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eoperator\u0026lt;\u0026lt; 罷\n\n轉換起點 operator\u0026lt;\u0026lt;\n轉換終點 operator\u0026gt;\u0026gt;\n轉換終點 必須是可缺省構造 和 可拷貝構造\n\u003c/pre\u003e"

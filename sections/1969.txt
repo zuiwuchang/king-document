@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\date_time\\posix_time\\posix_time.hpp\u0026gt;\nusing namespace boost::posix_time;\n\ntime_duration是一個包含 時 分 秒  微妙 的時間長度\n若定義了BOOST_DATE_TIME_POSIX_TIME_STD_CONFIG 可精確的納秒\n\ntime_duration的子類 hours minutes seconds millisec/milliseconds microsec/microseconds /nanose/nanoseconds度量了不同分辨率的時間\n\u003c/pre\u003e"

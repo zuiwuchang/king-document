@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/circular_buffer.hpp\u0026gt;\n\ncircular_buffer 是一個環形緩衝區 其接口完全類似STL標準容器 \n唯一的區別是 大小固定 其以環形存儲 當一端空間使用完時 重用另一端\n\n此外 circular_buffer 重載了 比較操作符 用以使用字典順序比較 兩個circular_buffer\n\u003c/pre\u003e"

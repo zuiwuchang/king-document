@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eweeks 是days的子類 用以直接構造一個以周為單位的時長\n\n\nweeks可以和days 直接+ -\ndays可以直接和整數 + -\n\n\n\nyears months 分別用以構造 年 月 時長\n\n\nyears可以和months 直接+ -(years+-months 將返回一個 months) 不能和 days weeks + -\nyears的number_of_years 返回表示的年長\nmonths的number_of_months返回表示的月長\nyears和months支持和整數 * /\n\u003c/pre\u003e"

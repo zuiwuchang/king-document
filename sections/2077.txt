@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eany 無法存儲 c 字符串 因為any 要求的是一個型別\n然 c 字符串 是一個數組\n\u003c/pre\u003e"

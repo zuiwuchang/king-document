@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將容器作為shared_ptr管理對象\u0026lt;\nshared_ptr\u0026lt;list\u0026lt;T\u0026gt;\u0026gt;\n\n//在容器中保存shared_ptr(這和直接保存 指針一樣 其實對shared_ptr的操作 就可以看作實際在操作指針)\nlist\u0026lt;shared_ptr\u0026lt;T\u0026gt;\u0026gt;   \n\u003c/pre\u003e\n"

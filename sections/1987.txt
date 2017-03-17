@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若指定了刪除器D 在shared_ptr引用計數為0時 不會以 delete lp 釋放資源\n而是調用 D(lp)\n删除器是一个 void D(T* lp) 的函数对象 lp是shared_ptr管理的指针\n\u003c/pre\u003e"

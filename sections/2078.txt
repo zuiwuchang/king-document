@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/variant.hpp\u0026gt;\n\nvariant 是對 union 的增強 union只能持有 POD 數據 variant 則無此限制\nvariant 在模板參數中指定 可持有數據型別 無參variant 以第一個模板參數的無參構造 \nvariant 帶參構造 可以說型別中的 任意型別構造\n\nvariant 支持全比較 和 流輸出 但要求 可持有的每個型別也支持\nvariant 可以直接訪問 持有型別 無需寫出 union的 . 或類似any的 *_cast\n\u003c/pre\u003e"

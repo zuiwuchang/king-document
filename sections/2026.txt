@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eregex_search 只進行部分匹配 而非全匹配\n\u003c/pre\u003e"

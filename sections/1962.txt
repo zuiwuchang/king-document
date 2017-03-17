@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//以天為單位 構造一個日期長度\ndate_duration(long);\ndate_duration(special_values);\n\n==\n!=\n\u0026lt;\n\u0026lt;=\n\u0026gt;\n\u0026gt;=\n\n=\n-\n++\n--\n/ //除法只支持出書為整數 而不能為另外一個日期長度\n\n//返回日期長度\nlong days()\n\nbool is_special()\nbool is_negative()\n...\n\u003c/pre\u003e"

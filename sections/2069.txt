@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecircular_buffer 會在定義時 一次分配所有需要的 內存\nboost為此 提供了 circular_buffer_space_optimized 接口同 circular_buffer\n唯一的區別是 circular_buffer_space_optimized 在需要時才分配內存 且刪除數據後 將釋放未使用內存\n\u003c/pre\u003e\n"

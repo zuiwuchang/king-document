@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\date_time\\gregorian\\gregorian.hpp\u0026gt;\nusing namespace boost::gregorian;\n\n\ndate_duration用以表示日期長度\ndate_time庫為date_duration 定義了一個typedef days\n\u003c/pre\u003e"

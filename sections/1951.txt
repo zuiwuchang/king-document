@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etimer win32精確到0.001秒 Linux精確到0.000001秒\nprogress_timer 只精確到0.01秒\n\u003c/pre\u003e"

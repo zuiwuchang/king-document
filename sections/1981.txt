@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//構造\nscoped_ptr( T * p = 0 )\nscoped_ptr( std::auto_ptr\u0026lt;T\u0026gt; p )\n\n//返回原始指針 但不能 delete\nT * get() const \n//交換兩個scoped_ptr (一般不該使用 此為實現 reset )\nvoid swap(scoped_ptr \u0026amp; b) \n//delete 已有指針 獲取新指針管理權\nvoid reset(T * p = 0)\n\noperator\nbool\t//返回內部是否擁有指針\n-\u0026gt;\n*\n\u003c/pre\u003e"

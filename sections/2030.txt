@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e部分匹配\nregex_iterator 可將所有被匹配到的子字符串都 輸出\n*iterator 將返回一個 match_results對象\n\u003c/pre\u003e"

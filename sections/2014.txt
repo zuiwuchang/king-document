@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\algorithm\\string.hpp\u0026gt;\n\n算法都以容器為對象 故不必一定是 string 或 wstring 算法皆可用 然最好只用於 string wstring\n\n算法一般都有 帶後綴 前綴 或不帶版本 含義同STL 如下\n無後綴的函數 將直接修改傳入參數\n_if 類似STL 提供一個修改判別式\n_copy 不修改參數 將結果返回\ni前綴 忽略大小寫(如 iequals)\n\u003c/pre\u003e"

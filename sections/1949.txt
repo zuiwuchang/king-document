@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etimer()\t\t\t\t//設置_start_time=std::clock()\nvoid restart()\t\t\t//重設_start_time=std::clock() 以初始化計時\ndouble elapsed_max()\t\t//返回最大的計時值\ndouble elapsed_min()\t\t//返回最小的計時值\ndouble elapsed()\t\t//返回經過多時間秒數\treturn  double(std::clock() - _start_time) / CLOCKS_PER_SEC;\n\u003c/pre\u003e"

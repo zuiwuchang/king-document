@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\pool\\object_pool.hpp\u0026gt;\n\nobject_pool 是 pool 的 子類 接口類似 pool\nobject_pool 增加了 construct destroy 替代 malloc free 其會調用 類的 構造析構函數\n\nobject_pool 構造時 需要傳入 一個類 作為 object_pool 每次分配的對象\n\u003c/pre\u003e"

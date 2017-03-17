@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\date_time\\posix_time\\posix_time.hpp\u0026gt;\nusing namespace boost::posix_time;\n\nptime 相當於 一個日期加上一個時間長度\n\u003c/pre\u003e"

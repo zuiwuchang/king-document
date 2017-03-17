@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#include \u0026lt;boost/variant.hpp\u0026gt;\n\nint _tmain(int argc, _TCHAR* argv[])\n{\n\t\n\tboost::variant\u0026lt;int,std::string\u0026gt; v(\"this is a test\");\n\n\tv\t=\t123;\n\tv\t=\t\"456\";\n\tv\t=\t789;\n\tboost::get\u0026lt;int\u0026gt;(v);\n\n\tstd::system(\"pause\");\n\treturn 0;\n}\u003c/pre\u003e"

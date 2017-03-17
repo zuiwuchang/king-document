@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eget 是一個模板函數 故其模板參數必須去確定值 \n故 int i=0; gte\u0026lt;i\u0026gt;() 是無法編譯成功的\n\ntuple 不能存儲 void  和 函數類型(不是指函數指針) 因為 tuple要求型別對象可以實例化 這兩種型別不能\n\n不要企圖使用 tie(a,b) = tie(b,a) 交換變量 這是錯誤的 \n這相當於 a=b b=a 可在b=a時 a已經被設置為 b的值 故之後 a b 的 值都為 原b值\n\u003c/pre\u003e"

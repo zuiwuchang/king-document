@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost/noncopyable.hpp\u0026gt;\n\n編譯器默認 會給 class 添加 拷貝構造和 operator= 函數 \n這樣的好處是 class 直接符合容器的 copy語義 自動支持swap\n若需要類 禁止copy 只需要將上述函數 定義為private \nboost提供了更便捷的方式 使class從noncopyable派生既可(noncopyable 不過是將上述函數定義為private 派生繼承了此二函數)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/assign.hpp\u0026gt;\nusing namespace boost::assign;\n\nSTL 提供了大量容器 然對於其添加數據 需要 insert push_* 頗為不便\nboost的 assign 簡化了這些 操作\n\u003c/pre\u003e"

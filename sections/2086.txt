@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eresize改變大小 會將原內存 copy到 新內存 之後調用 其析構函數 (被copy的 元素 構造不會被調用)\n不建議在 需要 析構 構造 的元素保存到multi_array後 調用 resize\n\u003c/pre\u003e"

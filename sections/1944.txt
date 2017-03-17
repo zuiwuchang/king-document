@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e進入 boost_*\\tools\\build\\v2\\engine\n\n運行 build.bat 或 build.sh\nbuild 將 自動 選擇合適的 編譯器 編譯 bjam\n\n將編譯好的 bjam 複製到 boost_* \n(\n\t或者 將 b2 複製到 boost_* \n\tb2\t編譯動態庫\n\tb2 link=static\t編譯靜態庫\n)\n\u003c/pre\u003e"

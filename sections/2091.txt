@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eproperty_tree\t不是專門為xml設計的 故讀取/寫入和 其內容排版可能會變化 但結構不變\n\nboost\t沒有實現xml解析器 而是採用了開源的 rapidxml 解析 其不支持DTD 名字空間 編碼轉換(默認UTF-8)\n\nproperty_tree 將所有xml節點 轉換為樹形節點 屬性保存在 \u0026lt;xmlattr\u0026gt;的下級節點 註釋保存在 \u0026lt;xmlcomment\u0026gt; 節點文本在 \u0026lt;xmltext\u0026gt;\n\u003c/pre\u003e\n"

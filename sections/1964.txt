@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e兩個date相減 返回一個 days\ndate + 或 - 一個日期長度 得到新的日期\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost判別式 如is_equal 需要如此調用 is_equal()(str1,str2)\n第一個() 是產生此類的臨時對象 第二個()是調用 operator()\n\u003c/pre\u003e"

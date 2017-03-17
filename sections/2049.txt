@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/swap.hpp\u0026gt;\nboost::swap 是對 std::swap 的泛型增強\n\nboost::swap 調用 模板特化swap 若不存在 最後 調用 std::swap\nboost::swap 亦可交換兩個數組 然數組長度 必須相同\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/property_tree/ptree.hpp\u0026gt;\n#include \u0026lt;boost/property_tree/xml_parser.hpp\u0026gt;\n\n要解析xml 需要include xml_parser\n再實例化 ptree後 使用 read_xml 解析 xml 使用 write_xml 保存xml\nread_xml write_xml 接受一個指向 文件路徑的字符串/IO流(解析 保存 位置) 以及一個 basic_ptree\n\u003c/pre\u003e"

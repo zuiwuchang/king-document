@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#include\u0026lt;boost\\pool\\pool_alloc.hpp\u0026gt;\n\nint _tmain(int argc, _TCHAR* argv[])\n{\n\tstd::vector\u0026lt;int,boost::fast_pool_allocator\u0026lt;int\u0026gt;\u0026gt; v;\n\tv.push_back(1);\n\n\tstd::system(\"pause\");\n\treturn 0;\n}\u003c/pre\u003e"
