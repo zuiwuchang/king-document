@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQLayout 是所有佈局的 基類 提供了基本的 方法\n\n#include \u0026lt;QLayout\u0026gt;\nQT += widgets\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLIBS 設置 可以指定 gcc編譯時的 -l -L 參數\n\nLIBS += -lopengl32 -lglu32 -Lmingw/lib\n\u003c/pre\u003e"

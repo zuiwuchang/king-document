@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etr 不能像 gettext 一樣 使用 % 傳遞參數\n而是使用 蹩腳的 %n 和 .arg()...\n\nvoid MainWindow::onButtonClick()\n{\n   int hp = 10;\n   int mp = 20;\n   QString s = tr(\"hp = %1 mp = %2\").arg(hp).arg(mp);\n   QMessageBox::information(this,\"test\",s);\n}\n\u003c/pre\u003e"

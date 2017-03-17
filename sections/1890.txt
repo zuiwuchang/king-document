@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 QNetworkReply::deleteLater 釋放 QNetworkReply指針 而不要 delete ptr\n\u003c/pre\u003e"

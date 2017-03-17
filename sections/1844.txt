@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;QString\u0026gt;\n\nqt的源代碼文件 默認使用 utf8\n\nqt 像所有框架一樣 都封裝了 字符串\nqt 使用 QChar 代表 字符(utf16)\nqt 使用 QString 代表 字符串\n\u003c/pre\u003e"

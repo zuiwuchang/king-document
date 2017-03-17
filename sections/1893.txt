@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果將 qt 程式 放到沒安裝qt的 環境中 運行 可能會出現 這個錯誤 \n\n將 qt 安裝目錄下的  Qt5.7.0\\5.7\\msvc2015\\plugins\\platforms 檔案夾 複雜到 \n程式運行目錄即可\n\u003c/pre\u003e"

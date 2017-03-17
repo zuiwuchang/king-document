@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQNetworkRequest 可以發送 一個 http get/post ...請求\n\u003c/pre\u003e"

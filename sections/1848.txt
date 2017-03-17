@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;QByteArray\u0026gt;\n\nQByteArray 是一個 byte 數組 亦可作為字符串處理(編碼不確定 由數據流確定)\n\u003c/pre\u003e"

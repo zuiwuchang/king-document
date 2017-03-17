@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQTextBrowser 是一個 富文本顯示框\n派生 自QTextEdit 用法 基本同 QTextEdit 只是 QTextBrowser 只可顯示罷\n\n同時 QTextBrowser 提供了 打開 a 標籤的能力\n\u003c/pre\u003e"

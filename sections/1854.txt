@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n要自定義一個 信號 只需要 在函數聲明前 加上 signals: 即可\n在信號函數調用前 加上關鍵字 emit 即可將函數作為 信號發送\n\u003c/pre\u003e"

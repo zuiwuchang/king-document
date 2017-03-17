@@ -12710,5 +12710,404 @@ var __v=[
 			"Name": "win32",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1838,
+			"Panel": 963,
+			"Name": "QT",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1839,
+			"Panel": 964,
+			"Name": "qDebug",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1840,
+			"Panel": 965,
+			"Name": "qmake",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1841,
+			"Panel": 966,
+			"Name": "INCLUDEPATH",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1842,
+			"Panel": 967,
+			"Name": "LIBPATH",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1843,
+			"Panel": 968,
+			"Name": "LIBS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1844,
+			"Panel": 969,
+			"Name": "QString",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1845,
+			"Panel": 969,
+			"Name": "編碼轉換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1846,
+			"Panel": 970,
+			"Name": "QTextStream",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1847,
+			"Panel": 970,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1848,
+			"Panel": 971,
+			"Name": "QByteArray",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1849,
+			"Panel": 972,
+			"Name": "信號/插槽",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1850,
+			"Panel": 972,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1851,
+			"Panel": 973,
+			"Name": "信號 插槽 管理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1852,
+			"Panel": 973,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1853,
+			"Panel": 973,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1854,
+			"Panel": 974,
+			"Name": "自定義信號",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1855,
+			"Panel": 974,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1856,
+			"Panel": 974,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1857,
+			"Panel": 975,
+			"Name": "同步",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1858,
+			"Panel": 976,
+			"Name": "QPushButton",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1859,
+			"Panel": 977,
+			"Name": "QRadioButton",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1860,
+			"Panel": 977,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1861,
+			"Panel": 978,
+			"Name": "QCheckBox",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1862,
+			"Panel": 979,
+			"Name": "QCommandLinkButton",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1863,
+			"Panel": 980,
+			"Name": "QLineEdit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1864,
+			"Panel": 980,
+			"Name": "數據驗證",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1865,
+			"Panel": 980,
+			"Name": "自動 補全",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1866,
+			"Panel": 981,
+			"Name": "QTextEdit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1867,
+			"Panel": 982,
+			"Name": "QTextBrowser",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1868,
+			"Panel": 983,
+			"Name": "資源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1869,
+			"Panel": 983,
+			"Name": "內嵌資源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1870,
+			"Panel": 983,
+			"Name": "外部資源文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1871,
+			"Panel": 984,
+			"Name": "app ico",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1872,
+			"Panel": 985,
+			"Name": "佈局",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1873,
+			"Panel": 986,
+			"Name": "QLayout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1874,
+			"Panel": 986,
+			"Name": "public",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1875,
+			"Panel": 987,
+			"Name": "QBoxLayout",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1876,
+			"Panel": 987,
+			"Name": "public",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1877,
+			"Panel": 987,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1878,
+			"Panel": 988,
+			"Name": "國際化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1879,
+			"Panel": 988,
+			"Name": "lupdate",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1880,
+			"Panel": 988,
+			"Name": "Qt Linguist",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1881,
+			"Panel": 988,
+			"Name": "使用 *.qm",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1882,
+			"Panel": 989,
+			"Name": "%n 參數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1883,
+			"Panel": 990,
+			"Name": "QWebEngineView",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1884,
+			"Panel": 991,
+			"Name": "c++調用js",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1885,
+			"Panel": 992,
+			"Name": "js調用c++",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1886,
+			"Panel": 992,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1887,
+			"Panel": 992,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1888,
+			"Panel": 993,
+			"Name": "QNetworkRequest",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1889,
+			"Panel": 993,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1890,
+			"Panel": 993,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1891,
+			"Panel": 994,
+			"Name": "QGLWidget",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1892,
+			"Panel": 994,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1893,
+			"Panel": 995,
+			"Name": "Qt platform plugin \"windows\"",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1894,
+			"Panel": 996,
+			"Name": "xp",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

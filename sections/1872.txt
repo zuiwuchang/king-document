@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eqt 提供了 佈局功能 方便 ui 排版\n\nQHBoxLayout\t水平佈局\nQVBoxLayout\t垂直佈局\nQGridLayout\t網格佈局\nQFormLayout\t表單佈局\n\u003c/pre\u003e"

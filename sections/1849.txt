@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eqt 使用 信號/插槽 機制 處理gui\n\n當 操作gui時 將 創建信號 與之關聯的 插槽 將被自動 調用\n\n使用 \nQObject::connect(信號指針,\n\t信號,\n\t插槽對象指針,\n\t插槽指針\n)\n關聯 信號 插槽\n\u003cstrong\u003e(或者使用 特定名稱 實現自動關聯)\u003c/strong\u003e\n\u003c/pre\u003e"

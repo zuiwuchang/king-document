@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回/設置 子元素 間距\nint spacing() const\nvoid setSpacing(int)\n\n//返回/設置 佈局邊距\nQMargins contentsMargins() const\nvoid setContentsMargins(int left, int top, int right, int bottom)\nvoid setContentsMargins(const QMargins \u0026margins)\n\n...\n\u003c/pre\u003e"

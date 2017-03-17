@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;QDebug\u0026gt;\nQDebug 是一個 用於調試信息的 輸出流\n\nqDebug() 返回一個 QDebug輸出流 實例 常將調試信息 輸出到 qDebug()\n\u003c/pre\u003e"

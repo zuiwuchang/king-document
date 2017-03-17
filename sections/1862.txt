@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQCommandLinkButton 是一個 Vista style 的 命令鏈接按鈕\n\u003c/pre\u003e"

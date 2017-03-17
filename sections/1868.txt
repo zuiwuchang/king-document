@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eqt 提供了 平台無關的 資源系統\n使用 *.qrc 定義資源\n\nqt使用\n:XXX\nqrc://XXX\n訪問資源\n\t\u003cstrong\u003e: 協議 用於需要文件路徑\n\tqrc: 協議 用於需要url路徑\u003c/strong\u003e\n\nui-\u0026gt;pushButton_2-\u0026gt;setIcon(QIcon(\":/img/king.ico\"));\nui-\u0026gt;textBrowser-\u0026gt;setHtml(\"\u0026lt;img src='qrc:///img/king.ico'\u0026gt;\");\n\u003c/pre\u003e"

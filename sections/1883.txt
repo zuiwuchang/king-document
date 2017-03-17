@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQWebEngineView 是qt使用 Chromium 內核的一個 web視圖\n\n_view = new QWebEngineView(this);\n_view-\u0026gt;setUrl(QUrl(QStringLiteral(\"qrc:///view/index.html\")));\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e信號 插槽 可以多次 組合\n只需要 調用 多次 QObject::connect 便可\nQObject::disconnect 可以解除 信號 插槽 的關聯 其 參數和connect一樣\n\n當 多個 信號 關聯到 同一 插槽時\n在 調用 QObject * QObject::​sender() const 可以 返回 發出信號的 指針\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQLineEdit 是一個 單行的文本 編輯框\n\nvoid setEchoMode(EchoMode) 可以設置 如何顯示文本\n\t\u003cstrong\u003eQLineEdit::Normal\n\tQLineEdit::NoEcho\n\tQLineEdit::Password\n\tQLineEdit::PasswordEchoOnEdit\t//短暫顯示輸入文本後 切換為*顯示\u003c/strong\u003e\n\u003c/pre\u003e"

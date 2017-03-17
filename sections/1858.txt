@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQPushButton 是一個 按壓按鈕\n\n通常會為 void clicked() 信號 綁定一個 插槽 執行 按鈕單擊代碼\n\u003c/pre\u003e"

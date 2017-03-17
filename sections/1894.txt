@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果使用 vs 作爲 編譯器 vs2012 開始 默認編譯的 程式 不可運行在 xp上\n\n對此 可以在 *.pro 中 加入 設置\n\n//控制檯\nQMAKE_LFLAGS_CONSOLE    = /SUBSYSTEM:CONSOLE,5.01\n\n//桌面\nQMAKE_LFLAGS_WINDOWS    = /SUBSYSTEM:WINDOWS,5.01\n\u003c/pre\u003e"

@@ -5681,10 +5681,112 @@ var __v={
 			"Name": "字母 子身",
 			"Sort": 0
 		},
+		"963": {
+			"Id": 963,
+			"Chapter": 323,
+			"Name": "QT",
+			"Sort": 0
+		},
+		"964": {
+			"Id": 964,
+			"Chapter": 323,
+			"Name": "qDebug",
+			"Sort": 0
+		},
+		"965": {
+			"Id": 965,
+			"Chapter": 324,
+			"Name": "qmake",
+			"Sort": 0
+		},
+		"966": {
+			"Id": 966,
+			"Chapter": 324,
+			"Name": "INCLUDEPATH",
+			"Sort": 0
+		},
+		"967": {
+			"Id": 967,
+			"Chapter": 324,
+			"Name": "LIBPATH",
+			"Sort": 0
+		},
+		"968": {
+			"Id": 968,
+			"Chapter": 324,
+			"Name": "LIBS",
+			"Sort": 0
+		},
+		"969": {
+			"Id": 969,
+			"Chapter": 325,
+			"Name": "QString",
+			"Sort": 0
+		},
 		"97": {
 			"Id": 97,
 			"Chapter": 45,
 			"Name": "閉包",
+			"Sort": 0
+		},
+		"970": {
+			"Id": 970,
+			"Chapter": 325,
+			"Name": "QTextStream",
+			"Sort": 0
+		},
+		"971": {
+			"Id": 971,
+			"Chapter": 325,
+			"Name": "QByteArray",
+			"Sort": 0
+		},
+		"972": {
+			"Id": 972,
+			"Chapter": 326,
+			"Name": "信號/插槽",
+			"Sort": 0
+		},
+		"973": {
+			"Id": 973,
+			"Chapter": 326,
+			"Name": "信號 插槽 管理",
+			"Sort": 0
+		},
+		"974": {
+			"Id": 974,
+			"Chapter": 326,
+			"Name": "自定義信號",
+			"Sort": 0
+		},
+		"975": {
+			"Id": 975,
+			"Chapter": 326,
+			"Name": "同步",
+			"Sort": 0
+		},
+		"976": {
+			"Id": 976,
+			"Chapter": 327,
+			"Name": "QPushButton",
+			"Sort": 0
+		},
+		"977": {
+			"Id": 977,
+			"Chapter": 327,
+			"Name": "QRadioButton",
+			"Sort": 0
+		},
+		"978": {
+			"Id": 978,
+			"Chapter": 327,
+			"Name": "QCheckBox",
+			"Sort": 0
+		},
+		"979": {
+			"Id": 979,
+			"Chapter": 327,
+			"Name": "QCommandLinkButton",
 			"Sort": 0
 		},
 		"98": {
@@ -5693,10 +5795,112 @@ var __v={
 			"Name": "函數變長參數",
 			"Sort": 0
 		},
+		"980": {
+			"Id": 980,
+			"Chapter": 327,
+			"Name": "QLineEdit",
+			"Sort": 0
+		},
+		"981": {
+			"Id": 981,
+			"Chapter": 327,
+			"Name": "QTextEdit",
+			"Sort": 0
+		},
+		"982": {
+			"Id": 982,
+			"Chapter": 327,
+			"Name": "QTextBrowser",
+			"Sort": 0
+		},
+		"983": {
+			"Id": 983,
+			"Chapter": 328,
+			"Name": "資源",
+			"Sort": 0
+		},
+		"984": {
+			"Id": 984,
+			"Chapter": 328,
+			"Name": "app ico",
+			"Sort": 0
+		},
+		"985": {
+			"Id": 985,
+			"Chapter": 329,
+			"Name": "佈局",
+			"Sort": 0
+		},
+		"986": {
+			"Id": 986,
+			"Chapter": 329,
+			"Name": "QLayout",
+			"Sort": 0
+		},
+		"987": {
+			"Id": 987,
+			"Chapter": 329,
+			"Name": "QBoxLayout",
+			"Sort": 0
+		},
+		"988": {
+			"Id": 988,
+			"Chapter": 330,
+			"Name": "國際化",
+			"Sort": 0
+		},
+		"989": {
+			"Id": 989,
+			"Chapter": 330,
+			"Name": "%n 參數",
+			"Sort": 0
+		},
 		"99": {
 			"Id": 99,
 			"Chapter": 45,
 			"Name": "defer",
+			"Sort": 0
+		},
+		"990": {
+			"Id": 990,
+			"Chapter": 331,
+			"Name": "QWebEngineView",
+			"Sort": 0
+		},
+		"991": {
+			"Id": 991,
+			"Chapter": 331,
+			"Name": "c++調用js",
+			"Sort": 0
+		},
+		"992": {
+			"Id": 992,
+			"Chapter": 331,
+			"Name": "js調用c++",
+			"Sort": 0
+		},
+		"993": {
+			"Id": 993,
+			"Chapter": 332,
+			"Name": "QNetworkRequest",
+			"Sort": 0
+		},
+		"994": {
+			"Id": 994,
+			"Chapter": 333,
+			"Name": "QGLWidget",
+			"Sort": 0
+		},
+		"995": {
+			"Id": 995,
+			"Chapter": 334,
+			"Name": "Qt platform plugin \"windows\"",
+			"Sort": 0
+		},
+		"996": {
+			"Id": 996,
+			"Chapter": 334,
+			"Name": "xp",
 			"Sort": 0
 		}
 	}

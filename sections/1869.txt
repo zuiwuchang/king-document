@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e直接在 *.pro 中 加上\nRESOURCES += *.qrc\n即可\n\u003c/pre\u003e"

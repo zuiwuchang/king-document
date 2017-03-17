@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//增加子 元素\nvoid addLayout(QLayout *layout, int stretch = 0)\nvoid addWidget(QWidget *widget, int stretch = 0, Qt::Alignment alignment = Qt::Alignment())\nvoid insertLayout(int index, QLayout *layout, int stretch = 0)\nvoid insertWidget(int index, QWidget *widget, int stretch = 0, Qt::Alignment alignment = Qt::Alignment())\n\u003c/pre\u003e"

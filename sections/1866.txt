@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQTextEdit 是一個 富文本框\n可以 顯示 編輯一個 html css 的一個 子集\n\nQString toHtml() const\nvoid setHtml(const QString \u0026text)\n...\n\u003c/pre\u003e"

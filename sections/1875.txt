@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQBoxLayout 是 QHBoxLayout QVBoxLayout 的基類 實現了 水平/垂直佈局\n\u003c/pre\u003e"

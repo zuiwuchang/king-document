@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e要為應用設置一個 圖標 只需將圖標 複製到 項目下\n之後 在 *.pro 中添加 \nRC_ICONS = *.ico\n\u003c/pre\u003e"

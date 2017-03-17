@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e定義的channel類中 只有 \nqt屬性\t\t會被作為 js屬性 傳入js\nqt slots\t會被作為 js函數 傳入js\n\u003c/pre\u003e"

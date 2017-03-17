@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQt 跨平台 c++ 框架 廣泛用在 gui開發中\n\nQt 提供了多種許可協議 LGPL GPL 商業授權\n\nQt 同時提供了 多種 語言綁定 Java C# Lua Python ...\n\n官網 \u003ca href=\"https://www.qt.io/\" target=\"_blank\"\u003ehttps://www.qt.io/\u003c/a\u003e\n\u003c/pre\u003e"

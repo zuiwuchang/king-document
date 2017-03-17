@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eqt 提供了 rcc 工具 將 資源打包為一個 二進制文件\n\n使用 rcc -binary *.qrc -o *.rcc\n將資源打包為 rcc文件\n\n在 main 函數中 調用 QResource::registerResource(\"*.rcc\") 加載資源\nQResource::unregisterResource 卸載資源\n\u003c/pre\u003e"

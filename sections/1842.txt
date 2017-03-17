@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLIBPATH 設置 lib目錄\n\nLIBPATH += /opt/lib/c++/boost_1_62_0/gcc\n\u003c/pre\u003e"

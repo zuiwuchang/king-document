@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eQt 代碼不能直接被 標準 c++編譯器 編譯\n必須 先被 qmake 處理後才能 被編譯\nqmake 配置文件 一般為 *.pro\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 main 函數中 使用 QTranslator 加載 翻譯文件\n\nint main(int argc, char *argv[])\n{\n    QApplication a(argc, argv);\n    QTranslator translator;\n    translator.load(\":/zh.qm\");\n    a.installTranslator(\u0026amp;translator);\n\n    MainWindow w;\n    w.show();\n\n    return a.exec();\n}\n\u003c/pre\u003e"

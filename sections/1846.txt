@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;QTextStream\u0026gt;\n\nQTextStream 是一個 文本 輸入 輸出流 可以將 文本 在指定設備上 以流的方式 操作\n\u003c/pre\u003e"

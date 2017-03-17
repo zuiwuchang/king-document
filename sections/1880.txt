@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eqt 提供了一個 Qt Linguist 用於 編輯 *.ts 文件\n\n在 Qt Linguist 編輯完成後 點擊 Qt Linguist 的 文件-\u003e發布 \n可以將 *.ts 轉為 qt使用的 *.qm 二進制翻譯文件\n\u003c/pre\u003e"
