@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e要將 自定義型別 如同 基本型別一樣 use into ... 需要為自定義型別 特化摸吧TypeHandler 且必須在 Poco::Data namespace 下\n\u003c/pre\u003e"

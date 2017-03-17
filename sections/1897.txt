@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e方式 同 上文 只是需要编辑 build_vs*.cmd \n将最后一行中的 shared 参数 修改为 static_mt/static_md \n\n默認使用Poco庫將 鏈接動態庫 要連接靜態庫 在include *.h前\n#define POCO_STATIC\n\u003c/pre\u003e"

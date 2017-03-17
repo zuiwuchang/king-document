@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLibrary: Foundation\nPackage: Text\nHeader: Poco/UTF8Encoding.h\n\nclass UTF8Encoding 實現了 utf8編碼\n\u003c/pre\u003e"

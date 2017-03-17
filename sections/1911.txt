@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e代表了一條將要被 執行的 預定義SQL命令\n\n//接受一系列 控制器 以控制此SQL命令\noperator ,\n\n//執行預定義的SQL命令返回 影響的記錄數\nPoco::UInt32 execute()\n\n//返回SQL命令的 工作是否完成 如若在select 中 使用 控制器 limit 現在了返回記錄數\n//則可能 未把結果 全返回 done 返回false 需要多次調用 execute 直到 done 返回true\nbool done()\n\u003c/pre\u003e"

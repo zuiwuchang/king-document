@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用ODBC 需要先配置數據源 以win7為例\n\n打開 控制面板 -\u0026gt;管理工具 -\u0026gt;數據源 -\u0026gt;添加\n\u003cimg src='/sections/1929/image/odbc.png' style=\"max-width: 100%;\"\u003e\n\n增加一個數據源\n\u003cimg src='/sections/1929/image/add.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

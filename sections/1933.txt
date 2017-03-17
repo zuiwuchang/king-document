@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e需要在 session request 都設置 keep-alive 才能使用 keep-alive 請求\n\n需要在 sendRequest 之前設置超時 時間\n\nreceiveResponse 時才將請求發送到服務器 sendRequest只能在Poco內部註冊一個將要發送請求的標記\n\u003c/pre\u003e"

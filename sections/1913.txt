@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e除了使用 into 接受查詢結果外 Data庫 提供了 RecordSet\nRecordSet 接受一個 Statement 構造 \n\n使用 \nmoveFirst\nmoveNext\n... 移動記錄位置\n\n//DynamicAny 一個類似 boost::any 的容器 其 convert\u0026lt;T\u0026gt; 返回數據型別T的值\noperator[n] 返回字段值 DynamicAny\n\u003c/pre\u003e"

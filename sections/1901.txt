@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLibrary: Foundation\nPackage: Text\nHeader: Poco/UTF8String.h\n\nPoco 使用 utf8編碼 的字符串 其一般存儲在std::string中\nclass UTF8 的static 方法 提供了 utf8字符 相關的 處理函數\n\u003c/pre\u003e"

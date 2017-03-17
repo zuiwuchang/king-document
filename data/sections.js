@@ -13109,5 +13109,313 @@ var __v=[
 			"Name": "xp",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 1895,
+			"Panel": 997,
+			"Name": "Poco",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1896,
+			"Panel": 998,
+			"Name": "環境配置 win32",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1897,
+			"Panel": 998,
+			"Name": "编译 静态库",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1898,
+			"Panel": 998,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1899,
+			"Panel": 999,
+			"Name": "環境配置 mingw",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1900,
+			"Panel": 999,
+			"Name": "編譯",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1901,
+			"Panel": 1000,
+			"Name": "UTF8",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1902,
+			"Panel": 1000,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1903,
+			"Panel": 1000,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1904,
+			"Panel": 1001,
+			"Name": "UTF8Encoding",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1905,
+			"Panel": 1001,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1906,
+			"Panel": 1002,
+			"Name": "UnicodeConverter",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1907,
+			"Panel": 1002,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1908,
+			"Panel": 1003,
+			"Name": "Data",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1909,
+			"Panel": 1003,
+			"Name": "一般操作步驟",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1910,
+			"Panel": 1003,
+			"Name": "class Session",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1911,
+			"Panel": 1003,
+			"Name": "class Statement",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1912,
+			"Panel": 1003,
+			"Name": "Statement 控制器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1913,
+			"Panel": 1003,
+			"Name": "RecordSet 查詢結果",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1914,
+			"Panel": 1003,
+			"Name": "RecordSet BLOB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1915,
+			"Panel": 1003,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1916,
+			"Panel": 1004,
+			"Name": "SQLite",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1917,
+			"Panel": 1004,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1918,
+			"Panel": 1004,
+			"Name": "Example binary",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1919,
+			"Panel": 1004,
+			"Name": "映射自定義型別",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1920,
+			"Panel": 1004,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1921,
+			"Panel": 1004,
+			"Name": "SQLite 加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1922,
+			"Panel": 1004,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1923,
+			"Panel": 1004,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1924,
+			"Panel": 1005,
+			"Name": "MySql",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1925,
+			"Panel": 1005,
+			"Name": "修改 源碼",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1926,
+			"Panel": 1005,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1927,
+			"Panel": 1005,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1928,
+			"Panel": 1006,
+			"Name": "ODBC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1929,
+			"Panel": 1006,
+			"Name": "數據源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1930,
+			"Panel": 1006,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1931,
+			"Panel": 1007,
+			"Name": "HTTPClient",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1932,
+			"Panel": 1007,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1933,
+			"Panel": 1007,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1934,
+			"Panel": 1008,
+			"Name": "post example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1935,
+			"Panel": 1009,
+			"Name": "HTTPServer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1936,
+			"Panel": 1009,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1937,
+			"Panel": 1010,
+			"Name": "zip",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 1938,
+			"Panel": 1010,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

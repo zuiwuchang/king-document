@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e設置了 使用 utf8 編碼後 再 插入 查詢時 應該把字符串 轉換為 utf8\n英文的 ascii 和 utf8 編碼 一致 一般的 select insert 等無需轉碼 只是在 use into 的變量 若為英文 需要 轉碼\n\u003c/pre\u003e"

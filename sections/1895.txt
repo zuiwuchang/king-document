@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePoco\t一個開源 跨平台 的c++庫 提供了豐富的功能 \n很好的彌補了 c++標準 以及boost庫 未提供的能力 如一致的 數據庫訪問 網絡組件 zip打包算法\n\n官網 \u003ca href=\"http://pocoproject.org/\" target=\"_blank\"\u003ehttp://pocoproject.org/\u003c/a\u003e\n\nPoco\t提供了兩個版本 基本版 完整版 \n故名完整版提供了更多功能 主要是對 SSL MySql ODBC 的支持 \n\u003c/pre\u003e"

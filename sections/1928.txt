@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eODBC(open database connectivity) 開放數據庫互聯 最早是 微軟提出的一個(1992年) 用於數據庫訪問的標準接口\n現已成為SQL標準的一部分 詳見 wiki\n\nODBC設計者努力使其 具有最大的獨立性 開放性 其與編程語言無關 與數據庫無關\n\u003c/pre\u003e"

@@ -17,6 +17,72 @@ var __v={
 			"Name": "main init 函數",
 			"Sort": 0
 		},
+		"1000": {
+			"Id": 1000,
+			"Chapter": 336,
+			"Name": "UTF8",
+			"Sort": 0
+		},
+		"1001": {
+			"Id": 1001,
+			"Chapter": 336,
+			"Name": "UTF8Encoding",
+			"Sort": 0
+		},
+		"1002": {
+			"Id": 1002,
+			"Chapter": 336,
+			"Name": "UnicodeConverter",
+			"Sort": 0
+		},
+		"1003": {
+			"Id": 1003,
+			"Chapter": 337,
+			"Name": "Data",
+			"Sort": 0
+		},
+		"1004": {
+			"Id": 1004,
+			"Chapter": 337,
+			"Name": "SQLite",
+			"Sort": 0
+		},
+		"1005": {
+			"Id": 1005,
+			"Chapter": 337,
+			"Name": "MySql",
+			"Sort": 0
+		},
+		"1006": {
+			"Id": 1006,
+			"Chapter": 337,
+			"Name": "ODBC",
+			"Sort": 0
+		},
+		"1007": {
+			"Id": 1007,
+			"Chapter": 338,
+			"Name": "HTTPClient",
+			"Sort": 0
+		},
+		"1008": {
+			"Id": 1008,
+			"Chapter": 338,
+			"Name": "post example",
+			"Sort": 0
+		},
+		"1009": {
+			"Id": 1009,
+			"Chapter": 339,
+			"Name": "HTTPServer",
+			"Sort": 0
+		},
+		"1010": {
+			"Id": 1010,
+			"Chapter": 340,
+			"Name": "zip",
+			"Sort": 0
+		},
 		"102": {
 			"Id": 102,
 			"Chapter": 45,
@@ -5901,6 +5967,24 @@ var __v={
 			"Id": 996,
 			"Chapter": 334,
 			"Name": "xp",
+			"Sort": 0
+		},
+		"997": {
+			"Id": 997,
+			"Chapter": 335,
+			"Name": "Poco",
+			"Sort": 0
+		},
+		"998": {
+			"Id": 998,
+			"Chapter": 335,
+			"Name": "環境配置 win32",
+			"Sort": 0
+		},
+		"999": {
+			"Id": 999,
+			"Chapter": 335,
+			"Name": "環境配置 mingw",
 			"Sort": 0
 		}
 	}

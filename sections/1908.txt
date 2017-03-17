@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enamespace Poco::Data\n\nPoco 的 Data庫 為數據庫提供了一致的 訪問接口\nData庫支持 開源高效的mysql 方便的嵌入式數據庫SQLite 以及提供了odbc以支持微軟的odbc接口\n\u003c/pre\u003e"

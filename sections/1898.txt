@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evs编译器支持 自动链接 不用关心 链接文件名\n\nPoco 默认链接 动态库 如果需要链接 静态库 在 #include 之前 #define POCO_STATIC \n\nPoco 对mysql 的支持 依靠 mysql提供的c api 对SSL的支持 依靠 openssl 故需要先配置之\n\nPoco 要求 mysql c pi 版本是5.5及以前的版本 而非最新(5.6后 mysql api可能发生了改变)\n\u003c/pre\u003e"

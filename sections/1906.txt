@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLibrary: Foundation\nPackage: Text\nHeader: Poco/UnicodeConverter.h\n\nclass UnicodeConverter 的static function 提供了 utf8 到utf16 的轉換\n\u003c/pre\u003e"

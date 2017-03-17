@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003econfigure --omit=Data/MySQL,Crypto,NetSSL_OpenSSL,\nmake\n\nData/MySQL\t\t\t\t依賴mysql\nCrypto,NetSSL_OpenSSL\t...openssl\nPageCompiler\n如果要編譯這些組件 需要 先安裝好 依賴環境\n\u003c/pre\u003e"

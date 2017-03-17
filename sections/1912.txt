@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//立刻執行 sql語句\nnow\n\n//使用變量值 替換 SQL命令中的 ?\nuse(T\u0026amp;)\n\n//將 SQL命令 的 返回值存儲到 變量中\ninto(T\u0026amp;)\ninto(T\u0026amp;,T\u0026amp; default)\n\n\n//控制查詢 返回的最少/最多 記錄數 \nrange(low,upp)\n\n//控制查詢 返回的最多 記錄數 \nlimit(upp)\n\u003c/pre\u003e"

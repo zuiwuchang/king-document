@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSQLite 所有操作都是以 utf8(默認) 或utf16 進行的 (似乎沒提供其他編碼方式)\n然 Poco的 Data庫 只支持 ascii 和 utf8 故相當於只有utf8的 支持\n故在使用 Data 操作 SQLite時 對於非英文 應該轉碼為 utf8\n\u003c/pre\u003e"
