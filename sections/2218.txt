@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t使用 Test 宏定義測試代碼段\n2\t在測試範圍中 使用 EXPECT_* ASSER_* 設置 檢查點\n3\t使用 testing::InitGoogleTest(\u0026amp;argc, argv); 初始化 測試\n4\t使用 RUN_ALL_TESTS(); 運行 所有 測試\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egtest 是 Google 為c++ 提供的一個 開源(BSD) 單元測試 庫\n\n官網 \u003ca href=\"https://github.com/google/googletest/\" target=\"_blank\"\u003ehttps://github.com/google/googletest/\u003c/a\u003e\n\u003c/pre\u003e"

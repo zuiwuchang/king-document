@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewin下 tc模塊 定義了一個 static TCMallocGuard module_enter_exit_hook;\nTCMallocGuard 是一個 class\n\nTCMallocGuard::TCMallocGuard() 中調用 ReplaceSystemAlloc() \nReplaceSystemAlloc 對os的 malloc/free 進行了inline hook 使用其調用 tc 模塊的 對應 函數\n\u003c/pre\u003e"

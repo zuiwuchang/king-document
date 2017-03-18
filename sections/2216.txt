@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t下載 最新 源碼\n2\t打開 googletest/msvc/gtest.sln googletest/msvc/gtest-md.sln 項目\n3\t分別編譯 md mt 版本 靜態庫\n4\t將 靜態庫 googletest/include 加入項目\n\u003c/pre\u003e"

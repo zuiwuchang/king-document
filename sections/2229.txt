@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etcmalloc 沒提供 mingw的 編譯 項目 \n只能 使用 dlltool 使用 vs 編譯的 dll\n\nlinker 中 要加上 -ltcmalloc_minimal -u__tcmalloc 參數\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t從官網下載 源碼\n2\t打開附帶的vs項目 並編譯 libtcmalloc_minimal\n3\t將 dll src/windows/gperftools/tcmalloc.h 加入項目\n4\t強制引入 符號 __tcmalloc \n5\t調用 malloc/free 或 tc_malloc/tc_free 申請釋放 內存\n\n\n\u003cstrong\u003e靜態庫\u003c/strong\u003e\ntcmalloc 默認使用 動態庫 如果 要使用 靜態庫 在編譯 和 使用前 添加宏\n#define PERFTOOLS_DLL_DECL\n\u003c/pre\u003e"

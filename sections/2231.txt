@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ectemplate 是 Google 為c++ 提供的一個 開源 html模板 庫\n\n官網 \u003ca href=\"https://github.com/olafvdspek/ctemplate/\" target=\"_blank\"\u003ehttps://github.com/olafvdspek/ctemplate/\u003c/a\u003e\n\u003c/pre\u003e"

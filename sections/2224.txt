@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etcmalloc 是gperftools中的一個 組件 可以直接用在 c/c++ 項目\ntcmalloc 是為高並發而優化的高效內存分配器 \ntc 是 thread cache的縮寫 對於小對象 為每個線程都 創建一個 內存池 \n從池中 分配內存 避免加鎖操作\n對於 大對象(大於32k) 使用 全局的 內存池\n\nwin32 下gperftools的的組件 只有 tcmalloc_minimal 可用\n\u003c/pre\u003e"

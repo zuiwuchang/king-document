@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 調用 malloc/free new/delete 需要 強制引入 __tcmalloc \n(配置屬性-\u0026lt;鏈接器-\u0026lt;輸入-\u0026lt;強制符號引入)\n__tcmalloc是一個空函數\n否則 tc模塊 會因為 沒有 調用其中 任何內容 而被 編譯器 忽略\n如果 調用了 tc模塊中 任何 其他函數 則可以 不引入 __tcmalloc\n\u003c/pre\u003e"

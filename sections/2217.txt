@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t安裝 cmake\n2\t下載 最新 源碼\n3\t執行 cmake -G \"MSYS Makefiles\"\n4\t執行 make\n\ngcc 編譯 需要加上 -std=gnu++11 選項\n\u003c/pre\u003e"
