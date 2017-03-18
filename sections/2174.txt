@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ethread庫 保證 只有第一個線程執行 call_once 的 初始化函數\n且其他線程 執行到 call_once 時 若第一個 call_once未執行完 將等待 其執行完\n\nonce_flag 不能說線程 局部變量 (每個線程局部變量 是獨立的)\n\nonce_flag 不能說線程 static 局部變量(c++ 靜態變量的 初始化 不是線程安全的) \n\u003c/pre\u003e"

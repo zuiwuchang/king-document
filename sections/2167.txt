@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003econdition_variable condition_variable_any 一般用在 \n某種條件 達成時 通知 另外一個 線程\n\nwait 可以 掛起線程 直達 得到一個 notify_one/notify_all 通知\nnotify_one 可以 喚醒一個 wait 線程\nnotify_all 可以 喚醒所有 wait 線程\n\ncondition_variable 的 wait  必須 使用 unique_lock\n而 condition_variable_any 可以用在 更多 型別的 ***_lock 上\n\n\n使用 condition_variable 可以很容易的 實現 生產消費 模型\n\u003c/pre\u003e"

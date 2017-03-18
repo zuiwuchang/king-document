@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/filesystem/fstream.hpp\u0026gt;\n中 定義了 和 STL 98 中 一樣的 文件流\n只是 其支持 使用 path 操作文件\n\u003c/pre\u003e"

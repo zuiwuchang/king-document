@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost 從1.54開始 提供log庫 其可以方便的實現日誌功能\n(默認輸出到控制台 其可以自動在日誌前 加上日前時間...)\n\n#include \u0026lt;boost/log/trivial.hpp\u0026gt;\nnamespace boost::log\n\nlog庫需要編譯\nbjam --toolset=msvc-10.0 --with-log --build-type=complete --prefix=E:\\Boost\n(log庫需要 data_time filesystem system thread 庫支持 故編譯相對漫長)\n\u003c/pre\u003e"

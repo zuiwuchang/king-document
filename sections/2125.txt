@@ -1,0 +1,1 @@
+var __v="在example中使用 result_of 應該加上 typename 否則編譯器會以為 type是  result_of的成員變量 從而導致編譯錯誤"

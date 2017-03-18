@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將一個 thread 加入 thread_group\nvoid add_thread(thread* thrd)\n\n//新啟一個線程 加入 thread_group 並返回其 thread*\nthread* create_thread(F threadfunc)\n\n//將一個 thread 從 thread_group中移除 不會delete\nvoid remove_thread(thread* thrd)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//構造 path\npath();\t//空路徑\npath(const path\u0026amp; p);\n\ntemplate \u0026lt;class Source\u0026gt;\npath(Source const\u0026amp; source, const codecvt_type\u0026amp; cvt=codecvt());\n\ntemplate \u0026lt;class InputIterator\u0026gt;\npath(InputIterator begin, InputIterator end, const codecvt_type\u0026amp; cvt=codecvt());\n\u003c/pre\u003e"

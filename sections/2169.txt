@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewait 調用時 會 unlock mutex 使用其他線程能夠 lock\nwait 返回時 會 重新lock mutex 使用其他線程 無法lock\n\u003c/pre\u003e"

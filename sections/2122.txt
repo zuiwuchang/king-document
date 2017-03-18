@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/test/unit_test.hpp\u0026gt;\n\ntest庫需要編譯\nbjam --toolset=msvc-10.0 --with-test --build-type=complete --prefix=D:\\Boost install\n\ntest 是一個 功能強大的 單元測試框架\n\u003c/pre\u003e"

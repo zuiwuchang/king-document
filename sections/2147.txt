@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec++98\t沒有提供 線程能力 程序員必須使用平台api \nc++11\t增加了新的線程庫\n在此之前 boost 提供了 thread庫 實現了多線程\n\n\u003cstrong\u003ethread庫需要編譯\nbjam --toolset=msvc-10.0 --with-thread --build-type=complete --prefix=D:\\Boost install\u003c/strong\u003e\n\u003c/pre\u003e"

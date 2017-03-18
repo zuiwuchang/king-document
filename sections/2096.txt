@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include\u0026lt;boost\\foreach.hpp\u0026gt;\n\nc++11 增強了for循環的 能力 可以以類似java的for 遍歷容器\n在此之前 boost提供了 BOOST_FOREACH/BOOST_REVERSE_FOREACH 宏用於 正序/逆序 遍歷容器\n在  BOOST_FOREACH/BOOST_REVERSE_FOREACH 內 完全同 for 可以break continue ... 其效率同for 相當\n\u003c/pre\u003e"

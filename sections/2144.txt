@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e程序員 必須保證 被連接的插槽 才被銷毀前 被斷開 否則 當產生信號而調用插槽時 會發生 未定義行為\nsignals2::slot 提供了自動管理功能 插槽被銷毀 將自動斷開連接\n統統不直接使用 slot 而是 使用其typedef solt_type\nsolt_type 定義好了 slot需要的 模板參數\n\n且在 connect 時 傳入 slot.track \n\nslot在構造時 傳入參數 指針bind語法 故可直接傳入 同bind的參數 而不必調用 bind\n\u003c/pre\u003e"

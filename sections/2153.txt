@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ethread默認啟用中斷 然boost 以提供了接口 以控制線程 是否可被 interrupt 中斷\n那麼誰怕測 boost::this_thread\n\n//返回 當前線程是否可被 中斷\nbool interruption_enabled()\n\n//RAII類對象 構造關閉線程中斷功能 析構啟用線程中斷功能\nclass disable_interruption\n//RAII類對象 只能在 disable_interruption 生命期使用 構造啟用中斷功能 析構關閉中斷功能\nclass restore_interruption\n\u003c/pre\u003e"

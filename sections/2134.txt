@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/function.hpp\u0026gt;\n\nboost::function 是一個functor對象 可以持有一個functor(內部保存其拷貝) 以等到需要時調用\n通常與bind一起工作\nfunction可以接受0 到10參數 分別以 class function0 ... function10 來支持\n\u003c/pre\u003e"

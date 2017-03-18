@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/algorithm/minmax.hpp\u0026gt;\n\nc++98 提供了標準算法 std::max std::min 用於返回 最大 最小 值\nboost 提供了 minmax 同時返回 最小最大值\n\u003c/pre\u003e"

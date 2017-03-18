@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e方式一（首選語法）\n\tfunction\u0026lt; 函數標籤\u0026gt;\n\tboost::function\u0026lt;void(int)\u0026gt; fun;\t//一個可容納 返回值為void 一個參數int 的functor\n\n方式二（兼容語法）     \t\n\tfunctionn\u0026lt;返回值,參數,參數...\u0026gt;     \n\tboost::function1\u0026lt;void,int\u0026gt;\t//...\n\u003c/pre\u003e"

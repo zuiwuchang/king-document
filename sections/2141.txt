@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 connect 時可以設置一個組號 以指定 插槽組號\n以及 at_front/at_back 指定插入位置 at_back為默認\n未編號插槽 at_back 將在所有編組之後\n... at_front ...前\n\u003c/pre\u003e"

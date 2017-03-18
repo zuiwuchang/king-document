@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e聲明function時 應該盡量使用 首選語法 兼容語法是為不支持 首選語法的編譯器 提供的\n\nfunction 存儲functor 傳遞 參數 都使用 copy語義 若要引用 使用 ref庫包裝\n\u003c/pre\u003e"

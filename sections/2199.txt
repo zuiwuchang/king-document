@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e客戶端 基本同 同步客戶端 只是現在要 使用 async_*函數\n參見 同步 client example 和 異步 server example\n\u003c/pre\u003e"

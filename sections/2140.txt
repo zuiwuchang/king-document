@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將一個插槽 聯接到信號(信號將保持其拷貝 = ) 返回一個 connection\nconnect\n//傳入組號斷開 某組的插槽 或 傳入插槽對象 斷開插槽對象\ndisconnect\n//斷開所有插槽\ndisconnect_all_slots\n//返回插槽數量\nnum_slots\n//是否不存在 插槽\nempty\n//產生信號 導致所有被關聯的插槽被調用\noperator()\n\n//返回 設置 合併器\ncombiner\nset_combiner\n\u003c/pre\u003e"

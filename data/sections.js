@@ -14502,5 +14502,838 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2096,
+			"Panel": 1061,
+			"Name": "foreach",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2097,
+			"Panel": 1061,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2098,
+			"Panel": 1061,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2099,
+			"Panel": 1062,
+			"Name": "minmax",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2100,
+			"Panel": 1062,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2101,
+			"Panel": 1062,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2102,
+			"Panel": 1063,
+			"Name": "minmax_element",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2103,
+			"Panel": 1063,
+			"Name": "可用算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2104,
+			"Panel": 1063,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2105,
+			"Panel": 1063,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2106,
+			"Panel": 1064,
+			"Name": "filesystem",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2107,
+			"Panel": 1064,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2108,
+			"Panel": 1065,
+			"Name": "路徑處理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2109,
+			"Panel": 1065,
+			"Name": "常用函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2110,
+			"Panel": 1065,
+			"Name": "Example 檔案名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2111,
+			"Panel": 1065,
+			"Name": "Example 路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2112,
+			"Panel": 1065,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2113,
+			"Panel": 1066,
+			"Name": "文件狀態",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2114,
+			"Panel": 1066,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2115,
+			"Panel": 1067,
+			"Name": "文件操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2116,
+			"Panel": 1067,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2117,
+			"Panel": 1068,
+			"Name": "文件流",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2118,
+			"Panel": 1069,
+			"Name": "program_options",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2119,
+			"Panel": 1069,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2120,
+			"Panel": 1070,
+			"Name": "assert 斷言",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2121,
+			"Panel": 1070,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2122,
+			"Panel": 1071,
+			"Name": "test",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2123,
+			"Panel": 1072,
+			"Name": "result_of",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2124,
+			"Panel": 1072,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2125,
+			"Panel": 1072,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2126,
+			"Panel": 1073,
+			"Name": "ref",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2127,
+			"Panel": 1073,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2128,
+			"Panel": 1073,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2129,
+			"Panel": 1073,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2130,
+			"Panel": 1074,
+			"Name": "bind",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2131,
+			"Panel": 1074,
+			"Name": "佔位符",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2132,
+			"Panel": 1074,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2133,
+			"Panel": 1074,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2134,
+			"Panel": 1075,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2135,
+			"Panel": 1075,
+			"Name": "function聲明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2136,
+			"Panel": 1075,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2137,
+			"Panel": 1075,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2138,
+			"Panel": 1075,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2139,
+			"Panel": 1076,
+			"Name": "signals2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2140,
+			"Panel": 1076,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2141,
+			"Panel": 1076,
+			"Name": "使用組號",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2142,
+			"Panel": 1076,
+			"Name": "使用合併器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2143,
+			"Panel": 1076,
+			"Name": "使用connection關聯連接",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2144,
+			"Panel": 1076,
+			"Name": "slot",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2145,
+			"Panel": 1076,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2146,
+			"Panel": 1076,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2147,
+			"Panel": 1077,
+			"Name": "thread",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2148,
+			"Panel": 1077,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2149,
+			"Panel": 1078,
+			"Name": "使用thread",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2150,
+			"Panel": 1078,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2151,
+			"Panel": 1078,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2152,
+			"Panel": 1079,
+			"Name": "interrupt",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2153,
+			"Panel": 1079,
+			"Name": "啟用禁止中斷",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2154,
+			"Panel": 1079,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2155,
+			"Panel": 1079,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2156,
+			"Panel": 1080,
+			"Name": "thread_group",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2157,
+			"Panel": 1080,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2158,
+			"Panel": 1080,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2159,
+			"Panel": 1080,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2160,
+			"Panel": 1081,
+			"Name": "同步",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2161,
+			"Panel": 1081,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2162,
+			"Panel": 1081,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2163,
+			"Panel": 1081,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2164,
+			"Panel": 1082,
+			"Name": "讀寫鎖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2165,
+			"Panel": 1082,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2166,
+			"Panel": 1082,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2167,
+			"Panel": 1083,
+			"Name": "condition_variable 條件變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2168,
+			"Panel": 1083,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2169,
+			"Panel": 1083,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2170,
+			"Panel": 1084,
+			"Name": "barrier rendezvous 約會地點",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2171,
+			"Panel": 1084,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2172,
+			"Panel": 1085,
+			"Name": "call_once",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2173,
+			"Panel": 1085,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2174,
+			"Panel": 1085,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2175,
+			"Panel": 1086,
+			"Name": "thread_specific_ptr tss",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2176,
+			"Panel": 1086,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2177,
+			"Panel": 1086,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2178,
+			"Panel": 1087,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2179,
+			"Panel": 1088,
+			"Name": "asio",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2180,
+			"Panel": 1089,
+			"Name": "deadline_timer 定時器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2181,
+			"Panel": 1089,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2182,
+			"Panel": 1089,
+			"Name": "Example 同步",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2183,
+			"Panel": 1089,
+			"Name": "Example 異步",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2184,
+			"Panel": 1089,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2185,
+			"Panel": 1090,
+			"Name": "ip::tcp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2186,
+			"Panel": 1090,
+			"Name": "ip地址",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2187,
+			"Panel": 1090,
+			"Name": "address 相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2188,
+			"Panel": 1090,
+			"Name": "endpoint 相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2189,
+			"Panel": 1090,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2190,
+			"Panel": 1091,
+			"Name": "socket acceptor",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2191,
+			"Panel": 1091,
+			"Name": "socket 相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2192,
+			"Panel": 1091,
+			"Name": "acceptor 相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2193,
+			"Panel": 1092,
+			"Name": "resolver",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2194,
+			"Panel": 1092,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2195,
+			"Panel": 1092,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2196,
+			"Panel": 1093,
+			"Name": "client",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2197,
+			"Panel": 1093,
+			"Name": "server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2198,
+			"Panel": 1093,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2199,
+			"Panel": 1094,
+			"Name": "client",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2200,
+			"Panel": 1094,
+			"Name": "server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2201,
+			"Panel": 1094,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2202,
+			"Panel": 1094,
+			"Name": "asio",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2203,
+			"Panel": 1095,
+			"Name": "ip::udp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2204,
+			"Panel": 1095,
+			"Name": "Example server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2205,
+			"Panel": 1095,
+			"Name": "Example client",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2206,
+			"Panel": 1096,
+			"Name": "log庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2207,
+			"Panel": 1097,
+			"Name": "輸出日誌",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2208,
+			"Panel": 1097,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2209,
+			"Panel": 1097,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2210,
+			"Panel": 1098,
+			"Name": "過濾器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2211,
+			"Panel": 1098,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2212,
+			"Panel": 1099,
+			"Name": "sinks 輸出水槽",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2213,
+			"Panel": 1099,
+			"Name": "Example file",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2214,
+			"Panel": 1099,
+			"Name": "Example stream",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

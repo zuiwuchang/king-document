@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可以在日誌輸出前 指定一個 過濾器 以過濾到 不需要記錄的 日誌等級\n只需要使用 core 類的 static 函數 get 返回 日誌單件再使用 set_filter 設置過濾器即可\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003einterrupt 只會通知線程 應該拋出中斷異常 而不會等待線程 結束 \n若需要等待線程 執行結束 join\n\u003c/pre\u003e"

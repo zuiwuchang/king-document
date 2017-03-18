@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost提供了如下 用於同步到 互斥量\nmutex\t\t//獨占互斥量\ntry_mutex\t//同上 不過為兼容舊版本的 typedef\ntimed_mutex\t//同上 不過提供了 超時 鎖定功能\n\nrecursive_mutex\t\t\t//同mutex 不過可以被多次鎖定(遞歸鎖定) 當然需要對應次數 解鎖\nrecursive_try_mutex\t\t//同上 不過為兼容就版本的 typedef\nrecursive_timed_mutex\t//同上 不過提供超時鎖定功能\nshared_mutex\t\t\t//讀寫鎖(或稱為 共享互斥量)\n\u003c/pre\u003e"

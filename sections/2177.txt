@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ethread_specific_ptr 無參初始化為 NULL指針\n其未 operator bool 判斷指針是否為空 應該 get\n\u003c/pre\u003e"

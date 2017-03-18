@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/utility/result_of.hpp\u0026gt;\n\nresult_of\t已被納入c++11\nresult_of\t用於返回一個 functor 的返回值型別 可用於複雜的泛型編程 是boost內部實現的 基石\n\nresult_of\t是一個 struct 其 type 記錄了 functor 的 返回值型別\ntemplate\u0026lt;typename ...\u0026gt;\nstruct result_of\n{\n\ttypedef ??? type;\n};\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ethread_group 使用 std::list\u0026lt;thread*\u0026gt; 容納thread對象 \n使用其 接口join_all interrupt_all 可以對所有線程 進行 join interrupt 管理\n\u003c/pre\u003e\n"

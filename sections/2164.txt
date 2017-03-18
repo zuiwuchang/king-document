@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e所謂讀寫鎖 既鎖定讀時不可寫 鎖定寫時不可讀\n然可以被 多次 讀鎖定\n\nthread 庫的 shared_mutex 提供了讀寫鎖功能\n可以把 shared_mutex 完全當 mutex 使用 然此比 mutex 代價更高\n\u003c/pre\u003e"

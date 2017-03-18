@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/thread.hpp\u0026gt;\n\nclass thread 是thread庫的 核心實現 其負責創建 管理線程\n\nthread 接受一個functor作為 構造參數 同時可傳入 9個參數 以供線程執行functor時 傳遞給 functor\nthread保存 functor 9個參數 的拷貝 若需要引用 使用 ref庫\n\nthread一旦 構造 線程立刻執行 boost::thread不提供 start begin ... 等接口\n\u003c/pre\u003e"

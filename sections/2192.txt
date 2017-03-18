@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e傳入一個 前攝器 io_service 以及一個指明了ip協議和監聽端口的endpoint端點 構造\n\n//傳入一個 socket 以用於 連接 同步\naccept \n\n//同上 不過為異步操作 以及需要傳入一個 完成處理函數\nasync_accept\n\n注意 讀寫的數據 必須使用 buffer 函數將其進行 包裝\n\u003c/pre\u003e"

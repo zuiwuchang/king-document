@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edeadline_timer 定時器 是asio中 最簡單的一個io模型 提供等待終止的功能\n\ndeadline_timer 雖然簡單 但其顯示了 asio的 基本使用方法\n\n1\t定義一個 io_service 前摄器\n2\t定義相應的IO操作類(如deadline_timer)\n3\t同步 或 異步 提交IO 若異步還要定義 完成處理函數 用於IO完成時被回調\n4\t若異步 可以選擇 調用run 等待IO完成\n\u003c/pre\u003e"

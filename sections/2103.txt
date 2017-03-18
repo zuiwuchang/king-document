@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回最小值/最大值\nminmax_element\n\n//返回第一個 最小值 最大值\nfirst_min_element\nfirst_max_element\n\nfirst_min_first_max_element\nfirst_min_last_max_element\n\nlast_max_element\nlast_min_element\n\nlast_min_first_max_element\nlast_min_last_max_element\n\n...\n\u003c/pre\u003e"

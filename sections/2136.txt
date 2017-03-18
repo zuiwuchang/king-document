@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//構造一個不持有任何 functor的 function\nfunction()\n\n//是否為空（不持有 functor）\nempty()\n\n//清空 同 = 0\nclear()\n\noperator !\noperator bool\noperator =\n//完成 被持有functor的 調用 (不持有functor 拋出 bad_function_call)\noperator ()\n\n//返回被持有 functor 指針 (不持有functor 返回 NULL)\ntarget\n\n//返回是否持有 functor 同operator bool\ncontains\n\u003c/pre\u003e"

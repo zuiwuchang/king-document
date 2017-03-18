@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//構造\n接受一個 io_service 以及一個可選參數 (時間點/時間段) 指定等待時間\n\n//構造時 若未指定 等待時間 必須 調用下面兩函數 指定等待時間\n\n//傳入一個時間段 指定 等待時間\nexpires_from_now\n\n//傳入時間點 指定 等待時間 無參構造 返回 終止時間\nexpires_at\n\n//提交IO 同步等待IO完成\nwait()\n\n//提交異步IO 異步等待IO完成 傳入完成處理函數 handler\nasync_wait(BOOST_ASIO_MOVE_ARG(WaitHandler) handler)\n\u003c/pre\u003e"

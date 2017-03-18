@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回 是否是 v4 v6 地址\nbool is_v4() const\nbool is_v6() const\n\n//返回 地址字符串 或 從字符串返回address\nstd::string address::to_string() const\naddress address::from_string(const std::string\u0026amp; str)\n\u003c/pre\u003e"

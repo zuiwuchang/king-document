@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e构造 ip::tcp::resolver::query 时 传入的第二个参数 端口 可以说任意值 \n其值指定了返回结果中 endpoint 记录的端口号 以方便直接使用 此endpoint 进行连接\n\nip::tcp::resolver::query 构造时传入的 端口号不能省略 且其必须转化为字符串\n\u003c/pre\u003e"

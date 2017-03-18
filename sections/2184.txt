@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在使用 異步 操作時 可以借用 boost::bind 以適配更靈活的 函數簽名\n同時 要要使用 boost::asio::placeholders::error 作為 const boost::system::error_code的佔位符\n如函數簽名為 void handler(const boost::system::error_code\u0026amp; e,int code);\n則 async_wait(bind(boost::asio::placeholders::error,n));\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eip::udp 是UDP主要的類 其本身沒實現 太多功能 主要定義了 數個 typedef 其更像是個 namespace\n\n用法基本同 tcp 只是省略了其中的連接操作(udp不需要建立連接) 並且在發送接收數據時 需要多跟一個 目標地址\n\u003c/pre\u003e"

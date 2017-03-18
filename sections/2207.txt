@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 BOOST_LOG_TRIVIAL(lvl) 宏返回一個日誌輸出流用於輸出日誌\n(其重載了 operator\u0026lt;\u0026lt;)\n\nlvl 為日誌等於(取值如下)\ntrace\t\t跟踪\ndebug\t\t調試\ninfo\t\t嚴重通知信息\nwarning\t\t警告\nerror\t\t錯誤\nfatal\t\t致命錯誤\n\u003c/pre\u003e"

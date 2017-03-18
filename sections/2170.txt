@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebarrier 護欄 或稱為 rendezvous 約會地點 更恰當 執行 barrier 的 wait 方法 將使線程 等待 \n直到 其他線程 都執行到 barrier 的 wait 方法\n\u003c/pre\u003e"

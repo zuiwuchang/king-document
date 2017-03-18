@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e服務其一般採用 異步模式 \n若使用同步模式 操作同 客戶端 只是多了 accept接受連接 操作\n\u003c/pre\u003e"

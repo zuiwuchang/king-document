@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elog將日誌輸出到水槽中(默認為標準輸出流) \n可以使用 add_file_log 設置輸出流 (一旦設置 默認水槽將被停用)\n可以 多次調用 設置多個 輸出 水槽\n\n\n可以為add_file_log簡單的傳入一個 文件路徑 \n或者 傳入任意數量 namespace boost::log::keywords 下單各種屬性 指定 更多指定信息\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ethread庫 使用了 date_time庫 故使用前 還要編譯 配置 data_time庫\n\n在linux/unix下 鏈接時還需要使用 -lpthread 來鏈接 POSIX線程庫\n\u003c/pre\u003e"

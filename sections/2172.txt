@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecall_once 提供了線程只執行一次的功能\n線程中 為call_once傳入 一個boost::once_flag = BOOST_ONCE_INIT的標誌 以及一個 void()簽名檔 初始化函數 \nthread庫將 保證 只有一個線程 執行 void() 函數 \n\u003c/pre\u003e"

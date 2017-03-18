@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/algorithm/minmax_element.hpp\u0026gt;\n\nc++98 提供了 std::min_element std::max_element 來返回容器中的 最大 最小值\nboost 的minmax_element庫 提供了一系列 函數 用於返回容器中的 元素 其中最基本的莫過於 minmax_element 用於同時返回 最小 最大 值\n\u003c/pre\u003e"

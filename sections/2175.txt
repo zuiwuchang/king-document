@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在線程中 使用 全局變量 或 static 局部變量 將在多線程 重入thread時 無法保證變量值的正確性(前一個thread 可能改變了此值)\n線程本地存儲 tls(thread local storage) 或稱為 線程專有存儲 tss(thread specific storage) 使變量使用起來 像是線程 獨有的\n\nthread庫 使用thread_specific_ptr 提供tss功能 其接口類似 shared_ptr  \n\u003c/pre\u003e"

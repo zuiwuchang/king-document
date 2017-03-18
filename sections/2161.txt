@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//鎖定互斥量\nvoid lock()\n//解鎖互斥量\nvoid unlock()\n//嘗試鎖定互斥量 成功返回 true 否則false\nbool try_lock()\n\n//傳入時間點 或 時間段 作為超時時間 鎖定互斥量 成功返回 true 超時 false\nbool timed_lock(...)\n\n//RAII 類對象 構造時 lock 互斥量 析構 unlock 互斥量\nclass boost::mutex::scoped_lock\n\u003c/pre\u003e"

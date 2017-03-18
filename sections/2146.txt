@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esignal 是線程安全的 其最後一個參數 Mutex 默認 是signals2::mutex\nconnection 和 shared_connection_block 也是線程 安全的 \n但 指定關聯的 slot不是線程安全的\n\nsignals2 中 dummy_mutex 是一個空類 傳入 signal 可使其變為 非線程安全\n\u003c/pre\u003e"

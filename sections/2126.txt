@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/ref.hpp\u0026gt;\n\nSTL 和 boost 提供了大量算法 其中所有參數基本都是 值傳遞\nref庫的 reference_wrapper 代理了一個變量的 引用(保存其指針)\n使用其配合 這些算法 可以使算法使用 引用參數\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ethread_group 析構時 會自動delete所有 thread*\n然remove_thread 移除的 thread× 不會被delete 需要自己 delete\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eendpoint 使用一個 address 和 端口參數 構造\n\n//返回 使用的 地址 address\naddress()\n//返回 使用的 端口號\nport()\n\u003c/pre\u003e"

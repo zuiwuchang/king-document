@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e同步執行 connect 操作時 當一段時間 都未連接成功 connect 將拋出異常 或使用error_code 返回錯誤\n\n在使用 buffer 包裝 數據時 若數據是 容器如 vector 在 read時 一次接受的數據最大大小 和容器大小相同\n然 容器大小不能為0(為0 接直接接受 然每次接受的 數據大小都為0)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclass ip::tcp::socket 是TCP的基本類\nclass ip::tcp::acceptor 對應於 socket API 的accept函數\n\u003c/pre\u003e"

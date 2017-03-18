@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//寫鎖定\nlock\ntry_lock\ntimed_lock\n\n//解鎖 寫鎖定\nunlock\n\n//讀鎖定\nlock_shared\ntry_lock_shared\ntimed_lock_shared\n\n//解鎖 讀鎖定\nunlock_shared\n\n//RAII 對象 構造時鎖定 析構 解鎖\nshared_lock\u0026lt;shared_mutex\u0026gt;\t//讀\nunique_lock\u0026lt;shared_mutex\u0026gt;\t//寫\n\u003c/pre\u003e"

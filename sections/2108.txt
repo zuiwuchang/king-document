@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebasic_path 使用 posix 語法提供了 通用的 目錄 路徑 表示\n\nbasic_path 存在兩個 typedef\ntypedef basic_path\u0026lt;std::string,path_traits\u0026gt; path\ntypedef basic_path\u0026lt;std::wstring,wpath_traits\u0026gt; wpath\n\u003c/pre\u003e"

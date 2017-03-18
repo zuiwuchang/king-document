@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewin32下 thread會把 當前模塊設置為資源模塊 此顯然是個bug\n即使只include 亦如此 應該是thread庫中 某個全局變量的 構造函數 完成了此操作\n\u003c/pre\u003e"

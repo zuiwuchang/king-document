@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003easio 使用 class ip::address 代表ip地址 可以同時支持 ipv4 ipv6\n\nasio 使用 class ip::tcp::endpoint 代表連接的 一個端點 既(一個ip地址 加上 通信端口)\n\u003c/pre\u003e"
