@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//設置 指定網絡適配器 使用 自動獲取dns網關\nnetsh interface ip set dns name=\"无线网络连接\" dhcp\n\n//設置 指定網絡適配器 使用指定 dns網關 備用dns網關\nnetsh interface ip set dns name=\"无线网络连接\" static 8.8.8.8 register=PRIMARY \nnetsh interface ip add dns name=\"无线网络连接\" 8.8.4.4 index=2 \n\u003c/pre\u003e"

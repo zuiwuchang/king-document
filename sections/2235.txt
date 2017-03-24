@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePuppy 一个小型(當前6.0版本 iso 只有200mb) 輕便 快速 的 獨立 linux 發行版\n官方log是只 dog\n\n官網 \u003ca href=\"http://puppylinux.org/\" target=\"_blank\"\u003ehttp://puppylinux.org/\u003c/a\u003e\n\n\n\nPAE\t\t支持 64GB RAM\nNO_PAE\t只能使用 4GB RAM\n\u003c/pre\u003e"

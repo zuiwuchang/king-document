@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewzl wzx 是盛大 開發的 新資源格式 以替換掉 wil wix\n\nwzl wzx 格式基本和 wil wix 一樣 只是現在 使用了 zlib 算法 壓縮 圖像數據\n同時 因爲 bmp256 資源的 調色板都時相同值 故 去掉了 wzl 中的 調色板數據\n遊戲加載時 自動 爲資源 添加上 預設的 調色板\n\u003c/pre\u003e"

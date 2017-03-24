@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//為鏡像產生新的uuid\nVBoxManage  internalcommands sethduuid \"E:\\virtualbox\\sb\\sb.vdi\"\n\u003c/pre\u003e"

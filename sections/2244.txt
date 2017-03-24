@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewindows 從 vista 開始 使用 netsh advfirewall firewall\n命令 替換之前 的 netsh firewall 用於 控制系統防火牆\n\n\n//開啟/關閉 防火牆\nnetsh advfirewall set allprofiles state on\nnetsh advfirewall set allprofiles state off\n\n//恢復 防火牆 默認設置\nnetsh advfirewall reset\n\n//導出/導入 配置\nnetsh advfirewall export rules.wfw\nnetsh advfirewall import rules.wfw\n\u003c/pre\u003e"

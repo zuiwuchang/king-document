@@ -725,16 +725,112 @@ var __v={
 			"Name": "ctemplate",
 			"Sort": 0
 		},
+		"1108": {
+			"Id": 1108,
+			"Chapter": 358,
+			"Name": "OpenSUSE",
+			"Sort": 0
+		},
+		"1109": {
+			"Id": 1109,
+			"Chapter": 359,
+			"Name": "win32下硬盤安裝",
+			"Sort": 0
+		},
 		"111": {
 			"Id": 111,
 			"Chapter": 49,
 			"Name": "slice 切片",
 			"Sort": 0
 		},
+		"1110": {
+			"Id": 1110,
+			"Chapter": 360,
+			"Name": "Puppy",
+			"Sort": 0
+		},
+		"1111": {
+			"Id": 1111,
+			"Chapter": 360,
+			"Name": "安裝到usb",
+			"Sort": 0
+		},
+		"1112": {
+			"Id": 1112,
+			"Chapter": 361,
+			"Name": "VirtualBox",
+			"Sort": 0
+		},
+		"1113": {
+			"Id": 1113,
+			"Chapter": 361,
+			"Name": "常用命令",
+			"Sort": 0
+		},
+		"1114": {
+			"Id": 1114,
+			"Chapter": 362,
+			"Name": "基本語法",
+			"Sort": 0
+		},
+		"1115": {
+			"Id": 1115,
+			"Chapter": 362,
+			"Name": "網絡設置相關",
+			"Sort": 0
+		},
+		"1116": {
+			"Id": 1116,
+			"Chapter": 363,
+			"Name": "端口映射",
+			"Sort": 0
+		},
+		"1117": {
+			"Id": 1117,
+			"Chapter": 364,
+			"Name": "防火牆",
+			"Sort": 0
+		},
+		"1118": {
+			"Id": 1118,
+			"Chapter": 364,
+			"Name": "操作規則",
+			"Sort": 0
+		},
+		"1119": {
+			"Id": 1119,
+			"Chapter": 365,
+			"Name": "USB Receiver",
+			"Sort": 0
+		},
 		"112": {
 			"Id": 112,
 			"Chapter": 49,
 			"Name": "slice 排序查找",
+			"Sort": 0
+		},
+		"1120": {
+			"Id": 1120,
+			"Chapter": 98,
+			"Name": "proxy",
+			"Sort": 0
+		},
+		"1121": {
+			"Id": 1121,
+			"Chapter": 366,
+			"Name": "wzl wzx",
+			"Sort": 0
+		},
+		"1122": {
+			"Id": 1122,
+			"Chapter": 366,
+			"Name": "bitmap_16_565",
+			"Sort": 0
+		},
+		"1123": {
+			"Id": 1123,
+			"Chapter": 366,
+			"Name": "bitmap_256",
 			"Sort": 0
 		},
 		"113": {

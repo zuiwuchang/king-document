@@ -109,7 +109,7 @@ var __v=[
 			"Pid": 18,
 			"Name": "linux",
 			"Sort": 0,
-			"Docs": 1
+			"Docs": 3
 		},
 		{
 			"Id": 20,
@@ -368,6 +368,20 @@ var __v=[
 			"Pid": 1,
 			"Name": "c/c++",
 			"Sort": 3,
+			"Docs": 1
+		},
+		{
+			"Id": 65,
+			"Pid": 18,
+			"Name": "virtual",
+			"Sort": 2,
+			"Docs": 1
+		},
+		{
+			"Id": 66,
+			"Pid": 18,
+			"Name": "windows",
+			"Sort": 1,
 			"Docs": 1
 		},
 		{

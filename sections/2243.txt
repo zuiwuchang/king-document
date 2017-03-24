@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enetsh 映射 會一直生效 即使重啟\n需要使用 del 手動刪除\n\u003c/pre\u003e"

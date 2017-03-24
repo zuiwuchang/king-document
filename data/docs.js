@@ -419,9 +419,29 @@ var __v={
 			"Tag": 64,
 			"Name": "常用組件"
 		},
+		"88": {
+			"Id": 88,
+			"Tag": 19,
+			"Name": "OpenSUSE"
+		},
+		"89": {
+			"Id": 89,
+			"Tag": 19,
+			"Name": "Puppy"
+		},
 		"9": {
 			"Id": 9,
 			"Tag": 8,
 			"Name": "常見類"
+		},
+		"90": {
+			"Id": 90,
+			"Tag": 65,
+			"Name": "VirtualBox"
+		},
+		"91": {
+			"Id": 91,
+			"Tag": 66,
+			"Name": "windows"
 		}
 	}

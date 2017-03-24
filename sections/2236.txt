@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t從官網下載 os 鏡像\n\n2\t下載 UNetbootin \u003ca href=\"http://unetbootin.github.io/\" target=\"_blank\"\u003ehttp://unetbootin.github.io/\u003c/a\u003e\n\n3\t使用 UNetbootin 將鏡像 安裝到usb\n\n4\t編輯 isolinux.cfg 文件 將 最後的\n\tappend initrd=initrd.gz pmedia=cd 修改為\n\tappend initrd=initrd.gz pmedia=usbflash\n\u003c/pre\u003e"

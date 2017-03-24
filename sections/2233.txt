@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t安裝EasyBCD\n2\t使用EasyBCD增加引導\n3\t編輯引導內容如下\ntitle Install Ubuntu\nroot (hd0,0)\nkernel (hd0,0)/vmlinuz boot=casper iso-scan/filename=/ubuntu-13.10-desktop-i386.iso ro quiet splash locale=zh_CN.UTF-8\ninitrd (hd0,0)/initrd.lz\n4\t將安裝獎項複製到(hd0,0)\n5\t將鏡像中的casper/vmlinuz casper/initrd.lz 複雜到(hd0,0)\n6\t重啓計算機 安裝ubuntu\n\u003c/pre\u003e"

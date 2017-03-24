@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可能是 usb.inf 損壞\n\n複製 C:\\Windows\\System32\\DriverStore\\FileRepository\\usb.inf_amd64_neutral_XXX 下的\nusb.inf\n到\nC:\\Windows\\INF\\\n\u003c/pre\u003e"

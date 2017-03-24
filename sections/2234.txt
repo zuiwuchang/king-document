@@ -1,0 +1,1 @@
+var __v="MbrFix64.exe /drive 0 fixmbr /yes"

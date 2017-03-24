@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e防火牆規則名 不能是 all\nnetsh advfirewall firewall 使用all規則名 代表 所有規則\n\u003c/pre\u003e"

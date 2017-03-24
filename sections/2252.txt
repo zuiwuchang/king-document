@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當 WZL_PIXEL_HEADER::depth == 0x105\n圖像數據使用 16位位圖 565格式存儲\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eOpenSUSE 一个德國開發的 linux 系统 \n\n官網 \u003ca href=\"http://www.opensuse.org/\" target=\"_blank\"\u003ehttp://www.opensuse.org/\u003c/a\u003e\n\u003c/pre\u003e"
