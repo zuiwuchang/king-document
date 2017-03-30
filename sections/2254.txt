@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eUBuntu 一个超炫的 linux 桌面系统 亦提供服务器支持\n基于Debian 和 GNOME 桌面\n每6个月 发布一个版本(18个月技术支持) 每24个月 发布一个 LTS 版本(60个月技术支持)\n\n官網 \u003ca href=\"http://www.ubuntu.com/\" target=\"_blank\"\u003ehttp://www.ubuntu.com/\u003c/a\u003e\n\u003c/pre\u003e"

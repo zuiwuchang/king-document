@@ -833,6 +833,30 @@ var __v={
 			"Name": "bitmap_256",
 			"Sort": 0
 		},
+		"1124": {
+			"Id": 1124,
+			"Chapter": 42,
+			"Name": "UBuntu",
+			"Sort": 0
+		},
+		"1125": {
+			"Id": 1125,
+			"Chapter": 42,
+			"Name": "Ubuntu GNOME",
+			"Sort": 0
+		},
+		"1126": {
+			"Id": 1126,
+			"Chapter": 42,
+			"Name": "Mint",
+			"Sort": 0
+		},
+		"1127": {
+			"Id": 1127,
+			"Chapter": 367,
+			"Name": "刪除 舊 kernel",
+			"Sort": 0
+		},
 		"113": {
 			"Id": 113,
 			"Chapter": 49,

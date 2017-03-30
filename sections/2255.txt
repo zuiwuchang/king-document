@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eUbuntu GNOME 是一個基與 UBuntu 的發行版 (已被Ubuntu官方接納) \n只是 其將 Ubuntu的 Unity 桌面 替換為了 Gnome 桌面\n\n官網 \u003ca href=\"http://ubuntugnome.org/\" target=\"_blank\"\u003ehttp://ubuntugnome.org/\u003c/a\u003e\n\u003c/pre\u003e"

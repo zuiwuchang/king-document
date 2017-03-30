@@ -15608,5 +15608,33 @@ var __v=[
 			"Name": "bitmap_256",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2254,
+			"Panel": 1124,
+			"Name": "UBuntu",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2255,
+			"Panel": 1125,
+			"Name": "Ubuntu GNOME",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2256,
+			"Panel": 1126,
+			"Name": "Mint",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2257,
+			"Panel": 1127,
+			"Name": "刪除 舊 kernel",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

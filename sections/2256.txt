@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLinux Mint 基與 UBuntu 的發行版 兼容UBuntu軟體\n\n官網 \u003ca href=\"http://www.linuxmint.com/\" target=\"_blank\"\u003ehttp://www.linuxmint.com/\u003c/a\u003e\n\u003c/pre\u003e"
