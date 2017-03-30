@@ -15636,5 +15636,12 @@ var __v=[
 			"Name": "刪除 舊 kernel",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2258,
+			"Panel": 941,
+			"Name": "win32 編譯",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
