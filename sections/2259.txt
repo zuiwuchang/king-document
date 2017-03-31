@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e/**\n*\t\\brief 簡短描述\n*\n*\t詳細描述\\n\n*\t使用 \\ + n 換行\n*/\nclass Animal\n{\npublic:\n\t/**\n\t*\t\\brief 函數註釋\n\t*\t\\param str 註釋指定參數\n\t*\t\\return\t註釋返回值\n\t*/\n\tbool Speak(string str);\n};\u003c/pre\u003e"

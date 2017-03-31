@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e安裝cmake gcc\u003c/li\u003e\n\t\u003cli\u003e執行 cmake CMakeLists.txt 創建 Makefile\u003c/li\u003e\n\t\u003cli\u003emake\u003c/li\u003e\n\t\u003cli\u003esudo cp googlemock/gtest/libgtest.a /usr/local/lib/\u003c/li\u003e\n\t\u003cli\u003esudo cp googletest/include/gtest /usr/local/include/ -r\u003c/li\u003e\n\u003c/ol\u003e"

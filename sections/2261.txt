@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egtest 使用類 posix thread\n所以 編譯時要加上參數 -lgtest -lpthread\n\u003c/pre\u003e"
