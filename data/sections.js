@@ -15570,7 +15570,7 @@ var __v=[
 		{
 			"Id": 2248,
 			"Panel": 1120,
-			"Name": "Example",
+			"Name": "http/https",
 			"Sort": 0,
 			"Str": ""
 		},
@@ -15668,6 +15668,13 @@ var __v=[
 		{
 			"Id": 2262,
 			"Panel": 1130,
+			"Name": "socks5",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2264,
+			"Panel": 1120,
 			"Name": "socks5",
 			"Sort": 0,
 			"Str": ""
