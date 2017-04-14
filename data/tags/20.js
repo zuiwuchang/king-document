@@ -18,5 +18,10 @@ var __v=[
 			"Id": 23,
 			"Tag": 20,
 			"Name": "proxychains"
+		},
+		{
+			"Id": 92,
+			"Tag": 20,
+			"Name": "socks5協議"
 		}
 	]

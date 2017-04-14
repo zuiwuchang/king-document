@@ -443,5 +443,10 @@ var __v={
 			"Id": 91,
 			"Tag": 66,
 			"Name": "windows"
+		},
+		"92": {
+			"Id": 92,
+			"Tag": 20,
+			"Name": "socks5協議"
 		}
 	}
