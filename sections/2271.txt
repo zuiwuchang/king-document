@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc Search(n int, f func(int) bool) int\n使用 二分查找法 在已序 slice 中 查找 最 相似的元素\n\n返回值爲  [0, n)\nfunc 返回 應該 返回 arrs[i] \u0026gt;= find\n\u003c/pre\u003e"

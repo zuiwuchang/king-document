@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//排序 slice\nfunc Slice(slice interface{}, less func(i, j int) bool)\nfunc SliceStable(slice interface{}, less func(i, j int) bool)\n\n//返回 slice 是否已序\nfunc SliceIsSorted(slice interface{}, less func(i, j int) bool) bool\n\n//二分查找\nfunc Search(n int, f func(int) bool) int\n\u003c/pre\u003e"

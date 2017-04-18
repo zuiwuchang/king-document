@@ -15678,5 +15678,103 @@ var __v=[
 			"Name": "socks5",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2265,
+			"Panel": 1132,
+			"Name": "sort",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2266,
+			"Panel": 1134,
+			"Name": "func Sort Stable",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2267,
+			"Panel": 1134,
+			"Name": "StringSlice IntSlice Float64Slice",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2268,
+			"Panel": 1134,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2269,
+			"Panel": 1135,
+			"Name": "func IsSorted",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2270,
+			"Panel": 1135,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2271,
+			"Panel": 1136,
+			"Name": "func Search",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2272,
+			"Panel": 1136,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2273,
+			"Panel": 1136,
+			"Name": "StringSlice IntSlice Float64Slice",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2274,
+			"Panel": 1136,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2275,
+			"Panel": 1134,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2276,
+			"Panel": 1137,
+			"Name": "int float64 string",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 2277,
+			"Panel": 1137,
+			"Name": "Example",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 2278,
+			"Panel": 1137,
+			"Name": "slice",
+			"Sort": 2,
+			"Str": ""
 		}
 	]

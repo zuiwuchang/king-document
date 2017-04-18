@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc IsSorted(data Interface) bool 返回 Interface 接口 是否已經排排序\n\u003c/pre\u003e"

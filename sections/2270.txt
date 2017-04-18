@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003epackage main\n\nimport (\n\t\"fmt\"\n\t\"sort\"\n)\n\nfunc main() {\n\ts := []int{5, 2, 6, 3, 1, 4}\n\tis := sort.IntSlice(s)\n\tfmt.Println(sort.IsSorted(is)) //false\n\tis.Sort()\n\tfmt.Println(sort.IsSorted(is)) //true\n}\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eStringSlice IntSlice Float64Slice 分別爲\nstring int float64 的slice 實現了 Interface 接口\n\n同時 提供了 Sort Search 方法 \n\u003c/pre\u003e"

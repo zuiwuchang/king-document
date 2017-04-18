@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eStringSlice IntSlice Float64Slice\n爲 string int float64 提供了 簡介的 Search 只需要傳入 查找 值即可\n\u003c/pre\u003e"
