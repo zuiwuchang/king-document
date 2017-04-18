@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003earia2 開源(GPL) 跨平臺 的一個 輕量快速的 下載套件\n\nsudo apt-get install aria2\n\u003c/pre\u003e"

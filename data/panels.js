@@ -995,6 +995,36 @@ var __v={
 			"Name": "聚合 嵌入",
 			"Sort": 0
 		},
+		"1150": {
+			"Id": 1150,
+			"Chapter": 373,
+			"Name": "rtorrent",
+			"Sort": 0
+		},
+		"1151": {
+			"Id": 1151,
+			"Chapter": 373,
+			"Name": "安裝",
+			"Sort": 0
+		},
+		"1152": {
+			"Id": 1152,
+			"Chapter": 373,
+			"Name": "使用",
+			"Sort": 0
+		},
+		"1153": {
+			"Id": 1153,
+			"Chapter": 374,
+			"Name": "aria2",
+			"Sort": 0
+		},
+		"1154": {
+			"Id": 1154,
+			"Chapter": 374,
+			"Name": "下載檔案",
+			"Sort": 0
+		},
 		"116": {
 			"Id": 116,
 			"Chapter": 50,

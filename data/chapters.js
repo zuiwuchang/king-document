@@ -1739,6 +1739,18 @@ var __v={
 			"Name": "path/filepath",
 			"Sort": 227
 		},
+		"373": {
+			"Id": 373,
+			"Doc": 94,
+			"Name": "rtorrent",
+			"Sort": 228
+		},
+		"374": {
+			"Id": 374,
+			"Doc": 94,
+			"Name": "aria2",
+			"Sort": 229
+		},
 		"38": {
 			"Id": 38,
 			"Doc": 14,

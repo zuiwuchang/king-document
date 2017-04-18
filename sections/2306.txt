@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//運行 rtorrent\nrtorrent\n\n//添加種子到任務\nenter 後 輸入 種子路徑\n\n//選擇 任務(被選中任務 會在最前方 加上 *)\n上/下 箭頭\n\n//開始 任務\nctrl + s\n\n//停止 任務(以及停止 則刪除)\nctrl + d\n\n//退出 rtorrent\nctrl + q\n\u003c/pre\u003e"

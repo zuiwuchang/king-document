@@ -15944,5 +15944,54 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2303,
+			"Panel": 1150,
+			"Name": "rtorrent",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2304,
+			"Panel": 1151,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2305,
+			"Panel": 1151,
+			"Name": "~/.rtorrent.rc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2306,
+			"Panel": 1152,
+			"Name": "使用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2307,
+			"Panel": 1153,
+			"Name": "aria2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2308,
+			"Panel": 1154,
+			"Name": "下載檔案",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2309,
+			"Panel": 1154,
+			"Name": "可選參數",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

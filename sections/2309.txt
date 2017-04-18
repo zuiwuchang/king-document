@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//指定 連接數 默認 5\naria2c -s 5\n\n//斷點續傳\naria2c -c\n\n//列出 種子 列表\naria2c -S mylinux.torrent\n\n//下載 種子中 編號 1 4 5 6 7 檔案\naria2c --select-file=1,4-7 mylinux.torrent\n\n...\n\u003c/pre\u003e"
