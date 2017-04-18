@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc IsAbs(path string) bool\n返回 是否是 絕對路徑\n\u003c/pre\u003e"

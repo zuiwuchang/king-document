@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc Split(path string) (dir, file string)\n返回 檔案夾 和 檔案\n\u003c/pre\u003e"

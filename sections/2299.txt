@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epath/filepath 基本包含了 所有 path 包的 函數 \n\n//返回 路徑的 絕對路徑\nfunc Abs(path string) (string, error)\n\n//返回 link 檔案 link 的目標\n//如果 不是 link 檔案 返回 path\n//path 不存在 返回 error\nfunc EvalSymlinks(path string) (string, error)\n...\n\u003c/pre\u003e"

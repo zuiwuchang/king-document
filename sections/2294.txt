@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003epackage main\n\nimport (\n\t\"fmt\"\n\t\"path\"\n)\n\nfunc main() {\n\t//\ta/b/\tc\n\tfmt.Println(path.Split(\"a/b/c\"))\n\n\t//\t/\n\tfmt.Println(path.Split(\"/\"))\n\n\t//\t/a/\n\tfmt.Println(path.Split(\"/a/\"))\n}\n\u003c/pre\u003e"

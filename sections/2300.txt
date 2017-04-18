@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc Walk(root string, walkFn WalkFunc) error\n將 遍歷 root 檔案夾 下 所有 檔案夾及檔案\n\ntype WalkFunc func(path string, info os.FileInfo, err error) error\n\u003c/pre\u003e"

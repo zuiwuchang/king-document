@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWalkFunc 返回 filepath.SkipDir 之外的值 將使 Walk 停止\n並且 此值 作爲 Walk 的返回值\n\u003c/pre\u003e"

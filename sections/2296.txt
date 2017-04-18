@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003epackage main\n\nimport (\n\t\"fmt\"\n\t\"path\"\n)\n\nfunc main() {\n\t//\ttrue\n\tfmt.Println(path.Match(\"kin*\", \"king\"))\n\t//\tfalse\n\tfmt.Println(path.Match(\"kin*\", \"/king\"))\n}\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc Clean(path string) string\n解析 路徑中的 \u003cstrong\u003e. ..\u003c/strong\u003e 返回 解析後的 路徑\npath 爲空 返回 .\n\u003c/pre\u003e"

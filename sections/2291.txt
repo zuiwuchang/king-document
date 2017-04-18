@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc Join(elem ...string) string\n將多個路徑 使用 \u003cstrong\u003e/\u003c/strong\u003e 連接 \n\u003c/pre\u003e"

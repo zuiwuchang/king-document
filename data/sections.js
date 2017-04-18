@@ -15776,5 +15776,173 @@ var __v=[
 			"Name": "slice",
 			"Sort": 2,
 			"Str": ""
+		},
+		{
+			"Id": 2279,
+			"Panel": 1138,
+			"Name": "path",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2280,
+			"Panel": 1138,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2281,
+			"Panel": 1139,
+			"Name": "func Base",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2282,
+			"Panel": 1139,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2283,
+			"Panel": 1140,
+			"Name": "func Clean",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2284,
+			"Panel": 1140,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2285,
+			"Panel": 1141,
+			"Name": "func Dir",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2286,
+			"Panel": 1141,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2287,
+			"Panel": 1142,
+			"Name": "func Ext",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2288,
+			"Panel": 1142,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2289,
+			"Panel": 1143,
+			"Name": "func IsAbs",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2290,
+			"Panel": 1143,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2291,
+			"Panel": 1144,
+			"Name": "func Join",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2292,
+			"Panel": 1144,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2293,
+			"Panel": 1145,
+			"Name": "func Split",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2294,
+			"Panel": 1145,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2295,
+			"Panel": 1146,
+			"Name": "func Match",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2296,
+			"Panel": 1146,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2297,
+			"Panel": 1146,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2298,
+			"Panel": 1147,
+			"Name": "filepath",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2299,
+			"Panel": 1148,
+			"Name": "path",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2300,
+			"Panel": 1149,
+			"Name": "func Walk",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2301,
+			"Panel": 1149,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2302,
+			"Panel": 1149,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

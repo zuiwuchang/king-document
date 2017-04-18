@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc Base(path string) string \n返回以 / 分隔的 最後一個 檔案名\n如果 path爲 空 返回 .\n\u003c/pre\u003e"

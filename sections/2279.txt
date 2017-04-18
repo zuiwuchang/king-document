@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epath 提供了對 檔案 路徑的 處理\npath 只分析 路徑名稱 不會 關心 os 物理設備 是否 存在檔案\n\n要操作 os 物理設備 使用 path/filepath\n\u003c/pre\u003e"

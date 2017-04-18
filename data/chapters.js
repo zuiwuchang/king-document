@@ -1727,6 +1727,18 @@ var __v={
 			"Name": "sort",
 			"Sort": 225
 		},
+		"371": {
+			"Id": 371,
+			"Doc": 17,
+			"Name": "path",
+			"Sort": 226
+		},
+		"372": {
+			"Id": 372,
+			"Doc": 17,
+			"Name": "path/filepath",
+			"Sort": 227
+		},
 		"38": {
 			"Id": 38,
 			"Doc": 14,

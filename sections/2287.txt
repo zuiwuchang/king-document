@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunc Ext(path string) string\n返回 檔案 後綴名\n\u003c/pre\u003e"
