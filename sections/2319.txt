@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nWebSocket 的 readyState 屬性 記錄了當前 socket狀態\n\n0\t尚未建立連接\n1\t連接已建立 可以進行通信\n2\t正在進行關閉握手\n3\t連接已關閉\n\u003c/pre\u003e"

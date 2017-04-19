@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nWebSocket 提供了 4個 回調函數\n\nonopen\t\t連接成功\nonerror\t\t連接失敗\nonclose\t\t連接關閉\nonmessage\t接收到一個完整消息\n\u003c/pre\u003e"

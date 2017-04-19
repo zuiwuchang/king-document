@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWebSocket 是在tcp上的 全雙工 通信 協議\nhtml5 爲其提供了 js api\n\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/WebSocket\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/WebSocket\u003c/a\u003e\n\u003c/pre\u003e"

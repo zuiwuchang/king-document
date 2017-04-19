@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nonclose 會在 onerror 之後 被調用 \n即使連接失敗 onclose 亦會被調用\n\u003c/pre\u003e"

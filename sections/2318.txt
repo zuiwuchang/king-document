@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n//創建一個 WebSocket \n//url 爲 服務器地址\n//protocal 爲可選的 子協議定義\nvar ws = new WebSocket(url, [protocal] );\n\u003c/pre\u003e"
