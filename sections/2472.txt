@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 開頭以 # 開始的一行代碼 將被 忽略\n這是為了 在 *inux 系統下 將lua直接作為 腳本調用 而不需要顯示調用lua\n如 #!/usr/local/bin/lua [其他lua參數]\n\u003c/pre\u003e"

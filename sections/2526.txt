@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e修改元表的元方法 即可 使table 獲取 + - ...等 操作\n可改寫元方法\n\n__add\t+\n__sub\t-\n__mul\t*\n__div\t/\n__unm\t相反數\n__mod\t%\n__pow\t~\n__concat\t...\n\u003c/pre\u003e"

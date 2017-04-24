@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003euserdata 可以將 任意 c語言 數據存儲到 路啊 變量中\nuserdata 值 預定義了 賦值 和 相等測試\n\u003c/pre\u003e"

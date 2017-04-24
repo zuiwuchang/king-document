@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua_tolstring 返回的字符串 lua只保證 其還在棧中 將一直有效\n故 要在 後續 訪問 應該拷貝其副本\n\u003c/pre\u003e"

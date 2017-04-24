@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當訪問 table中 不存在的值時 lua虛擬機會 查找是否存在 __index元方法\n不存在 返回 nil\n存在 調用 __index\n\n故可以設置 此元方法 改變 table元素的默認值\n\nrawget(table,key)\t可以 繞過設置的元方法 而使用原始訪問方式(若不存在返回nil)\n\u003c/pre\u003e"

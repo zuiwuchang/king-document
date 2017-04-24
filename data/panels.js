@@ -1547,11 +1547,95 @@ var __v={
 			"Name": "字符串",
 			"Sort": 0
 		},
+		"1236": {
+			"Id": 1236,
+			"Chapter": 396,
+			"Name": "lua",
+			"Sort": 0
+		},
+		"1237": {
+			"Id": 1237,
+			"Chapter": 396,
+			"Name": "環境配置",
+			"Sort": 0
+		},
+		"1238": {
+			"Id": 1238,
+			"Chapter": 396,
+			"Name": "環境配置 win32",
+			"Sort": 0
+		},
+		"1239": {
+			"Id": 1239,
+			"Chapter": 397,
+			"Name": "執行lua腳本",
+			"Sort": 0
+		},
 		"124": {
 			"Id": 124,
 			"Chapter": 53,
 			"Name": "database/sql",
 			"Sort": 1
+		},
+		"1240": {
+			"Id": 1240,
+			"Chapter": 397,
+			"Name": "語法",
+			"Sort": 0
+		},
+		"1241": {
+			"Id": 1241,
+			"Chapter": 397,
+			"Name": "詞法規範",
+			"Sort": 0
+		},
+		"1242": {
+			"Id": 1242,
+			"Chapter": 398,
+			"Name": "型別",
+			"Sort": 0
+		},
+		"1243": {
+			"Id": 1243,
+			"Chapter": 398,
+			"Name": "nil",
+			"Sort": 0
+		},
+		"1244": {
+			"Id": 1244,
+			"Chapter": 398,
+			"Name": "boolean",
+			"Sort": 0
+		},
+		"1245": {
+			"Id": 1245,
+			"Chapter": 398,
+			"Name": "number",
+			"Sort": 0
+		},
+		"1246": {
+			"Id": 1246,
+			"Chapter": 398,
+			"Name": "string",
+			"Sort": 0
+		},
+		"1247": {
+			"Id": 1247,
+			"Chapter": 398,
+			"Name": "userdata",
+			"Sort": 0
+		},
+		"1248": {
+			"Id": 1248,
+			"Chapter": 398,
+			"Name": "function",
+			"Sort": 0
+		},
+		"1249": {
+			"Id": 1249,
+			"Chapter": 398,
+			"Name": "thread",
+			"Sort": 0
 		},
 		"125": {
 			"Id": 125,
@@ -1559,10 +1643,130 @@ var __v={
 			"Name": "database/sql/driver",
 			"Sort": 2
 		},
+		"1250": {
+			"Id": 1250,
+			"Chapter": 398,
+			"Name": "table",
+			"Sort": 0
+		},
+		"1251": {
+			"Id": 1251,
+			"Chapter": 399,
+			"Name": "表達式",
+			"Sort": 0
+		},
+		"1252": {
+			"Id": 1252,
+			"Chapter": 399,
+			"Name": "語句",
+			"Sort": 0
+		},
+		"1253": {
+			"Id": 1253,
+			"Chapter": 400,
+			"Name": "函數",
+			"Sort": 0
+		},
+		"1254": {
+			"Id": 1254,
+			"Chapter": 400,
+			"Name": "深入函數",
+			"Sort": 0
+		},
+		"1255": {
+			"Id": 1255,
+			"Chapter": 401,
+			"Name": "迭代器 泛型for",
+			"Sort": 0
+		},
+		"1256": {
+			"Id": 1256,
+			"Chapter": 401,
+			"Name": "無狀態迭代器",
+			"Sort": 0
+		},
+		"1257": {
+			"Id": 1257,
+			"Chapter": 402,
+			"Name": "編譯",
+			"Sort": 0
+		},
+		"1258": {
+			"Id": 1258,
+			"Chapter": 402,
+			"Name": "c動態庫",
+			"Sort": 0
+		},
+		"1259": {
+			"Id": 1259,
+			"Chapter": 402,
+			"Name": "錯誤",
+			"Sort": 0
+		},
 		"126": {
 			"Id": 126,
 			"Chapter": 53,
 			"Name": "mysql",
+			"Sort": 0
+		},
+		"1260": {
+			"Id": 1260,
+			"Chapter": 402,
+			"Name": "保護模式",
+			"Sort": 0
+		},
+		"1261": {
+			"Id": 1261,
+			"Chapter": 402,
+			"Name": "錯誤追溯",
+			"Sort": 0
+		},
+		"1262": {
+			"Id": 1262,
+			"Chapter": 403,
+			"Name": "協程",
+			"Sort": 0
+		},
+		"1263": {
+			"Id": 1263,
+			"Chapter": 404,
+			"Name": "數據結構",
+			"Sort": 0
+		},
+		"1264": {
+			"Id": 1264,
+			"Chapter": 404,
+			"Name": "數組",
+			"Sort": 0
+		},
+		"1265": {
+			"Id": 1265,
+			"Chapter": 404,
+			"Name": "鍊錶",
+			"Sort": 0
+		},
+		"1266": {
+			"Id": 1266,
+			"Chapter": 404,
+			"Name": "隊列",
+			"Sort": 0
+		},
+		"1267": {
+			"Id": 1267,
+			"Chapter": 404,
+			"Name": "集合",
+			"Sort": 0
+		},
+		"1268": {
+			"Id": 1268,
+			"Chapter": 404,
+			"Name": "字符串緩存",
+			"Sort": 0
+		},
+		"1269": {
+			"Id": 1269,
+			"Chapter": 405,
+			"Name": "數據文件",
 			"Sort": 0
 		},
 		"127": {
@@ -1571,16 +1775,196 @@ var __v={
 			"Name": "sqlite",
 			"Sort": 0
 		},
+		"1270": {
+			"Id": 1270,
+			"Chapter": 405,
+			"Name": "串行化",
+			"Sort": 0
+		},
+		"1271": {
+			"Id": 1271,
+			"Chapter": 406,
+			"Name": "元表",
+			"Sort": 0
+		},
+		"1272": {
+			"Id": 1272,
+			"Chapter": 406,
+			"Name": "元方法",
+			"Sort": 0
+		},
+		"1273": {
+			"Id": 1273,
+			"Chapter": 406,
+			"Name": "關係元方法",
+			"Sort": 0
+		},
+		"1274": {
+			"Id": 1274,
+			"Chapter": 406,
+			"Name": "table元方法",
+			"Sort": 0
+		},
+		"1275": {
+			"Id": 1275,
+			"Chapter": 407,
+			"Name": "環境",
+			"Sort": 0
+		},
+		"1276": {
+			"Id": 1276,
+			"Chapter": 407,
+			"Name": "變量聲明",
+			"Sort": 0
+		},
+		"1277": {
+			"Id": 1277,
+			"Chapter": 407,
+			"Name": "非全局環境",
+			"Sort": 0
+		},
+		"1278": {
+			"Id": 1278,
+			"Chapter": 408,
+			"Name": "模塊",
+			"Sort": 0
+		},
+		"1279": {
+			"Id": 1279,
+			"Chapter": 408,
+			"Name": "加載模塊",
+			"Sort": 0
+		},
 		"128": {
 			"Id": 128,
 			"Chapter": 53,
 			"Name": "mssql",
 			"Sort": 0
 		},
+		"1280": {
+			"Id": 1280,
+			"Chapter": 408,
+			"Name": "編寫模塊",
+			"Sort": 0
+		},
+		"1281": {
+			"Id": 1281,
+			"Chapter": 408,
+			"Name": "子模塊與包",
+			"Sort": 0
+		},
+		"1282": {
+			"Id": 1282,
+			"Chapter": 409,
+			"Name": "类",
+			"Sort": 0
+		},
+		"1283": {
+			"Id": 1283,
+			"Chapter": 410,
+			"Name": "數學庫 math",
+			"Sort": 0
+		},
+		"1284": {
+			"Id": 1284,
+			"Chapter": 410,
+			"Name": "table庫",
+			"Sort": 0
+		},
+		"1285": {
+			"Id": 1285,
+			"Chapter": 410,
+			"Name": "字符串庫 string",
+			"Sort": 0
+		},
+		"1286": {
+			"Id": 1286,
+			"Chapter": 410,
+			"Name": "io庫",
+			"Sort": 0
+		},
+		"1287": {
+			"Id": 1287,
+			"Chapter": 410,
+			"Name": "os庫",
+			"Sort": 0
+		},
+		"1288": {
+			"Id": 1288,
+			"Chapter": 410,
+			"Name": "調試庫 debug",
+			"Sort": 0
+		},
+		"1289": {
+			"Id": 1289,
+			"Chapter": 411,
+			"Name": "CAPI",
+			"Sort": 0
+		},
 		"129": {
 			"Id": 129,
 			"Chapter": 54,
 			"Name": "net",
+			"Sort": 0
+		},
+		"1290": {
+			"Id": 1290,
+			"Chapter": 411,
+			"Name": "棧",
+			"Sort": 0
+		},
+		"1291": {
+			"Id": 1291,
+			"Chapter": 412,
+			"Name": "table操作",
+			"Sort": 0
+		},
+		"1292": {
+			"Id": 1292,
+			"Chapter": 412,
+			"Name": "調用lua函數",
+			"Sort": 0
+		},
+		"1293": {
+			"Id": 1293,
+			"Chapter": 412,
+			"Name": "lua調用c函數",
+			"Sort": 0
+		},
+		"1294": {
+			"Id": 1294,
+			"Chapter": 412,
+			"Name": "c模塊",
+			"Sort": 0
+		},
+		"1295": {
+			"Id": 1295,
+			"Chapter": 413,
+			"Name": "useradata",
+			"Sort": 0
+		},
+		"1296": {
+			"Id": 1296,
+			"Chapter": 414,
+			"Name": "lua_checkstack/luaL_checkstack c 棧",
+			"Sort": 0
+		},
+		"1297": {
+			"Id": 1297,
+			"Chapter": 415,
+			"Name": "定義模塊",
+			"Sort": 0
+		},
+		"1298": {
+			"Id": 1298,
+			"Chapter": 416,
+			"Name": "luaunit",
+			"Sort": 0
+		},
+		"1299": {
+			"Id": 1299,
+			"Chapter": 416,
+			"Name": "使用 luaunit",
 			"Sort": 0
 		},
 		"13": {
@@ -1593,6 +1977,12 @@ var __v={
 			"Id": 130,
 			"Chapter": 54,
 			"Name": "tcp",
+			"Sort": 0
+		},
+		"1300": {
+			"Id": 1300,
+			"Chapter": 416,
+			"Name": "斷言",
 			"Sort": 0
 		},
 		"131": {

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua數學庫被包含在 math 中\n\n\n\n//全以弧度為單位\nsin\ncos\ntan\nasin\nacos\n...\n\n//指數\nexp\t\n//對數\nlog\nlog10\n...\n//角度轉弧度\nrad\n//弧度轉角度\ndeg\n\n取整\nfloor\t//返回小於數值的最大整數\nceil\t//返回大於數值的最小整數\nmax\nmin\n\n隨機數種子\nrandomseed\n隨機數\nrandom\n\u003c/pre\u003e\n"

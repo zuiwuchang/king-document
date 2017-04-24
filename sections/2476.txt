@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enil 是一種 型別 其值只有 nil\n(通常 用於 表示 無效值)\n\n\u003cstrong\u003e全局變量的默認值 為 nil\n將 nil 賦值給 全局變量 等同於 刪除此變量\u003c/strong\u003e\n\u003c/pre\u003e"

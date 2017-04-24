@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e無論是解析 xml json 都是麻煩的 事\n\n可以將 table 作為一個 數據文件 在使用時 使用 dofile loadfie 將其編譯即可 \n這樣就自動 解析 了數據 並且被存儲到了 table中\n\u003c/pre\u003e\n"

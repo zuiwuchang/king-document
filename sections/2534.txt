@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 將所有 全局變量 保存在一個 table  _G 中\n創建一個變量 只是使用此變量名為key 加入一個元素 到 _G 中\n\nx\t=\t1\nname\t=\t'x'\nprint(_G[name])\n\n_G 是一個 table 故可以先 table 一樣操作他 比如 設置元表\n\u003c/pre\u003e"

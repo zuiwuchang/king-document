@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//局部變量訪問 快於 全局變量\n\n//定義一個局部變量 以加快對全局變量的 訪問\nlocal foo\t=\tfoo\n\n//定義一個局部變量\nlocal i\t=1\t(變量超出 局部自動 釋放)\n\n局部變量 可以在一個 if while for function ...中\n亦可使用 do end 定義一個 程序塊\ndo\n\tlocal a=1\nend\nprint(a)\t--nil\n\u003c/pre\u003e"

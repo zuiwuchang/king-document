@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一般 非lua 標準庫的 模塊 最好 都返回到匿名 table 中\n以避免和其他模塊 衝突\t\n\u003c/pre\u003e"

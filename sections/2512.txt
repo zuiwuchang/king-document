@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e--長度為10的數組 \n(其更像std::vector\u0026lt;boost::any\u0026gt; 可以改變大小 存儲任意值)\narray\t=\t{}\nfor i=1,10 do\t\t--lua 中 盡量以1為 索引開始\n\tarray[i]\t=\t0\nend\n\n\n--二維數組 [i][j]\ni=10\nj=10\narray\t=\t{}\nfor i1=0,i do\n\tarray[i]\t=\t{}\n\tfor\tj1=0,j\tdo\n\t\tarray[i][j]\t=\t0\n\tend\nend\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etable 本身就是一個 集合 \n其類似與 boost::unordered_map\u0026lt;boost::any\u0026gt;\n\u003c/pre\u003e\n"

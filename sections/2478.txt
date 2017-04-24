@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enumber 用於表示 所有 實數 lua中 沒有整型(lua認為 沒必要)\nnumber 可以表示 任意的 32位整型 而不會 存在四捨五入的問題(number為 64位浮點)\n\nlua 亦可重新編譯 使用 其他型別的數字(long float ...) 詳見 luaconf.h\n\n數字可以使用 科學計算法 或 普通計數法\na\t=\t4\na\t=\t4.0\na\t=\t4.57e-3\na\t=\t0.3e12\na\t=\t5+20\n\u003c/pre\u003e"

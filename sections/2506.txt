@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eerror 若為字符串 pcall返回值 會 包括 錯誤 代碼位置 等附加信息\nerror 第二個參數 指定了 附加信息中 顯示的 函數位置\nnil 1 顯示當前位置\n\u003cstrong\u003e[2,+∞) 顯示函數堆棧上n-1層 \n(此時無法使用 assert 引發錯誤函數 其不會為error傳入第二個參數)\u003c/strong\u003e\n\n\npcall 返回時 堆棧信息以及被銷毀\n若需要在 發生錯誤時 處理堆棧信息 可以使用 xpcall\nxpcall 對接受一個 回調函數 以在發生錯誤時 可以 獲取到當時的堆棧信息\ndebug.traceback函數\n可以返回當前 堆棧 信息\n\u003c/pre\u003e\n"

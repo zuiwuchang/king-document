@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eco\t=\tcoroutine.create(function( ... )\n\tprint(...)\t--4 5 6\n\t--coroutine.yield(10,11)\n\treturn 10,11\nend)\nprint(coroutine.status(co))\nprint(coroutine.resume(co,4,5,6))\t--true 10 11\u003c/pre\u003e"

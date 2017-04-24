@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可能需要 為被聲明變量 依然賦值為 nil \n此時 可以使用一個 table  記錄 所有被聲明過的變量\n\u003c/pre\u003e"

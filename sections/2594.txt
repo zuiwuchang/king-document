@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t從官網下載最新 源碼\n\n2\t將 luaunit.lua 加入到 lua require 目錄\n\n3\t執行 require('luaunit')\n\t定義 TestXXX 測試函數\n\t執行lu.LuaUnit.run() 運行 測試\n\u003c/pre\u003e"

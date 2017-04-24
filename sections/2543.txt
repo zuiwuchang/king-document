@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003erequire 將查找模塊是否加載 若未加載 \n(加載之 並且 package.loaded[modname] = 模塊 並且返回模塊 [此操作一般由模塊自動完成])\n若已經加載 直接返回 加載的模塊\n\npackage.loaded[modname] = nil\n相當於 刪除模塊\n\nrequire 找到 *.lua文件 就使用 loadfile 加載 \n若是c模塊 就是用 loadlib加載\n\u003c/pre\u003e\n"

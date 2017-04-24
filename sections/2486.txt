@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 索引 從1 開始\n\n# 返回一個線性數組/線性表 長度/最後一個索引值\n(#table)\n\u003c/pre\u003e"

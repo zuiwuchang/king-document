@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e--創建緩存\nbuffer\t=\t{}\nfor i = 1 , 10 do\n\tbuffer[#buffer + 1]\t=\t\"this is line at \" .. i\nend\n\n--連接緩存中的 字符串\nstr\t=\ttable.concat(buffer,\"\\n\")\t--第二個參數可選 為字符串間的 分隔符\n\nprint(str)\u003c/pre\u003e"

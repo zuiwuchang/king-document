@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 每個值 都有預定義的 操作集合 如 + - .. / ...\n可以通過 修改元表 修改這些 默認行為\n\ntable userdata 可以有各自獨立的元表 \n\n//設置/獲取 table的 元表(元表也是一個 table)\nsetmetatable(table,metatable)\ngetmetatable(object)\n\n一個table創建時 不會創建元表 既不可用  + - ...\n\u003c/pre\u003e"

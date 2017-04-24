@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e不要 多次 調用 lua_checkstack/luaL_checkstack 而是在 一開始 \n就 luaL_checkstack/luaL_checkstack 所有需要的 棧 以避免 多次 luaL_checkstack 的開銷\n\u003c/pre\u003e"

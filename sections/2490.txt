@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 先將右邊全部 求值 之後 賦給 左便對應 變量\n\na,b\t=\t1,2\na,b\t=\tb,a\t--swap\na,b\t=\t1,2,3\na\t=\t1,2\n(對於 左右兩邊 數量不等 忽略 右邊多出的值 為右邊缺少的值使用nil)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e直接寫一個 table 並且返回之 便可\nrequire 會為其設置好 環境\n(\n\t但一般不這麼做 而是 不返回任何東西 由模塊自己 設置好 環境\n\t_G[\"模塊名\"]\t=\t\n\tpackage.loaded[modname] =\n) \n\u003c/pre\u003e"

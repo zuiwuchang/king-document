@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建一個協程 使之掛起 並返回協程\ncoroutine.create(function)\n\n//返回 協程狀態\ncoroutine.status(co)\n\t\u003cstrong\u003esuspended\t掛起\n\trunning\t運行\n\tdead\t死亡\n\tnormal\t正常()\u003c/strong\u003e\n\t\n\n//運行協程\ncoroutine.resume(co)\n\n//使當前協程 掛起\ncoroutine.yield()\n\u003c/pre\u003e"

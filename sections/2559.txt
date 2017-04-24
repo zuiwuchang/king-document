@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cimg src='/sections/2559/image/pattern.png' style=\"max-width: 100%;\"\u003e\n\n%\t為轉義字符如 %. 代表匹配一個 .\n(%只轉義 模式字符 普通字符 亦然使用\\ 如 \\')\n\n[]\t同正則表達式 如 [0-9] [abcdef] [^abcdef](取補集)\n+\t重複一次 及以上\n*\t重複任意次次\n-\t同*\n?\t[0,1]次\n\n^\t同正則表達式 以此開始\n$\t... 結束\n()\t需要%轉義匹配\n\u003c/pre\u003e"

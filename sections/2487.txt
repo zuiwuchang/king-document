@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e+\n-\n*\n/\n^\t(指數 平方)\n%\t(x-x%0.01 --保留2位有效數字)\n\n\n-\t(負號)\n\n\n\n\u0026lt;\n\u0026lt;=\n\u0026gt;\n\u0026gt;=\n==\n~=\n（對於 table userdata 函數 lua是比較的 引用(是否指向同一個實例) 而非值）\n\n\n\nand\nor\nnot\n\n\n//連接字符串\n..\n\n\u003cimg src='/sections/2487/image/order.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

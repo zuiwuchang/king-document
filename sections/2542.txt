@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 中的模塊 只是一個外部的 table\n使用 require \"模塊名\" 將加載此table 並將其賦值到_G[\"模塊名\"]中\n\u003c/pre\u003e"

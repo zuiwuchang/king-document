@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec模塊 和lua 模塊 沒什麼不同\n只是 c模塊 需要完成 一個 luaopen_模塊名 的函數\n在此函數中 完成 對lua函數的註冊(註冊方式 同lua模塊)\n\u003c/pre\u003e"

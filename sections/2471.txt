@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 語句間 不需要分隔符號\n(亦可加上一個 ; 換行 ... 使之看上去和 c/c++ 一樣優美)\n\n//退出lua腳本\nos.exit()\n\nlua 區分大小寫\n\n//註釋代碼 \n--\t\t(相當於c的 //)\n--[[\t(... /*)\n]]\t\t(... */)\n\n全局變量可直接使用 其默認值為 nil\n將全局變量 賦值為 nil 可以 釋放其內存\n(print(b);\t--輸出 nil\nb = nil;\t--釋放變量)\n\u003c/pre\u003e"

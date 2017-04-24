@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eif(lua_checkstack(ctx,50))\n{\n\tfor(int i=0;i\u0026lt;50;++i)\n\t{\n\t\tctx.push_integer(i);\n\t}\n}\u003c/pre\u003e"

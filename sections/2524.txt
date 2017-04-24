@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estring.format 的%q 格式化字符串 為其兩端 加上 \" \n並且會正確專業 內容中的 \" \n(這個功能 不但在串行化中 很好用 在sql中依然)\n\u003c/pre\u003e\n"

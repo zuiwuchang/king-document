@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efunction 用來表示一個 函數\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ea\t=\t0;\nsetfenv(1,{g\t=\t_G})\ng.print(a)\t\t--nil 已經丟失了原來的 環境 \ng.print(g.a)\n\n\n\n--繼承\na\t=\t1\nlocal newgt\t={}\nsetmetatable(newgt,{__index = _G}\nsetfenv(1,newgt)\nprint(a)\u003c/pre\u003e"

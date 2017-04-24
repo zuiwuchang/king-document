@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 計算兩個 table 時 會先查找第一個 table的 元方法 若不存在 查找第二個table的 元方法 若依然不存在\t提交錯誤\n\u003c/pre\u003e"

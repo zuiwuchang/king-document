@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e--串行化\nl = \"save\"\ns = string.format(\"l=%q\",l)\nprint(s)\t--s=\"str\"\n\n--改變數據\nl=\"other\"\nprint(l)\n\n--恢復數據\nassert(loadstring(s))()\nprint(l)\t-- save\u003c/pre\u003e"

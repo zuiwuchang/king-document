@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua模擬量一個虛擬的 棧 用於 實現 c程序 和 lua 之間的 交換\n棧中 每個元素 可以表示 任意lua 型別\n\n當調用lua時 其只會改變 棧頂 c程序 可以 任意操作棧\n\n//棧大小\n#define LUA_MINSTACK\t20\n\u003c/pre\u003e\n"

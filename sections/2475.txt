@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etype 返回 包含 型別信息 的字符串\n\nx=123\nprint(type(x))\n\u003c/pre\u003e"

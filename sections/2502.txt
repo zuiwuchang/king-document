@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 通常 不會實現 非ANSI C標準 但 動態庫是個例外\n\nlua 使用 package.loadlib(path,funname) 加載一個動態連接庫 並將c函數 返回\nlocal path\t=\t\"usr/local/lib/lua/5.1/socket.so\"\nlocal f\t=\tpackage.loadlib(path,\"luaopen_sock\")\n\n但通常不這麼做 而是使用 require (詳見後文)\n\u003c/pre\u003e"

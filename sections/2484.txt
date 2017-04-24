@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etable 實現了關聯數組 可以使用 除nil 外其它任意型別為 key\n\n實際上 lua 全局變量 存儲在一個 table中\n\u003c/pre\u003e\n"

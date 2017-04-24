@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 中只有一個數據結構 table\n其它結構 lua都是用 table 進行模擬\n\u003c/pre\u003e"

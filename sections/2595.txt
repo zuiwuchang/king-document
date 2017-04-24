@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003elocal test = require('luaunit')\n\nfunction TestExample()\n\ttest.assertTrue(true)\nend\n\n\ntest.LuaUnit.run()\u003c/pre\u003e"

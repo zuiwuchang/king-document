@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 的協程 類似於線程 然區別在於\n同一時刻 只有一個協程 在運行 而且協程被能被外部 掛起等\n\n所有 協程 操作都在 table coroutine 中\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 中string 使用8位編碼 可字符可以具有任意數值編碼 包括 0\n\u003cstrong\u003e(故 可以 存儲 二進制 數據)\n(lua string 和java類似 是const 每次 字符串sub等操作 實際上是創建了一個新的字符串 故不要對大字符串進行 這些操作\n即使 是將一個 1024 長度 字符串尾加一個 字符 其都將重新創建一個 長度為1025 的新字符串 並且copy)\u003c/strong\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua中 函數只是一個 值罷了\n\n如function foo(x) return 2*x end\n只是 foo = function(x) return 2*x end\n的簡寫罷了\n\u003c/pre\u003e"

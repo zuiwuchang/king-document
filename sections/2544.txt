@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 加載路徑 記錄在 package.path (啟動時使用 LUA_PATH 環境變量初始化)\nc模塊 加載路徑 記錄在 package.cpath(啟動時使用 LUA_CPATH 環境變量初始化)\n\u003cimg src='/sections/2544/image/path.png' style=\"max-width: 100%;\"\u003e\n所有 ? 會被替換了 模塊名\n如 加載路徑為 c:/?.lua\nrequire \"mod\"\n將加載 c:/mod.lua 模塊\n\u003c/pre\u003e"

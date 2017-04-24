@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ei=100\nlocal i = 10\nprint(i)\t--10\n\nfunction l()\n\ti=i+1\n\tprint(i)\nend\nl()\t--11\n\nloadstring(\"i=i+1;print(i)\")()\t--101\u003c/pre\u003e"

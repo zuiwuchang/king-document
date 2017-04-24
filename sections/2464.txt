@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從官網下載 最新源碼 並 解壓\u003c/li\u003e\n\t\u003cli\u003ecd 解壓目錄 使用 make mingw test 編譯之\u003c/li\u003e\n\t\u003cli\u003e將 luac.exe lua.exe lua52.dll liblua.a 加入path\u003c/li\u003e\n\t\u003cli\u003e將 lua.h luaconf.h lualib.h lauxlib.h lua.hpp 加入 include 目錄\u003c/li\u003e\n\u003c/ol\u003e"

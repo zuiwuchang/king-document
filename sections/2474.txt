@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 是動態型別語言 不需要 顯示定義 變量 \n每個值 都 攜帶了其自身型別信息\n\nlua 提供了 如下 8中 基本型別\n\nnil\t\t//空\n\nboolean\t\t//布爾\n\nnumber\t\t//數字\n\nstring\t\t//字符串\n\nuserdata\t//自定義型別\n\nfunction\t//函數\n\nthread\t\t//線程\n\ntable\t\t//表\n\u003c/pre\u003e"

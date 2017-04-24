@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e_G 並不存在任何 特別意義 只是當lua 運行時 \n會聲明一個全局變量 並且 存儲全局變量 table的引用\n\n在setfenv 設置 新的 環境時 lua不會 為新環境 聲明一個 _G 變量\n\n5.2 已經取消了 setfenv\n而使用 變量 _ENV 存儲環境\n\u003c/pre\u003e"

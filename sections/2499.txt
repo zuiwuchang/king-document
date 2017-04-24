@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eloadfile\nloadstring\n將文件/字符串 編譯為 lua腳本 作為一個函數返回\n實際相當於\tf\t=\tfunction(...)\n之後需要調用 f() 才能執行加載腳本\n(若存在語法 錯誤 返回 nil)\n\nf\t=\tloadstring([[\n\t\tprint(select(1,...))\n]])\nf(1)\n\n\ndofile 類似 loadfile 不過若出錯 其會 提交一個錯誤\n且在加載 成功後 會立刻 調用\nfunction dofile(filename)\n\tlocal f = assert(loadfile(filename)\n\treturn f()\nend\n\u003c/pre\u003e"

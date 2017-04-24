@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003edo\n\tprint(os)\n\tlocal _ENV = {print = print}--覆蓋當全局訪問 既產生了新環境\n\tprint(os)\t--nil\nend\n\u003c/pre\u003e"

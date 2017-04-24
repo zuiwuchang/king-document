@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 腳本出現錯誤 如內存不足 其會調用一個 緊急函數 (使用 lua_atpanic設置)\n\n或者 (推薦)使用 lua_pcall 在保護模式下執行lua腳本 出現此類 錯誤 \nlua_pcall返回非0  並將一條錯誤信息 留在 棧頂\n\u003c/pre\u003e"

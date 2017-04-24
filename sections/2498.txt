@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003elocal function iter(a,i)\n\ti=i+1\n\tlocal v= a[i]\n\tif v then\n\t\treturn i,v\n\tend\nend\nlocal function ipairs(a)\n\treturn iter,a,0\nend\na={5,4,3,2,1}\nfor i,v in ipairs(a) do\n\tprint(i,v)\nend\u003c/pre\u003e"

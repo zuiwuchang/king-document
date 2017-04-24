@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e用 vs 創建 console 項目\u003c/li\u003e\n\t\u003cli\u003e將 lua 源碼中(src/*.h src/*.c) 除 luac.c 之外文件 全部加入 項目\u003c/li\u003e\n\t\u003cli\u003e編譯之\u003c/li\u003e\n\u003c/ol\u003e"

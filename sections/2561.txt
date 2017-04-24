@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egsub 第三個 參數 除了可以為 字符串 外 亦可為 函數 table\n\u003cstrong\u003e需要使用 () 將 子字符 設置為 捕獲 \u003c/strong\u003e\n\n當為函數 每次 匹配到 \n用 匹配子字符 捕獲內容 調用 此函數\n用 函數返回值 替換 字符串\n\n當為table ...\n用 ... 作為key 在table中 查找\n以 找到的 value 替換 table不存在此key 不替換\n\n() 為一個 空 捕獲 將 返回 此處的位置 索引\n\u003c/pre\u003e\n"

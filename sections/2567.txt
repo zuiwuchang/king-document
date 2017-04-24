@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//結束程序\nos.exit()\n\n//返回環境變量值  不存在 返回nil\nos.getenv(\"PATH\")\n\n//同 c system\nos.execute(\"pause\")\n\n//設置lua使用 區域設置\nos.setlocale(\"chs\",\"all\")\n\"all\"\t\t使用全部(默認)\n\"time\"\t\t時間控制\n\"numeric\"\t數字格式化\n\"monetary\"\t不影響lua\n\"ctype\"\t\t單個字符類型 大小寫轉換\n\"collate\"\t字符串字母順序\n\u003c/pre\u003e"

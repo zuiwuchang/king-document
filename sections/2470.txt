@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//即刻 執行 指定lua腳本\nlua\t*.lua\n\n//進入交換模式 可以輸入lua語句 沒輸入的語句 將立刻執行\n//(以換行 分隔語句 若一行不足與組成合法lua程序塊 將等待繼續輸入）\nlua\n\n//執行 指定 lua 腳本 執行完成後 進入交換模式\nlua -i *.lua\n\u003c/pre\u003e"

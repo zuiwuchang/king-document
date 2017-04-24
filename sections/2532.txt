@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當寫入 table中  不存在的key時 lua虛擬機會 查找是否存在 ___newindex元方法\n若不存在 增加 並賦值\n若存在 只是調用 ___newindex 而不進行其他操作\n\nrawset(table,kye,value)\t可以繞過元方法 而使用默認操作 (新建元素 並賦值)\n\u003c/pre\u003e"

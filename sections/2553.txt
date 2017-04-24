@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e--以當前時間為隨機數種子\nmath.randomseed(os.time())\nprint(math.random())\t\t--[0,1)隨機實數\nprint(math.random(6))\t\t--[1,6]隨機整數\nprint(math.random(10,16))\t--[10,16]隨機整數\n\nprint(math.pi)\nprint(math.huge)\t--支持的最大數值\n\nprint(math.sin(math.rad(30)))\t\t--角度轉弧度\nprint(math.deg(math.pi))\t\t--弧度轉角度\u003c/pre\u003e"

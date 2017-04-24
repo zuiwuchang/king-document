@@ -17057,5 +17057,950 @@ var __v=[
 			"Name": "字符串",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2463,
+			"Panel": 1236,
+			"Name": "lua",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2464,
+			"Panel": 1237,
+			"Name": "環境配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2465,
+			"Panel": 1238,
+			"Name": "環境配置 win32",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2466,
+			"Panel": 1238,
+			"Name": "編譯 lua 解析器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2467,
+			"Panel": 1238,
+			"Name": "編譯 靜態庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2468,
+			"Panel": 1238,
+			"Name": "編譯 動態庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2469,
+			"Panel": 1238,
+			"Name": "hellow word",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2470,
+			"Panel": 1239,
+			"Name": "執行lua腳本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2471,
+			"Panel": 1240,
+			"Name": "語法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2472,
+			"Panel": 1240,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2473,
+			"Panel": 1241,
+			"Name": "詞法規範",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2474,
+			"Panel": 1242,
+			"Name": "型別",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2475,
+			"Panel": 1242,
+			"Name": "type",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2476,
+			"Panel": 1243,
+			"Name": "nil",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2477,
+			"Panel": 1244,
+			"Name": "boolean",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2478,
+			"Panel": 1245,
+			"Name": "number",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2479,
+			"Panel": 1246,
+			"Name": "string",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2480,
+			"Panel": 1246,
+			"Name": "字符串 表示",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2481,
+			"Panel": 1246,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2482,
+			"Panel": 1247,
+			"Name": "userdata",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2483,
+			"Panel": 1248,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2484,
+			"Panel": 1250,
+			"Name": "table",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2485,
+			"Panel": 1250,
+			"Name": "創建table",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2486,
+			"Panel": 1250,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2487,
+			"Panel": 1251,
+			"Name": "表達式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2488,
+			"Panel": 1251,
+			"Name": "table 構造",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2489,
+			"Panel": 1252,
+			"Name": "語句",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2490,
+			"Panel": 1252,
+			"Name": "多重 賦值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2491,
+			"Panel": 1252,
+			"Name": "局部變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2492,
+			"Panel": 1252,
+			"Name": "控制結構",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2493,
+			"Panel": 1253,
+			"Name": "函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2494,
+			"Panel": 1253,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2495,
+			"Panel": 1254,
+			"Name": "深入函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2496,
+			"Panel": 1255,
+			"Name": "迭代器 泛型for",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2497,
+			"Panel": 1256,
+			"Name": "無狀態迭代器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2498,
+			"Panel": 1256,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2499,
+			"Panel": 1257,
+			"Name": "編譯",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2500,
+			"Panel": 1257,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2501,
+			"Panel": 1257,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2502,
+			"Panel": 1258,
+			"Name": "c動態庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2503,
+			"Panel": 1259,
+			"Name": "錯誤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2504,
+			"Panel": 1260,
+			"Name": "保護模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2505,
+			"Panel": 1260,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2506,
+			"Panel": 1261,
+			"Name": "錯誤追溯",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2507,
+			"Panel": 1262,
+			"Name": "協程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2508,
+			"Panel": 1262,
+			"Name": "常用函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2509,
+			"Panel": 1262,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2510,
+			"Panel": 1262,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2511,
+			"Panel": 1263,
+			"Name": "數據結構",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2512,
+			"Panel": 1264,
+			"Name": "數組",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2513,
+			"Panel": 1264,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2514,
+			"Panel": 1265,
+			"Name": "鍊錶",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2515,
+			"Panel": 1266,
+			"Name": "隊列",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2516,
+			"Panel": 1267,
+			"Name": "集合",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2517,
+			"Panel": 1268,
+			"Name": "字符串緩存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2518,
+			"Panel": 1268,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2519,
+			"Panel": 1269,
+			"Name": "數據文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2520,
+			"Panel": 1269,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2521,
+			"Panel": 1269,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2522,
+			"Panel": 1270,
+			"Name": "串行化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2523,
+			"Panel": 1270,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2524,
+			"Panel": 1270,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2525,
+			"Panel": 1271,
+			"Name": "元表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2526,
+			"Panel": 1272,
+			"Name": "元方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2527,
+			"Panel": 1272,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2528,
+			"Panel": 1272,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2529,
+			"Panel": 1273,
+			"Name": "關係元方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2530,
+			"Panel": 1273,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2531,
+			"Panel": 1274,
+			"Name": "__index",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2532,
+			"Panel": 1274,
+			"Name": "__newindex",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2533,
+			"Panel": 1274,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2534,
+			"Panel": 1275,
+			"Name": "環境",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2535,
+			"Panel": 1276,
+			"Name": "變量聲明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2536,
+			"Panel": 1276,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2537,
+			"Panel": 1276,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2538,
+			"Panel": 1277,
+			"Name": "非全局環境",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2539,
+			"Panel": 1277,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2540,
+			"Panel": 1277,
+			"Name": "Example 5.2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2541,
+			"Panel": 1277,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2542,
+			"Panel": 1278,
+			"Name": "模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2543,
+			"Panel": 1279,
+			"Name": "加載模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2544,
+			"Panel": 1279,
+			"Name": "搜索路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2545,
+			"Panel": 1280,
+			"Name": "編寫模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2546,
+			"Panel": 1280,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2547,
+			"Panel": 1280,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2548,
+			"Panel": 1281,
+			"Name": "子模塊與包",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2549,
+			"Panel": 1282,
+			"Name": "类",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2550,
+			"Panel": 1282,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2551,
+			"Panel": 1282,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2552,
+			"Panel": 1283,
+			"Name": "數學庫 math",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2553,
+			"Panel": 1283,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2554,
+			"Panel": 1284,
+			"Name": "table庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2555,
+			"Panel": 1284,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2556,
+			"Panel": 1284,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2557,
+			"Panel": 1285,
+			"Name": "字符串庫 string",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2558,
+			"Panel": 1285,
+			"Name": "字符串匹配",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2559,
+			"Panel": 1285,
+			"Name": "模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2560,
+			"Panel": 1285,
+			"Name": "捕獲",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2561,
+			"Panel": 1285,
+			"Name": "gsub 替換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2562,
+			"Panel": 1286,
+			"Name": "io庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2563,
+			"Panel": 1286,
+			"Name": "簡單io模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2564,
+			"Panel": 1286,
+			"Name": "完整io模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2565,
+			"Panel": 1286,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2566,
+			"Panel": 1287,
+			"Name": "os庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2567,
+			"Panel": 1287,
+			"Name": "其他",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2568,
+			"Panel": 1289,
+			"Name": "CAPI",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2569,
+			"Panel": 1289,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2570,
+			"Panel": 1289,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2571,
+			"Panel": 1289,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2572,
+			"Panel": 1290,
+			"Name": "棧",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2573,
+			"Panel": 1290,
+			"Name": "壓入元素",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2574,
+			"Panel": 1290,
+			"Name": "訪問元素",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2575,
+			"Panel": 1290,
+			"Name": "其他棧操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2576,
+			"Panel": 1290,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2577,
+			"Panel": 1290,
+			"Name": "錯誤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2578,
+			"Panel": 1291,
+			"Name": "table操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2579,
+			"Panel": 1292,
+			"Name": "調用lua函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2580,
+			"Panel": 1293,
+			"Name": "lua調用c函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2581,
+			"Panel": 1293,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2582,
+			"Panel": 1294,
+			"Name": "c模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2583,
+			"Panel": 1294,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2584,
+			"Panel": 1294,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2585,
+			"Panel": 1295,
+			"Name": "useradata",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2586,
+			"Panel": 1295,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2587,
+			"Panel": 1296,
+			"Name": "lua_checkstack/luaL_checkstack c 棧",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2588,
+			"Panel": 1296,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2589,
+			"Panel": 1296,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2590,
+			"Panel": 1297,
+			"Name": "定義模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2591,
+			"Panel": 1297,
+			"Name": "模塊文件 m.lua",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2592,
+			"Panel": 1297,
+			"Name": "main.lua",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2593,
+			"Panel": 1298,
+			"Name": "luaunit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2594,
+			"Panel": 1299,
+			"Name": "使用 luaunit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2595,
+			"Panel": 1299,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2596,
+			"Panel": 1300,
+			"Name": "斷言",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2597,
+			"Panel": 1300,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

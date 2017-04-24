@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 提供了 lua_newuserdata 函數 malloc 一塊內存 useradata\n並入棧\n其生命週期 由 lua 控制\n\n\n\n可以方便的 將 c 結構 和lua用 useradata交互\n\n\n\n利用 原表 可以 將 c++結構 和lua 映射\n//創建一個 原表 入棧 並以字符串與註冊表之關聯 \nluaL_newmetatable\n\n//返回 註冊表中關聯的 原表\nluaL_getmetatable\n\u003c/pre\u003e"

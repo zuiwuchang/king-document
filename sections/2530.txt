@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在比較關係時  兩個table 必須有相同的 元表 否則提交錯誤\n\n但==例外 ==只是直接返回 false\n\u003c/pre\u003e"

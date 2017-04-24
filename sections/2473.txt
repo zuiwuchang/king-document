@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 標識符 可以是 \n任意 字母 數字 下劃線 (不能以字母開頭)\n\u003cstrong\u003e(應該避免像 _VERSION 以下劃線開始後接大寫字母的 標識符 lua將這類標識符作特殊用途)\u003c/strong\u003e\n\n保留字\nand\tbreak\tdo\telse\telseif \nend\tfalse\tfor\tfunction\tif\nin\tlocal\tnil\tnot\tor\nrepeat\treturn\tthen\ttrue\tuntil\nwhile\n\u003c/pre\u003e"

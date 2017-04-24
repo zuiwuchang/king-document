@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//數據文件(好吧 其實就是一個 lua腳本)\n--一個存儲了人物基本信息的 數據文件\nData\t=\t{name\t=\t\"illusive man\"\n\t,hp\t=\t1\n\t,mp\t=\t1\n}\n\n//lua腳本\n--讀取數據\ndofile('data')\n--打印數據\nprint(Data.name)\nprint(Data.hp)\nprint(Data.mp)\n--對於沒有定義的值 當然輸出nil\nprint(Data.pos)\n\u003c/pre\u003e"

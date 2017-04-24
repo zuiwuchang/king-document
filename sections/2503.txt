@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 遇到的所有 未預期處理都會 引發一個 錯誤\n使用 error(錯誤消息) 顯示的引發一個錯誤\n\n像\nif false then error(\"msg\") end\n這樣的操作 是很常見的 \nlua 提供了一個 內建的 assert 函數 完成 此功能\nassert(false,\"msg\")\nassert(false)\n\nassert第一個參數若為 真 返回其值 否則 引發一個錯誤\n\u003c/pre\u003e"

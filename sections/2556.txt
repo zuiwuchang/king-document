@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua以下標1為起始 而非c/c++中 優雅的 0\n\u003c/pre\u003e"

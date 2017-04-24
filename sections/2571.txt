@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua.h 中定義了lua基礎函數  lua_*\nlauxlib.h 為輔助庫函數 luaL_*\n\nload... 函數 將編譯lua腳本 若沒有錯誤 就壓入 lua棧中 並返回0\nlua_pcall 將程序塊從lua棧中彈出 並在保護模式下 運行 若出現錯誤 返回非0 並想lua棧中 壓入一條錯誤信息\n\u003c/pre\u003e"

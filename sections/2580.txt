@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua可以調用的 c函數 \nc函數必須從棧中 獲取 參數(每次函數調用 都擁有私有的棧 同彙編)\n從左到右 第一個參數 在棧中索引為 1\n函數返回值 依次壓入棧中\n\n函數簽名為 \nstatic int fun(lua_State* L)\n其返回值 為 函數 為lua在棧中 返回了多少個值\n\n函數定義完之後 還需要 使用\n#define lua_pushcfunction(L,f)\tlua_pushcclosure(L, (f), 0)\n宏壓入 函數\n以及 將函數 設置到一個 lua全局 變量 以便lua調用\n\u003c/pre\u003e"

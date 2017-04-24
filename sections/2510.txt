@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eresume 可以傳入多個參數 第一個參數 為協程函數 \n之後的參數會被 傳入 協程中\n同時 調用 resume 的協程 進入 normal狀態(暫停執行)\n(如果協程 返回 或 yield resume 返回 true , yield傳入值/return返回值\n否則 返回false 和 錯誤\n[resume 使用協程在 pcall中 運行]\n)\n\nyield 可以傳入多個參數 作為返回值返回 給 resume\n\u003c/pre\u003e"

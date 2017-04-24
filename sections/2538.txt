@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua5開始 允許每個函數聲明一個 自己的環境 來查找全局變量\n\n使用\nsetfenv(f,table)\n可以改變 一個 函數的 環境 \nf   為1(當前函數) 為2(調用當前函數的函數)\ntable 為一個 新的 環境\n\n使用setmetatable設置原方法 __index = _G\n當訪問 不存在變量時 即可 到 全局變量中去訪問 \n\u003c/pre\u003e"

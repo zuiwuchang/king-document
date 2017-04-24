@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 是弱類型語言 在使用變量其不需要聲明 \n然 變量是 存儲在 _G 的table中 只需要 為其定義 元方法 __index ___newindex \n並對為聲明的 變量訪問 返回錯誤 即可\n\n此時通過 rawset 聲明 變量\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在模式中 使用 () 擴起來的 內容 match 會捕獲並且 全部 返回\n\nstr\t=\t\"cerberus 12 Soldier\"\ns1,s2\t=\tstr:match(\"(%a+) %d+ (%a+)\")\nprint(s1)\t--cerberus\nprint(s2)\t--Soldier\n\u003c/pre\u003e"

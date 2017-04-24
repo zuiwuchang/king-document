@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elua 一個快速 簡潔 高效的 腳本語言\n\n官網 \u003ca href=\"http://www.lua.org/\" target=\"_blank\"\u003ehttp://www.lua.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Lua\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/Lua\u003c/a\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e應該 將模塊所有操作 定義到 table 中 以免污染 全局環境\n\u003c/pre\u003e"

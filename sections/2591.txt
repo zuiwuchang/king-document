@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e--獲取模塊名\nlocal modname = ...\n--創建模塊\nlocal M = {}\n\n--加載模塊\npackage.loaded[modname] = M\n\n--為當前模塊 加載全局變量\nsetmetatable(M,{__index = _G})\n\n--將當前環境 設置為創建的模塊\nlocal _ENV = M\n\n--創建模塊方法\nfunction Add( ... )\n\tlocal s=0\n\tfor i,v in ipairs{...} do    \n\t\ts = s + v\n\tend\n\treturn s\nend\n\u003c/pre\u003e"

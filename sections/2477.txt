@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboolean 只有 false true 兩個值\n\nlua將 nil fase 視為假 其他都為 真\n\u003cstrong\u003e字符串 空 數字 0 都為 真\u003c/strong\u003e\n\u003c/pre\u003e"

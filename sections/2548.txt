@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003erequire \"a.b\" \n會加載目錄a下 的 b.lua 模塊 \n(可將模塊 放置到目錄結構中)\n\u003c/pre\u003e"

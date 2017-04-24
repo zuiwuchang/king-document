@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eloadstring/loadfile 在全局的作用域內操作變量\n\nlua 將外部獨立的模塊都 作為一個匿名函數\n\u003c/pre\u003e"
