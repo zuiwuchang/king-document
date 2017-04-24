@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n# python3.5 hellow word\n\nimport sys\nprint(sys.stdout.encoding)\nprint(sys.getdefaultencoding())\n\nprint(\"hellow word\")\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epython 提供了兩種 內置的 Integral 型別 int bool\n在 bool 表達式中 9 False 為 假其他為真\n在數值表達式中 True 為1 False為0\n(i += True 等同 i += 1)\n\n\n\npython 整數 只受限於 內存 默認使用 10進制\n0b...\t二進制\n0x...\t十六進制\n0o...\t八進制\n(亦可使用 大寫 前置引導 如 0X)\n\u003c/pre\u003e"

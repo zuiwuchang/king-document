@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e內置函數 dir() 返回 對象 的 所有 屬性\n不帶參數 返回 python 內置 屬性表 \ndir(__builtins__) 返回 屬性模塊\n\n\npython 變量名 應該避免 以 _ 開頭 結尾 因為 \npython 定義了各種 特殊方法/變量 使用 此方式 命名\n\u003c/pre\u003e"

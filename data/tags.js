@@ -38,7 +38,7 @@ var __v=[
 			"Id": 6,
 			"Pid": 0,
 			"Name": "web",
-			"Sort": 14,
+			"Sort": 16,
 			"Docs": 0
 		},
 		{
@@ -52,14 +52,14 @@ var __v=[
 			"Id": 8,
 			"Pid": 0,
 			"Name": "中華美食",
-			"Sort": 20,
+			"Sort": 22,
 			"Docs": 1
 		},
 		{
 			"Id": 10,
 			"Pid": 0,
 			"Name": "其它",
-			"Sort": 21,
+			"Sort": 23,
 			"Docs": 0
 		},
 		{
@@ -115,21 +115,21 @@ var __v=[
 			"Id": 20,
 			"Pid": 0,
 			"Name": "代理",
-			"Sort": 19,
+			"Sort": 21,
 			"Docs": 5
 		},
 		{
 			"Id": 21,
 			"Pid": 0,
 			"Name": "版本控制",
-			"Sort": 17,
+			"Sort": 19,
 			"Docs": 2
 		},
 		{
 			"Id": 22,
 			"Pid": 0,
 			"Name": "服務器",
-			"Sort": 16,
+			"Sort": 18,
 			"Docs": 3
 		},
 		{
@@ -157,7 +157,7 @@ var __v=[
 			"Id": 27,
 			"Pid": 0,
 			"Name": "分佈式系統",
-			"Sort": 13,
+			"Sort": 15,
 			"Docs": 0
 		},
 		{
@@ -190,9 +190,9 @@ var __v=[
 		},
 		{
 			"Id": 34,
-			"Pid": 0,
+			"Pid": 15,
 			"Name": "開源項目",
-			"Sort": 12,
+			"Sort": 9,
 			"Docs": 0
 		},
 		{
@@ -253,9 +253,9 @@ var __v=[
 		},
 		{
 			"Id": 46,
-			"Pid": 0,
+			"Pid": 71,
 			"Name": "java",
-			"Sort": 10,
+			"Sort": 12,
 			"Docs": 4
 		},
 		{
@@ -276,21 +276,21 @@ var __v=[
 			"Id": 49,
 			"Pid": 0,
 			"Name": "數據庫",
-			"Sort": 18,
+			"Sort": 20,
 			"Docs": 4
 		},
 		{
 			"Id": 50,
-			"Pid": 0,
+			"Pid": 71,
 			"Name": "c",
-			"Sort": 8,
+			"Sort": 10,
 			"Docs": 1
 		},
 		{
 			"Id": 51,
-			"Pid": 0,
+			"Pid": 71,
 			"Name": "c++",
-			"Sort": 9,
+			"Sort": 11,
 			"Docs": 5
 		},
 		{
@@ -318,7 +318,7 @@ var __v=[
 			"Id": 57,
 			"Pid": 0,
 			"Name": "hacker",
-			"Sort": 15,
+			"Sort": 17,
 			"Docs": 1
 		},
 		{
@@ -351,7 +351,7 @@ var __v=[
 		},
 		{
 			"Id": 62,
-			"Pid": 0,
+			"Pid": 15,
 			"Name": "遊戲開發",
 			"Sort": 4,
 			"Docs": 0
@@ -400,9 +400,30 @@ var __v=[
 		},
 		{
 			"Id": 69,
-			"Pid": 0,
+			"Pid": 71,
 			"Name": "c#",
-			"Sort": 11,
+			"Sort": 13,
+			"Docs": 1
+		},
+		{
+			"Id": 70,
+			"Pid": 71,
+			"Name": "scripts",
+			"Sort": 14,
+			"Docs": 0
+		},
+		{
+			"Id": 71,
+			"Pid": 15,
+			"Name": "編程語言",
+			"Sort": 8,
+			"Docs": 0
+		},
+		{
+			"Id": 72,
+			"Pid": 70,
+			"Name": "python",
+			"Sort": 1,
 			"Docs": 1
 		},
 		{

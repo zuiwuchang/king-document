@@ -16994,5 +16994,68 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2454,
+			"Panel": 1230,
+			"Name": "python",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2455,
+			"Panel": 1230,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2456,
+			"Panel": 1230,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2457,
+			"Panel": 1231,
+			"Name": "python 要素",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2458,
+			"Panel": 1232,
+			"Name": "標識符",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2459,
+			"Panel": 1233,
+			"Name": "整數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2460,
+			"Panel": 1233,
+			"Name": "常規操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2461,
+			"Panel": 1234,
+			"Name": "浮點",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2462,
+			"Panel": 1235,
+			"Name": "字符串",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

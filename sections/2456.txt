@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e3.X 以前python使用 ascii編碼 \n3.X開始 使用 unicode (4 字節編碼)編碼\n\n\n\npython 使用 # 註釋單行\npython 沒有多行註釋\n\u003c/pre\u003e"

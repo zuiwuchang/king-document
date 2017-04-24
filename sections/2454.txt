@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1989 研發 1991年開始發布的 一個 跨平台 弱型別 自動內存 腳本語言\n目前出現 2.X 3.X 版本分裂\n\n官網 \u003ca href=\"https://www.python.org/\" target=\"_blank\"\u003ehttps://www.python.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Python\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/Python\u003c/a\u003e\n\u003c/pre\u003e"
