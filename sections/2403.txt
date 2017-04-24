@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 支持在不改變 一個類 源碼的 情況下 創建新的 static class 為其擴展 方法\n\u003c/pre\u003e"

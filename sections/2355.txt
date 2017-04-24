@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 允許將 class 定義到多個 文件\n但在 主文件之外的定義時 class前 都需要加上 partial修飾符\n\u003c/pre\u003e"

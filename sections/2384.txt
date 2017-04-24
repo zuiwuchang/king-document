@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 在 System.Collections.Generic 中 提供了 一些 已定義的 容器\n\nList\t\tstd::vector\nHashSet\t\tboost::unordered_set\n\u003c/pre\u003e"

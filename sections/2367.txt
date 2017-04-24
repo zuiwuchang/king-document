@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# foreach 使用 IEnumerable IEnumerator 接口 遍歷集合\n\u003c/pre\u003e"

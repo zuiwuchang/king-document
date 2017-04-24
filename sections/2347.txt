@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 對結構 默認使用 值傳遞 對類使用 引用傳遞\n\u003c/pre\u003e"

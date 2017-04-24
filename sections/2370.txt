@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e除了 實現 IEnumerator 接口外 c# 提供了yield\n用於 簡單的 實現 foreach \n雖然這 只會讓語言變得 難以理解 無可救藥 但的確 節省了鍵盤磨損\n\u003c/pre\u003e"

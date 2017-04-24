@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eclass Cat\n{\n   \n    public void Fight(Object obj)\n    {\n        Console.WriteLine(\"cat kill {0}\",obj);\n    }\n}\nstatic void Main(string[] args)\n{\n    Cat cat = new Cat();\n    ThreadPool.QueueUserWorkItem(new WaitCallback(cat.Fight),\"皮卡丘\"/*不參入 為null*/));\n    \n    Console.ReadLine();\n}\u003c/pre\u003e"

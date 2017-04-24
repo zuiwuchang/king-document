@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 Func 路由到多個 方法\n最後的 方法 返回值 作為 Func 的 返回值\n\u003c/pre\u003e"

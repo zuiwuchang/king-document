@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e關鍵字 var 類似 c++11的 auto\n\u003c/pre\u003e"

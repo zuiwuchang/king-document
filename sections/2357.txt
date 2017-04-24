@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec#中 使用 virtual 定義 虛函數 子類 使用 override 重寫子類\n\n在 class 前 加上 abstract 定義一個 不能被 實例化的 抽象類\n\u003c/pre\u003e"

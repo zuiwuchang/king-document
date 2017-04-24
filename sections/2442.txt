@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eFileStream 提供了文件 讀寫能力\n\u003c/pre\u003e"

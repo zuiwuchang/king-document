@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 as 關鍵字 如果 沒實現 將 返回 null 否則 返回 接口 引用\nIFight fight = cat as IFight;\nif (fight != null)\n{\n    fight.Attack();\n}\n\u003c/pre\u003e\n"

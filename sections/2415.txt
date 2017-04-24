@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了一個 IDisposable 接口 其中定義了一個 Dispose方法\n用於 手動釋放 資源\n\n同時 提供了一個 using 的語法糖 用於簡寫\nXXX xxx = new XXX(...)\ntry\n{\n\n}\nfinally\n{\n\txxx.Dispose();\t\n}\n\u003c/pre\u003e"

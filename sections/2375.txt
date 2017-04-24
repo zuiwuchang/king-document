@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 從 .net2.0 開始 註冊 泛型 其相關實現 在 \nSystem.Collections.Generic 中\nSystem.Collections 中 包含了 非泛型 容器\n\u003c/pre\u003e"

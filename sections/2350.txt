@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003einternal 可和 其他3個修飾符 連用\n(protected internal)\n\npublic不可用於 嵌套 類型\n\nclass 默認被設置為internal 其成員被設置為private\n\u003c/pre\u003e"

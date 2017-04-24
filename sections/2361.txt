@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec#支持 動態 判斷 是否實現 某 接口 \n\u003c/pre\u003e"

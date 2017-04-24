@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 的 char string 使用 unicode 編碼(wchar_t)\n\n\n//輸出 {}\nConsole.WriteLine(\"{{0}}\");\n\nc# 在定義字符串前 加上@ 字符串將不會被轉義\nConsole.WriteLine(@\"\\n\");\t//輸出 \\n 而非 換行\n\n雖然 string 也引用 然 C#可以重載 運算符 \n故 在 == != 是調用的 Equals 比較 而不是 直接比較的 引用地址\n然 string 和java中類似(java中必須使用 Equals 比較字符串是否相等) 字符串是不可變的\n\u003c/pre\u003e\n"

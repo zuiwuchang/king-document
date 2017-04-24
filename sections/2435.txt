@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了一個 線程池 使用 ThreadPool 的static 方法 操作\nThreadPool 的線程 都是 後台 線程 且無法 修改 優先級 中斷...\n\u003c/pre\u003e"

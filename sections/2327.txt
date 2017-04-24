@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSystem.Console 提供了 控制台 操作api\n\nConsole.BackgroundColor\nConsole.ForegroundColor\n屬性 指定了 控制台 文件 背景色/前景色\n\nWrite WriteLine 提供了 輸出功能\nc#支持以 {n} {n:型別} 佔位符的方式 格式化 替代c的printf\nn 從0 開始 計數\n\n型別字符串\n:C/:c\t格式化貨幣 $\n:D/:d\t十進制 數字\n:E/:e\t指數計數法\n:F/:f\t指定小數點填充\n:G/:g\t\n:N/:n\n:X/:x\t十六進制\n\u003c/pre\u003e"

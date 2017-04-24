@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSystem.GC 提供了 和gc交互的 static 方法\n一般 c# 程序都 不需要 調用\n然 在 和 c交互 用到 非託管資源時 這將 有用\n\u003c/pre\u003e"

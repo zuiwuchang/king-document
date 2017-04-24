@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eThread 構造後 需要調用 Start 才能創建並運行 線程\n\nThread 默認創建的 是前台線程 在Start前 設置 Thread.IsBackground = true 將創建 後台 線程\nC# 和其它語言不同 它不是等待 主線程 結束 而是 等待所有前台線程結束 才結束程序\n\u003c/pre\u003e"

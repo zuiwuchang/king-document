@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCLR Common Language Runtime 公共語言運行庫 負責定位 加載 管理.net型別 內存管理 應用託管 線程 安全檢查 ...\n\nCTS Common Type System 公共類型系統 描述了 運行庫 支持的所有可能的 數據型別 編程結構子集\n\nCLS Common Language Specification 公共語言規範 定義了 所有.net語言都支付的 .net 特性 符合 CLS的代碼 可以在所有 .net語言間兼容\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSystem.Collections 中 包含了 非泛型 容器 \n\nArrayList\nBitArray\nHashtable\nQueue\nSortedList\nStack\n\u003c/pre\u003e"

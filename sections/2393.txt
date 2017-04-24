@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003epublic delegate int Show(string name);\n   \nstatic void Main(string[] args)\n{\n\n    Show show = new Show(delegate(string name)\n        {\n            Console.WriteLine(name);\n            return 1;\n        }\n    );\n    show(\"king\");\n}\u003c/pre\u003e"

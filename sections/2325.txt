@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e.net 提供了 namespace 特性\n\nc#使用 \nusing XXX.XXX\n導入名字空間\n\u003c/pre\u003e"

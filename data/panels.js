@@ -1073,10 +1073,118 @@ var __v={
 			"Name": "how to",
 			"Sort": 0
 		},
+		"1162": {
+			"Id": 1162,
+			"Chapter": 379,
+			"Name": "c#",
+			"Sort": 0
+		},
+		"1163": {
+			"Id": 1163,
+			"Chapter": 379,
+			"Name": "namespace",
+			"Sort": 0
+		},
+		"1164": {
+			"Id": 1164,
+			"Chapter": 379,
+			"Name": "csc.exe",
+			"Sort": 0
+		},
+		"1165": {
+			"Id": 1165,
+			"Chapter": 380,
+			"Name": "Console",
+			"Sort": 0
+		},
+		"1166": {
+			"Id": 1166,
+			"Chapter": 380,
+			"Name": "型別",
+			"Sort": 0
+		},
+		"1167": {
+			"Id": 1167,
+			"Chapter": 380,
+			"Name": "StringBuilder",
+			"Sort": 0
+		},
+		"1168": {
+			"Id": 1168,
+			"Chapter": 380,
+			"Name": "checked/unchecked",
+			"Sort": 0
+		},
+		"1169": {
+			"Id": 1169,
+			"Chapter": 380,
+			"Name": "var",
+			"Sort": 0
+		},
 		"117": {
 			"Id": 117,
 			"Chapter": 50,
 			"Name": "interface 接口",
+			"Sort": 0
+		},
+		"1170": {
+			"Id": 1170,
+			"Chapter": 380,
+			"Name": "流程控制",
+			"Sort": 0
+		},
+		"1171": {
+			"Id": 1171,
+			"Chapter": 380,
+			"Name": "參數修飾符",
+			"Sort": 0
+		},
+		"1172": {
+			"Id": 1172,
+			"Chapter": 380,
+			"Name": "命名參數",
+			"Sort": 0
+		},
+		"1173": {
+			"Id": 1173,
+			"Chapter": 380,
+			"Name": "數組",
+			"Sort": 0
+		},
+		"1174": {
+			"Id": 1174,
+			"Chapter": 380,
+			"Name": "枚舉",
+			"Sort": 0
+		},
+		"1175": {
+			"Id": 1175,
+			"Chapter": 380,
+			"Name": "結構",
+			"Sort": 0
+		},
+		"1176": {
+			"Id": 1176,
+			"Chapter": 381,
+			"Name": "static",
+			"Sort": 0
+		},
+		"1177": {
+			"Id": 1177,
+			"Chapter": 381,
+			"Name": "訪問權限 修飾符",
+			"Sort": 0
+		},
+		"1178": {
+			"Id": 1178,
+			"Chapter": 381,
+			"Name": "get set",
+			"Sort": 0
+		},
+		"1179": {
+			"Id": 1179,
+			"Chapter": 381,
+			"Name": "const",
 			"Sort": 0
 		},
 		"118": {
@@ -1085,10 +1193,130 @@ var __v={
 			"Name": "goroutine",
 			"Sort": 0
 		},
+		"1180": {
+			"Id": 1180,
+			"Chapter": 381,
+			"Name": "partial",
+			"Sort": 0
+		},
+		"1181": {
+			"Id": 1181,
+			"Chapter": 381,
+			"Name": "派生",
+			"Sort": 0
+		},
+		"1182": {
+			"Id": 1182,
+			"Chapter": 381,
+			"Name": "virtual",
+			"Sort": 0
+		},
+		"1183": {
+			"Id": 1183,
+			"Chapter": 382,
+			"Name": "異常",
+			"Sort": 0
+		},
+		"1184": {
+			"Id": 1184,
+			"Chapter": 383,
+			"Name": "接口",
+			"Sort": 0
+		},
+		"1185": {
+			"Id": 1185,
+			"Chapter": 383,
+			"Name": "動態判斷 是否 實現接口",
+			"Sort": 0
+		},
+		"1186": {
+			"Id": 1186,
+			"Chapter": 383,
+			"Name": "多接口 重名",
+			"Sort": 0
+		},
+		"1187": {
+			"Id": 1187,
+			"Chapter": 383,
+			"Name": "IEnumerable IEnumerator",
+			"Sort": 0
+		},
+		"1188": {
+			"Id": 1188,
+			"Chapter": 383,
+			"Name": "yield",
+			"Sort": 0
+		},
+		"1189": {
+			"Id": 1189,
+			"Chapter": 383,
+			"Name": "ICloneable",
+			"Sort": 0
+		},
 		"119": {
 			"Id": 119,
 			"Chapter": 51,
 			"Name": "channel",
+			"Sort": 0
+		},
+		"1190": {
+			"Id": 1190,
+			"Chapter": 383,
+			"Name": "IComparable",
+			"Sort": 0
+		},
+		"1191": {
+			"Id": 1191,
+			"Chapter": 384,
+			"Name": "泛型",
+			"Sort": 0
+		},
+		"1192": {
+			"Id": 1192,
+			"Chapter": 384,
+			"Name": "System.Collections",
+			"Sort": 0
+		},
+		"1193": {
+			"Id": 1193,
+			"Chapter": 384,
+			"Name": "裝箱 拆箱",
+			"Sort": 0
+		},
+		"1194": {
+			"Id": 1194,
+			"Chapter": 384,
+			"Name": "泛型容器",
+			"Sort": 0
+		},
+		"1195": {
+			"Id": 1195,
+			"Chapter": 384,
+			"Name": "標準容器",
+			"Sort": 0
+		},
+		"1196": {
+			"Id": 1196,
+			"Chapter": 385,
+			"Name": "委託",
+			"Sort": 0
+		},
+		"1197": {
+			"Id": 1197,
+			"Chapter": 385,
+			"Name": "Action Func",
+			"Sort": 0
+		},
+		"1198": {
+			"Id": 1198,
+			"Chapter": 385,
+			"Name": "事件",
+			"Sort": 0
+		},
+		"1199": {
+			"Id": 1199,
+			"Chapter": 385,
+			"Name": "匿名方法",
 			"Sort": 0
 		},
 		"120": {
@@ -1097,16 +1325,190 @@ var __v={
 			"Name": "select",
 			"Sort": 0
 		},
+		"1200": {
+			"Id": 1200,
+			"Chapter": 385,
+			"Name": "lambda",
+			"Sort": 0
+		},
+		"1202": {
+			"Id": 1202,
+			"Chapter": 386,
+			"Name": "[]",
+			"Sort": 0
+		},
+		"1203": {
+			"Id": 1203,
+			"Chapter": 386,
+			"Name": "operator",
+			"Sort": 0
+		},
+		"1204": {
+			"Id": 1204,
+			"Chapter": 386,
+			"Name": "強制轉換 explicit/implicit",
+			"Sort": 0
+		},
+		"1205": {
+			"Id": 1205,
+			"Chapter": 386,
+			"Name": "擴展方法",
+			"Sort": 0
+		},
+		"1206": {
+			"Id": 1206,
+			"Chapter": 386,
+			"Name": "不安全代碼",
+			"Sort": 0
+		},
+		"1207": {
+			"Id": 1207,
+			"Chapter": 386,
+			"Name": "fixed",
+			"Sort": 0
+		},
+		"1208": {
+			"Id": 1208,
+			"Chapter": 387,
+			"Name": "gc",
+			"Sort": 0
+		},
+		"1209": {
+			"Id": 1209,
+			"Chapter": 387,
+			"Name": "System.GC",
+			"Sort": 0
+		},
 		"121": {
 			"Id": 121,
 			"Chapter": 51,
 			"Name": "sync 包",
 			"Sort": 0
 		},
+		"1210": {
+			"Id": 1210,
+			"Chapter": 387,
+			"Name": "Finalize",
+			"Sort": 0
+		},
+		"1211": {
+			"Id": 1211,
+			"Chapter": 387,
+			"Name": "IDisposable",
+			"Sort": 0
+		},
+		"1212": {
+			"Id": 1212,
+			"Chapter": 388,
+			"Name": "namespace",
+			"Sort": 0
+		},
+		"1213": {
+			"Id": 1213,
+			"Chapter": 389,
+			"Name": "反射",
+			"Sort": 0
+		},
+		"1214": {
+			"Id": 1214,
+			"Chapter": 390,
+			"Name": "ADO.NET",
+			"Sort": 0
+		},
+		"1215": {
+			"Id": 1215,
+			"Chapter": 390,
+			"Name": "Common",
+			"Sort": 0
+		},
+		"1216": {
+			"Id": 1216,
+			"Chapter": 391,
+			"Name": "多線程",
+			"Sort": 0
+		},
+		"1217": {
+			"Id": 1217,
+			"Chapter": 391,
+			"Name": "Thread",
+			"Sort": 0
+		},
+		"1218": {
+			"Id": 1218,
+			"Chapter": 391,
+			"Name": "中斷線程",
+			"Sort": 0
+		},
+		"1219": {
+			"Id": 1219,
+			"Chapter": 391,
+			"Name": "同步",
+			"Sort": 0
+		},
 		"122": {
 			"Id": 122,
 			"Chapter": 52,
 			"Name": "單元測試",
+			"Sort": 0
+		},
+		"1220": {
+			"Id": 1220,
+			"Chapter": 391,
+			"Name": "Timer",
+			"Sort": 0
+		},
+		"1221": {
+			"Id": 1221,
+			"Chapter": 391,
+			"Name": "ThreadPool",
+			"Sort": 0
+		},
+		"1222": {
+			"Id": 1222,
+			"Chapter": 392,
+			"Name": "System.IO",
+			"Sort": 0
+		},
+		"1223": {
+			"Id": 1223,
+			"Chapter": 392,
+			"Name": "DirectoryInfo",
+			"Sort": 0
+		},
+		"1224": {
+			"Id": 1224,
+			"Chapter": 392,
+			"Name": "DriveInfo",
+			"Sort": 0
+		},
+		"1225": {
+			"Id": 1225,
+			"Chapter": 392,
+			"Name": "FileStream",
+			"Sort": 0
+		},
+		"1226": {
+			"Id": 1226,
+			"Chapter": 392,
+			"Name": "對象序列化",
+			"Sort": 0
+		},
+		"1227": {
+			"Id": 1227,
+			"Chapter": 393,
+			"Name": "System.Net.Sockets",
+			"Sort": 0
+		},
+		"1228": {
+			"Id": 1228,
+			"Chapter": 393,
+			"Name": "同步",
+			"Sort": 0
+		},
+		"1229": {
+			"Id": 1229,
+			"Chapter": 393,
+			"Name": "異步",
 			"Sort": 0
 		},
 		"124": {

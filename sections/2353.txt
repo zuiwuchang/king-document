@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 屬性 只有 set/get 就是 只寫/讀 屬性\n\nstatic 變量 也可以 創建屬性 此時 屬性前也需要 加 static 修飾\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSystem.Threading中 提供了一個 Timer 類 用於 週期性 執行統一操作\n\u003c/pre\u003e"

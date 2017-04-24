@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e裝箱 會 從新 創建 一份 值型別的 副本\n拆箱 會返回 副本\n\n如果 拆箱 型別 和裝箱 不同 將 拋出 InvalidCastException\n\u003c/pre\u003e"

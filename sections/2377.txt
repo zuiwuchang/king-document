@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eArrayList animals = new ArrayList();\nanimals.AddRange(new string[]{\"可達鴨\", \"卡帝狗\"});\nanimals.Add(\"喵貓\");\nforeach (var animal in animals)\n{\n\tConsole.WriteLine(animal);\n}\u003c/pre\u003e"

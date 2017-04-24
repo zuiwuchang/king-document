@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了 System.Text.StringBuilder 類 處理字符串\n以避免 string 類 產生 大量無用臨時 string的 問題\n\u003c/pre\u003e"

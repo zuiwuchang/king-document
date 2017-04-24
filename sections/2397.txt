@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了極其彆扭的 重載 [] 寫法\n\u003c/pre\u003e"

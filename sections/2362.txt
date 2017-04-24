@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e直接 強制 轉換 即可 如果 沒實現 將 拋出 System.InvalidCastException 異常\n\u003c/pre\u003e"

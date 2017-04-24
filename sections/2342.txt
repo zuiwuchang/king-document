@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSystem.Array 提供了 同數組 通用的 操作 方法\n\nClear()\t\t將數組 設置為空值(0 null false \"\")\nCopyTo()\nLength\nRank\nReverse\nSort\t\t使用 IComparer 接口 排序\n\u003c/pre\u003e"

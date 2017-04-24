@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSystem.Net.Sockets 相對 同步操作 提供了 異步 api\nBeginXXX EndXXX\n\n一般用 BeginXXX 替換同步 XXX\n在 BeginXXX AsyncCallback 中 需要 調用 EndXXX 通知數據已被處理\n\u003c/pre\u003e"

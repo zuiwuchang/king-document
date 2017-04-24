@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e每次 調用 MoveNext 後 才會 調用Current\n故 獲取 第1個元素時 MoveNext 已經被調用了1次\n故第一次 調用 MoveNext 後 游標 才能設置到 第一個元素 \n而非 構造時 游標 就指向第一個元素\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e定義了 隱示轉換 後 可以直接使用 顯示轉換\n\u003c/pre\u003e"

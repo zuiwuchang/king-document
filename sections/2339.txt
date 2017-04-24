@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eclass Program\n{\n    static void Main(string[] args)\n    {\n        Show(\"illusive man\",power:9);\n    }\n    static void Show(string name = \"king\",int lv=1,int power = 10)\n    {\n        Console.WriteLine(\"{0} {1} {2}\",name,lv,power);\n    }\n   \n}\u003c/pre\u003e"

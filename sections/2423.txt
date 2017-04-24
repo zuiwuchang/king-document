@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclass System.Threading.Thread 是線程的 核心\n\n其 static 屬性 CurrentThread 可返回當前 線程的 引用\n...\tCurrentContext ... 上下文\n\n要創建 一個 thread 只需要 創建 一個 Thread 的實例\n並調用 Start 方法 即可\n\u003c/pre\u003e"

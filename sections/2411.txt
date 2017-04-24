@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//立刻進行 一次 gc 垃圾清理\nvoid Collect()\n\n//掛起當前 線程 直到所有垃圾 被gc回收 一般 在Collect之後 立刻調用\nvoid WaitForPendingFinalizers()\n\u003c/pre\u003e"

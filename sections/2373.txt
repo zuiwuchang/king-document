@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eICloneable 接口 用於 返回一個 引用 型別的 副本\n\u003c/pre\u003e"

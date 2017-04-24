@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 class 定義 前 加上 \nusing System.Runtime.Remoting.Contexts;\n[Synchronization]\n可 使用 整個 類 操作 都 自動 同步\n\n[Synchronization]\nclass Cat\n{\n    public void Speak()\n    {\n        Console.Write(\"給貓金幣\");\n    }\n}\n\u003c/pre\u003e"

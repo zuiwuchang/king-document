@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eThread(ThreadStart)\n\t\u003cstrong\u003epublic delegate void ThreadStart()\u003c/strong\u003e\n\nThread(ParameterizedThreadStart)\n\t\u003cstrong\u003epublic delegate void ParameterizedThreadStart(Object obj)\u003c/strong\u003e\n\u003c/pre\u003e"

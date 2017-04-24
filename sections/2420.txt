@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了 ADO.NET 用於 操作 數據庫\n\nSystem.Data.OleDb\nSystem.Data.Odbc\nSystem.Data.SqlClient\n分片 提供了 對 ole odbc sqlserver 的操作能力\n\nSystem.Data.Common 下 提供了 抽象的 DbXXX 實現 對 上述 數據庫 的隱藏\n\u003c/pre\u003e"

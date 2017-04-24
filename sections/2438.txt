@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirectoryInfo 提供了對 os 文件系統的 操作 能力 \n(Directory 的 static 方法 提供了類似 功能 然 其 參數 返回值 大多為 string \n而非 像 DirectoryInfo 一樣 需要 class)\n\u003c/pre\u003e"

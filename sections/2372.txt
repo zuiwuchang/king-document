@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e每次 foreach 執行到 yield 位置 返回\n下次 foreach 接在 之前 yield 之後 執行 直到 下個 yield\n\u003c/pre\u003e"

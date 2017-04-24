@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eref 參數在傳遞給 函數前 必須 賦初始值 out 則不需要\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003etry\n{\n\n}\ncatch(...)\n{\n\t//將當前捕獲的 異常 直接重新 拋出\n\tthrow;\n}\ncatch(...)\n{\n\t\n}\n//同 c++ catch(...)\ncatch\n{\n\t\n}\nfinally\n{\n\t\n}\u003c/pre\u003e"

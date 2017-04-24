@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003evar str = new StringBuilder(\"cerberus it's an idea\\n\");\nstr.AppendFormat(\"i work for {0}\", \"cerberus\".ToUpper());\nConsole.WriteLine(str);\u003c/pre\u003e"

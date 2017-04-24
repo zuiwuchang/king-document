@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了 所謂的 裝箱 拆箱 用於 用 System.Object \u0026lt;=\u0026gt; 值型\n雖然 這是個 醜陋 難以理解的 蹩腳設計 但 ms 的 蹩腳設計從來都不 孤單\n\u003c/pre\u003e"

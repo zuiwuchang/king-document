@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eclass Cat\n{\n    public int Lv;\n}\nstatic void Main(string[] args)\n{\n    unsafe\n    {\n        Cat cat = new Cat();\n        cat.Lv = 10;\n        fixed (int* ptr = \u0026amp;cat.Lv)\n        {\n            Console.WriteLine(*ptr);\n        }\n    }\n}\u003c/pre\u003e"

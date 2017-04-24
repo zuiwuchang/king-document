@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了所謂的 屬性 (和變量 建立的 映射)\n替代 傳統的 GetXXX SetXXX 方法\n且 讓 操作屬性 看起來 就想 操作 變量一樣\n\u003c/pre\u003e"

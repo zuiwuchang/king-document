@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estatic 用於 定義 靜態 變量 方法\nc#還可以 在 class 前 加 static 這樣的class 不能被 new 創建\n\u003c/pre\u003e"

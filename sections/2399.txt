@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了 操作符 重載\n寫法 基本 同 c++ 只是 其必須 為 class 的 static 方法\n\u003c/pre\u003e"

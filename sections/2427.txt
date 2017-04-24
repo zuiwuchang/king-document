@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了 類似 boost interrupt 的功能\n\nThread.Interrupt 引發一個 線程 中斷 拋出ThreadInterruptedException 異常\n\u003c/pre\u003e"

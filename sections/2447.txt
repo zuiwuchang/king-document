@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eBinaryFormatter 序列化的 二進制 數據 保存了 .net 信息 \n故和 c++中 直接 保存的內存 二進制數據是不同的\n\nXmlSerializer 將序列化到 utf8 字符串\n且 XmlSerializer 要求 被序列化 的 class 為 public\n\n序列化 會將 祖先類的 數據 一起 序列化\n\u003c/pre\u003e"

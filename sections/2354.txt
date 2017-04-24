@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 使用 const 定義 常量 \n且 class的 常量成員 默認都是static\nclass XXX\n{\n    public const PI = 3.14;\n}\n\nreadonly 修飾 class 的 只讀變量\n只讀變量 只可以在 定義時設置值 或在 class的構造函數中 設置值 \n\nstatic readonly 變量 只可在 定義時設置值 或在 class的static構造函數中 設置值 \n\u003c/pre\u003e\n"

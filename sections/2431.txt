@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eInterlocked 提供了 數值 的原子操作\n\nint l = 0,r=1;\nInterlocked.Increment(ref l);   //+1\nInterlocked.Decrement(ref l);   //-1;\nInterlocked.Exchange(ref l, r); //l = r\nInterlocked.Add(ref l, 5);      //+n\nInterlocked.Add(ref l, -5);     //-n\n\u003c/pre\u003e"

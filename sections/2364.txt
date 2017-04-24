@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 is 關鍵字 \n(用法 同 as 只是 返回值 為 true/false)\n\u003c/pre\u003e"

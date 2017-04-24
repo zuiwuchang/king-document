@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eusing NewSystem = System;\n\nnamespace ConsoleApplication\n{\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            NewSystem.Console.WriteLine(\"hellow word\");\n        }\n    }\n}\u003c/pre\u003e"

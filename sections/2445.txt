@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了 簡單 的 序列化 方式\n只需要 為 class 加上 [Serializable] 標記 即可\n[NonSerialized] 可 讓 指定 成員 不被序列化\n\u003c/pre\u003e"

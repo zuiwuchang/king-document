@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eFinalize 不會在對象不被使用時 立刻 被調用 \nFinalize 在GC 清理垃圾時 在銷毀對象前 被調用\n\n對於 struct 無法 提供 Finalize方法 c#中 結構 是 值類型\nFinalize 只能使用在 引用類型中\n\n\nFinalize 中 僅應該進行 非託管資源的 釋放 而不幹其它任何事\n\u003c/pre\u003e"

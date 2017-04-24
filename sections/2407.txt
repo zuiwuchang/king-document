@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 unsafe 代碼中 創建了 實例 並與之交互\n需要 使用 fixed 鎖定 實例 以免 其被 GC 在操作實例時 回收掉\n\u003c/pre\u003e"

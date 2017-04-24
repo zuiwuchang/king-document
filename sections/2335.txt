@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebreak\ncontinue\ngoto\n\nfor(;;)\n{\n\n}\n\nfor(var ... in ...)\n{\n\n}\n\nwhile(...)\n{\n\n}\n\ndo\n{\n\n}while(...);\n\n\nif(...)\n{\n\n}\nelse if(...)\n{\n\n}\nelse\n{\n\n}\n\nswitch(...)\n{\ncase ?:\nbreak;\ndefault:\nbreak;\n}\n\u003c/pre\u003e"

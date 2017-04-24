@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSystem.Net.Sockets 對 win32 socket API 進行了 封裝\n操作 基本 同 win32 api\n然 比 win32 api 更加好用\n\u003c/pre\u003e"

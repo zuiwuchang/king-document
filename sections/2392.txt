@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 可以使用 delegate 創建 匿名 函數\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 default(T) 初始化 數據 類似c++的 T()\n\u003c/pre\u003e"

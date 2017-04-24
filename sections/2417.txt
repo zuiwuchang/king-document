@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 提供了 namespace\n其 namespace 提供了 別名 功能\n\u003c/pre\u003e"

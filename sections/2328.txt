@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003estatic void Main(string[] args)\n{\n    \n    Console.BackgroundColor = ConsoleColor.Blue;\n    Console.ForegroundColor = ConsoleColor.Red;\n    Console.WriteLine(\"i work for {0}\\n{0} it's an idea\",\"cerberus\");\n}\u003c/pre\u003e"

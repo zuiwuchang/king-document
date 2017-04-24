@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 允許 使用explicit/implicit關鍵字 重載 強制轉換 操作符 \n\nexplicit 定義 顯示轉換\nimplicit 定義 隱示轉換\n\u003c/pre\u003e"

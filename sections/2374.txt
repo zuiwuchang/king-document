@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIComparable 接口 用於 比較對象\n\npublic interface IComparable\n{\n\t//this \u0026gt; o return 正數\n\t//this \u0026lt; o return 負數\n\t//== return 0\n\tint CompareTo(object o)\n}\n\u003c/pre\u003e"

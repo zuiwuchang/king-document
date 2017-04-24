@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec#中 子類只能從1個 基類派生\n\n如果 在 class 前 加上 sealed 修飾符 class 將 不能被 繼承\n\nc#在子類 構造中 使用 :base(...) 選擇 使用的 基類 構造函數\n\u003c/pre\u003e"

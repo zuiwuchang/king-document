@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eint lv = 999;\n//裝箱\nObject obj = lv;\n\nobj = 10;\ntry\n{\n\t//拆箱\n\tConsole.WriteLine(\"{0} {1}\", lv, (int)obj);//999 10\n}\ncatch (InvalidCastException)\n{\n}\n\u003c/pre\u003e"

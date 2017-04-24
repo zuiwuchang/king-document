@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e.net 提供了一個 protected override void Finalize() 在gc清除垃圾後\n調用 釋放 自定義 資源\n然 對於 c# 一般不重寫 次方法 而且 創建 默認權限的析構方法 ~XXX()\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec#的 Action 提供了 類似 boost::bind boost::function 的功能\n\n不過 Action 返回值 只能是 void 故 定義時 不需要寫出 返回值\nFunc 提供了 返回值\n\u003c/pre\u003e"

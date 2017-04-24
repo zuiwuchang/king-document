@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eclass Cat\n{\n    ~Cat()\n    {\n        Console.WriteLine(\"Cat is die\");\n    }\n}\n\nstatic void Main(string[] args)\n{\n    new Cat();\n    GC.Collect();\n    GC.WaitForPendingFinalizers();\n}\u003c/pre\u003e"

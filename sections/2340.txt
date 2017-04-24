@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 數組 基本 同 c++ 只是 其二維數組 可以允許 每行的 長度不同\n且 Length 屬性 記錄了 數組長度\n\u003c/pre\u003e"

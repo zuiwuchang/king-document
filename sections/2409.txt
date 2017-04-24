@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec# 使用 garbage collection 管理 內存\n\nc# 同其它 gc 語言 一樣 資源成為垃圾 後 不能保證 資源 立刻被釋放\n需要等到 下次 gc 清理 垃圾 才能被釋放\n\nc# 的 gc 使用 引用對象遍歷 而非 boost的引用計數方式\n\u003c/pre\u003e"
