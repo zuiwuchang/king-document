@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopenssl 是一個開源 跨平臺的  c程式庫 實現了 一般用來實現 安全的通信\n\n官網 \u003ca href=\"https://www.openssl.org/\" target=\"_blank\"\u003ehttps://www.openssl.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/OpenSSL\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/OpenSSL\u003c/a\u003e\n\u003c/pre\u003e"
