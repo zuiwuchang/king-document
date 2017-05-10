@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003epackage main\n\nimport (\n\t\"log\"\n\t\"os\"\n\t\"os/exec\"\n)\n\nfunc main() {\n\t//創建進程\n\tcmd := exec.Command(\"bash\", \"-c\", \"echo $PATH\")\n\t//重定位 io 流\n\tcmd.Stdout = os.Stdout\n\n\t//運行 進程 並等待其結束\n\te := cmd.Run()\n\tif e != nil {\n\t\t//無法啓動進程 或進程 返回非0\n\t\tlog.Fatal(e)\n\t}\n}\n\u003c/pre\u003e"

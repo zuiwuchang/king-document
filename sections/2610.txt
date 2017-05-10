@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建一個 命令進程\nfunc Command(name string, arg ...string) *Cmd\n\n//運行 進程\nfunc (c *Cmd) Start() error\n\n//等待進程 並釋放資源 (如果進程返回 非0 將返回 error 否則 返回 nil)\nfunc (c *Cmd) Wait() error\n\n//Start and Wait \nfunc (c *Cmd) Run() error\n\u003c/pre\u003e"

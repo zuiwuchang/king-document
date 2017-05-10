@@ -106,5 +106,11 @@ var __v=[
 			"Doc": 17,
 			"Name": "path/filepath",
 			"Sort": 227
+		},
+		{
+			"Id": 420,
+			"Doc": 17,
+			"Name": "os/exec",
+			"Sort": 275
 		}
 	]
