@@ -87,25 +87,25 @@ var __v={
 			"Id": 1011,
 			"Chapter": 341,
 			"Name": "boost",
-			"Sort": 0
+			"Sort": 5
 		},
 		"1012": {
 			"Id": 1012,
 			"Chapter": 341,
 			"Name": "環境配置",
-			"Sort": 0
+			"Sort": 4
 		},
 		"1013": {
 			"Id": 1013,
 			"Chapter": 341,
 			"Name": "編譯boost",
-			"Sort": 0
+			"Sort": 3
 		},
 		"1014": {
 			"Id": 1014,
 			"Chapter": 341,
 			"Name": "嵌入源碼",
-			"Sort": 0
+			"Sort": 1
 		},
 		"1015": {
 			"Id": 1015,
@@ -2026,6 +2026,12 @@ var __v={
 			"Chapter": 420,
 			"Name": "os/exec",
 			"Sort": 0
+		},
+		"1308": {
+			"Id": 1308,
+			"Chapter": 341,
+			"Name": "新編譯方式",
+			"Sort": 2
 		},
 		"131": {
 			"Id": 131,

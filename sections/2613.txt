@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost 提供了新的 編譯 工具 b2\n\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003ecd boost_xxx/tools/build/\u003c/li\u003e\n\t\u003cli\u003e./bootstrap.sh\u003c/li\u003e\n\t\u003cli\u003ecd boost_xxx\u003c/li\u003e\n\t\u003cli\u003e./b2 link=static install --prefix=\u0026lt;DIR\u0026gt; \u003c/li\u003e\n\u003c/ol\u003e"
