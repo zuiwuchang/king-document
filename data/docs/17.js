@@ -112,5 +112,11 @@ var __v=[
 			"Doc": 17,
 			"Name": "os/exec",
 			"Sort": 275
+		},
+		{
+			"Id": 421,
+			"Doc": 17,
+			"Name": "os/signal",
+			"Sort": 276
 		}
 	]

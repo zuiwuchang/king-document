@@ -2063,6 +2063,12 @@ var __v={
 			"Name": "os/exec",
 			"Sort": 275
 		},
+		"421": {
+			"Id": 421,
+			"Doc": 17,
+			"Name": "os/signal",
+			"Sort": 276
+		},
 		"43": {
 			"Id": 43,
 			"Doc": 15,
