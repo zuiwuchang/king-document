@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//git 檔案目錄 \ngit.repositoriesFolder = ${baseFolder}/git\n\n//網站管理器 http listen 端口 \u0026lt;=0 則 禁用 \nserver.httpPort = 0\n\n//網站管理器 http bind 地址\nserver.httpBindInterface =\n\n//網站管理器 https listen 端口\nserver.httpsPort = 8443\n\n//網站管理器 https bind 地址\nserver.httpsBindInterface =\n\u003c/pre\u003e"

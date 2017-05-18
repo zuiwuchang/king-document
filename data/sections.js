@@ -18128,5 +18128,61 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2616,
+			"Panel": 1310,
+			"Name": "gitblit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2617,
+			"Panel": 1311,
+			"Name": "gitblit.properties",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2618,
+			"Panel": 1311,
+			"Name": "常見配置項目",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2619,
+			"Panel": 1312,
+			"Name": "gitblit 提供了 多種腳本 方便 操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2620,
+			"Panel": 1312,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2621,
+			"Panel": 1313,
+			"Name": "用戶",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2622,
+			"Panel": 1313,
+			"Name": "user",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2623,
+			"Panel": 1313,
+			"Name": "role",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

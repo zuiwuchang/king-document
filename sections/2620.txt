@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003einstallService.cmd 默認作爲 amd64  架構服務\n如果是其它 架構 修改 installService.cmd 中的腳本 \u003cstrong\u003eSET ARCH=amd64\u003c/strong\u003e 爲正確的 架構\n\u003c/pre\u003e"

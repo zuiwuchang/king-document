@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e[user \"XXX\"]\n用來配置一個 用戶 名稱爲 XXX\n\u003cstrong\u003e用戶名 不區分大小寫 必須唯一\u003c/strong\u003e\n\u003c/pre\u003e"

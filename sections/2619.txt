@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//運行 gitblit\ngitblit.sh\ngitblit.cmd\n\n//停止 gitblit\ngitblit-stop.sh\ngitblit-stop.cmd\n\n//安裝 服務 開機自啓動\ninstall-service-centos.sh\ninstall-service-fedora.sh\ninstall-service-ubuntu.sh\ninstallService.cmd\n\n//卸載服務\nuninstallService.cmd\n\n//ssl證書 製做的gui工具\nauthority.sh\nauthority.cmd\n\u003c/pre\u003e"

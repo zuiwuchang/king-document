@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cstrong\u003e#admin\u003c/strong\u003e\n爲所有 庫 用戶 團隊 授權\n\n\u003cstrong\u003e#notfederated\u003c/strong\u003e\n這阻止了另一個Gitblit實例拉入帳戶\n\n\u003cstrong\u003e#create\u003c/strong\u003e\n允許創建 個人庫\n\n\u003cstrong\u003e#fork\u003c/strong\u003e\n允許創建 現有庫的 個人分支\n\u003c/pre\u003e"
