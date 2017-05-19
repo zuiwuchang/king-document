@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e服務程式 是一個 可執行 程式\n其 需要 按部就班的 調用一些 api 以向 scm 註冊 使scm知道如何 和它協作\n\u003c/pre\u003e"

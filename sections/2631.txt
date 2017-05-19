@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSetServiceStatus 時 \nSERVICE_STATUS 的 dwCheckPoint dwWaitHint\n用於通知 scm 服務 操作 進度\ndwWaitHint 爲一個 預計的 完成時間 dwCheckPoint 爲一個遞加的 進度\n如果  dwWaitHint時間到達 dwCheckPoint 未變化 則scm 認爲操作已出錯\n\u003c/pre\u003e"
