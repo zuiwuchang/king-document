@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eNT 系統開始 提供了 sc 命令 用於管理服務\n\n//創建一個 服務\nsc create 服務名 binPath= \"d:\\cerberus\\test.exe\"\n\n//將 服務 設置爲 自動/手動/禁用\nsc config 服務名 start= auto\nsc config 服務名 start= demand\nsc config 服務名 start= disabled\n\n//啓動服務\nsc start 服務名\n\n//停止服務\nsc stop 服務名\n\n//刪除 服務\nsc delete 服務名\n\u003c/pre\u003e"
