@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePHANDLER_ROUTINE 是簽名爲\nBOOL WINAPI HandlerRoutine(\n\t__in  DWORD dwCtrlType\n);\n的函數\n\ndwCtrlType標識了 事件類型\n返回 FALSE 將 將事件交給下個 鉤子 處理 返回 TRUE 會 阻止 事件傳遞\n\u003c/pre\u003e"

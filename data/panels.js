@@ -2087,6 +2087,12 @@ var __v={
 			"Name": "服務程式",
 			"Sort": 0
 		},
+		"1317": {
+			"Id": 1317,
+			"Chapter": 427,
+			"Name": "SetConsoleCtrlHandler",
+			"Sort": 0
+		},
 		"132": {
 			"Id": 132,
 			"Chapter": 56,

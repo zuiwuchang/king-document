@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewindows 在 控制檯中 可以 使用 SetConsoleCtrlHandler\n註冊一個 鉤子 用於 處理控制檯消息\n\n//註冊或 刪除 鉤子 後註冊的先被調用\nBOOL WINAPI SetConsoleCtrlHandler(\n\t__in_opt  PHANDLER_ROUTINE HandlerRoutine,\t//鉤子處理函數\n\t__in      BOOL Add\t//TRUE 註冊 FALSE 刪除\n);\n\u003c/pre\u003e"
