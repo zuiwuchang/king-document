@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eboost 從 1.54 開始 支持了 \nboost::coroutine 作爲底層繁衍的 boost::asio::spawn 接口\n可以創建 stackful 的協程\n\nboost::asio::spawn 要求一個簽名爲\nvoid(*)(boost::asio::yield_context)的 函數對象\n啓動一個 協程\n\n在 協程函數中\n調用 asio 的 async_XXX(yield_context) \n執行異步操作 同時執行 yield 操作\n\u003c/pre\u003e"
