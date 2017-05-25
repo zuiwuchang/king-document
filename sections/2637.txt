@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egcc 默認 \n將 .h 以c語言 編譯 \n將 .hpp 以c++語言 編譯\n如果 檔案後綴 需要的不同可以使用  -x c++-header -x c-header 指定語言\n\u003c/pre\u003e"

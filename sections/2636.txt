@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cpre class=\"k-pre\"\u003egcc3.4 開始 提供了預編譯 header 檔案的功能 以提高 編譯速度\n\ngcc 在編譯時會在 header 檔案頭位置 查找是否存在 同名的 .gch 檔案\n如果存在 且 和當前編譯參數相符 則直接使用\n\n//將 stdking.h 預編譯爲 stdking.h.gch\ngcc -x c++-header stdking.h\ngcc -x stdking.hpp\n\u003c/pre\u003e"
