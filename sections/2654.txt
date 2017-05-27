@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e方式一\n\t直接將插件複製到 Packages 文件夾下 即可\n\n方式二\n\t使用 Package Control 需要(先安裝Package Control)\n\tPreferences-\u0026gt;Package Control 輸入 install Package 回車 \n\t等待刷新插件列表 \n\t選擇 插件安裝\n\u003c/pre\u003e"

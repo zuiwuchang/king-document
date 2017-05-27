@@ -18310,5 +18310,187 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2643,
+			"Panel": 1323,
+			"Name": "vim",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2644,
+			"Panel": 1324,
+			"Name": "Solarized 配色",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2645,
+			"Panel": 1325,
+			"Name": "golang",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2646,
+			"Panel": 1325,
+			"Name": "安裝 Vundle.vim",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2647,
+			"Panel": 1325,
+			"Name": "安裝 vim-go",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2648,
+			"Panel": 1325,
+			"Name": "GoInstallBinaries",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2649,
+			"Panel": 1325,
+			"Name": "安裝 YCM",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2650,
+			"Panel": 1326,
+			"Name": "YouCompleteMe",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2651,
+			"Panel": 1327,
+			"Name": "Sublime Text 3",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2652,
+			"Panel": 1327,
+			"Name": "3126 註冊碼",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2653,
+			"Panel": 1328,
+			"Name": "linux 中文輸入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2654,
+			"Panel": 1329,
+			"Name": "插件安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2655,
+			"Panel": 1329,
+			"Name": "Package Control",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2656,
+			"Panel": 1330,
+			"Name": "linux InputHelper",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2657,
+			"Panel": 1330,
+			"Name": "快捷鍵 修改",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2658,
+			"Panel": 1331,
+			"Name": "光標",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 2659,
+			"Panel": 1331,
+			"Name": "編輯",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 2660,
+			"Panel": 1331,
+			"Name": "搜索",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 2661,
+			"Panel": 1331,
+			"Name": "屏幕",
+			"Sort": 4,
+			"Str": ""
+		},
+		{
+			"Id": 2662,
+			"Panel": 1332,
+			"Name": "html",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2663,
+			"Panel": 1333,
+			"Name": "css",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2664,
+			"Panel": 1334,
+			"Name": "xml",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2665,
+			"Panel": 1335,
+			"Name": "go",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2666,
+			"Panel": 1336,
+			"Name": "lua",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2667,
+			"Panel": 1337,
+			"Name": "python",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2668,
+			"Panel": 1331,
+			"Name": "頁面",
+			"Sort": 5,
+			"Str": ""
 		}
 	]

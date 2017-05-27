@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/\n\nsudo apt-get install cmake python-dev -y\n\ncd ~/.vim/bundle/YouCompleteMe\n\ngit submodule update --init --recursive\n\nsudo ./install.sh\n\u003c/pre\u003e\n"

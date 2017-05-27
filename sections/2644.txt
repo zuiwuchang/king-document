@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\n\ncd cd ~/.vim/bundle\ngit clone https://github.com/altercation/vim-colors-solarized.git\n\nmv vim-colors-solarized/colors/solarized.vim ~/.vim/colors/\n\nvim ~/.vimrc 增加如下設置\nsyntax enable\nset background=dark\ncolorscheme solarized\n\u003c/pre\u003e\n"

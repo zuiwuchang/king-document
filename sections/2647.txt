@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\tvi ~/.vimrc 為其添加 vim-go 插件\n\t\u003cstrong\u003ePlugin 'fatih/vim-go'\u003c/strong\u003e\n\n2\t在vim 中 執行 :PluginInstall 安裝插件\n\t此時 vim 將在左邊打開 子窗口 顯示 插件\n\n3\t等待安裝完成 vim在下方 顯示 done \n\tvim-go 被安裝到 .vim/bundle\n\n4\t此時 vim 具有將 golang 語法高亮 \n\t且保存時自動 gofmt 格式化代碼\n\u003c/pre\u003e"

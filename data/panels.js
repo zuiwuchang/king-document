@@ -2129,10 +2129,100 @@ var __v={
 			"Name": "Example Tcp",
 			"Sort": 0
 		},
+		"1323": {
+			"Id": 1323,
+			"Chapter": 430,
+			"Name": "vim",
+			"Sort": 0
+		},
+		"1324": {
+			"Id": 1324,
+			"Chapter": 430,
+			"Name": "Solarized 配色",
+			"Sort": 0
+		},
+		"1325": {
+			"Id": 1325,
+			"Chapter": 431,
+			"Name": "golang",
+			"Sort": 0
+		},
+		"1326": {
+			"Id": 1326,
+			"Chapter": 431,
+			"Name": "YouCompleteMe",
+			"Sort": 0
+		},
+		"1327": {
+			"Id": 1327,
+			"Chapter": 432,
+			"Name": "Sublime Text 3",
+			"Sort": 4
+		},
+		"1328": {
+			"Id": 1328,
+			"Chapter": 432,
+			"Name": "linux 中文輸入",
+			"Sort": 3
+		},
+		"1329": {
+			"Id": 1329,
+			"Chapter": 432,
+			"Name": "插件安裝",
+			"Sort": 1
+		},
 		"133": {
 			"Id": 133,
 			"Chapter": 57,
 			"Name": "Shadowsocks",
+			"Sort": 0
+		},
+		"1330": {
+			"Id": 1330,
+			"Chapter": 432,
+			"Name": "linux InputHelper",
+			"Sort": 2
+		},
+		"1331": {
+			"Id": 1331,
+			"Chapter": 432,
+			"Name": "快捷鍵",
+			"Sort": 0
+		},
+		"1332": {
+			"Id": 1332,
+			"Chapter": 433,
+			"Name": "html",
+			"Sort": 0
+		},
+		"1333": {
+			"Id": 1333,
+			"Chapter": 433,
+			"Name": "css",
+			"Sort": 0
+		},
+		"1334": {
+			"Id": 1334,
+			"Chapter": 433,
+			"Name": "xml",
+			"Sort": 0
+		},
+		"1335": {
+			"Id": 1335,
+			"Chapter": 434,
+			"Name": "go",
+			"Sort": 0
+		},
+		"1336": {
+			"Id": 1336,
+			"Chapter": 434,
+			"Name": "lua",
+			"Sort": 0
+		},
+		"1337": {
+			"Id": 1337,
+			"Chapter": 434,
+			"Name": "python",
 			"Sort": 0
 		},
 		"134": {

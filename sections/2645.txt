@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evim 可以安裝插件 以用於 golang 開發 \n\u003c/pre\u003e"

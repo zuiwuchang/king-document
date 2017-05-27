@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux下另外一個 輸入中文的方案是 安裝 InputHelper 插件\n所以 Package Control 安裝InputHelper後 InputHelper插件不會被 解包 需要 手動解包\n\n1\t安裝InputHelper\n2\t在 sublime中 Preferences-\u0026gt;Browse Packages... 打開 包目錄\n3\t將 Installed Packages 中的 InputHelper.sublime-package 解壓到 Packages/InputHelper\n4\t爲 InputHelper/lib/linux_text_input_gui.py 加上 x 權限\n\u003c/pre\u003e"

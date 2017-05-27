@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//打開 搜索框\nctrl + f\n\n//打開 多檔案 搜索框\nctrl + shift + f\n\n//打開 替換框\nctrl + h\n\n//查找 檔案\nctrl + p\n\n//查找函數\n//@\nctrl + r\n\n//查找行(跳轉到指定行)\n//:\nctrl + g\n\n//查找 變量名\n//#\nctrl + :\n\u003c/pre\u003e"

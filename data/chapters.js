@@ -2123,6 +2123,36 @@ var __v={
 			"Name": "安裝",
 			"Sort": 0
 		},
+		"430": {
+			"Id": 430,
+			"Doc": 104,
+			"Name": "vim",
+			"Sort": 283
+		},
+		"431": {
+			"Id": 431,
+			"Doc": 104,
+			"Name": "golang",
+			"Sort": 284
+		},
+		"432": {
+			"Id": 432,
+			"Doc": 105,
+			"Name": "Sublime Text 3",
+			"Sort": 285
+		},
+		"433": {
+			"Id": 433,
+			"Doc": 105,
+			"Name": "template",
+			"Sort": 286
+		},
+		"434": {
+			"Id": 434,
+			"Doc": 105,
+			"Name": "IDE",
+			"Sort": 287
+		},
 		"44": {
 			"Id": 44,
 			"Doc": 16,

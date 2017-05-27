@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evim 由 vi 發展出的一個 開源(VIM) 跨平台 文本編輯器\n\n官網 \u003ca href=\"http://www.vim.org/\" target=\"_blank\"\u003ehttp://www.vim.org/\u003c/a\u003e\n\u003c/pre\u003e"

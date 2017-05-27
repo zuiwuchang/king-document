@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//新頁/新窗口新頁\nctrl + n\nctrl + shift + n\n\n//關閉當前頁\nctrl + w\n\n//恢復剛關閉的 頁\nctrl + shift +t\n\n//上頁/下頁\nctrl + PgUp\nctrl + PgDn\n\n//切換到 上個/下個 分頁\nctrl + tab\nctrl + shift + tab\n\n//切換到第n頁\nalt + n\n\u003c/pre\u003e"

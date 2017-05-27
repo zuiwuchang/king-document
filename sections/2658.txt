@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//選擇 單詞/句\nctrl + d\n\n//選擇 整行\nctrl + l\n\n//選擇 下個/全部 選擇內容\nF3\nalt + F3\n\n//選擇括號內的 內容\nctrl + shift + m\n\n//ctrl + m\n跳轉到最近 括號\n\u003c/pre\u003e"

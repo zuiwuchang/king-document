@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSublime Text 3 一個 跨平台 的文本編輯器\n\n官網 \u003ca href=\"http://www.sublimetext.com/3\" target=\"_blank\"\u003ehttp://www.sublimetext.com/3\u003c/a\u003e\n\n\u003c/pre\u003e"

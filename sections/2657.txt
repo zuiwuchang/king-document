@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eInputHelper 默認 使用 ctrl+shift+z 打開輸入框\n在 sublime的快捷鍵中 加入 如下設置 增加 ctrl+space\n\n{ \"keys\": [\"ctrl+space\"], \"command\": \"input_helper\" }\n\u003c/pre\u003e"

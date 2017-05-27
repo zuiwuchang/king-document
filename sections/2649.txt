@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\tvi ~/.vimrc為其添加 YCM 插件\n\tPlugin 'Valloric/YouCompleteMe'\n\n2\t在vim 中 執行 :PluginInstall 安裝插件\n\n3\tcd ~/.vim/bundle/YouCompleteMe\n\t./install.sh\n\t(通常這樣安裝是會失敗的 見 YouCompleteMe)\n\n\n此時 vim將可 實時補全代碼\n\u003c/pre\u003e"

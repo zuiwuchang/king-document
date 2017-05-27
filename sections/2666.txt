@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e編譯lua\n配置lua環境變量\n\nSublime Tools-\u0026gt;Build System-\u0026gt;New Build System 配置之\n{\n\t\"cmd\": [\"lua.exe\",\"$file_name\"],\n\t\"file_regex\": \"^(?:lua:)?[\\t ](...*?):([0-9]*):?([0-9]*)\",\n\t\"selector\": \"source.lua\"\n}\n\u003c/pre\u003e"

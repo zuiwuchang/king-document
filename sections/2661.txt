@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//全屏/全屏 免打擾\nF11\nSHIFT + F11\n\n//恢復單屏幕\nalt + 1\n\n//水平分爲 2/3 屏幕\nalt + shift + 2\nalt + shift + 3\n\n//垂直 分爲 4屏幕\nalt + shift + 4\n\n//水平 垂直 分爲 4屏幕 (田)\nalt + shift + 5\n\n//垂直分爲 2/3 屏幕\nalt + shift + 8\nalt + shift + 9\n\u003c/pre\u003e"
