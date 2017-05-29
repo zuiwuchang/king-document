@@ -1,1 +1,0 @@
-var __v="\u003cpre class=\"k-pre\"\u003eserver 中沒有 任何資源釋放的 代碼 在於 所有資源都使用了 智能指針 在資源未使用後 被自動釋放\n而 socket 再析構時會 自動調用 close 關閉 故而沒有顯示調用close\n\nwrite_handler 是一個空 函數 其只是為了 不讓智能指針存儲的發送緩衝區 在被完全發送前 被釋放 \n\u003c/pre\u003e"

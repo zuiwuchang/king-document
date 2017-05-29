@@ -15234,7 +15234,7 @@ var __v=[
 		{
 			"Id": 2200,
 			"Panel": 1094,
-			"Name": "server",
+			"Name": "一個 io_service 多個線程",
 			"Sort": 0,
 			"Str": ""
 		},
@@ -15242,13 +15242,6 @@ var __v=[
 			"Id": 2201,
 			"Panel": 1094,
 			"Name": "注意",
-			"Sort": 0,
-			"Str": ""
-		},
-		{
-			"Id": 2202,
-			"Panel": 1094,
-			"Name": "asio",
 			"Sort": 0,
 			"Str": ""
 		},
@@ -18307,7 +18300,7 @@ var __v=[
 		{
 			"Id": 2642,
 			"Panel": 1322,
-			"Name": "Example",
+			"Name": "一個 io_service 多個線程",
 			"Sort": 0,
 			"Str": ""
 		},
@@ -18504,6 +18497,41 @@ var __v=[
 			"Id": 2672,
 			"Panel": 1339,
 			"Name": "not use c++11",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2673,
+			"Panel": 1094,
+			"Name": "每個線程 獨立的 io_service",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2674,
+			"Panel": 1094,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2675,
+			"Panel": 1094,
+			"Name": "test client go code",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2676,
+			"Panel": 1321,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2677,
+			"Panel": 1322,
+			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
 		}

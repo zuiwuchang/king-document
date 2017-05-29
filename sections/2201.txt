@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003eio_service::run() 可以工作在 多線程 下 但 當 發生io事件時\n到底 哪個線程被 喚醒 不確定 \n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003eio_service::run() 可以工作在 多線程 下 但 當 發生io事件時\n到底 哪個線程被 喚醒 不確定\n\nio_service 雖然可以直接 工作在多線程中 然在對線程中 io_service 內部需要 存在鎖同步 可能不能到達最大效率\n解決方案是爲 每個線程 創建一個 io_service\n\u003c/pre\u003e"

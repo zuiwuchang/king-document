@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eyield_context 重載了 []\n如果 在 yield_context[] 中傳入 boost::system::error_code\n則會 使用 async_XXX 的 error_code 模式 否則使用 throw boost::system::system_error 模式\n\u003c/pre\u003e"
