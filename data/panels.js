@@ -315,25 +315,25 @@ var __v={
 			"Id": 1046,
 			"Chapter": 346,
 			"Name": "noncopyable",
-			"Sort": 0
+			"Sort": 8
 		},
 		"1047": {
 			"Id": 1047,
 			"Chapter": 346,
 			"Name": "typeof",
-			"Sort": 0
+			"Sort": 7
 		},
 		"1048": {
 			"Id": 1048,
 			"Chapter": 346,
 			"Name": "optional",
-			"Sort": 0
+			"Sort": 4
 		},
 		"1049": {
 			"Id": 1049,
 			"Chapter": 346,
 			"Name": "assign",
-			"Sort": 0
+			"Sort": 3
 		},
 		"105": {
 			"Id": 105,
@@ -345,13 +345,13 @@ var __v={
 			"Id": 1050,
 			"Chapter": 346,
 			"Name": "swap",
-			"Sort": 0
+			"Sort": 2
 		},
 		"1051": {
 			"Id": 1051,
 			"Chapter": 346,
 			"Name": "singleton",
-			"Sort": 0
+			"Sort": 1
 		},
 		"1052": {
 			"Id": 1052,
@@ -2236,6 +2236,18 @@ var __v={
 			"Chapter": 58,
 			"Name": "linux python shadowsocks",
 			"Sort": 0
+		},
+		"1340": {
+			"Id": 1340,
+			"Chapter": 346,
+			"Name": "static_assert",
+			"Sort": 6
+		},
+		"1341": {
+			"Id": 1341,
+			"Chapter": 346,
+			"Name": "type_traits",
+			"Sort": 5
 		},
 		"135": {
 			"Id": 135,

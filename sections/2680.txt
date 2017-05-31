@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"prettyprint linenums\"\u003e#include \u0026lt;boost/static_assert.hpp\u0026gt;\n\nint main()\n{\n\tint x = 0;\n\tBOOST_STATIC_ASSERT(sizeof(x)==4);\n\tBOOST_STATIC_ASSERT_MSG(sizeof(x)==4,\"自定義錯誤消息\");\n\treturn 0;\n}\n\u003c/pre\u003e"

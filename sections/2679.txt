@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/static_assert.hpp\u0026gt;\n中 提供了\nBOOST_STATIC_ASSERT(...) \nBOOST_STATIC_ASSERT_MSG(...,msg)\n兩個宏 以實現 靜態斷言\n\n並且 在運行時 不會 作用 內存與 效率\n(boost 巧妙的 使用了 typedef 和 sizeof 這兩個 編譯時的 關鍵字 以達到這樣的奇效)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/type_traits.hpp\u0026gt;\n中 提供了\n許多 is_xxx 模板\n用以 獲取數據 型別 信息\n長和 BOOST_STATIC_ASSERT 一起工作在模板中\n\u003c/pre\u003e"
