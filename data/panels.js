@@ -2249,6 +2249,48 @@ var __v={
 			"Name": "type_traits",
 			"Sort": 5
 		},
+		"1342": {
+			"Id": 1342,
+			"Chapter": 435,
+			"Name": "MinGW-w64",
+			"Sort": 0
+		},
+		"1343": {
+			"Id": 1343,
+			"Chapter": 436,
+			"Name": "cmake",
+			"Sort": 0
+		},
+		"1344": {
+			"Id": 1344,
+			"Chapter": 436,
+			"Name": "install",
+			"Sort": 0
+		},
+		"1345": {
+			"Id": 1345,
+			"Chapter": 437,
+			"Name": "static",
+			"Sort": 0
+		},
+		"1346": {
+			"Id": 1346,
+			"Chapter": 438,
+			"Name": "pexports",
+			"Sort": 0
+		},
+		"1347": {
+			"Id": 1347,
+			"Chapter": 438,
+			"Name": "dlltool",
+			"Sort": 0
+		},
+		"1348": {
+			"Id": 1348,
+			"Chapter": 439,
+			"Name": "iconv",
+			"Sort": 0
+		},
 		"135": {
 			"Id": 135,
 			"Chapter": 59,

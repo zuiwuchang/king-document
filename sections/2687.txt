@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t從官網下載 *.zip 二進制文件\n2\t解壓 並將 */bin 文件夾加入 PATH 環境變量 \n\u003c/pre\u003e"

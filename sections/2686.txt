@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecmake 是一個開源(BSD)的 跨平台 自動構建系統\n\n官網 \u003ca href=\"https://cmake.org/\" target=\"_blank\"\u003ehttps://cmake.org/\u003c/a\u003e\n\u003c/pre\u003e"

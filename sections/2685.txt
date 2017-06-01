@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t下載並且安裝\n2\t將 MINGW-W64/bin 加入 PATH 環境變量\n3\t將 MINGW-W64/include 加入 C_INCLUDE_PATH 環境變量(c include)\n3\t將 MINGW-W64/include 加入 C_INCLUDE_PATH 環境變量(c++ include)\n\ngcc --version\n\u003c/pre\u003e"

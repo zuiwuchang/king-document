@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMinGW-w64 本來是mingw的分支 現在是一個獨立的 項目 用於 為64位win提供 gnu支持\n\n官網 \u003ca href=\"https://mingw-w64.org/doku.php\" target=\"_blank\"\u003ehttps://mingw-w64.org/doku.php\u003c/a\u003e\n下載地址 \u003ca href=\"https://sourceforge.net/projects/mingw-w64/\" target=\"_blank\"\u003ehttps://sourceforge.net/projects/mingw-w64/\u003c/a\u003e\n\u003c/pre\u003e"

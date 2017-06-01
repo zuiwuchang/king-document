@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epexports 是mingw 中的一個組件 \n可以將 生成一個 *.dll 的 標準 *.def 文件\n\npexports XXX.dll \u0026gt; XXX.def\n\u003c/pre\u003e"

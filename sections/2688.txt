@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emingw 編譯的 程序 需要 打包 \nlibgcc_s_dw2-1.dll\nlibstdc++-6.dll\n\n在 linker 的選項 中 增加 \n-static-libgcc -static-libstdc++\n可以 將其 靜態 連接到代碼中\n\t\u003cstrong\u003e-static-libgcc\tlibgcc_s_dw2-1.dll\n\t-static-libstdc++\tlibstdc++-6.dll\u003c/strong\u003e\n\u003c/pre\u003e"

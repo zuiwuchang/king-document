@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edlltool 是mingw 中的一個組件 \n可以將 從一個 標準 *.def 文件 產生 *.a 的 庫描述文件\n\ndlltool -d XXX.def -D XXX -l XXX.a\n\u003c/pre\u003e"

@@ -18576,5 +18576,61 @@ var __v=[
 			"Name": "常用模板",
 			"Sort": 2,
 			"Str": ""
+		},
+		{
+			"Id": 2684,
+			"Panel": 1342,
+			"Name": "MinGW-w64",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2685,
+			"Panel": 1342,
+			"Name": "環境配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2686,
+			"Panel": 1343,
+			"Name": "cmake",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2687,
+			"Panel": 1344,
+			"Name": "install",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2688,
+			"Panel": 1345,
+			"Name": "static",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2689,
+			"Panel": 1346,
+			"Name": "pexports",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2690,
+			"Panel": 1347,
+			"Name": "dlltool",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2691,
+			"Panel": 1348,
+			"Name": "iconv",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

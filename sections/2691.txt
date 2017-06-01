@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emingw 中安裝 iconv\n\n#include \u0026lt;iconv.h\u0026gt;\n在 linker 中增加 -llibiconv 選項即可\n\u003c/pre\u003e"
