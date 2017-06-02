@@ -2,16 +2,19 @@ var __v=[
 		{
 			"Id": 2,
 			"Tag": 5,
-			"Name": "CKEditor"
+			"Name": "CKEditor",
+			"Sort": 0
 		},
 		{
 			"Id": 42,
 			"Tag": 5,
-			"Name": "kindeditor"
+			"Name": "kindeditor",
+			"Sort": 0
 		},
 		{
 			"Id": 43,
 			"Tag": 5,
-			"Name": "WebUploader 檔案上傳"
+			"Name": "WebUploader 檔案上傳",
+			"Sort": 0
 		}
 	]

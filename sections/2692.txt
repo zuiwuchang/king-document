@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e接口查詢 可以 檢查 一個接口中 \n是否是另外一個 接口/型別 有兩種寫法\n\ni.(XXX)\t\t如果是 XXX 返回 不是 異常\nv,ok:=i.(XXX)\t如果是 XXX 返回 不是 返回 nil和 false\n\u003c/pre\u003e"
