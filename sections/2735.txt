@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//同步 需要等待消息被處理 函數才返回 (返回消息處理結果)\nLRESULT SendMessage(          HWND hWnd,\n\tUINT Msg,\n\tWPARAM wParam,\n\tLPARAM lParam\n);\n//異步 函數立刻返回\t(成功返回非0)\nBOOL PostMessage(          HWND hWnd,\n\tUINT Msg,\n\tWPARAM wParam,\n\tLPARAM lParam\n);\n\u003c/pre\u003e"

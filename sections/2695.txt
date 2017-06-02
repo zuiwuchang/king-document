@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e將資源 導入到vs中 \n將連接地址 寫為 res:/資源類型/#資源id\n\u003c/pre\u003e"

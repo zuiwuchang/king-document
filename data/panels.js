@@ -2303,10 +2303,130 @@ var __v={
 			"Name": "Privoxy",
 			"Sort": 0
 		},
+		"1350": {
+			"Id": 1350,
+			"Chapter": 440,
+			"Name": "CDHtmlDialog",
+			"Sort": 0
+		},
+		"1351": {
+			"Id": 1351,
+			"Chapter": 440,
+			"Name": "連接資源",
+			"Sort": 0
+		},
+		"1352": {
+			"Id": 1352,
+			"Chapter": 440,
+			"Name": "js調用c++",
+			"Sort": 0
+		},
+		"1353": {
+			"Id": 1353,
+			"Chapter": 440,
+			"Name": "關閉提示 activex",
+			"Sort": 0
+		},
+		"1354": {
+			"Id": 1354,
+			"Chapter": 441,
+			"Name": "webbrowser",
+			"Sort": 0
+		},
+		"1355": {
+			"Id": 1355,
+			"Chapter": 441,
+			"Name": "function",
+			"Sort": 0
+		},
+		"1356": {
+			"Id": 1356,
+			"Chapter": 441,
+			"Name": "調用 js",
+			"Sort": 0
+		},
+		"1357": {
+			"Id": 1357,
+			"Chapter": 441,
+			"Name": "擴展 js",
+			"Sort": 0
+		},
+		"1358": {
+			"Id": 1358,
+			"Chapter": 442,
+			"Name": "內存泄漏",
+			"Sort": 0
+		},
+		"1359": {
+			"Id": 1359,
+			"Chapter": 443,
+			"Name": "關閉vs指定警告",
+			"Sort": 0
+		},
 		"136": {
 			"Id": 136,
 			"Chapter": 60,
 			"Name": "字符串",
+			"Sort": 0
+		},
+		"1360": {
+			"Id": 1360,
+			"Chapter": 443,
+			"Name": "获取设置内存块对齐版本",
+			"Sort": 0
+		},
+		"1361": {
+			"Id": 1361,
+			"Chapter": 443,
+			"Name": "获取win版本",
+			"Sort": 0
+		},
+		"1362": {
+			"Id": 1362,
+			"Chapter": 443,
+			"Name": "是否 x64",
+			"Sort": 0
+		},
+		"1363": {
+			"Id": 1363,
+			"Chapter": 443,
+			"Name": "获取cpu等系统信息",
+			"Sort": 0
+		},
+		"1364": {
+			"Id": 1364,
+			"Chapter": 443,
+			"Name": "获取内存信息",
+			"Sort": 0
+		},
+		"1365": {
+			"Id": 1365,
+			"Chapter": 443,
+			"Name": "获取进程列表",
+			"Sort": 0
+		},
+		"1366": {
+			"Id": 1366,
+			"Chapter": 443,
+			"Name": "获取进程加載的模塊",
+			"Sort": 0
+		},
+		"1367": {
+			"Id": 1367,
+			"Chapter": 443,
+			"Name": "获取系統目錄",
+			"Sort": 0
+		},
+		"1368": {
+			"Id": 1368,
+			"Chapter": 443,
+			"Name": "获取坐標",
+			"Sort": 0
+		},
+		"1369": {
+			"Id": 1369,
+			"Chapter": 443,
+			"Name": "获取分辨率等",
 			"Sort": 0
 		},
 		"137": {
@@ -2315,10 +2435,112 @@ var __v={
 			"Name": "字符串操作符",
 			"Sort": 0
 		},
+		"1370": {
+			"Id": 1370,
+			"Chapter": 443,
+			"Name": "进程提权",
+			"Sort": 0
+		},
+		"1371": {
+			"Id": 1371,
+			"Chapter": 444,
+			"Name": "CreateProcess",
+			"Sort": 0
+		},
+		"1372": {
+			"Id": 1372,
+			"Chapter": 444,
+			"Name": "ShellExecute",
+			"Sort": 0
+		},
+		"1373": {
+			"Id": 1373,
+			"Chapter": 445,
+			"Name": "剪贴板",
+			"Sort": 0
+		},
+		"1374": {
+			"Id": 1374,
+			"Chapter": 445,
+			"Name": "匿名管道",
+			"Sort": 0
+		},
+		"1375": {
+			"Id": 1375,
+			"Chapter": 446,
+			"Name": "發送消息",
+			"Sort": 0
+		},
+		"1376": {
+			"Id": 1376,
+			"Chapter": 446,
+			"Name": "UINT Msg",
+			"Sort": 0
+		},
+		"1377": {
+			"Id": 1377,
+			"Chapter": 446,
+			"Name": "wParam lParam",
+			"Sort": 0
+		},
+		"1378": {
+			"Id": 1378,
+			"Chapter": 446,
+			"Name": "虛擬鍵碼表",
+			"Sort": 0
+		},
+		"1379": {
+			"Id": 1379,
+			"Chapter": 446,
+			"Name": "自定義消息",
+			"Sort": 0
+		},
 		"138": {
 			"Id": 138,
 			"Chapter": 60,
 			"Name": "字符串 字符",
+			"Sort": 0
+		},
+		"1380": {
+			"Id": 1380,
+			"Chapter": 446,
+			"Name": "WM_MOUSEHOVER WM_MOUSELEAVE",
+			"Sort": 0
+		},
+		"1381": {
+			"Id": 1381,
+			"Chapter": 446,
+			"Name": "WM_SYSCOMMAND",
+			"Sort": 0
+		},
+		"1382": {
+			"Id": 1382,
+			"Chapter": 446,
+			"Name": "WM_LBUTTONDBLCLK WM_RBUTTONDBLCLK",
+			"Sort": 0
+		},
+		"1383": {
+			"Id": 1383,
+			"Chapter": 447,
+			"Name": "攔截 WM_KEYDOWN",
+			"Sort": 0
+		},
+		"1384": {
+			"Id": 1384,
+			"Chapter": 447,
+			"Name": "添加 Accelerator 資源",
+			"Sort": 0
+		},
+		"1385": {
+			"Id": 1385,
+			"Chapter": 447,
+			"Name": "添加 全局 快捷鍵",
+			"Sort": 0
+		},
+		"1386": {
+			"Id": 1386,
+			"Chapter": 447,
+			"Name": "全局原子",
 			"Sort": 0
 		},
 		"139": {

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e微軟 提供了 _CrtDumpMemoryLeaks 函數 用於 在debug下檢查 是否有 new後 沒有 delete的 \n資源 打印到 調試窗口\n\n對於 mfc 已經 包含了頭文件 宏 對_CrtDumpMemoryLeaks 的調用\n對於其他 c++程序 需要自己 include 定義 必要的 宏\n\u003c/pre\u003e"

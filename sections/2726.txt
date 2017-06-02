@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;shellapi.h\u0026gt;\nShellExecute用以將文件以其默認關聯的方式打開\n可以打開一個文件夾\n打開一個進程\n使用默認瀏覽器打開網頁\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e用GetKeyState 或 GetAsyncKeyState獲取是否按下某鍵\n\n//返回某按鍵當前是否按下\nSHORT \n\tGetKeyState(   \n\t\tint nVirtKey \t//按鍵虛擬鍵碼\n\t); \n最高位為1\t既0x8000\t 按下\n最低位為1\t既1\t某按鍵是否切換狀態（被按下一次 此值為1 按鍵被再按一次 為0 再一次為1 ...\t此特性可用於記錄 鍵盤燈狀態）\n\n//返回自上次調用GetAsyncKeyState後 按鍵是否被按下過 按下過返回1\nSHORT \n\tGetAsyncKeyState(   \n\t\tint vKey \t\t//按鍵虛擬鍵碼\n\t); \n\u003c/pre\u003e"

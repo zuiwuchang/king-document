@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMsg指定了消息類型\n\u003c/pre\u003e"

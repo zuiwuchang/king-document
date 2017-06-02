@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGlobalMemoryStatus\n对于超过2GB的用GlobalMemoryStatusEx\n返回结构 成员含义相同不同长度增加到64位而\n\u003c/pre\u003e"

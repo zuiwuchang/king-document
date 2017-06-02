@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#pragma pack(push)\t//保存对齐状态 \n#pragma pack(4)\t\t//设定为4字节对齐  \n\n#pragma pack(pop)\t//恢复对齐状态 \u003c/pre\u003e"

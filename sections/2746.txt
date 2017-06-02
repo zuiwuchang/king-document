@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e無論多次調用 或一次調用 _TrackMouseEvent 只會使WM_MOUSEHOVER WM_MOUSELEAVE產生一次\n故 之後需要 再次調用 _TrackMouseEvent\n在WM_MOUSEMOVE中調用 _TrackMouseEvent 是個好主意\n\u003c/pre\u003e"

@@ -18646,5 +18646,474 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2694,
+			"Panel": 1350,
+			"Name": "CDHtmlDialog",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2695,
+			"Panel": 1351,
+			"Name": "連接資源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2696,
+			"Panel": 1352,
+			"Name": "js調用c++",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2697,
+			"Panel": 1352,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2698,
+			"Panel": 1353,
+			"Name": "關閉提示 activex",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2699,
+			"Panel": 1354,
+			"Name": "webbrowser",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2700,
+			"Panel": 1354,
+			"Name": "詳情",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2701,
+			"Panel": 1355,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2702,
+			"Panel": 1356,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2703,
+			"Panel": 1357,
+			"Name": "擴展 js",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2704,
+			"Panel": 1357,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2705,
+			"Panel": 1358,
+			"Name": "內存泄漏",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2706,
+			"Panel": 1358,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2707,
+			"Panel": 1359,
+			"Name": "關閉vs指定警告",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2708,
+			"Panel": 1360,
+			"Name": "获取设置内存块对齐版本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2709,
+			"Panel": 1361,
+			"Name": "获取win版本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2710,
+			"Panel": 1362,
+			"Name": "是否 x64",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2711,
+			"Panel": 1363,
+			"Name": "获取cpu等系统信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2712,
+			"Panel": 1364,
+			"Name": "获取内存信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2713,
+			"Panel": 1364,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2714,
+			"Panel": 1365,
+			"Name": "获取进程列表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2715,
+			"Panel": 1365,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2716,
+			"Panel": 1366,
+			"Name": "获取进程加載的模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2717,
+			"Panel": 1366,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2718,
+			"Panel": 1367,
+			"Name": "获取系統目錄",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2719,
+			"Panel": 1367,
+			"Name": "nFolder\t取值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2720,
+			"Panel": 1368,
+			"Name": "获取坐標",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2721,
+			"Panel": 1369,
+			"Name": "获取分辨率等",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2722,
+			"Panel": 1370,
+			"Name": "进程提权",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2723,
+			"Panel": 1371,
+			"Name": "CreateProcess",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2724,
+			"Panel": 1371,
+			"Name": "聲明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2725,
+			"Panel": 1371,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2726,
+			"Panel": 1372,
+			"Name": "ShellExecute",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2727,
+			"Panel": 1372,
+			"Name": "聲明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2728,
+			"Panel": 1372,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2729,
+			"Panel": 1373,
+			"Name": "剪贴板",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2730,
+			"Panel": 1373,
+			"Name": "写入数据到剪贴板",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2731,
+			"Panel": 1373,
+			"Name": "从剪贴板获取数据",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2732,
+			"Panel": 1373,
+			"Name": "写入数据到剪贴板 延迟提交",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2733,
+			"Panel": 1374,
+			"Name": "匿名管道",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2734,
+			"Panel": 1374,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2735,
+			"Panel": 1375,
+			"Name": "發送消息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2736,
+			"Panel": 1375,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2737,
+			"Panel": 1376,
+			"Name": "UINT Msg",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2738,
+			"Panel": 1376,
+			"Name": "常用消息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2739,
+			"Panel": 1377,
+			"Name": "wParam lParam",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2740,
+			"Panel": 1377,
+			"Name": "WM_LBUTTONDOWN...",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2741,
+			"Panel": 1377,
+			"Name": "WM_KEYDOWN...",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2742,
+			"Panel": 1377,
+			"Name": "WM_CHAR",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2743,
+			"Panel": 1378,
+			"Name": "虛擬鍵碼表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2744,
+			"Panel": 1379,
+			"Name": "自定義消息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2745,
+			"Panel": 1380,
+			"Name": "WM_MOUSEHOVER WM_MOUSELEAVE",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2746,
+			"Panel": 1380,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2747,
+			"Panel": 1381,
+			"Name": "WM_SYSCOMMAND",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2748,
+			"Panel": 1381,
+			"Name": "wParam",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2749,
+			"Panel": 1381,
+			"Name": "lParam",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2750,
+			"Panel": 1382,
+			"Name": "WM_LBUTTONDBLCLK WM_RBUTTONDBLCLK",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2751,
+			"Panel": 1383,
+			"Name": "攔截 WM_KEYDOWN",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2752,
+			"Panel": 1383,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2753,
+			"Panel": 1383,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2754,
+			"Panel": 1384,
+			"Name": "Accelerator",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2755,
+			"Panel": 1384,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2756,
+			"Panel": 1384,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2757,
+			"Panel": 1385,
+			"Name": "全局 快捷鍵",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2758,
+			"Panel": 1385,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2759,
+			"Panel": 1386,
+			"Name": "全局原子",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2760,
+			"Panel": 1386,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

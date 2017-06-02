@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eAccelerator用以定義快捷鍵 和 與之相關的按鈕 當按下快捷鍵時 觸發按鍵按下事件\n\u003c/pre\u003e"

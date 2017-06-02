@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSendMessage將一個消息 投遞到消息隊列 並且等待消息被處理才返回\nPostMessage將一個消息 投遞到消息隊列 不等待消息處理離開返回\n\u003c/pre\u003e"

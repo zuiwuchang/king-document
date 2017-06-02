@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCDHtmlDialog 用於 在对话框應用中 使用ie內核 渲染 html\n\n构造函数\nCDHtmlDialog(***::IDD, ***::IDH, pParent)\n中 IDH 指定了 初始化 html 模板\n\n//從資源中 加載新的html渲染\nBOOL LoadFromResource(\n   LPCTSTR lpszResource \n);\nBOOL LoadFromResource(\n   UINT nRes \n);\n\n//在html中 跳轉到其它資源 html\n\u0026lt;a href=\"res:/138\"\u0026gt;res:/資源id\u0026lt;a\u0026gt;\n\u003c/pre\u003e"

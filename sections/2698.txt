@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ejs調用c++是 會提示 是否允許運行 activex 組件\n重載\ninline BOOL CanAccessExternal()\n{\n\treturn TRUE;\n}\n可關閉提示信息\t\n\u003c/pre\u003e"

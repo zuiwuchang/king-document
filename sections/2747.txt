@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e發送到窗口的系統消息\n\u003c/pre\u003e"

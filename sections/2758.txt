@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eid：\n定义热键的标识符。调用线程中的其他热键，不能使用同样的标识符。应用程序必须定义一个0X0000-0xBFFF范围的值。一个共享的动态链接\n（DLL）必须定义一个范围为0xC000-0xFFFF的值(GlobalAddAtom函数返回该范围）。为了避免与其他动态链接库定义的热键冲突，一个DLL必\n使用GlobalAddAtom函数获得热键的标识符。\n\u003c/pre\u003e\n"

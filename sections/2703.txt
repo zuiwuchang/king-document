@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewebbrowser 中瀏覽器對象 window.external 可以通過 com進行擴展\n將其 和一個 com 類關聯\n\u003c/pre\u003e"

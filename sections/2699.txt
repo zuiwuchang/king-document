@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewebbrowser 用於 在應用中 使用ie內核 渲染 html\n\nwebbrowser 默認使用 ie7 若 使用其他內核 需要修改 註冊表\n\u003c/pre\u003e"
