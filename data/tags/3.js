@@ -22,5 +22,11 @@ var __v=[
 			"Tag": 3,
 			"Name": "gettext-go",
 			"Sort": 0
+		},
+		{
+			"Id": 110,
+			"Tag": 3,
+			"Name": "barcode",
+			"Sort": 4
 		}
 	]

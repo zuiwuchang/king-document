@@ -2543,6 +2543,18 @@ var __v={
 			"Name": "全局原子",
 			"Sort": 0
 		},
+		"1387": {
+			"Id": 1387,
+			"Chapter": 448,
+			"Name": "barcode",
+			"Sort": 0
+		},
+		"1388": {
+			"Id": 1388,
+			"Chapter": 449,
+			"Name": "QR Codes",
+			"Sort": 0
+		},
 		"139": {
 			"Id": 139,
 			"Chapter": 60,

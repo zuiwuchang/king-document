@@ -71,6 +71,12 @@ var __v={
 			"Name": "Closure Compiler",
 			"Sort": 0
 		},
+		"110": {
+			"Id": 110,
+			"Tag": 3,
+			"Name": "barcode",
+			"Sort": 4
+		},
 		"12": {
 			"Id": 12,
 			"Tag": 14,

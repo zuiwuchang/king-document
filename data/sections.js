@@ -19115,5 +19115,19 @@ var __v=[
 			"Name": "相關API",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2761,
+			"Panel": 1387,
+			"Name": "barcode",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2762,
+			"Panel": 1388,
+			"Name": "QR Codes",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
