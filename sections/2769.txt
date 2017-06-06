@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e北緯20 東經111\n\u003c/pre\u003e"

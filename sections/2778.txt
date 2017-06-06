@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e到馬六甲商會 接到魚翅任務\u003c/li\u003e\n\t\u003cli\u003e在 東南亞 海域閒逛 遇到 鯊魚 擊敗之 \u003c/li\u003e\n\t\u003cli\u003e選擇飼養 獲得 鯊魚幼苗\u003c/li\u003e\n\t\u003cli\u003e將 幼苗 交給 泗水交易所 出現魚翅\u003c/li\u003e\n\t\u003cli\u003e買 1 個魚翅 送到 馬六甲商會\u003c/li\u003e\n\t\u003cli\u003e出現遺跡 進入得到之\u003c/li\u003e\n\u003c/ol\u003e"

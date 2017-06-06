@@ -77,6 +77,12 @@ var __v={
 			"Name": "barcode",
 			"Sort": 4
 		},
+		"111": {
+			"Id": 111,
+			"Tag": 45,
+			"Name": "DK4PK",
+			"Sort": 1
+		},
 		"12": {
 			"Id": 12,
 			"Tag": 14,

@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e幹掉庫恩商會\u003c/li\u003e\n\t\u003cli\u003e到馬六甲碼頭接到任務 送人到關島(北緯15 東經145)\u003c/li\u003e\n\t\u003cli\u003e到關島 得之\u003c/li\u003e\n\u003c/ol\u003e"

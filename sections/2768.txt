@@ -1,0 +1,1 @@
+var __v="\u003cp\u003e\n\u003cdiv style=\"float: left;\"\u003e\n\u003cimg src=\"/sections/2764/image/4.jpg\" style=\"max-width: 100%;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"float: left;padding-left: 12px;\"\u003e\n\t大明帝國的美人\n\u003c/div\u003e\n\u003c/p\u003e\n\u003cbr style=\"clear: left;\"\u003e"

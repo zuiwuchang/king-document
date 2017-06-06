@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e到 巴斯拉船產 接到任務 到歐洲 尋找 造船高人\u003c/li\u003e\n\t\u003cli\u003e到 非洲 歐洲 美洲 找到隊友 查理 杰那斯 曼努埃爾 鐵裡列\u003c/li\u003e\n\t\u003cli\u003e研發出 二層裝甲\u003c/li\u003e\n\t\u003cli\u003e到商會 得到之\u003c/li\u003e\n\u003c/ol\u003e"

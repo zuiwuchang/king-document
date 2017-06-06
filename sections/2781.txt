@@ -1,0 +1,1 @@
+var __v="\u003cp\u003e\n\u003col\u003e\n\t\u003cli\u003e幹掉伍丁商會\u003c/li\u003e\n\t\u003cli\u003e到 卡利亥特 得到之\u003c/li\u003e\n\u003c/ol\u003e\n\u003c/p\u003e\n\n\u003cp\u003e\n\u003col\u003e\n\t\u003cli\u003e與伍丁商會同盟\u003c/li\u003e\n\t\u003cli\u003e到非洲 幹掉 埃斯皮諾\u003c/li\u003e\n\t\u003cli\u003e勢力第一 到 卡利亥特 酒吧 喝酒 第二次去 獲得之\u003c/li\u003e\n\u003c/ol\u003e\n\u003c/p\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e消滅倭奴 到大阪酒館 觸發劇情\u003c/li\u003e\n\t\u003cli\u003e到澳門酒館\u003c/li\u003e\n\t\u003cli\u003e到大阪酒館 前往遺跡\u003c/li\u003e\n\t\u003cli\u003e到 中國最東北的村莊 獲取之\u003cbr\u003e\n\t(北海道 北緯42 東經141)\u003cbr\u003e\n\t(科爾夫 北緯60 東經165)\u003c/li\u003e\n\u003c/ol\u003e"
