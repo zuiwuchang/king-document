@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eextern/*指明函数实现在外*/ \n或 _declspec(dllimport) /*指明函数实现在外部dll中 从而生成比extern效率更高的代码*/\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e_declspec(dllimport) int add(int a,int b);\n\u003c/pre\u003e"

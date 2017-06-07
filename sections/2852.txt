@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCGdiObject\t代表一個 c++相關的GDI對象 (如 CFont CBrush CPen)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ewhile(true)\n{\n\tif(PeekMessage(\u0026amp;msg, NULL, 0, 0,PM_REMOVE))\n\t{\n\t\tif(msg.message\t==\tWM_QUIT)\n\t\t{\n\t\t\tbreak;\n\t\t}\n\t\tTranslateMessage(\u0026amp;msg);\n\t\tDispatchMessage(\u0026amp;msg);\n\t}\n\telse\n\t{\n\t\t//處理空閒時間\tOnIdle()...\n\t}\n}\u003c/pre\u003e"

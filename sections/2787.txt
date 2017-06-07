@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在class和classname中间加入 _declspec(dllexport)\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eclass test\n{\n\tpublic:\n\t_declspec(dllexport) int add(int a,int b);\n\t...\n\tprotected:\n\t...\n\tprivate:\n\t...\n}\u003c/pre\u003e"

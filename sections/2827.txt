@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eBOOL WINAPI ExitWindowsEx(\n  __in  UINT uFlags,\t\t\t//執行的操作\n  __in  DWORD dwReason\t\t\t//操作原因 亦可直接0\n);\n\nuFlags 取值\n\tEWX_LOGOFF\t\t註銷\n\tEWX_REBOOT\t\t重啟\n\tEWX_SHUTDOWN\t關機\n\t\nuFlags 可\u0026的值\n\tEWX_FORCE    \t\t強制終止 正在運行的進程\n\tEWX_FORCEIFHUNG\t\t系統會發送消息告訴其他進程應該結束 之後如果進程未結束 依然將被強制重啟\n\u003c/pre\u003e"

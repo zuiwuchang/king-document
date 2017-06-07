@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eDWORD value\t=\t0;\nif(GetVolumeInformation(L\"c:\\\\\",NULL,0,\u0026amp;value,NULL,NULL,NULL,0))\n{\n\t\n}\u003c/pre\u003e"

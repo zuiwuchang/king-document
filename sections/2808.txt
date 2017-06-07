@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e当文件被被拖动到窗口并松开鼠标时会接受到WM_DROPFILES消息\n用DragQueryFile获取被拖入文件名信息\n\u003c/pre\u003e"

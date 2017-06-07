@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edocument代表了數據\n\n應該從 CDocument 繼承 並聲明一些變量(用以保存數據) 之後至少重載Serialize 以實現數據的讀取 存儲\n\u003c/pre\u003e"

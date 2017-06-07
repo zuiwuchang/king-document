@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用模塊定義文件導出的函數前 不能加上 extern \"C\"\n\u003c/pre\u003e"

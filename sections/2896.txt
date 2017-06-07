@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回關聯的 document\nCDocument* GetDocument( ) const;\n\n//檢查文檔是否被選中\nvirtual BOOL IsSelected( const CObject* pDocItem ) const;\n\u003c/pre\u003e"

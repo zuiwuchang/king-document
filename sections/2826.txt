@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSHGetFileInfo 传入 SHGFI_ICON 标志 在不使用图标时 需要 DestroyIcon\n\nSHGetFileInfo 返回的 无论是大小图标 其中内容 排序是同步一致的 只是图标大小不同(意思是 大图标 元素变化 小图标 自动 跟进 反之亦然)\n\nSHGetFileInfo 传入 SHGFI_SYSICONINDEX 若图标不存在于系统图标中 将自动被加入系统图标\n\nSHGetFileInfo 亦可获取ico文件句柄 (图标既是本身)\n\u003c/pre\u003e"

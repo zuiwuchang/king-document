@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//禁用菜單\nvirtual void Enable( BOOL bOn = TRUE );\t//FALSE(禁用)\n//選中菜單 \nvirtual void SetCheck( int nCheck = 1 );\t//0(取消選中)\t 1(選中) 2(不確定)\n//設置菜單顯示文本\nvirtual void SetText( LPCTSTR lpszText );\n\u003c/pre\u003e"

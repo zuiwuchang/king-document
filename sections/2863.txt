@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//加載位圖\nCBitmap bitmap\nbitmap.LoadBitmap\n\n//創建兼容dc\nCDC dc\ndc.CreateCompatibleDC(CDC* pDC)\t//實際上是在內存中分配一個 顯示塊(1*1的像素大小) 以用於準備 顯示圖像 以便最後顯示到實際dc的顯示表面\n兼容dc必須先 選擇一副位圖 到設備才能 使用 繪圖函數 對齊進行繪製\n\n//將位圖選到兼容dc(此時 兼容dc的顯示 大小將變為 位圖大小)\ndc.SelectObject\n\n//將兼容dc位圖 貼到當前dc中\npDC-\u0026gt;BitBlt\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//禁用 DLL_THREAD_ATTACH DLL_THREAD_DETACH 通知\nBOOL WINAPI DisableThreadLibraryCalls(\n\t_In_ HMODULE hModule\n);\n\u003c/pre\u003e"

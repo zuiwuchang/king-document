@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回 文檔接口 CComQIPtr\u0026lt;IHTMLDocument2\u0026gt;\nLPDISPATCH GetHtmlDocument() const\n\u003c/pre\u003e"

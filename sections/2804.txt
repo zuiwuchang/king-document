@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eHINSTANCE hInstance = GetModuleHandle(L\"calc.exe\");//传入模块名\nunsigned int baseAddr=(unsigned int)hInstance;\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eEnumWindows並非 異步函數 程序將等待 回調函數返回 FALSE 才繼續執行下面的代碼\n但是當 EnumWindows枚舉完當前所有窗口後 依然會返回 EnumWindows的返回值 由最後一次回調函數返回\n\u003c/pre\u003e"

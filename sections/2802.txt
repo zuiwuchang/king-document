@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003ewin7下线提升本进程权限 以有足够权限进行注入\u003c/li\u003e\n\t\u003cli\u003eOpenProcess 获取欲注入进程之 HANDLE\u003c/li\u003e\n\t\u003cli\u003eVirtualAllocEx 为远程进程申请写入内存\u003c/li\u003e\n\t\u003cli\u003eGetProcAddress 获取 Kernel32中 LoadLibrary地址\u003c/li\u003e\n\t\u003cli\u003eCreateRemoteThread注入\u003c/li\u003e\n\u003c/ol\u003e"

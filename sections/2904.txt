@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e从 CObject继承\n实现void Serialize (CArchive\u0026amp; ar)\n在类声明中使用DECLARE_SERIAL (类名) 宏\n定义一个无参构造函数\n使用IMPLEMENT_SERIAL（类名, CObject, 版本号） 宏\n\n重载\u0026lt;\u0026lt; \u0026gt;\u0026gt;  (可选)\n\u003c/pre\u003e"

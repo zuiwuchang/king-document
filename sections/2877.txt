@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e菜單的狀態維護依賴餘 CN_UPDATE_COMAND_UI 消息,誰捕獲CN_UPDATE_COMAND_UI消息\n每當菜單需要顯示時 MFC就創建一個 CCmdUI對象並於菜單關聯 通過對CCmdUI操作以維護菜單狀態\n\u003c/pre\u003e"

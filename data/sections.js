@@ -19262,5 +19262,908 @@ var __v=[
 			"Name": "貴霜朝的大盤",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2783,
+			"Panel": 1401,
+			"Name": "動態鏈接庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2784,
+			"Panel": 1402,
+			"Name": "查看dll的导出函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2785,
+			"Panel": 1403,
+			"Name": "导出函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2786,
+			"Panel": 1403,
+			"Name": "导出类",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2787,
+			"Panel": 1403,
+			"Name": "导出类中部分函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2788,
+			"Panel": 1404,
+			"Name": "动态导入dll",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2789,
+			"Panel": 1404,
+			"Name": "静态导入dll",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2790,
+			"Panel": 1404,
+			"Name": "导入函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2791,
+			"Panel": 1404,
+			"Name": "导入类",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2792,
+			"Panel": 1404,
+			"Name": "导入类中部分函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2793,
+			"Panel": 1405,
+			"Name": "新段落",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2794,
+			"Panel": 1405,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2795,
+			"Panel": 1406,
+			"Name": "DllMain",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2796,
+			"Panel": 1406,
+			"Name": "禁用線程 通知",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2797,
+			"Panel": 1407,
+			"Name": "mfcdll",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2798,
+			"Panel": 1407,
+			"Name": "mfcdll 中使用資源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2799,
+			"Panel": 1407,
+			"Name": "切換資源模塊方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2800,
+			"Panel": 1408,
+			"Name": "win32 dll 支持mfc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2801,
+			"Panel": 1409,
+			"Name": "远程线程注入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2802,
+			"Panel": 1409,
+			"Name": "一般步骤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2803,
+			"Panel": 1409,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2804,
+			"Panel": 1410,
+			"Name": "hInstance (实例/或基地址) 获取",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2805,
+			"Panel": 1410,
+			"Name": "hWnd 获取 /*SetTimer必须传入此值*/",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2806,
+			"Panel": 1410,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2807,
+			"Panel": 1411,
+			"Name": " 系统托盘",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2808,
+			"Panel": 1412,
+			"Name": "文件拖拽",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2809,
+			"Panel": 1412,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2810,
+			"Panel": 1413,
+			"Name": "win32",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2811,
+			"Panel": 1413,
+			"Name": "MFC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2812,
+			"Panel": 1413,
+			"Name": "選擇多個文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2813,
+			"Panel": 1414,
+			"Name": "文件夾选择",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2814,
+			"Panel": 1415,
+			"Name": "文件右键关联",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2815,
+			"Panel": 1415,
+			"Name": "Example add",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2816,
+			"Panel": 1415,
+			"Name": "Example delete",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2817,
+			"Panel": 1416,
+			"Name": "函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2818,
+			"Panel": 1416,
+			"Name": "聲明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2819,
+			"Panel": 1417,
+			"Name": "釋放二進制文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2820,
+			"Panel": 1418,
+			"Name": "映射文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2821,
+			"Panel": 1418,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2822,
+			"Panel": 1418,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2823,
+			"Panel": 1419,
+			"Name": "文件图标句柄",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2824,
+			"Panel": 1419,
+			"Name": "相关API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2825,
+			"Panel": 1419,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2826,
+			"Panel": 1419,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2827,
+			"Panel": 1420,
+			"Name": "關機 註銷 重啟",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2828,
+			"Panel": 1420,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2829,
+			"Panel": 1421,
+			"Name": "獲取磁盤序列號",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2830,
+			"Panel": 1422,
+			"Name": "hook消息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2831,
+			"Panel": 1423,
+			"Name": "一般步骤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2832,
+			"Panel": 1423,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2833,
+			"Panel": 1424,
+			"Name": "基本概念",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2834,
+			"Panel": 1424,
+			"Name": "基本框架",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2835,
+			"Panel": 1424,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2836,
+			"Panel": 1425,
+			"Name": "Windows程序的生與死",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2837,
+			"Panel": 1426,
+			"Name": "空閒時間",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2838,
+			"Panel": 1426,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2839,
+			"Panel": 1427,
+			"Name": " 繪圖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2840,
+			"Panel": 1427,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2841,
+			"Panel": 1427,
+			"Name": "CDC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2842,
+			"Panel": 1427,
+			"Name": "CClientDC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2843,
+			"Panel": 1427,
+			"Name": "CWindowDC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2844,
+			"Panel": 1428,
+			"Name": "設備描述符表",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2845,
+			"Panel": 1428,
+			"Name": "CPen",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2846,
+			"Panel": 1428,
+			"Name": "CBrush",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2847,
+			"Panel": 1428,
+			"Name": "CBitmap",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2848,
+			"Panel": 1428,
+			"Name": "CDC 方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2849,
+			"Panel": 1428,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2850,
+			"Panel": 1429,
+			"Name": "CDC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2851,
+			"Panel": 1429,
+			"Name": "繪製相關",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2852,
+			"Panel": 1430,
+			"Name": "CGdiObject",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2853,
+			"Panel": 1430,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2854,
+			"Panel": 1431,
+			"Name": "CColorDialog",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2855,
+			"Panel": 1431,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2856,
+			"Panel": 1432,
+			"Name": "CFontDialog",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2857,
+			"Panel": 1432,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2858,
+			"Panel": 1433,
+			"Name": "WM_CTLCOLOR 改變 對話框 子控件 背景",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2859,
+			"Panel": 1433,
+			"Name": "OnCtlColor",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2860,
+			"Panel": 1433,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2861,
+			"Panel": 1434,
+			"Name": "CBitmap",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2862,
+			"Panel": 1434,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2863,
+			"Panel": 1435,
+			"Name": "一般步驟",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2864,
+			"Panel": 1435,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2865,
+			"Panel": 1436,
+			"Name": "坐標空間",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2866,
+			"Panel": 1436,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2867,
+			"Panel": 1437,
+			"Name": "區域",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2868,
+			"Panel": 1437,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2869,
+			"Panel": 1438,
+			"Name": "插入符 繪製文本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2870,
+			"Panel": 1438,
+			"Name": "獲取當前",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2871,
+			"Panel": 1438,
+			"Name": "繪製文本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2872,
+			"Panel": 1439,
+			"Name": "定義路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2873,
+			"Panel": 1440,
+			"Name": "CFont",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2874,
+			"Panel": 1440,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2875,
+			"Panel": 1441,
+			"Name": "CMenu",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2876,
+			"Panel": 1441,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2877,
+			"Panel": 1442,
+			"Name": "菜單命令更新 UPDATE_COMAND_UI",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2878,
+			"Panel": 1442,
+			"Name": "CCmdUI",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2879,
+			"Panel": 1443,
+			"Name": "動態創建 菜單",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2880,
+			"Panel": 1444,
+			"Name": "CDialog",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2881,
+			"Panel": 1445,
+			"Name": "窗口 z軸次序",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2882,
+			"Panel": 1446,
+			"Name": "屬性頁",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2883,
+			"Panel": 1446,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2884,
+			"Panel": 1447,
+			"Name": "PreCreateWindow 修改窗口外觀",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2885,
+			"Panel": 1447,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2886,
+			"Panel": 1448,
+			"Name": "工具欄 CToolBar",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2887,
+			"Panel": 1448,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2888,
+			"Panel": 1448,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2889,
+			"Panel": 1449,
+			"Name": "狀態欄",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2890,
+			"Panel": 1450,
+			"Name": "去掉 菜单",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2891,
+			"Panel": 1450,
+			"Name": "去掉 工具栏 状态栏",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2892,
+			"Panel": 1451,
+			"Name": "CDocument",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2893,
+			"Panel": 1451,
+			"Name": "可用方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2894,
+			"Panel": 1451,
+			"Name": "可重載函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2895,
+			"Panel": 1452,
+			"Name": "CView",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2896,
+			"Panel": 1452,
+			"Name": "可用方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2897,
+			"Panel": 1452,
+			"Name": "可用重載函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2898,
+			"Panel": 1453,
+			"Name": "frame CFrameWnd",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2899,
+			"Panel": 1454,
+			"Name": "document template CDocTemplate",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2900,
+			"Panel": 1455,
+			"Name": "相互訪問",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2901,
+			"Panel": 1456,
+			"Name": "分隔對話框",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2902,
+			"Panel": 1456,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2903,
+			"Panel": 1457,
+			"Name": "CArchive",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2904,
+			"Panel": 1457,
+			"Name": "自定义类 实现 串行化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2905,
+			"Panel": 1457,
+			"Name": "Example 串行化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2906,
+			"Panel": 1457,
+			"Name": "重载 \u003c\u003c \u003e\u003e",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2907,
+			"Panel": 1457,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2908,
+			"Panel": 1458,
+			"Name": "CHtmlView",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2909,
+			"Panel": 1459,
+			"Name": "重載 虛函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2910,
+			"Panel": 1460,
+			"Name": "常用函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2911,
+			"Panel": 1461,
+			"Name": "擴展js",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

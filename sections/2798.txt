@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於靜態 mfc dll 不需進行模塊狀態切換\n在動態mfc dll 中 mfc默認使用主程序資源句柄加載資源模板 \u003cstrong\u003e(故此時需要切換資源模塊)\u003c/strong\u003e\n\u003c/pre\u003e"

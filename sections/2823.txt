@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSHGetFileInfo 能够获取文件 相关信息 其中最有用的是获取文件图标 \n既可以根据文件获取 亦可 从一个传入的文件属性获取默认图标\n\nGetFileAttributes 可获取文件属性 \n\u003c/pre\u003e"

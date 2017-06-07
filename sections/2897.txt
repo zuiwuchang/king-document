@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建文檔 創建視圖 後\nvoid CMyListView::OnInitialUpdate()\n\n\u003cstrong\u003e//document 調用 UpdateAllViews後\nvoid CMyListView::OnUpdate(CView* /*pSender*/, LPARAM /*lHint*/, CObject* /*pHint*/)\u003c/strong\u003e\n\u003c/pre\u003e"

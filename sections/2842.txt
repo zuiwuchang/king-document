@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCClientDC 從 CDC 繼承\n其在 構造時 自動調用 GetDc 析構時 自動調用 ReleaseDC\n\u003c/pre\u003e"

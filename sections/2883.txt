@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e應該 重載 CPropertyPage 的 OnSetActive 設置屬性表單擁有的按鍵(每當 該頁成為活動頁 此virtual被調用)\n\n當點擊 屬性表單 的 back next finish 會分別調用 CPropertyPage的的 virtual\nOnWizardBack\nOnWizardNext\nOnWizardFinish\n如果 virtual 返回 0(自動跳轉到下一個頁面) -1(防止用戶進入下一個頁面)\n\u003c/pre\u003e"

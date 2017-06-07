@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e在dll的maill中 保存传入 的dll HINSTANCE 实例句柄\u003c/li\u003e\n\t\u003cli\u003e定义一个安装hook的函数 并导出\u003c/li\u003e\n\t\u003cli\u003e定义一个卸载hook的函数 并导出\u003c/li\u003e\n\t\u003cli\u003e应用程序链接dll 调用安装hook 卸载hook\u003c/li\u003e\n\u003c/ol\u003e"

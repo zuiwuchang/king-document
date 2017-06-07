@@ -1,0 +1,1 @@
+var __v="\u003cpre class='prettyprint linenums'\u003eclass test\n{\n\tpublic:\n\t_declspec(dllimport) int add(int a,int b);\n\t...\n\tprotected:\n\t...\n\tprivate:\n\t...\n}\n\u003c/pre\u003e"

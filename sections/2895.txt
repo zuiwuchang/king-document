@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eview 負責呈現 document 中的數據\n\n應該從 CView 繼承 之後存在用於顯示數據的OnDraw 或Onprint\n\nview實際上是個沒有邊框的窗口 真正出現時 外圍還有一個邊框窗口 frame\n\u003c/pre\u003e"

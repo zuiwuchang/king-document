@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewindow系统是建立在消息驱动之上的 \nwin api 允許程序安装一个hook 以拦截消息\n\u003c/pre\u003e"

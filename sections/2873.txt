@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCFont 必須先通過 create...初始化\n\u003c/pre\u003e"

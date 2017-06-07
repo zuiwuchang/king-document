@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e新建*.def文件\ndef文件内容\n\tLIBRARY dllname  /*此句可以省略 dllname必需和生产的dll同名 如LIBRARY test*/\n\tEXPORTS   /*声明以下为设置的导出函数 和 函数名*/\n\tadd   /*导出add*/\n\tsubtest=sub   /*把内部定义的sub函数导出为subtest*/\n\n\tone @ 1 NONAME  /*NONAME指定不导出函数名 只导出序号*/\n\ttwo @ 2\t\t\t/*@ n 手动指定导出序号*/\n\tthree @\t5\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ewin32 可以將文件 映射到內存 從而像操作內存一樣操作 文件\n\u003c/pre\u003e"

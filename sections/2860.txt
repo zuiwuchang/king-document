@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e無法使 一個單行的 CEdit 控件 文本背景透明 只能設置其文本背景顏色\n對於 自繪製控件 無法通過 WM_CTLCOLOR 改變其外觀\n\u003c/pre\u003e"

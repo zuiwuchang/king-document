@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003echar szFileFilter[]=\"Mp3 File(*.mp3)|*.mp3|All File(*.*)|*.*||\";//文件类型过滤\nCFileDialog dlg(TRUE,NULL,NULL,OFN_HIDEREADONLY,szFileFilter); \ndlg.m_ofn;\nif(dlg.DoModal()==IDOK)\n{\n\tCString PathName=dlg.GetPathName();   //获取选中路径\n}\u003c/pre\u003e"

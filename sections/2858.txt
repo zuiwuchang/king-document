@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對話框 控件 需要繪製時 會發送 WM_CTLCOLOR 給其父窗口\n父窗口可以在此返回一個畫刷 用以對話框 子控件 繪製背景\nSetTextColor SetBkMode SetBkColor改變其文本顏色\n\u003c/pre\u003e"

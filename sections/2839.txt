@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eHDC 代表一個 繪圖 相關設備\n在繪圖前 都需要 得到相應的HDC 句柄 \n在繪圖結束 需要 釋放掉 HDC句柄\n\nMFC 把SDK的DC操作 封裝在 CDC類中\n\u003c/pre\u003e"

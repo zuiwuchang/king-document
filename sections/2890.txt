@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//PreCreateWindow在 设置 cs.hMenu=NULL;\nBOOL CMainFrame::PreCreateWindow(CREATESTRUCT\u0026amp; cs)\n{\n\tif( !CFrameWnd::PreCreateWindow(cs) )\n\t\treturn FALSE;\n\t// TODO: 在此处通过修改\n\t//  CREATESTRUCT cs 来修改窗口类或样式\n\tcs.hMenu=NULL;\n\treturn TRUE;\n}\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e註冊窗口類\n創建窗口\n分發消息\n處理消息\n\u003c/pre\u003e"

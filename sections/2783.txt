@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eKernel32.dll\t內存 進程 線程 管理\nUser32.dll\t用戶界面 窗口創建 消息傳遞等\nGDI32.dll\t畫圖 文本顯示等\n\n動態庫 通常 提供 lib(引入庫) 和 dll(動態庫) 兩個檔案\n\u003c/pre\u003e"

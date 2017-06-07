@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCreateFileMapping 傳入的文件大小 為0(代表整個文件) 如果傳入大小 大於文件大小 文件將被自動填充到指定大小\nMapViewOfFile 傳入的文件大小用法 同CreateFileMapping \nMapViewOfFile傳入的文件映射偏移位置 必須是系統內存分配顆粒的整數倍 通過 GetSystemInfo 獲取 0代表從文件頭開始映射\n\u003c/pre\u003e"

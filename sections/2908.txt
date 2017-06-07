@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCHtmlView 封裝了 WebBrowser控件 以便於 在MFC中文檔程序中 快速使用(將view從 CHtmlView派生即可)\n\n詳情 參見 activex插件 WebBrowser\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//一个包含附加给对象的HBITMAP，HRGN，HBRUSH，HPEN，HPALETTE或HFONT的句柄\nCGdiObject::m_hObject\n\n//斷開與之關聯的 句柄\nBOOL DeleteObject( );\n\u003c/pre\u003e"

@@ -2639,10 +2639,124 @@ var __v={
 			"Name": "印度洋",
 			"Sort": 0
 		},
+		"1401": {
+			"Id": 1401,
+			"Chapter": 452,
+			"Name": "動態鏈接庫",
+			"Sort": 0
+		},
+		"1402": {
+			"Id": 1402,
+			"Chapter": 452,
+			"Name": "查看dll的导出函数",
+			"Sort": 0
+		},
+		"1403": {
+			"Id": 1403,
+			"Chapter": 452,
+			"Name": "导出",
+			"Sort": 0
+		},
+		"1404": {
+			"Id": 1404,
+			"Chapter": 452,
+			"Name": "导入",
+			"Sort": 0
+		},
+		"1405": {
+			"Id": 1405,
+			"Chapter": 452,
+			"Name": "模块定义文件",
+			"Sort": 0
+		},
+		"1406": {
+			"Id": 1406,
+			"Chapter": 452,
+			"Name": "DllMain",
+			"Sort": 0
+		},
+		"1407": {
+			"Id": 1407,
+			"Chapter": 452,
+			"Name": "mfcdll",
+			"Sort": 0
+		},
+		"1408": {
+			"Id": 1408,
+			"Chapter": 452,
+			"Name": "win32 dll 支持mfc",
+			"Sort": 0
+		},
+		"1409": {
+			"Id": 1409,
+			"Chapter": 453,
+			"Name": "远程线程注入",
+			"Sort": 0
+		},
 		"141": {
 			"Id": 141,
 			"Chapter": 60,
 			"Name": "strings",
+			"Sort": 0
+		},
+		"1410": {
+			"Id": 1410,
+			"Chapter": 453,
+			"Name": "注入后 hWnd hInstance 获取",
+			"Sort": 0
+		},
+		"1411": {
+			"Id": 1411,
+			"Chapter": 454,
+			"Name": " 系统托盘",
+			"Sort": 0
+		},
+		"1412": {
+			"Id": 1412,
+			"Chapter": 455,
+			"Name": "文件拖拽",
+			"Sort": 0
+		},
+		"1413": {
+			"Id": 1413,
+			"Chapter": 455,
+			"Name": "文件选择",
+			"Sort": 0
+		},
+		"1414": {
+			"Id": 1414,
+			"Chapter": 455,
+			"Name": "文件夾选择",
+			"Sort": 0
+		},
+		"1415": {
+			"Id": 1415,
+			"Chapter": 455,
+			"Name": "文件右键关联",
+			"Sort": 0
+		},
+		"1416": {
+			"Id": 1416,
+			"Chapter": 455,
+			"Name": "注册表操作",
+			"Sort": 0
+		},
+		"1417": {
+			"Id": 1417,
+			"Chapter": 455,
+			"Name": "釋放二進制文件",
+			"Sort": 0
+		},
+		"1418": {
+			"Id": 1418,
+			"Chapter": 455,
+			"Name": "映射文件",
+			"Sort": 0
+		},
+		"1419": {
+			"Id": 1419,
+			"Chapter": 455,
+			"Name": "文件图标句柄",
 			"Sort": 0
 		},
 		"142": {
@@ -2651,10 +2765,130 @@ var __v={
 			"Name": "strconv",
 			"Sort": 0
 		},
+		"1420": {
+			"Id": 1420,
+			"Chapter": 456,
+			"Name": "關機 註銷 重啟",
+			"Sort": 0
+		},
+		"1421": {
+			"Id": 1421,
+			"Chapter": 456,
+			"Name": "獲取磁盤序列號",
+			"Sort": 0
+		},
+		"1422": {
+			"Id": 1422,
+			"Chapter": 457,
+			"Name": "hook消息",
+			"Sort": 0
+		},
+		"1423": {
+			"Id": 1423,
+			"Chapter": 457,
+			"Name": "一般步骤",
+			"Sort": 0
+		},
+		"1424": {
+			"Id": 1424,
+			"Chapter": 458,
+			"Name": "WIN32程序基本概念",
+			"Sort": 0
+		},
+		"1425": {
+			"Id": 1425,
+			"Chapter": 458,
+			"Name": "Windows程序的生與死",
+			"Sort": 0
+		},
+		"1426": {
+			"Id": 1426,
+			"Chapter": 458,
+			"Name": "空閒時間",
+			"Sort": 0
+		},
+		"1427": {
+			"Id": 1427,
+			"Chapter": 459,
+			"Name": " 繪圖",
+			"Sort": 4
+		},
+		"1428": {
+			"Id": 1428,
+			"Chapter": 459,
+			"Name": "設備描述符表",
+			"Sort": 3
+		},
+		"1429": {
+			"Id": 1429,
+			"Chapter": 459,
+			"Name": "CDC",
+			"Sort": 1
+		},
 		"143": {
 			"Id": 143,
 			"Chapter": 60,
 			"Name": "unicode/utf8",
+			"Sort": 0
+		},
+		"1430": {
+			"Id": 1430,
+			"Chapter": 459,
+			"Name": "CGdiObject",
+			"Sort": 2
+		},
+		"1431": {
+			"Id": 1431,
+			"Chapter": 459,
+			"Name": "CColorDialog",
+			"Sort": 0
+		},
+		"1432": {
+			"Id": 1432,
+			"Chapter": 459,
+			"Name": "CFontDialog",
+			"Sort": 0
+		},
+		"1433": {
+			"Id": 1433,
+			"Chapter": 459,
+			"Name": "WM_CTLCOLOR 改變 對話框 子控件 背景",
+			"Sort": 0
+		},
+		"1434": {
+			"Id": 1434,
+			"Chapter": 459,
+			"Name": "CBitmap",
+			"Sort": 0
+		},
+		"1435": {
+			"Id": 1435,
+			"Chapter": 459,
+			"Name": "貼圖",
+			"Sort": 0
+		},
+		"1436": {
+			"Id": 1436,
+			"Chapter": 459,
+			"Name": "坐標空間",
+			"Sort": 0
+		},
+		"1437": {
+			"Id": 1437,
+			"Chapter": 459,
+			"Name": "區域",
+			"Sort": 0
+		},
+		"1438": {
+			"Id": 1438,
+			"Chapter": 460,
+			"Name": "插入符 繪製文本",
+			"Sort": 0
+		},
+		"1439": {
+			"Id": 1439,
+			"Chapter": 460,
+			"Name": "定義路徑",
 			"Sort": 0
 		},
 		"144": {
@@ -2663,16 +2897,148 @@ var __v={
 			"Name": "unicode",
 			"Sort": 0
 		},
+		"1440": {
+			"Id": 1440,
+			"Chapter": 460,
+			"Name": "CFont",
+			"Sort": 0
+		},
+		"1441": {
+			"Id": 1441,
+			"Chapter": 461,
+			"Name": "CMenu",
+			"Sort": 0
+		},
+		"1442": {
+			"Id": 1442,
+			"Chapter": 461,
+			"Name": "菜單命令更新 UPDATE_COMAND_UI",
+			"Sort": 0
+		},
+		"1443": {
+			"Id": 1443,
+			"Chapter": 461,
+			"Name": "動態創建 菜單",
+			"Sort": 0
+		},
+		"1444": {
+			"Id": 1444,
+			"Chapter": 462,
+			"Name": "CDialog",
+			"Sort": 0
+		},
+		"1445": {
+			"Id": 1445,
+			"Chapter": 462,
+			"Name": "窗口 z軸次序",
+			"Sort": 0
+		},
+		"1446": {
+			"Id": 1446,
+			"Chapter": 462,
+			"Name": "屬性頁",
+			"Sort": 0
+		},
+		"1447": {
+			"Id": 1447,
+			"Chapter": 463,
+			"Name": "PreCreateWindow 修改窗口外觀",
+			"Sort": 0
+		},
+		"1448": {
+			"Id": 1448,
+			"Chapter": 463,
+			"Name": "工具欄 CToolBar",
+			"Sort": 0
+		},
+		"1449": {
+			"Id": 1449,
+			"Chapter": 463,
+			"Name": "狀態欄 CStatusBar",
+			"Sort": 0
+		},
 		"145": {
 			"Id": 145,
 			"Chapter": 59,
 			"Name": "sockts5 轉 http",
 			"Sort": 0
 		},
+		"1450": {
+			"Id": 1450,
+			"Chapter": 463,
+			"Name": "去掉 菜单 工具栏 状态栏",
+			"Sort": 0
+		},
+		"1451": {
+			"Id": 1451,
+			"Chapter": 464,
+			"Name": "CDocument",
+			"Sort": 0
+		},
+		"1452": {
+			"Id": 1452,
+			"Chapter": 464,
+			"Name": "CView",
+			"Sort": 0
+		},
+		"1453": {
+			"Id": 1453,
+			"Chapter": 464,
+			"Name": "frame CFrameWnd",
+			"Sort": 0
+		},
+		"1454": {
+			"Id": 1454,
+			"Chapter": 464,
+			"Name": "document template CDocTemplate",
+			"Sort": 0
+		},
+		"1455": {
+			"Id": 1455,
+			"Chapter": 464,
+			"Name": "相互訪問",
+			"Sort": 0
+		},
+		"1456": {
+			"Id": 1456,
+			"Chapter": 464,
+			"Name": "分隔對話框",
+			"Sort": 0
+		},
+		"1457": {
+			"Id": 1457,
+			"Chapter": 464,
+			"Name": "CArchive",
+			"Sort": 0
+		},
+		"1458": {
+			"Id": 1458,
+			"Chapter": 465,
+			"Name": "CHtmlView",
+			"Sort": 0
+		},
+		"1459": {
+			"Id": 1459,
+			"Chapter": 465,
+			"Name": "重載 虛函數",
+			"Sort": 0
+		},
 		"146": {
 			"Id": 146,
 			"Chapter": 62,
 			"Name": "apt",
+			"Sort": 0
+		},
+		"1460": {
+			"Id": 1460,
+			"Chapter": 465,
+			"Name": "常用函數",
+			"Sort": 0
+		},
+		"1461": {
+			"Id": 1461,
+			"Chapter": 465,
+			"Name": "擴展js",
 			"Sort": 0
 		},
 		"147": {

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e所有的消息 都必須被處理 所以 窗口函數中 需要\n\tdefault:\n\t\treturn DefWindowProc(hWnd, message, wParam, lParam);\n\u003c/pre\u003e"

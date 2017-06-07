@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//打開新 鏈接前 被調用\nvoid OnBeforeNavigate2(LPCTSTR lpszURL, DWORD nFlags, LPCTSTR lpszTargetFrameName, CByteArray\u0026 baPostedData, LPCTSTR lpszHeaders, BOOL* pbCancel)\n\t\u003cstrong\u003elpszURL url地址\n\t設置 *pbCancel = TRUE 則中斷打開操作\u003c/strong\u003e\n\u003c/pre\u003e"

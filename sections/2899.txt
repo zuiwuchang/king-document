@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMFC把 document/view/frame視為一體 每當慾打開一份文件 程序就應該產生一份 document/view/frame\nCDocTemplate負責管理掌管 document/view/frame\n\nCDocTemplate有兩個派生類 分別為 CMultiDocTemplate CSingleDocTemplate\n\u003c/pre\u003e"

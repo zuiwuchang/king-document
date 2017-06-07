@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGDI中 有一個所謂的設備描述符表 用以確定 當前繪圖環境\n通過 創建相應 設備 再將其 選入到 設備描述符表 改變 繪圖效果\n\n//將一個 設備選入 選入 設備描述符表\nCDC::SelectObject\nCPen* SelectObject (CPen* pPen);\nCBrush* SelectObject(CBrush* pBrush);\nvirtual CFont* SelectObject(CFont* pFont);\nCBitmap* SelectObject(CBitmap* pBitmap);\nint SelectObject (CRgn* pRgn);\n\u003c/pre\u003e"

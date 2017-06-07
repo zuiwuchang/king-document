@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCToolBar 代表了一個工具欄\n\n添加一個 工具欄資源\n定義一個 CToolBar\nCToolBar::Create 或CToolBar::CreateEx 創建工具欄\nCToolBar::LoadToolBar\t加載工具欄資源\nCToolBar::EnableDocking\tCFrameWnd::EnableDocking\t設置可停靠位置\nCFrameWnd::DockControlBar\t停靠工具欄\n\u003c/pre\u003e\n"

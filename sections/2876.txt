@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMFC 使用UPDATE_COMAND_UI機制控制 菜單項是否可用 這會導致EnableMenuItem無效\n若要自己控制 需要在CMainFrame構造函數中 設置 m_bAutoMenuEnable=FALSE; 以關閉UPDATE_COMAND_UI\n\n可以定義一個局部變量 CMenu 傳遞給 SetMenu 但此時必須調用CMenu::Detach() 以斷開 菜單句柄 和CMenu的關聯\n這樣 CMenu析構時 就不會銷毀菜單 菜單的銷毀 將由主窗口管理\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e所謂空閒時間(idle time) 指系統中沒有任何消息等待處理的時間\n\n要處理空閒時間 需要以 PeekMessage 取代 GetMessage\n\n當沒有消息時 GetMessage會等待消息 而PeekMessage會返回FALSE\n\u003c/pre\u003e"

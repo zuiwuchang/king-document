@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCPen 封裝了畫筆相關的操作\n\nCPen( int nPenStyle\t//風格\n\t, int nWidth\t\t\t//筆寬\n\t, COLORREF crColor \t\t//顏色 RGB(255,0,0)\n);\nnPenStyle取值\nPS_SOLID 创建一支实线画笔。  \nPS_DASH 创建一支虚线画笔。只有当画笔宽度为1或更小（以设备单位计算）时才有效。  \nPS_DOT 创建一支点线画笔。只有当画笔宽度为1或更小（以设备单位计算）时才有效。  \n...\n\u003c/pre\u003e"

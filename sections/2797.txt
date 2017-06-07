@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emfcdll 中可以使用mfc特性\n\n入口为从 CWinApp 继承的类\nDLL_PROCESS_ATTACH 的处理在 InitInstance中\nDLL_PROCESS_DETACH 的处理在 ExitInstance中\n\u003c/pre\u003e"
