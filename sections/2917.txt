@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一般在 窗口中 可以調用 CWnd::GetDC 可返回 DC\n使用結束後 需要調用 ReleaseDC 釋放DC\n\u003c/pre\u003e"

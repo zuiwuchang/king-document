@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDrawClosedCurve 同 DrawCurve只是当曲线首尾不相连时自动连接首尾\n\u003c/pre\u003e"

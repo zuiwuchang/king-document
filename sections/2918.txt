@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evirtual BOOL CDC::CreateCompatibleDC(CDC* pDC)\n用於創建一個 餘 pDC 兼容的 內存dc 用於在內存中 繪製圖像\n之後可以將 兼容dc 的內容 複製到 設備dc \n以實現 雙緩衝 的功能\n\u003c/pre\u003e"

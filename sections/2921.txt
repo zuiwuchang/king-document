@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e繪製函數 使用當前畫筆 繪製 使用當前畫刷 填充 故需要 在繪製前 \nCPen* pen_ptr\t=\tcdc.SelectObject(\u0026amp;pen);\t//將指定畫筆 選入\n繪製完成後\ncdc.SelectObject(pen_ptr);\t//恢復原來畫筆\n\u003c/pre\u003e\n"

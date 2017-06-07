@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class=\"k-pre\"\u003eSolidBrush(const Color \u0026color);\n\n\u003cimg src='/sections/2952/image/SolidBrush.PNG'\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGraphics(HWND hwnd,BOOL icm);\nGraphics(HDC hdc,HANDLE hdevice);\nGraphics(HDC hdc);\nGraphics(Image* image);\n\nhdevice 设备句柄比如打印机的设备句柄 则绘制在打印机中 GDI+会自动驱动打印机打印\nimage 直接绘制在图片中\nicm 是否使用色彩配置文件校正色彩\n\u003c/pre\u003e"

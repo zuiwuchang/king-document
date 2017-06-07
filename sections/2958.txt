@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e用逐渐变换的色彩填充\n\u003c/pre\u003e"

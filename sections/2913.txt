@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGDI(Graphic Device Interface) 圖像設備接口\n是MFC中 對Win32 繪圖API的 封裝\n\n其提供了 DC 代表一個繪製設備\nDC 包含一些成員函數 draw... 用以指示 繪製什麼\n以及一些 繪圖工具 CFont CBrush CPen 用以指示如何繪製 圖像\n\u003c/pre\u003e"

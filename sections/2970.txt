@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eFont(const FontFamily *family,REAL emSize,INT style,Unit unit);\t//\tstyle由FontStyle枚举 emSize字体高度\nFont(const WCHAR *familyName,REAL emSize,INT style,Unit unit,const FontCollection *fontCollection);\nFont(HDC hdc,const HFONT hfont);\t//\thfont由CFont类强制转化而来\nFont(HDC,LOGFONTA*)\nFont(HDC,LOGFONTW*)\nFont(HDC)\n\u003c/pre\u003e"

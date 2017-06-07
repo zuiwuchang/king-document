@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePen ::Pen(Brush*,REAL with)\nPen::Pen(Color\u0026,REAL)\n\u003c/pre\u003e"

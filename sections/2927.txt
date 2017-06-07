@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePen::Pen(const Brush*,REAL);\nPen::Pen(const Color\u0026,REAL);\nREAL是默认笔触宽度 默认为1.0\n\u003c/pre\u003e"

@@ -3041,17 +3041,167 @@ var __v={
 			"Name": "擴展js",
 			"Sort": 0
 		},
+		"1462": {
+			"Id": 1462,
+			"Chapter": 466,
+			"Name": "分隔窗口",
+			"Sort": 0
+		},
+		"1463": {
+			"Id": 1463,
+			"Chapter": 467,
+			"Name": "GDI",
+			"Sort": 0
+		},
+		"1464": {
+			"Id": 1464,
+			"Chapter": 467,
+			"Name": "DC",
+			"Sort": 0
+		},
+		"1465": {
+			"Id": 1465,
+			"Chapter": 467,
+			"Name": "雙緩衝",
+			"Sort": 0
+		},
+		"1466": {
+			"Id": 1466,
+			"Chapter": 468,
+			"Name": "常用繪製函數",
+			"Sort": 0
+		},
+		"1467": {
+			"Id": 1467,
+			"Chapter": 468,
+			"Name": "BitBlt",
+			"Sort": 0
+		},
+		"1468": {
+			"Id": 1468,
+			"Chapter": 469,
+			"Name": "初始化环境",
+			"Sort": 0
+		},
+		"1469": {
+			"Id": 1469,
+			"Chapter": 469,
+			"Name": "Graphics",
+			"Sort": 0
+		},
 		"147": {
 			"Id": 147,
 			"Chapter": 56,
 			"Name": "git",
 			"Sort": 3
 		},
+		"1470": {
+			"Id": 1470,
+			"Chapter": 469,
+			"Name": "绘制直线 矩形 曲线 多边形",
+			"Sort": 0
+		},
+		"1471": {
+			"Id": 1471,
+			"Chapter": 469,
+			"Name": "填充区域",
+			"Sort": 0
+		},
+		"1472": {
+			"Id": 1472,
+			"Chapter": 469,
+			"Name": "文本输出",
+			"Sort": 0
+		},
+		"1473": {
+			"Id": 1473,
+			"Chapter": 469,
+			"Name": "other",
+			"Sort": 0
+		},
+		"1474": {
+			"Id": 1474,
+			"Chapter": 469,
+			"Name": "MFC的DEBUG_NEW与GDI+的冲突问题",
+			"Sort": 0
+		},
+		"1475": {
+			"Id": 1475,
+			"Chapter": 470,
+			"Name": "画笔",
+			"Sort": 0
+		},
+		"1476": {
+			"Id": 1476,
+			"Chapter": 470,
+			"Name": "单色画刷 SolidBrush",
+			"Sort": 0
+		},
+		"1477": {
+			"Id": 1477,
+			"Chapter": 470,
+			"Name": "影线画刷 HatchBrush",
+			"Sort": 0
+		},
+		"1478": {
+			"Id": 1478,
+			"Chapter": 470,
+			"Name": "纹理画刷 TextureBrush",
+			"Sort": 0
+		},
+		"1479": {
+			"Id": 1479,
+			"Chapter": 470,
+			"Name": "线性变换画刷 LinearGradientBrush",
+			"Sort": 0
+		},
 		"148": {
 			"Id": 148,
 			"Chapter": 56,
 			"Name": "git 協議",
 			"Sort": 1
+		},
+		"1480": {
+			"Id": 1480,
+			"Chapter": 470,
+			"Name": "路径渐变画刷 GraphicsPath",
+			"Sort": 0
+		},
+		"1481": {
+			"Id": 1481,
+			"Chapter": 471,
+			"Name": "主要的类",
+			"Sort": 0
+		},
+		"1482": {
+			"Id": 1482,
+			"Chapter": 471,
+			"Name": "字体系 FontFamily",
+			"Sort": 0
+		},
+		"1483": {
+			"Id": 1483,
+			"Chapter": 471,
+			"Name": "字体 Font",
+			"Sort": 0
+		},
+		"1484": {
+			"Id": 1484,
+			"Chapter": 471,
+			"Name": "列举安装的字体",
+			"Sort": 0
+		},
+		"1485": {
+			"Id": 1485,
+			"Chapter": 471,
+			"Name": "字体轮廓平滑处理",
+			"Sort": 0
+		},
+		"1486": {
+			"Id": 1486,
+			"Chapter": 471,
+			"Name": "私有字体 PrivateFontCollection",
+			"Sort": 0
 		},
 		"149": {
 			"Id": 149,

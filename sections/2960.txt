@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e构造LinearGradientModeVertical后调用LinearGradientModeVertical的SetInterpolationColors函数\n\nStatus SetInterpolationColors(          const Color *presetColors,//色彩数组\n\tconst REAL *blendPositions,//颜色合成点位置数组 以n%表示 比如 起点0.0  中点0.5  终点1.0\n\tINT count//数组长度\n);\n\u003c/pre\u003e"

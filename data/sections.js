@@ -20165,5 +20165,453 @@ var __v=[
 			"Name": "擴展js",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2912,
+			"Panel": 1462,
+			"Name": "分隔窗口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2913,
+			"Panel": 1463,
+			"Name": "GDI",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2914,
+			"Panel": 1464,
+			"Name": "DC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2915,
+			"Panel": 1464,
+			"Name": "常用 DC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2916,
+			"Panel": 1464,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2917,
+			"Panel": 1464,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2918,
+			"Panel": 1465,
+			"Name": "雙緩衝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2919,
+			"Panel": 1465,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2920,
+			"Panel": 1466,
+			"Name": "常用繪製函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2921,
+			"Panel": 1466,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2922,
+			"Panel": 1467,
+			"Name": "BitBlt",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2923,
+			"Panel": 1468,
+			"Name": "初始化环境",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2924,
+			"Panel": 1469,
+			"Name": "Graphics",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2925,
+			"Panel": 1469,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2926,
+			"Panel": 1470,
+			"Name": "绘制直线 矩形 曲线 多边形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2927,
+			"Panel": 1470,
+			"Name": "Pen",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2928,
+			"Panel": 1470,
+			"Name": "直线",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2929,
+			"Panel": 1470,
+			"Name": "矩形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2930,
+			"Panel": 1470,
+			"Name": "曲线",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2931,
+			"Panel": 1470,
+			"Name": "封闭曲线",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2932,
+			"Panel": 1470,
+			"Name": "贝塞尔曲线",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2933,
+			"Panel": 1470,
+			"Name": "多边形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2934,
+			"Panel": 1470,
+			"Name": "弧形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2935,
+			"Panel": 1470,
+			"Name": "扇形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2936,
+			"Panel": 1470,
+			"Name": "椭圆",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2937,
+			"Panel": 1470,
+			"Name": "繪製路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2938,
+			"Panel": 1471,
+			"Name": "填充区域",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2939,
+			"Panel": 1471,
+			"Name": "画刷",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2940,
+			"Panel": 1471,
+			"Name": "填充",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2941,
+			"Panel": 1472,
+			"Name": "文本输出",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2942,
+			"Panel": 1473,
+			"Name": "other",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2943,
+			"Panel": 1474,
+			"Name": "方法一(不推荐 会失去MFC的内存分配和内存泄漏追踪功能) ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2944,
+			"Panel": 1474,
+			"Name": "方法二",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2945,
+			"Panel": 1475,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2946,
+			"Panel": 1475,
+			"Name": "设置线条风格",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2947,
+			"Panel": 1475,
+			"Name": "设置对齐风格",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2948,
+			"Panel": 1475,
+			"Name": "线帽风格",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2949,
+			"Panel": 1475,
+			"Name": "画笔透明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2950,
+			"Panel": 1475,
+			"Name": "画笔连接点",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2951,
+			"Panel": 1476,
+			"Name": "单色画刷 SolidBrush",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2952,
+			"Panel": 1476,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2953,
+			"Panel": 1477,
+			"Name": "影线画刷 HatchBrush",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2954,
+			"Panel": 1477,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2955,
+			"Panel": 1478,
+			"Name": "纹理画刷 TextureBrush",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2956,
+			"Panel": 1478,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2957,
+			"Panel": 1478,
+			"Name": "旋转 平移 缩放",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2958,
+			"Panel": 1479,
+			"Name": "线性变换画刷 LinearGradientBrush",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2959,
+			"Panel": 1479,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2960,
+			"Panel": 1479,
+			"Name": "多色渐变",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2961,
+			"Panel": 1479,
+			"Name": "合成因子",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2962,
+			"Panel": 1480,
+			"Name": "路径渐变画刷 GraphicsPath",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2963,
+			"Panel": 1480,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2964,
+			"Panel": 1480,
+			"Name": "函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2965,
+			"Panel": 1481,
+			"Name": "主要的类",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2966,
+			"Panel": 1482,
+			"Name": "字体系 FontFamily",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2967,
+			"Panel": 1482,
+			"Name": "构造函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2968,
+			"Panel": 1482,
+			"Name": "Unit 字体大小单位",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2969,
+			"Panel": 1482,
+			"Name": "GDI字体系描述 LOGFONTA LOGFONTW",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2970,
+			"Panel": 1483,
+			"Name": "字体 Font",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2971,
+			"Panel": 1484,
+			"Name": "列举安装的字体",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2972,
+			"Panel": 1484,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2973,
+			"Panel": 1485,
+			"Name": "字体轮廓平滑处理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2975,
+			"Panel": 1486,
+			"Name": "私有字体 PrivateFontCollection",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2976,
+			"Panel": 1486,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

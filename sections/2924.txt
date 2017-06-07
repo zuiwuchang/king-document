@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGraphics是GDI+的核心，它完成了大部分的绘图、文本输出、几何图形填充、坐标系统转换\n相当于GDI的设备环境(DC)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e同InstalledFontCollection只是这个字体集合 由程序员自定义 \n通过AddFontFile和AddMemoryFont把字体加入到集合 GetFamilies返回字体集合\n\nStatus AddMemoryFont( const VOID *memory,//指向字体内存指针\nINT length);//内存大小\n\u003c/pre\u003e"

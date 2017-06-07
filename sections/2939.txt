@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGdiplus::SolidBrush brush(Gdiplus::Color(255,0,0));\n\u003c/pre\u003e\n"

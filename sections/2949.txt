@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e构造Pen时传入的Color带入alpha参数 Color(a,r,g,b);\n\u003c/pre\u003e\n"

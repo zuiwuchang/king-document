@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCDC\t//設備上下文\n\n//MFC 為特定用途 派生了如下dc 以簡化DC 創建 \nCPaintDC\t只用於在WM_PAINT消息響應中 繪製窗口 構造調用BeginPaint 析構調用EndPaint   \nCClientDC\t用於繪製窗口客戶區 構造時調用GetDC 析構時調用ReleaseDC\nCWindowDC\t可繪製CWnd的客戶區非客戶區 構造時調用GetWindowDC 析構時調用ReleaseDC  \nCMetaFileDC 圖源文件DC\n\u003c/pre\u003e"

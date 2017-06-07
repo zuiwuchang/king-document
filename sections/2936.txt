@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGraphics::DrawEllipse(Pen*,Rect\u0026)\nGraphics::DrawEllipse(Pen*,REAL,REAL,REAL,REAL)\nGraphics::DrawEllipse(Pen*,RectF\u0026) \nGraphics::DrawEllipse(Pen*,INT x,INT y,INT with,INT height)\n\u003c/pre\u003e"

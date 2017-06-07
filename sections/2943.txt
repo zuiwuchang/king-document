@@ -1,0 +1,1 @@
+var __v="将代码中如下的一段代码注释掉来关闭预处理命令\n\u003cpre class='prettyprint linenums'\u003e\n\n#ifdef _DEBUG\n#define new DEBUG_NEW\n#endif\u003c/pre\u003e"

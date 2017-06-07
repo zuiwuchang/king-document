@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e合成因子定义了颜色渐变程度 100% 完全转换 0丝毫未转换\n对于多色渐变 代表了每个渐变过程的渐变程度\n\n调用SetBlend设置合成因子\nStatus SetBlend(          const REAL *blendFactors,//合成因子数组\n\tconst REAL *blendPositions,//合成点位置数组\n\tINT count//数组大小\n);\n\u003c/pre\u003e"

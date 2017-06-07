@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGraphics::DrawPolygon(Pen*,Point*,INT*);\nGraphics::DrawPolygon(Pen*,PointF*,INT*);\n\u003c/pre\u003e"

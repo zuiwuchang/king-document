@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003etypedef enum {\n\tUnitWorld = 0,\t//\t世界坐标，非物理上的单位\n\tUnitDisplay = 1,\t//\t使用和输出设备相同的单位,如显示器为像素\n\tUnitPixel = 2,\t//\t像素\n\tUnitPoint = 3,\t//\t点(磅),1点=1/72英寸\n\tUnitInch = 4,\t//\t英寸\n\tUnitDocument = 5,\t//\t1/300英寸\n\tUnitMillimeter = 6\t//\t毫米\n} Unit;\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e将图片在目标区域平铺\n\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e定制纹理画刷使用的基本图案\u003c/li\u003e\n\t\u003cli\u003e设置画刷图案大小\u003c/li\u003e\n\t\u003cli\u003e确定图案排列方式\u003c/li\u003e\n\u003c/ol\u003e"

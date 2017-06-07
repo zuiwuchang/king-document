@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e参数同弧形\nGraphics::DrawPie(Pen*,Rect\u0026,REAL,REAL)\nGraphics::DrawPie(Pen*,RectF\u0026,REAL,REAL)\nGraphics::DrawPie(Pen*,INT,INT,INT,INT,REAL,REAL)\nGraphics::DrawPie(Pen*,REAL,REAL,REAL,REAL,REAL,REAL)\n\u003c/pre\u003e"
