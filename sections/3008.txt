@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eGdiplus::Bitmap bitmap(L\"psb.jpg\");\n\nGdiplus::Graphics graphics(m_hWnd);\n\n//clone\nGdiplus::Bitmap* ptr_clone = bitmap.Clone(0,0,bitmap.GetWidth()/2,bitmap.GetHeight()/2,PixelFormatDontCare);\n\ngraphics.DrawImage(ptr_clone,0,0,300,300);\n\n\ndelete ptr_clone;\u003c/pre\u003e"

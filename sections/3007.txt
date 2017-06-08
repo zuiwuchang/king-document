@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eClone 方法可以將圖片的 以部分 克隆到一個新的 對象中(Image 只能克隆武全部 Bitmap可以指定克隆區域)\n\u003c/pre\u003e"

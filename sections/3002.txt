@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGDI+ 在繪製時 使用一個默認的 無線大多 剪裁區域 程序員亦可手動設置 剪裁區域\n在剪裁區域之外的繪製 都將無效\n\nGraphics::SetClip 接受一個 矩形 路徑 區域 將 剪裁區域限制在繪製設備指定 範圍內\nGraphics::ResetClip 還原剪裁區域\n\u003c/pre\u003e"

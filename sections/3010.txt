@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eColorMatrix 是一個5*5的矩陣[R G B A 1]\n1 0 0 0 0\n0 1 0 0 0\n0 0 1 0 0\n0 0 0 1 0\n0 0 0 0 1 \n分別代表了 紅 黃 綠 alpha 分量\n\n要改變色彩效果 只要改變 ColorMatrix 之後 使用 ImageAttributes 的 SetColorMatrix\n再在DrawImage中 傳入ImageAttributes  即可\n\u003c/pre\u003e"

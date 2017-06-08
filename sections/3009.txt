@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e返回後的 指針 需要 delete\n\nBitmap 的Clone返回的 是 Bitmap*\n\u003c/pre\u003e"

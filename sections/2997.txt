@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//傳入 Image*以及 一個矩形區域 將圖像縮放到此矩形 輸出\nGraphics::DrawImage(Image*,RectF\u0026amp;)\nGraphics::DrawImage(Image*,Rect\u0026amp;)\nGraphics::DrawImage(Image*,INT x,INT y,INT width,INT height)\nGraphics::DrawImage(Image*,REAL x,REAL y,REAL width,REAL height)\n\u003c/pre\u003e"

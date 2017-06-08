@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eRegion::Region(Rect\u0026amp;)\t\t//創建矩形區域\nRegion::Region()\nRegion::Region(BYTE*,INT)\nRegion::Region(GraphicsPath*)\t//使用 路徑 構造區域\nRegion::Region(HRGN)\t\t//使用GDI句柄 CRgn對象構造\nRegion::Region(RectF\u0026amp;)\n\u003c/pre\u003e"

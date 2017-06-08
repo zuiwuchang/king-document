@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將繪製的 未封閉圖形(起點 終點) 封閉\nStatus CloseFigure(VOID);\n\n//將所有未封閉 圖形 封閉\nStatus CloseAllFigures(VOID);\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e存儲信息大小 必須是 malloc(size) 而不是 new ImageCodecInfo[numEncoders]\n\u003c/pre\u003e"

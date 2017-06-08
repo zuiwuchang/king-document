@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e不再需要縮略圖時 需要 delete\n\u003c/pre\u003e"

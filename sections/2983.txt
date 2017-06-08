@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eGdiplus::GraphicsPath path;\npath.AddArc(10,10,100,100,0,90);\n\npath.AddRectangle(Gdiplus::Rect(10,140,100,100));\npath.AddArc(20,20,100,100,0,90);\n\ngraphics.DrawPath(\u0026amp;Gdiplus::Pen(Gdiplus::Color(255,0,0)),\u0026amp;path);\u003c/pre\u003e"

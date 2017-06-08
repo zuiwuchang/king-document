@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在GraphicsPath中連續添加線段 前一個的終點 和後一個的起點 會被連接\n其被視為同一個 封閉圖形\n若其中 被其他 添加 封閉圖形的函數打斷(如 CloseFigure AddRectangle) 則不會 連接\n\nDrawPath不會主動封閉 開放圖像\nFillPath會主動將 圖像封閉(相當於調用 CloseAllFigures)  \n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGraphicsPath 可以由多個子路徑 組成\n\n在添加路徑時 使用 CloseFigure 或 StartFigure 便完成此路徑的 定義\n之後 再添加的路徑信息 將記錄到 新的子路徑\nCloseFigure StartFigure 的區別在於 CloseFigure會封閉當前路徑 而StartFigure不會\n\u003c/pre\u003e"

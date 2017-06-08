@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGdiplus::DrawImage 重載的多個函數 實現了不同的 輸出效果\n\u003c/pre\u003e"

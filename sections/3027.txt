@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGDI+ 提供了方便的雙緩衝方式 和優化\n只需要創建一個Bitmap作為 內存畫布 繪製完成後 使用 DrawImage 將 Bitmap 繪製到指定設備 即可\n\n此外 GDI+ 提供了 CachedBitmap 和 DrawCachedBitmap\nCachedBitmap 是一個將 Bitmap 和指定 繪圖設備 運算後的 優化 緩衝數據 使用DrawCachedBitmap 可以比 DrawImage 更高效的 \n繪製到指定設備\n\u003c/pre\u003e"

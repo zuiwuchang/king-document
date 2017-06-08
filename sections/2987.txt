@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003erA.Exclude(\u0026rB);\nIntersect\t\t//求區域交集\nUnion\t\t\t//求區域並集\nXor\t\t\t//區域並集 減去區域交集\nComplement\t\t//求區域B中 不包含區域A的 區域\nExclude\t\t\t//求區域A中 不包含區域B的 區域\n\u003c/pre\u003e"

@@ -20613,5 +20613,362 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 2977,
+			"Panel": 1487,
+			"Name": "路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2978,
+			"Panel": 1487,
+			"Name": "構造路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2979,
+			"Panel": 1487,
+			"Name": "定義貝塞爾曲線",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2980,
+			"Panel": 1487,
+			"Name": "添加幾何圖形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2981,
+			"Panel": 1487,
+			"Name": "其他API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2982,
+			"Panel": 1487,
+			"Name": "子路徑管理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2983,
+			"Panel": 1487,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2984,
+			"Panel": 1487,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2985,
+			"Panel": 1488,
+			"Name": "區域",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2986,
+			"Panel": 1488,
+			"Name": "構造區域",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2987,
+			"Panel": 1488,
+			"Name": "區域計算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2988,
+			"Panel": 1488,
+			"Name": "可用成員函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2989,
+			"Panel": 1488,
+			"Name": "IsVisible",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2990,
+			"Panel": 1489,
+			"Name": "image",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2991,
+			"Panel": 1490,
+			"Name": "加載圖像",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2992,
+			"Panel": 1490,
+			"Name": "通過文件構造",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2993,
+			"Panel": 1490,
+			"Name": "通過流構造",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2994,
+			"Panel": 1490,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2995,
+			"Panel": 1491,
+			"Name": "DrawImage 圖像輸出 縮放",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2996,
+			"Panel": 1491,
+			"Name": "圖像輸出",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2997,
+			"Panel": 1491,
+			"Name": "圖像縮放",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2998,
+			"Panel": 1491,
+			"Name": "設置插值算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 2999,
+			"Panel": 1492,
+			"Name": "圖像基本處理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3000,
+			"Panel": 1492,
+			"Name": "圖像剪裁顯示",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3001,
+			"Panel": 1492,
+			"Name": "圖像的 轉置 旋轉 變形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3002,
+			"Panel": 1493,
+			"Name": "圖像的剪裁",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3003,
+			"Panel": 1493,
+			"Name": "API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3004,
+			"Panel": 1494,
+			"Name": "使用縮略圖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3005,
+			"Panel": 1494,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3006,
+			"Panel": 1494,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3007,
+			"Panel": 1495,
+			"Name": "Clone 克隆",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3008,
+			"Panel": 1495,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3009,
+			"Panel": 1495,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3010,
+			"Panel": 1496,
+			"Name": "ColorMatrix 處理圖像色彩",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3011,
+			"Panel": 1496,
+			"Name": "透明度",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3012,
+			"Panel": 1496,
+			"Name": "灰度圖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3013,
+			"Panel": 1496,
+			"Name": "改變亮度",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3014,
+			"Panel": 1496,
+			"Name": "改變對比度",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3016,
+			"Panel": 1497,
+			"Name": "圖像編碼解碼",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3017,
+			"Panel": 1498,
+			"Name": "獲取系統 編碼器 解碼器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3018,
+			"Panel": 1498,
+			"Name": "ImageCodecInfo",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3019,
+			"Panel": 1498,
+			"Name": "Example 獲取系統 編碼器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3020,
+			"Panel": 1498,
+			"Name": "Example 獲取系統 解碼器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3021,
+			"Panel": 1498,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3022,
+			"Panel": 1499,
+			"Name": "圖像編碼參數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3023,
+			"Panel": 1499,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3024,
+			"Panel": 1500,
+			"Name": "Save",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3025,
+			"Panel": 1500,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3026,
+			"Panel": 1500,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3027,
+			"Panel": 1501,
+			"Name": "雙緩衝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3028,
+			"Panel": 1501,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

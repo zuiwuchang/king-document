@@ -3203,10 +3203,88 @@ var __v={
 			"Name": "私有字体 PrivateFontCollection",
 			"Sort": 0
 		},
+		"1487": {
+			"Id": 1487,
+			"Chapter": 472,
+			"Name": "路徑",
+			"Sort": 0
+		},
+		"1488": {
+			"Id": 1488,
+			"Chapter": 472,
+			"Name": "區域",
+			"Sort": 0
+		},
+		"1489": {
+			"Id": 1489,
+			"Chapter": 473,
+			"Name": "image",
+			"Sort": 0
+		},
 		"149": {
 			"Id": 149,
 			"Chapter": 61,
 			"Name": "regexp",
+			"Sort": 0
+		},
+		"1490": {
+			"Id": 1490,
+			"Chapter": 473,
+			"Name": "加載圖像",
+			"Sort": 0
+		},
+		"1491": {
+			"Id": 1491,
+			"Chapter": 473,
+			"Name": "DrawImage 圖像輸出 縮放",
+			"Sort": 0
+		},
+		"1492": {
+			"Id": 1492,
+			"Chapter": 473,
+			"Name": "圖像基本處理",
+			"Sort": 0
+		},
+		"1493": {
+			"Id": 1493,
+			"Chapter": 473,
+			"Name": "圖像的剪裁",
+			"Sort": 0
+		},
+		"1494": {
+			"Id": 1494,
+			"Chapter": 473,
+			"Name": "使用縮略圖",
+			"Sort": 0
+		},
+		"1495": {
+			"Id": 1495,
+			"Chapter": 473,
+			"Name": "Clone 克隆",
+			"Sort": 0
+		},
+		"1496": {
+			"Id": 1496,
+			"Chapter": 473,
+			"Name": "ColorMatrix 處理圖像色彩",
+			"Sort": 0
+		},
+		"1497": {
+			"Id": 1497,
+			"Chapter": 474,
+			"Name": "圖像編碼解碼",
+			"Sort": 0
+		},
+		"1498": {
+			"Id": 1498,
+			"Chapter": 474,
+			"Name": "獲取系統 編碼器 解碼器",
+			"Sort": 0
+		},
+		"1499": {
+			"Id": 1499,
+			"Chapter": 474,
+			"Name": "圖像編碼參數",
 			"Sort": 0
 		},
 		"15": {
@@ -3219,6 +3297,18 @@ var __v={
 			"Id": 150,
 			"Chapter": 61,
 			"Name": "匹配 Match",
+			"Sort": 0
+		},
+		"1500": {
+			"Id": 1500,
+			"Chapter": 474,
+			"Name": "Save",
+			"Sort": 0
+		},
+		"1501": {
+			"Id": 1501,
+			"Chapter": 475,
+			"Name": "雙緩衝",
 			"Sort": 0
 		},
 		"151": {

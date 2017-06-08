@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e上面代碼使用了 COM接口 應該初始化COM組件 否則 可能會出現錯誤\nCoInitialize(NULL);\nCoUninitialize();\n\u003c/pre\u003e"

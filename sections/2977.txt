@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e路徑表示一系列相互連接的直線 曲線 形狀\n程序通過使用路徑實現 繪製輪廓 填充形狀內部 創建剪輯區域等\n路徑可由任意子路徑組成\n\nGDI+ 使用 \u003cstrong\u003eGraphicsPath\u003c/strong\u003e表示路徑\n\u003c/pre\u003e"

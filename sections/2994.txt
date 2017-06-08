@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 加載失敗 時 image不會拋出異常\n可以調用其 GetLastStatus 返回 Gdiplus::Ok 則說明加載成功\n\n注意從IStream構造時 在Image生命期內 IStream 不能 Release\nCreateStreamOnHGlobal 時 在IStream生命期內 不能 GlobalFree\n\u003c/pre\u003e"

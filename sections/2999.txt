@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDrawImage 除了顯示外 還提供了基本的 剪裁顯示 專置 鏡像 簡單旋轉 變形等\n\u003c/pre\u003e"

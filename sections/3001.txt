@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e所謂 轉置 既x y坐標交換\n\n//DrawImage 傳入一個 點坐標數組 (包含 圖像左上角 右上角 左下角坐標) 通過設置這三個點 實現 轉置 旋轉 變形\nStatus DrawImage(          Image *image,\n    const Point *destPoints,\t//點坐標 數組\n    INT count\t\t\t//數組大小 必須是3\n);\nStatus DrawImage(          Image *image,\n    const PointF *destPoints,\n    INT count\n);\n\u003c/pre\u003e"

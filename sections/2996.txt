@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//傳入 Image* 以及圖像所在矩形 左上角坐標\nGraphics::DrawImage(Image*,INT,INT)\nGraphics::DrawImage(Image*,Point\u0026amp;)\nGraphics::DrawImage(Image*,REAL,REAL)\nGraphics::DrawImage(Image*,PointF\u0026amp;)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//Image::GetThumbnailImage創建一個 Image的 縮略圖 並返回 縮略圖的 Image*\nImage *Image::GetThumbnailImage(          UINT thumbWidth,\t//縮略圖寬\n    UINT thumbHeight,\t\t//縮略圖高\n    GetThumbnailImageAbort callback,\t//回調 NULL\n    VOID *callbackData\t//回調參數 NULL\n);\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eGdiplus::Graphics graphics(m_hWnd);\n\t\nGdiplus::Image image(L\"test.jpg\");\n\t\ngraphics.DrawImage(\u0026amp;image,Gdiplus::Rect(10,10,100,100));\u003c/pre\u003e"

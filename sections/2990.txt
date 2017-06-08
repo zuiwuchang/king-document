@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eImage 是圖像處理的 基類\n其子類 Bitmap 提供了位圖處理功能\n其子類 Metafile 提供了向量圖像處理攻略\n\n通過 DrawImage 即可 完成 圖像 繪製\n\u003c/pre\u003e"
