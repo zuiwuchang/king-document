@@ -28,5 +28,11 @@ var __v=[
 			"Chapter": 476,
 			"Name": "compress uncompress",
 			"Sort": 0
+		},
+		{
+			"Id": 1507,
+			"Chapter": 476,
+			"Name": "crc32 adler32",
+			"Sort": 0
 		}
 	]

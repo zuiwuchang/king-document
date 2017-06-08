@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ezlib 提供了 crc32 adler32 的計算函數\n\nuLong  crc32(uLong crc, const Bytef *buf, uInt len);\nuLong adler32(uLong adler, const Bytef *buf, uInt len);\n\u003c/pre\u003e"
