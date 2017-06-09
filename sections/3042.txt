@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e二叉搜索樹 既 Binary Search Tree (BST)\n\n二叉搜索樹上的操作時間 與樹 高成正比\n\n\u003cimg src='/sections/3042/image/tree.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e\n"

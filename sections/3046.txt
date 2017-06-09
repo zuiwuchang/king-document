@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//中順遍歷\nfunc InorderWalk(x *Element) {\n\tif x != nil {\n\t\tInorderWalk(x.L)\n\t\tfmt.Printf(\"key = %v\tval = %v;\", x.K, x.V)\n\t\tInorderWalk(x.R)\n\t}\n}\u003c/pre\u003e"

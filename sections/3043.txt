@@ -1,0 +1,1 @@
+var __v="\u003cul\u003e\n\t\u003cli\u003e任意節點x 左子樹最大key \u0026lt;= x.key\u003c/li\u003e\n\t\u003cli\u003e任意節點x 右子樹 最小key \u0026gt;= x.key\u003c/li\u003e\n\u003c/ul\u003e"
