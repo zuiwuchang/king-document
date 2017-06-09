@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class=\"k-pre\"\u003e紅黑樹 Red-black tree 樹一種 自平衡的二叉搜索樹\n\n其節點 標記有顏色 記爲 red black\n\n\u003cimg src='/sections/3055/image/tree.jpg' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e\n"

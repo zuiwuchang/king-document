@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e紅黑樹 添加 刪除 後 可能將不能保證 其性質\n此時 通過 旋轉 以使其恢復 紅黑樹的性質\n\u003cimg src='/sections/3058/image/rotate.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

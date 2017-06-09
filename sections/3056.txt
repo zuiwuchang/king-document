@@ -1,0 +1,1 @@
+var __v="\u003cul\u003e\n\t\u003cli\u003e每個節點 或是紅色 或是黑色\u003c/li\u003e\n\t\u003cli\u003eroot 節點爲 黑色\u003c/li\u003e\n\t\u003cli\u003e葉節點(nil) 爲黑色\u003c/li\u003e\n\t\u003cli\u003e如果一個節點是 紅色 則它的兩個子節點都是 黑色\u003c/li\u003e\n\t\u003cli\u003e對每個節點 從該節點到其所有 後代葉節點的簡單路徑上 包含相同數目的 黑色節點\u003c/li\u003e\n\u003c/ul\u003e"
