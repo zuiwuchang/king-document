@@ -1,1 +1,1 @@
-var __v="\n\u003cpre class='prettyprint linenums'\u003e//定義一個 樹 結構\ntype Element struct {\n\tK int\n\n\t//顏色定義\n\tRed bool\n\n\t//父節點\n\tP *Element\n\n\t//子節點\n\tL, R *Element\n}\u003c/pre\u003e"
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//定義一個 樹 結構\ntype Element struct {\n\tK int\n\n\t//顏色定義\n\tRed bool\n\n\t//父節點\n\tP *Element\n\n\t//子節點\n\tL, R *Element\n}\n\n//定義葉節點\nvar ElementNil *Element = \u0026Element{Red: false}\n\u003c/pre\u003e"

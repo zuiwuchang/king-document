@@ -21180,5 +21180,33 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3061,
+			"Panel": 1517,
+			"Name": "插入",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3062,
+			"Panel": 1517,
+			"Name": "InsertFixup",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3063,
+			"Panel": 1518,
+			"Name": "刪除",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3064,
+			"Panel": 1519,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
