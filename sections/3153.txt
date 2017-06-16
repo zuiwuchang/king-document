@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eint* lp_one=NULL;\nint* lp_two=NULL;\n__try\n{\n\tlp_one=new int;\n\tlp_two=new int;\n\tdelete lp_two;\n\tlp_two=NULL;\n\tif(!lp_one || !lp_two)\n\t{\n\t\t__leave;\n\t}\n\t*lp_one=*lp_two=10;\n}\n__finally\n{\n\tif(lp_one)\n\t{\n\t\tdelete lp_one;\n\t}\n\tif(lp_two)\n\t{\n\t\tdelete lp_two;\n\t}\n}\u003c/pre\u003e"

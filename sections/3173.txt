@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e就WSAEventSelect而言 (對於遠程斷開 會觸發FD_CLOSE iErrorCode[FD_CLOSE_BIT];為0) (遠程異常斷開FD_CLOSE iErrorCode[FD_CLOSE_BIT]為1)\n對於錯誤的socket (一個已經關閉的socket)其可能會不斷的FD_READ 而 iErrorCode[FD_READ_BIT]為0 (此時可以通過 recv 返回值是否小於0 判斷sock是否正常)\n\u003c/pre\u003e"

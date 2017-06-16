@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e__try \n{\n   // guarded code\n}\n__except ( expression )\n{\n   // exception handler code\n}\n根据expression 的结果\n若为EXCEPTION_EXECUTE_HANDLER\t\t1\t执行except后代代码\n若为EXCEPTION_CONTINUE_SEARCH\t\t0\t执行上层except\n若为EXCEPTION_CONTINUE_EXECUTION\t-1\t返回产生异常的位置继续执行\n\u003c/pre\u003e"

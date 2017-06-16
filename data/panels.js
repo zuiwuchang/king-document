@@ -3653,16 +3653,118 @@ var __v={
 			"Name": "TLS回調",
 			"Sort": 0
 		},
+		"1556": {
+			"Id": 1556,
+			"Chapter": 490,
+			"Name": "char wchar_t 转换",
+			"Sort": 0
+		},
+		"1557": {
+			"Id": 1557,
+			"Chapter": 490,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"1558": {
+			"Id": 1558,
+			"Chapter": 491,
+			"Name": "共享段",
+			"Sort": 0
+		},
+		"1559": {
+			"Id": 1559,
+			"Chapter": 491,
+			"Name": "内存映射文件",
+			"Sort": 0
+		},
 		"156": {
 			"Id": 156,
 			"Chapter": 65,
 			"Name": "git reset 重置",
 			"Sort": 0
 		},
+		"1560": {
+			"Id": 1560,
+			"Chapter": 492,
+			"Name": "终止异常程序",
+			"Sort": 0
+		},
+		"1561": {
+			"Id": 1561,
+			"Chapter": 492,
+			"Name": "异常处理程序与软件异常",
+			"Sort": 0
+		},
+		"1562": {
+			"Id": 1562,
+			"Chapter": 493,
+			"Name": "初始化",
+			"Sort": 0
+		},
+		"1563": {
+			"Id": 1563,
+			"Chapter": 493,
+			"Name": "基本函数",
+			"Sort": 0
+		},
+		"1564": {
+			"Id": 1564,
+			"Chapter": 493,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"1565": {
+			"Id": 1565,
+			"Chapter": 493,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1566": {
+			"Id": 1566,
+			"Chapter": 494,
+			"Name": " select",
+			"Sort": 0
+		},
+		"1567": {
+			"Id": 1567,
+			"Chapter": 495,
+			"Name": "WSAAsyncSelect",
+			"Sort": 0
+		},
+		"1568": {
+			"Id": 1568,
+			"Chapter": 496,
+			"Name": "WSAEventSelect",
+			"Sort": 0
+		},
+		"1569": {
+			"Id": 1569,
+			"Chapter": 497,
+			"Name": "Overlapped IO",
+			"Sort": 0
+		},
 		"157": {
 			"Id": 157,
 			"Chapter": 65,
 			"Name": "git checkout 檢出",
+			"Sort": 0
+		},
+		"1570": {
+			"Id": 1570,
+			"Chapter": 498,
+			"Name": "IoCompletionPort",
+			"Sort": 0
+		},
+		"1571": {
+			"Id": 1571,
+			"Chapter": 499,
+			"Name": "udp",
+			"Sort": 0
+		},
+		"1572": {
+			"Id": 1572,
+			"Chapter": 499,
+			"Name": "Example",
 			"Sort": 0
 		},
 		"158": {

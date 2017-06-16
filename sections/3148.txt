@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一些参数名为Ccb 表示 count of characters 既字符数 通常用_countof 取值\n....\tcb\t... 表示占用空间 以sizeof取值\n\u003c/pre\u003e"

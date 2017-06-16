@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eselect 模型 實際上io依然是阻塞模式(除非手動調用 u_long ul=1; ioctlsocket(sock,FIONBIO,\u0026ul); 將套接字設置為非阻塞) \n只是可以使用select 對socket數組進行檢索 以在有數據可讀 或可寫時 進行讀寫操作\n\u003c/pre\u003e"

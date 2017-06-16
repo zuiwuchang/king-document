@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eif (WSAGETSELECTERROR(lParam)\n{\n\treturn 0;\n}\nswitch(lParam)\n{\ncase FD_ACCEPT:\n...\n\tbreak;\ncase FD_READ:\n...\n\tbreak;\ncase FD_CLOSE:\n...\t\n\tbreak;\n}\u003c/pre\u003e"

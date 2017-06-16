@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於socket在關閉之前 應該先調用 shutdown 以禁止再在此socket上操作 之後在closesocket\n以完成一次優雅的socket\n\nshutdown只是禁止讀寫 但其讀寫狀態已然會觸發 select 等異步等待\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWSAAsyncSelect 模型 可以將socket 事件綁定到一個窗口\n對於所有調用 WSAAsyncSelect 的socket io模式將自動設置為異步 而當有socket事件發生 而需要調用函數時 窗口將收到自定義的消息\n\u003c/pre\u003e"

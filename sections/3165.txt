@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於fd_set.fd_count為0時 select將立刻返回SOCKET_ERROR\n對於一個處於監聽的套接字 當有連接請求到達時 其標誌為 可讀\n\nselect無法直接獲取 是哪個socket引發的select返回 需要使用FD_ISSET檢索 所有socket 引發select的socket會使FD_ISSET返回TRUE\nselect 超時後應該重新填充 fd_set(超時 會設置fd_set.fd_count=0 等操作)\n\u003c/pre\u003e"

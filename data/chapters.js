@@ -2513,6 +2513,66 @@ var __v={
 			"Name": "複合結構",
 			"Sort": 7
 		},
+		"490": {
+			"Id": 490,
+			"Doc": 117,
+			"Name": "字符字符串处理",
+			"Sort": 339
+		},
+		"491": {
+			"Id": 491,
+			"Doc": 117,
+			"Name": "内存映射文件",
+			"Sort": 340
+		},
+		"492": {
+			"Id": 492,
+			"Doc": 117,
+			"Name": " 结构化异常",
+			"Sort": 341
+		},
+		"493": {
+			"Id": 493,
+			"Doc": 118,
+			"Name": "同步socket",
+			"Sort": 342
+		},
+		"494": {
+			"Id": 494,
+			"Doc": 118,
+			"Name": " select(選擇)",
+			"Sort": 343
+		},
+		"495": {
+			"Id": 495,
+			"Doc": 118,
+			"Name": "WSAAsyncSelect(異步選擇)",
+			"Sort": 344
+		},
+		"496": {
+			"Id": 496,
+			"Doc": 118,
+			"Name": "WSAEventSelect (事件選擇)",
+			"Sort": 345
+		},
+		"497": {
+			"Id": 497,
+			"Doc": 118,
+			"Name": " Overlapped IO(重叠IO)",
+			"Sort": 346
+		},
+		"498": {
+			"Id": 498,
+			"Doc": 118,
+			"Name": "IoCompletionPort(完成端口)",
+			"Sort": 347
+		},
+		"499": {
+			"Id": 499,
+			"Doc": 118,
+			"Name": "udp",
+			"Sort": 348
+		},
 		"5": {
 			"Id": 5,
 			"Doc": 1,

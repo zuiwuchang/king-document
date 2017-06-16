@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eif (NetwordEvents.lNetworkEvents \u0026amp; FD_READ)\t//發生可讀事件\n{\n\tif (NetworkEvents.iErrorCode[FD_READ_BIT] != 0)\t//可讀錯誤\n\t{\n\t\tprintf(\"FD_READ failed with error %d\\n\", NetworkEvents.iErrorCode[FD_READ_BIT]);\n\t}\n}\u003c/pre\u003e"

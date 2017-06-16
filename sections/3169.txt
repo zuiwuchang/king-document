@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e再次調用 WSAAsyncSelect 可以重設(lEvent)關係的網絡事件\n若lEvent=0則 取消所有事件的消息通知\n\u003c/pre\u003e"

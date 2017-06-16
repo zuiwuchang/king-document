@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\nBOOL AbnormalTermination(void);\n此函数只能在 finally 中调用\n其返回try中 是否由于 break leave continue return 等代码执行流程发生了改变\n\u003c/pre\u003e"

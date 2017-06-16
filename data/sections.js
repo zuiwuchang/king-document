@@ -21747,5 +21747,264 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3146,
+			"Panel": 1556,
+			"Name": "char wchar_t 转换",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3147,
+			"Panel": 1556,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3148,
+			"Panel": 1557,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3149,
+			"Panel": 1558,
+			"Name": "共享段",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3150,
+			"Panel": 1558,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3151,
+			"Panel": 1559,
+			"Name": "内存映射文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3152,
+			"Panel": 1560,
+			"Name": "终止异常程序",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3153,
+			"Panel": 1560,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3154,
+			"Panel": 1560,
+			"Name": "AbnormalTermination 函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3155,
+			"Panel": 1561,
+			"Name": "异常处理程序与软件异常",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3156,
+			"Panel": 1562,
+			"Name": "初始化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3157,
+			"Panel": 1562,
+			"Name": "初始化 套接字库",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3158,
+			"Panel": 1562,
+			"Name": "释放套接字资源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3159,
+			"Panel": 1563,
+			"Name": "基本函数",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3160,
+			"Panel": 1564,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3161,
+			"Panel": 1565,
+			"Name": "Example Server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3162,
+			"Panel": 1565,
+			"Name": "Example Client",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3163,
+			"Panel": 1566,
+			"Name": "select",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3164,
+			"Panel": 1566,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3165,
+			"Panel": 1566,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3166,
+			"Panel": 1567,
+			"Name": "WSAAsyncSelect",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3167,
+			"Panel": 1567,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3168,
+			"Panel": 1567,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3169,
+			"Panel": 1567,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3170,
+			"Panel": 1568,
+			"Name": "WSAEventSelect",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3171,
+			"Panel": 1568,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3172,
+			"Panel": 1568,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3173,
+			"Panel": 1568,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3174,
+			"Panel": 1569,
+			"Name": "Overlapped IO",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3175,
+			"Panel": 1569,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3176,
+			"Panel": 1569,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3177,
+			"Panel": 1570,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3178,
+			"Panel": 1571,
+			"Name": "udp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3179,
+			"Panel": 1571,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3180,
+			"Panel": 1571,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3181,
+			"Panel": 1572,
+			"Name": "Example Server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3182,
+			"Panel": 1572,
+			"Name": "Example Client",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWSAEventSelect 模型 可以將socket 事件綁定到一個WSAEVENT 上 並註冊關心的網絡事件\n當有網絡事件發生 餘socket 綁定的事件將變為 激發態\n\u003c/pre\u003e"

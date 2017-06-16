@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在同一exe 或 dll 多个实例中共享数据\n//自定义一个区段\n#pragma data_seg(\"share_test\")\nbool one=false;\n#pragma data_seg()\n\n//告诉编译器 此区段的数据共享\n#pragma comment(linker,\"/SECTION:share_test,RWS\")\n\u003c/pre\u003e\n"
