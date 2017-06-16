@@ -22272,5 +22272,677 @@ var __v=[
 			"Name": "mp3格式",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3222,
+			"Panel": 1587,
+			"Name": "环境塔架",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3223,
+			"Panel": 1588,
+			"Name": "vs2008编译",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3224,
+			"Panel": 1589,
+			"Name": "入口点",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3225,
+			"Panel": 1589,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3226,
+			"Panel": 1590,
+			"Name": "一般编译步骤",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3227,
+			"Panel": 1590,
+			"Name": "driver.h",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3228,
+			"Panel": 1590,
+			"Name": "driver.cpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3229,
+			"Panel": 1591,
+			"Name": "加载",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3230,
+			"Panel": 1591,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3231,
+			"Panel": 1592,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3232,
+			"Panel": 1593,
+			"Name": "DeviceIoControl方法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3233,
+			"Panel": 1593,
+			"Name": "DeviceIoControl函数声明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3234,
+			"Panel": 1593,
+			"Name": "dwIoControlCode控制码",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3235,
+			"Panel": 1593,
+			"Name": "CTL_CODE宏 用于定义控制码",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3236,
+			"Panel": 1593,
+			"Name": "Example CTL_CODE宏",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3237,
+			"Panel": 1594,
+			"Name": "DeviceIoControl",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3238,
+			"Panel": 1594,
+			"Name": "Example driver",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3239,
+			"Panel": 1594,
+			"Name": "Example user",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3240,
+			"Panel": 1595,
+			"Name": "缓冲区",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3241,
+			"Panel": 1596,
+			"Name": "其他",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3242,
+			"Panel": 1597,
+			"Name": "字符串",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3243,
+			"Panel": 1598,
+			"Name": "常用操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3244,
+			"Panel": 1599,
+			"Name": "winapi 分类",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3245,
+			"Panel": 1599,
+			"Name": "SSDT",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3246,
+			"Panel": 1599,
+			"Name": "API调用过程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3247,
+			"Panel": 1600,
+			"Name": "SSDT结构",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3248,
+			"Panel": 1600,
+			"Name": "使SSDT表可写",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3249,
+			"Panel": 1600,
+			"Name": "读取SSDT中函数当前地址 以汇编方式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3250,
+			"Panel": 1600,
+			"Name": "读取SSDT中函数当前地址 以c++方式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3251,
+			"Panel": 1600,
+			"Name": "读取SSDT中函数原地址",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3252,
+			"Panel": 1601,
+			"Name": "driver.h",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3253,
+			"Panel": 1601,
+			"Name": "driver.cpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3254,
+			"Panel": 1602,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3255,
+			"Panel": 1603,
+			"Name": "常用api",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3256,
+			"Panel": 1604,
+			"Name": "动态内存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3257,
+			"Panel": 1604,
+			"Name": "PoolType 取值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3258,
+			"Panel": 1605,
+			"Name": "内存是否可读写",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3259,
+			"Panel": 1606,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3260,
+			"Panel": 1607,
+			"Name": "创建文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3261,
+			"Panel": 1607,
+			"Name": "CreateDisposition取值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3262,
+			"Panel": 1607,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3263,
+			"Panel": 1608,
+			"Name": "打开文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3264,
+			"Panel": 1609,
+			"Name": "获取设置文件属性",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3265,
+			"Panel": 1609,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3266,
+			"Panel": 1609,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3267,
+			"Panel": 1610,
+			"Name": "读写文件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3268,
+			"Panel": 1610,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3269,
+			"Panel": 1611,
+			"Name": "IATHOOK",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3270,
+			"Panel": 1612,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3271,
+			"Panel": 1613,
+			"Name": "InlineHook",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3272,
+			"Panel": 1614,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3273,
+			"Panel": 1615,
+			"Name": "ShadowSSDT_HOOK",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3274,
+			"Panel": 1615,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3275,
+			"Panel": 1615,
+			"Name": "ShadowSSDT_HOOK结构",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3276,
+			"Panel": 1616,
+			"Name": "IDT_HOOK",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3277,
+			"Panel": 1616,
+			"Name": "IDT结构定义",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3278,
+			"Panel": 1616,
+			"Name": "读取IDT函数地址",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3279,
+			"Panel": 1617,
+			"Name": "KdPrint",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3280,
+			"Panel": 1617,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3281,
+			"Panel": 1618,
+			"Name": "捕获 DbgPrint",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3282,
+			"Panel": 1619,
+			"Name": "KeWaitForSingleObject",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3283,
+			"Panel": 1620,
+			"Name": "创建线程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3284,
+			"Panel": 1620,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3285,
+			"Panel": 1621,
+			"Name": "FAST_MUTEX 快速互斥体",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3286,
+			"Panel": 1621,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3287,
+			"Panel": 1622,
+			"Name": "KEVENT 事件对象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3288,
+			"Panel": 1623,
+			"Name": "KMUTEX 互斥体",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3289,
+			"Panel": 1624,
+			"Name": "OTHER",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3290,
+			"Panel": 1625,
+			"Name": "IO 定时器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3291,
+			"Panel": 1625,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3292,
+			"Panel": 1626,
+			"Name": "DPC 定时器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3293,
+			"Panel": 1626,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3294,
+			"Panel": 1626,
+			"Name": "单位换算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3295,
+			"Panel": 1627,
+			"Name": "KeDelayExecutionThread 暂停",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3296,
+			"Panel": 1628,
+			"Name": "主机设置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3297,
+			"Panel": 1628,
+			"Name": "虚拟机设置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3298,
+			"Panel": 1629,
+			"Name": "执行相关",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3299,
+			"Panel": 1629,
+			"Name": "断点",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3300,
+			"Panel": 1629,
+			"Name": "查询相关",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3301,
+			"Panel": 1629,
+			"Name": "操作相关",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3302,
+			"Panel": 1629,
+			"Name": "修改 e 地址 二進制數據",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3303,
+			"Panel": 1630,
+			"Name": "设置符号文件位置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3304,
+			"Panel": 1631,
+			"Name": "NtGetContextThread 0x87",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3305,
+			"Panel": 1632,
+			"Name": "NtQueryInformationProcess 0xEA",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3306,
+			"Panel": 1633,
+			"Name": "NtSetContextThread 0x13C",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3307,
+			"Panel": 1634,
+			"Name": "監視文件映射 PsSetLoadImageNotifyRoutine",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3308,
+			"Panel": 1634,
+			"Name": "函數聲明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3309,
+			"Panel": 1635,
+			"Name": "系統信息查詢 ZwQuerySystemInformation",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3310,
+			"Panel": 1635,
+			"Name": "ZwQuerySystemInformation 聲明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3311,
+			"Panel": 1636,
+			"Name": "枚舉進程 SystemProcessesAndThreadsInformation",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3312,
+			"Panel": 1636,
+			"Name": "Example ring3",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3313,
+			"Panel": 1637,
+			"Name": "枚舉模塊 SystemModuleInformation",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3314,
+			"Panel": 1637,
+			"Name": "Example ring3",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3315,
+			"Panel": 1638,
+			"Name": "_EPROCESS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3316,
+			"Panel": 1638,
+			"Name": "dt nt!_EPROCESS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3317,
+			"Panel": 1638,
+			"Name": "dt nt!_SE_AUDIT_PROCESS_CREATION_INFO",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

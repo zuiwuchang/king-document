@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e参见ZwCreateFile \n    NTSTATUS\n  ZwOpenFile(\n    OUT PHANDLE  FileHandle,\n    IN ACCESS_MASK  DesiredAccess,\n    IN POBJECT_ATTRIBUTES  ObjectAttributes,\n    OUT PIO_STATUS_BLOCK  IoStatusBlock,\n    IN ULONG  ShareAccess,\n    IN ULONG  OpenOptions\n    );\n\u003c/pre\u003e"

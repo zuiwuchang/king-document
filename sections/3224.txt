@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\nNTSTATUS DriverEntry (\n\tIN PDRIVER_OBJECT pDriverObject, //I/O管理器传入的 驱动对象\n\tIN PUNICODE_STRING pRegistryPath //unicode字符串 指向驱动负责的注册表\n) \u003c/pre\u003e"

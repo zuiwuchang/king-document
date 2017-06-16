@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e此例程运行在IRQL = DISPATCH_LEVEL 故只能定义在非分页内存中\n此例程运行在任意线程上 故不可直接读取进程数据 驱动被卸载 定时器也失效\n\u003c/pre\u003e"

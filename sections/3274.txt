@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eKeServiceDescriptorTableShadow 并未导出 故不能 extern 获得其地址\n\n可通过其 相对KeServiceDescriptorTable的偏移获取地址 \u003cstrong\u003e不同os版本偏移可能不同\u003c/strong\u003e\n\n也可通过代码查找定位 其前 0x10 个字节 与KeServiceDescriptorTable前10个字节相同\n\nKeServiceDescriptorTableShadow 的函数在win32k.sys中\nKeServiceDescriptorTableShadow 中的函数似乎只能在程序中调用\n\u003c/pre\u003e"

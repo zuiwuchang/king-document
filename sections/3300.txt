@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\tu\t汇编\n\n\tda\t以ansi字符显示 每行最多显示48个字符\n\tdb\t以16进制显示\n\tdu\t以unicode字符显示\n\tdD\t以Double显示\n\tdf\t以float显示\n\n\tdp\n\tdq\n\tdw\n\tdW\n\tdyb\t二进制和字节\n\tdyd\t二进制和四字节\n\n\tk\t\t查看調用堆棧\n\td poi 地址 //显示此地址所指向内容\n\n\tlm\t列出所有模块\n\tlmf\t同上不同列出所有模块位置\n\tlmvm 模块名\t\t列出模块详细信息\n\n\tr 寄存器\t\t//查看寄存器值\n\tdps esp\t//查看堆栈\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="内核下 线程中需要调用PsTerminateSystemThread 才能结束线程"

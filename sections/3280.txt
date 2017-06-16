@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eKdPrint 在调试版本 会被 替换成对 DbgPrint函数 的调用\n故要在 发布版打印log 可直接调用 DbgPrint\n\u003c/pre\u003e"

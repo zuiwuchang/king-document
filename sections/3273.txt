@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e影子系统描述符表 win32k.sys\n原理同 SSDT HOOK\n不过 SSDT 函数地址记录在KeServiceDescriptorTable中 ShadowSSDT 函数地址记录在 KeServiceDescriptorTableShadow中\n\u003c/pre\u003e"

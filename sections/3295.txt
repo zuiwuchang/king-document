@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e类似于应用层的Sleep\n\nNTSTATUS \n  KeDelayExecutionThread(\n    IN KPROCESSOR_MODE  WaitMode,\t//驱动应设置为 KernelMode \n    IN BOOLEAN  Alertable,\t\t\t//FALSE\n    IN PLARGE_INTEGER  Interval\t\t//时间 单位 100ns\n    );\n    IRQL: \u0026lt;= APC_LEVEL\n\u003c/pre\u003e"

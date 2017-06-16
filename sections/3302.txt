@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ee\t單字節\nea\tASCII 字符串(不以NULL结尾)。\neb\t字节值。\ned\t双字值(4字节)。\neD\t双精度浮点数(8字节)。\nef\t单精度浮点数(4字节)。\nep\t指针大小的值。该命令根据目标机的处理器架构是32位还是64位，可能分别等于ed 或eq。\neq\t4字值(8字节)。\neu\tUnicode字符串(非NULL结尾)。\new\t字值(2字节)。\neza\tNULL结尾的ASCII字符串。\nezu\t\nNULL结尾的Unicode字符串。\n\u003c/pre\u003e"

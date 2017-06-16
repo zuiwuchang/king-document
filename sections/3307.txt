@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePsSetLoadImageNotifyRoutine註冊一個回調函數 \n當有文件被 加載 或 映射時到內存時 (如可運行在運行之前) 系統調用回調\n\nPsRemoveLoadImageNotifyRoutine 移除回調函數\nIRQL: PASSIVE_LEVEL\n\u003c/pre\u003e"

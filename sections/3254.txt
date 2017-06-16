@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在hook时(特别是inline) 需要自定义函数 嵌入汇编代码 \n\u003cstrong\u003e但编译器会自动生成额外的 代码(如 retn,sub esp)等\u003c/strong\u003e 以让高级语言程序员 不用关心 底层代码原理\n可以在 函数声明前 加上\u003cstrong\u003e__declspec(naked)\u003c/strong\u003e 如__declspec(naked) int add(int x,int y)\n此时编译器不会生成任何 多余汇编 \u003cstrong\u003e但这意味着 要自己处理 堆栈平衡等\u003c/strong\u003e\n\u003c/pre\u003e"

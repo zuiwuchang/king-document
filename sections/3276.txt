@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e系统中断描述表 共0xFF个中断\n原理同 SSDT HOOK\n\u003c/pre\u003e"

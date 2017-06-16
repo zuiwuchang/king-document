@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ering3   OpenProcess\nring3   ntdll.OpenProcess\nring3   ntdll.ZwOpenProcess \nring3   ntdll.KifastSystemCall  //此函数根据传入参数调用不同的内核 Zw api\n\n进入ring0 \n\nring0 ntknlpa.ZwOpenProcess\n查询SSDT\nring0 ntknlpa.ntOpenProcess\n\u003c/pre\u003e"

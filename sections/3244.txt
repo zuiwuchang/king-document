@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eUSER   (user32.dll)    //管理窗口 菜单 对话框 控件\nGDI    (gdi32.dll)     //物理设备上执行绘图操作 win32k.sys (进入内核是 通过Shadow SSDT)\nKERBRL (kernel32.dll)  //非gui资源 如 线程 进程 文件同步 \n\nntknlpa.exe+ntkrnlpa.lib //nt驱动的支持\n\n\u003cstrong\u003eNative API(Ntdll.dll)\u003c/strong\u003e\n\u003c/pre\u003e"

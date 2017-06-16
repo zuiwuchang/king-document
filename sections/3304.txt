@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etypedef\nNTSTATUS\n(NTAPI\t*NtGetContextThread)(\n\tIN\tHANDLE\tThreadHandle,\n\tOUT\tPCONTEXT\tpContext);\n\u003c/pre\u003e"

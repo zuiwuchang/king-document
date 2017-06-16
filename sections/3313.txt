@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eZwQuerySystemInformation第二個參數傳入SystemModuleInformation=11\n\u003c/pre\u003e"

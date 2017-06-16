@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCreateFile 打开驱动符号连接\n(驱动响应 IRP_MJ_CREATE irp)\n\nDeviceIoControl 定义操作 \n(驱动响应 IRP_MJ_DEVICE_CONTROL irp)\n\nCloseHandle 关闭句柄\n(驱动响应 IRP_MJ_CLOSE irp)\n\u003c/pre\u003e"

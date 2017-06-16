@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e以\tExAllocatePool\t申请\n以\tExFreePool\t释放\n\nPVOID \n  ExAllocatePool(\n    IN POOL_TYPE  PoolType,//内存类型 取值见下文\n    IN SIZE_T  NumberOfBytes //内存大小\n    );\n\nVOID \n  ExFreePool(\n    IN PVOID  P\n    );\n\u003c/pre\u003e"

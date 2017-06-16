@@ -3857,10 +3857,88 @@ var __v={
 			"Name": "mp3格式",
 			"Sort": 0
 		},
+		"1587": {
+			"Id": 1587,
+			"Chapter": 504,
+			"Name": "环境塔架",
+			"Sort": 0
+		},
+		"1588": {
+			"Id": 1588,
+			"Chapter": 504,
+			"Name": "vs2008编译",
+			"Sort": 0
+		},
+		"1589": {
+			"Id": 1589,
+			"Chapter": 505,
+			"Name": "入口点",
+			"Sort": 0
+		},
 		"159": {
 			"Id": 159,
 			"Chapter": 64,
 			"Name": "協作",
+			"Sort": 0
+		},
+		"1590": {
+			"Id": 1590,
+			"Chapter": 505,
+			"Name": "一般编译步骤",
+			"Sort": 0
+		},
+		"1591": {
+			"Id": 1591,
+			"Chapter": 506,
+			"Name": "加载",
+			"Sort": 0
+		},
+		"1592": {
+			"Id": 1592,
+			"Chapter": 506,
+			"Name": "卸载",
+			"Sort": 0
+		},
+		"1593": {
+			"Id": 1593,
+			"Chapter": 507,
+			"Name": "DeviceIoControl方法",
+			"Sort": 0
+		},
+		"1594": {
+			"Id": 1594,
+			"Chapter": 507,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1595": {
+			"Id": 1595,
+			"Chapter": 507,
+			"Name": "缓冲区",
+			"Sort": 0
+		},
+		"1596": {
+			"Id": 1596,
+			"Chapter": 507,
+			"Name": "其他",
+			"Sort": 0
+		},
+		"1597": {
+			"Id": 1597,
+			"Chapter": 508,
+			"Name": "字符串",
+			"Sort": 0
+		},
+		"1598": {
+			"Id": 1598,
+			"Chapter": 508,
+			"Name": "常用操作",
+			"Sort": 0
+		},
+		"1599": {
+			"Id": 1599,
+			"Chapter": 509,
+			"Name": "原理",
 			"Sort": 0
 		},
 		"16": {
@@ -3875,10 +3953,130 @@ var __v={
 			"Name": "非快進式 推送",
 			"Sort": 0
 		},
+		"1600": {
+			"Id": 1600,
+			"Chapter": 509,
+			"Name": "读取SSDT地址",
+			"Sort": 0
+		},
+		"1601": {
+			"Id": 1601,
+			"Chapter": 509,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1602": {
+			"Id": 1602,
+			"Chapter": 509,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"1603": {
+			"Id": 1603,
+			"Chapter": 510,
+			"Name": "常用api",
+			"Sort": 0
+		},
+		"1604": {
+			"Id": 1604,
+			"Chapter": 510,
+			"Name": "动态内存",
+			"Sort": 0
+		},
+		"1605": {
+			"Id": 1605,
+			"Chapter": 510,
+			"Name": "内存是否可读写",
+			"Sort": 0
+		},
+		"1606": {
+			"Id": 1606,
+			"Chapter": 510,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"1607": {
+			"Id": 1607,
+			"Chapter": 511,
+			"Name": "创建文件",
+			"Sort": 0
+		},
+		"1608": {
+			"Id": 1608,
+			"Chapter": 511,
+			"Name": "打开文件",
+			"Sort": 0
+		},
+		"1609": {
+			"Id": 1609,
+			"Chapter": 511,
+			"Name": "获取设置文件属性",
+			"Sort": 0
+		},
 		"161": {
 			"Id": 161,
 			"Chapter": 64,
 			"Name": "合併 衝突",
+			"Sort": 0
+		},
+		"1610": {
+			"Id": 1610,
+			"Chapter": 511,
+			"Name": "读写文件",
+			"Sort": 0
+		},
+		"1611": {
+			"Id": 1611,
+			"Chapter": 512,
+			"Name": "IATHOOK",
+			"Sort": 0
+		},
+		"1612": {
+			"Id": 1612,
+			"Chapter": 512,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1613": {
+			"Id": 1613,
+			"Chapter": 513,
+			"Name": "InlineHook",
+			"Sort": 0
+		},
+		"1614": {
+			"Id": 1614,
+			"Chapter": 513,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1615": {
+			"Id": 1615,
+			"Chapter": 514,
+			"Name": "ShadowSSDT_HOOK",
+			"Sort": 0
+		},
+		"1616": {
+			"Id": 1616,
+			"Chapter": 515,
+			"Name": "IDT_HOOK",
+			"Sort": 0
+		},
+		"1617": {
+			"Id": 1617,
+			"Chapter": 516,
+			"Name": "KdPrint",
+			"Sort": 0
+		},
+		"1618": {
+			"Id": 1618,
+			"Chapter": 516,
+			"Name": "捕获 DbgPrint",
+			"Sort": 0
+		},
+		"1619": {
+			"Id": 1619,
+			"Chapter": 517,
+			"Name": "KeWaitForSingleObject",
 			"Sort": 0
 		},
 		"162": {
@@ -3887,10 +4085,124 @@ var __v={
 			"Name": "git tag",
 			"Sort": 0
 		},
+		"1620": {
+			"Id": 1620,
+			"Chapter": 517,
+			"Name": "创建线程",
+			"Sort": 0
+		},
+		"1621": {
+			"Id": 1621,
+			"Chapter": 517,
+			"Name": "FAST_MUTEX 快速互斥体",
+			"Sort": 0
+		},
+		"1622": {
+			"Id": 1622,
+			"Chapter": 517,
+			"Name": "KEVENT 事件对象",
+			"Sort": 0
+		},
+		"1623": {
+			"Id": 1623,
+			"Chapter": 517,
+			"Name": "KMUTEX 互斥体",
+			"Sort": 0
+		},
+		"1624": {
+			"Id": 1624,
+			"Chapter": 517,
+			"Name": "OTHER",
+			"Sort": 0
+		},
+		"1625": {
+			"Id": 1625,
+			"Chapter": 518,
+			"Name": "IO 定时器",
+			"Sort": 0
+		},
+		"1626": {
+			"Id": 1626,
+			"Chapter": 518,
+			"Name": "DPC 定时器",
+			"Sort": 0
+		},
+		"1627": {
+			"Id": 1627,
+			"Chapter": 518,
+			"Name": "KeDelayExecutionThread 暂停",
+			"Sort": 0
+		},
+		"1628": {
+			"Id": 1628,
+			"Chapter": 519,
+			"Name": "双机调试",
+			"Sort": 0
+		},
+		"1629": {
+			"Id": 1629,
+			"Chapter": 519,
+			"Name": "windbg",
+			"Sort": 0
+		},
 		"163": {
 			"Id": 163,
 			"Chapter": 64,
 			"Name": "git branch",
+			"Sort": 0
+		},
+		"1630": {
+			"Id": 1630,
+			"Chapter": 519,
+			"Name": "设置符号文件位置",
+			"Sort": 0
+		},
+		"1631": {
+			"Id": 1631,
+			"Chapter": 520,
+			"Name": "NtGetContextThread 0x87",
+			"Sort": 0
+		},
+		"1632": {
+			"Id": 1632,
+			"Chapter": 520,
+			"Name": "NtQueryInformationProcess 0xEA",
+			"Sort": 0
+		},
+		"1633": {
+			"Id": 1633,
+			"Chapter": 520,
+			"Name": "NtSetContextThread 0x13C",
+			"Sort": 0
+		},
+		"1634": {
+			"Id": 1634,
+			"Chapter": 521,
+			"Name": "監視文件映射 PsSetLoadImageNotifyRoutine",
+			"Sort": 0
+		},
+		"1635": {
+			"Id": 1635,
+			"Chapter": 522,
+			"Name": "系統信息查詢 ZwQuerySystemInformation",
+			"Sort": 0
+		},
+		"1636": {
+			"Id": 1636,
+			"Chapter": 522,
+			"Name": "枚舉進程 SystemProcessesAndThreadsInformation",
+			"Sort": 0
+		},
+		"1637": {
+			"Id": 1637,
+			"Chapter": 522,
+			"Name": "枚舉模塊 SystemModuleInformation",
+			"Sort": 0
+		},
+		"1638": {
+			"Id": 1638,
+			"Chapter": 523,
+			"Name": "_EPROCESS",
 			"Sort": 0
 		},
 		"164": {

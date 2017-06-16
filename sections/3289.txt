@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e其他同步函数\n\n//自加1\nLONG \n  InterlockedIncrement(\n    IN PLONG  Addend\n    );\n    \n//自减1\nLONG \n  InterlockedDecrement(\n    IN PLONG  Addend\n    );\nInterlocked...\n\u003c/pre\u003e"

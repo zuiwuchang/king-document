@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e方法一 更改注册表 -最简单的做法\nHKLM\\SYSTEM\\CurrentControlset\\Control\\SessionManger\\MemoryManagement\\\nEnforceWriteProtection=0\n与\nHKLM\\SYSTEM\\CurrentControlset\\Control\\SessionManger\\MemoryManagement\\\nDisablePagingExecutive=1\n\n方法二 改变CR0寄存器的第1位wp位 置0-常用\n方法三 通过Memory Descriptor List(MDL)-正规做法\n\u003c/pre\u003e"

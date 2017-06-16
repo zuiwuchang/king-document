@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e// 内存是否可读 不可抛出异常\nVOID \n  ProbeForRead(\n    IN CONST VOID  *Address,\t//起始地址\n    IN SIZE_T  Length,\t\t//检查长度\n    IN ULONG  Alignment\t\t//对齐\n    );\n    \n// 内存是否可写 不可抛出异常\nVOID \n  ProbeForWrite(\n    IN CONST VOID  *Address,\n    IN SIZE_T  Length,\n    IN ULONG  Alignment\n    );\u003c/pre\u003e"

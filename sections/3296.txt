@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e安装ddk windbg \u003c/li\u003e\n\t\u003cli\u003e为windbg创建快捷方式 并添加启动参数-b -k com:pipe,port=\\\\.\\pipe\\com_windbg,baud=115200,reconnect -y(红色字体为串口名)\u003c/li\u003e\n\t\u003cli\u003e以此快捷方式 启动windbg 等待虚拟机连接\u003c/li\u003e\n\u003c/ol\u003e"

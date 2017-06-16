@@ -1,0 +1,1 @@
+var __v="G:\\driver\\Debug;srv*G:\\Symbols\\*http://msdl.microsoft.com/download/symbols"

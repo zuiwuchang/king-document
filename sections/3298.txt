@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\t.attach -b \t//附加进程\n\t.detach /n\t\t\t取消调试当前进程\n\t.restart\t\t\t重启调试\n\tctrl+break\t\t\t进入输入命令模式\n\n\tF5 或 g\t\t\t运行\n\tF10\t\t\t\t步过\n\tF11\t\t\t\t步入\n\tSHIFT+F11 或gu\t跳出当前函数\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eFAST_MUTEX fast_mutex;\t\t\t//定义一个快速互斥体\nExInitializeFastMutex(\u0026fast_mutex);\t//初始化互斥体\t类似于初始化临界区\t一般在DriverEntry执行\n\t\t\t\t\t//不需要关闭互斥体之类的操作 除非是动态申请了内存动态释放它 临界区的释放似乎也只是释放了动态申请的内存\n\nExAcquireFastMutex(\u0026fast_mutex);\t//获取互斥体\t类似于进入临界区\nExReleaseFastMutex(\u0026fast_mutex);\t//释放互斥体\t类似于离开临界区\n\u003c/pre\u003e\n"

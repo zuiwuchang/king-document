@@ -1,0 +1,1 @@
+var __v="System Service Descriptor Table //系统服务描述表 联系ring3和ring0的通道"

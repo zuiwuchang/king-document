@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e安装ddk windbg \u003c/li\u003e\n\t\u003cli\u003e为虚拟机添加串口设备 串口名同 主机设置\\\\.\\pipe\\com_windbg\u003c/li\u003e\n\t\u003cli\u003e以带命令提示符的安全模式启动虚拟机 输入msconfig 打开系统设置\u003c/li\u003e\n\t\u003cli\u003e引导-\u0026gt;高级选项-\u0026gt;勾选 调试 波特率(数字需同主机设置) 勾选调试端口(com...)\u003c/li\u003e\n\t\u003cli\u003e重启虚拟机 以设定了高级选项的引导选启动计算机\u003c/li\u003e\n\u003c/ol\u003e"

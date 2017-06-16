@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#define CTL_CODE(DeviceType, Function, Method, Access) (\n  ((DeviceType) \u0026lt;\u0026lt; 16) | ((Access) \u0026lt;\u0026lt; 14) | ((Function) \u0026lt;\u0026lt; 2) | (Method))\n\nDeviceType 定义[16,31]设备类型\nFunction   定义[2,13]函数代码 最高为为1才为用户自定义 故0x800开始为用户自定义\nMethod     定义[0,1]传输类型\nAccess     定义[14,15]权限\n\u003c/pre\u003e"

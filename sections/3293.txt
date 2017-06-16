@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e此例程运行在IRQL = DISPATCH_LEVEL 故只能定义在非分页内存中\n驱动被卸载前 需要关闭定时器\n\u003c/pre\u003e\n"

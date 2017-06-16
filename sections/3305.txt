@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etypedef \nNTSTATUS \n(NTAPI *NtQueryInformationProcess)(\n  __in       HANDLE ProcessHandle,\n  __in       PROCESSINFOCLASS ProcessInformationClass,\t\t//為 ProcessDebugPort=7 代表查詢Debug_Port 是否被調試\n  __out      PVOID ProcessInformation,\n  __in       ULONG ProcessInformationLength,\n  __out_opt  PULONG ReturnLength);\n\u003c/pre\u003e"

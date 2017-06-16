@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e类似于应用层的互斥体\n\n//初始化 互斥体\nVOID \n  KeInitializeMutex(\n    IN PRKMUTEX  Mutex,\n    IN ULONG  Level\t\t\t//保留 一般为0\n    );\n    \n//获取互斥体\nKeWait...\n\n//释放互斥体\nLONG \n  KeReleaseMutex(\n    IN PRKMUTEX  Mutex,\n    IN BOOLEAN  Wait\t\t//FALSE 类似KeSetEvent\n    );    \n\u003c/pre\u003e"
