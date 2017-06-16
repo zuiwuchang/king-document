@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於一個單純的32位值 使用上面的同步顯得過於複雜 win Interlocked*函數提供 對一個32位值得 線程同步操作\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eio completion ports為目標尋找任何一個能夠為 completed overlapped io request 服務端線程\n為了使用io completion ports只需在線程上 等待io completion ports\n\n每次有新的overlapped開啟 就可以讓 handle和 io completion ports產生關聯 \n之後任何 io 操作完成 便會導致 io completion packet被送到 io completion ports\n為了回應io completion packet ,io completion ports釋放一個等待的線程\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e2個到多個 資源需要被鎖定時便可能死鎖\n臨界區 a b 線程 A B\nA要進入a b\tB要進入b a\nA進入a\t此時發生 context switch 執行線程B\tB進入了b\n此後b將等待A離開a 而A要一直等待B離開b 便發生了死鎖\n\n利用WaitForMultipleObjects 同時等待a b是不錯的選擇 但WaitForMultipleObjects只能用餘等待內核對象\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在OVERLAPPED.hEvent 設置event後 和i 安位與\nOVERLAPPED.hEvent=CreateEvent(NULL,TRUE,FALSE,NULL);\nOVERLAPPED.hEvent=(HANDLE)((DWORD)OVERLAPPED.hEvent | 0x1);\n\u003c/pre\u003e\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLPARAM指定的內存 將在消息 被處理後 被系統回收 故進程若對於其需要自己拷貝 且只有可讀屬性\n\n只能以SendMessage發送WM_COPYDATA消息 因為系統需要在消息處理後 回收此內存\n\u003c/pre\u003e"

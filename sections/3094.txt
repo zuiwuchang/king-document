@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//TerminateThread 結束一個線程 \u003cstrong\u003e這不是推薦的做法 因為這樣線程無法做任何清理工作\u003c/strong\u003e\nBOOL WINAPI TerminateThread(\n  __inout  HANDLE hThread,\n  __in     DWORD dwExitCode\n);\n\n\u003cstrong\u003e//正確做法\u003c/strong\u003e\n做一個標記 線程檢查之 以確定自己是否該結束\n如 使用一個 人工重置 的Event 線程中wait...\n\u003c/pre\u003e"

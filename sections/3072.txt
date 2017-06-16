@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e各線程數據分開 避免使用全局變量\u003c/li\u003e\n\t\u003cli\u003e不要在線程之間共享GDI對象\u003c/li\u003e\n\t\u003cli\u003e確定了解線程狀態 不要徑直結束程序而不等待它們結束\u003c/li\u003e\n\t\u003cli\u003e讓主線程處理用戶界面(UI)\u003c/li\u003e\n\u003c/ol\u003e"

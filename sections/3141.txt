@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e只需要在全局變量上加上 _declspec(thread) 聲明 便可定義為TLS變量\n如 _declspec(thread) DWORD tlsFlag=1;\n\u003c/pre\u003e"

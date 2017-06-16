@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e線程可多次Wait...同一個Mutex\n但每個Wait...都需要和ReleaseMutex配合\n\nMutex最大的特點是 當用戶此Mutex的線程 未ReleaseMutex而結束時\nMutex將被設置為激發態 故其他Wait...將能夠 得到此Mutex\n\u003c/pre\u003e"

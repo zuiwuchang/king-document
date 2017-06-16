@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMsgWaitForMultipleObjects函數用於 同時等待內核對象 和消息 一般用於改寫主循環(且一般就一個)\nDWORD WINAPI MsgWaitForMultipleObjects(\n  __in  DWORD nCount,\n  __in  const HANDLE* pHandles,\n  __in  BOOL bWaitAll,\n  __in  DWORD dwMilliseconds,\n  __in  DWORD dwWakeMask\t\t\t//此值指定要等待的消息\n);\n\u003c/pre\u003e"

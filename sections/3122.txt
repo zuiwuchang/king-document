@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t產生一個 io completion port\n2\t讓一個設備HANDLE(如文件句柄 socket...)和它關聯\n3\t產生一堆線程\n4\t讓每個線程都在io completion port上等待\n5\t對HANDLE發出 overlapped io 請求\n\u003c/pre\u003e"

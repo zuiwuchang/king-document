@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//設置進程優先權\nBOOL WINAPI SetPriorityClass(\n  __in  HANDLE hProcess,\n  __in  DWORD dwPriorityClass\n);\n\n//獲取進程優先權值\nDWORD WINAPI GetPriorityClass(\n  __in  HANDLE hProcess\n);\n\u003c/pre\u003e"

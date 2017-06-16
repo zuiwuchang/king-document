@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e線程池 回調函數 都會傳入一個 PTP_CALLBACK_INSTANCE Instance 的回調實例\n\n通過 傳入此 實例 調用一些函數 以告訴線程池 如何更好地工作\n\u003c/pre\u003e"

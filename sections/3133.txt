@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSetThreadpoolTimer 的 pftDueTime 傳入 NULL 可以將註冊的定時器 從線程棧中撤銷註冊\nCloseThreadpoolTimer 關閉定時器後 線程棧將不再執行回調\n\u003c/pre\u003e"

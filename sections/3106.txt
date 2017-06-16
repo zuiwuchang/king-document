@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMFC啟用一個UI線程 需要同時用的 AfxBeginThread 和 CWinThread\n\u003c/pre\u003e"

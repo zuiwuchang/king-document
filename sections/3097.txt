@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec發展之初 並沒有考慮 多線程 故許多函數 使用全局變量 在多線程下會 出錯\nc++解決之道 是提供了單獨的 多線程版本 c函數(vc現在只提供多線程版本)\n而在新 啟線線程時 應該使用 _beginthreadex 取代 CreateThread\n\u003c/pre\u003e"

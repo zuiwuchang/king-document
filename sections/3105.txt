@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e由 CWinThread 派生並非必須 只是派生類中 可以包含其他成員\nCWinThread *lp=new CWinThread(ThreadFun,(LPVOID)2);\nlp-\u003eCreateThread();\n\u003c/pre\u003e"

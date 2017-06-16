@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMFC對象 如 CWnd CDC CPen CDialog...對象與 HANDLE的對應關係存儲在TLS上\n故無法將此類對象 在線程間共享 傳遞\n解決辦法是 直接傳遞其 win32句柄\n\u003c/pre\u003e"

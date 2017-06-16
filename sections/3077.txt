@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e執行失敗返回\tWAIT_FAILED \n\n執行成功返回\tWAIT_TIMEOUT\t\t(等待超時)\n\t\t[WAIT_OBJECT_0 , (WAIT_OBJECT_0 + nCount– 1)]\t\t(bWaitAll==TRUE\t核心對象全變為激發態\tbWaitAll==FALSE 返回值-WAIT_OBJECT_0為被激發對象索引)\n\t\t[WAIT_ABANDONED_0 , (WAIT_ABANDONED_0 + nCount– 1)]\t( 類似WAIT_OBJECT_0 只是這裡是mutex對象被激發)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e線程優先權用以確定 線程在當前進程中的重要性\n\n//設置線程優先權\nBOOL WINAPI SetThreadPriority(\n  __in  HANDLE hThread,\n  __in  int nPriority\n);\n//獲取線程優先權值\nint WINAPI GetThreadPriority(\n  __in  HANDLE hThread\n);\n\u003c/pre\u003e"

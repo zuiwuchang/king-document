@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e向一個ui進程 發送WM_COPYDATA消息\nLPARAM 將指定一塊內存 此內存將被拷貝到 目標進程\n\nSendMessage(hwndReceiver,\nWM_COPYDATA,\n(WPARAM)hwndSender,\n(LPARAM)\u0026cds)\n\ncds是一個\ntypedef struct tagCOPYDATASTRUCT \n{  \n\tDWORD dwData;\t\t//用戶自定義值\n\tDWORD cbData;\t\t//lpData大小\n\tPVOID lpData;\t\t//被傳送數據塊地址\n} COPYDATASTRUCT; \n\n\u003c/pre\u003e"

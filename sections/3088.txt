@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e任何線程都可以 ReleaseSemaphore 使Semaphore當前值 增加 此不同於其他同步對象\nReleaseSemaphore 無聊如何都不會使Semaphore當前值 大於最大值(最多到等於)\n\u003c/pre\u003e"

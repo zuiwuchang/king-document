@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於不再使用的 共享內存指針 應該UnmapViewOfFile釋放\n對於打開的句柄 不再使用應該CloseHandle\n操作 共享內存時 應該注意同步 命名互斥體 事件 是個不錯的選擇\n\u003c/pre\u003e"

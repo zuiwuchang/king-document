@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePostThreadMessage向線程 投遞一個消息 對於同UI線程通信 是個不錯的注意\n\nBOOL PostThreadMessage(  \n\tDWORD idThread,   \n\tUINT Msg,   \n\tWPARAM wParam, \n\tLPARAM lParam ); \n\u003c/pre\u003e"

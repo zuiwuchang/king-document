@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMFC程序中 不應該使用 _beginthreadex 或 CreateThread 而是使用MFC自己的線程方法\n_beginthreadex啟動的函數 應該以 _endthreadex 取代ExitThread _endthreadex會做c多線程函數版本的清理工作\n\u003c/pre\u003e"

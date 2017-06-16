@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eEvent是win下最具彈性的同步機制 Event的唯一目的便是成為激發態或未激發態\n而是否激發態 可完全由程序員控制 而不受wait...函數影響\n\u003c/pre\u003e"

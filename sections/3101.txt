@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMFC程序應該使用 MFC的線程機制 而非CreateThread 否則 任何對於MFC函數的調用 都可能出錯\nMFC啟動線程 應該以 AfxBeginThread 或 CWinThread::CreateThread()\n\nCWinThread包含了對win32線程api的封裝\n\u003c/pre\u003e"

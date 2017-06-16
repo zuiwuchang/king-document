@@ -21208,5 +21208,544 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3069,
+			"Panel": 1522,
+			"Name": "線程api",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3070,
+			"Panel": 1523,
+			"Name": "主線程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3071,
+			"Panel": 1523,
+			"Name": "線程分類",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3072,
+			"Panel": 1524,
+			"Name": "線程成功關鍵",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3073,
+			"Panel": 1525,
+			"Name": "WaitForSingleObject",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3074,
+			"Panel": 1525,
+			"Name": "返回值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3075,
+			"Panel": 1525,
+			"Name": "核心對象激發態意義",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3076,
+			"Panel": 1526,
+			"Name": "WaitForMultipleObjects",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3077,
+			"Panel": 1526,
+			"Name": "返回值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3078,
+			"Panel": 1527,
+			"Name": "MsgWaitForMultipleObjects",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3079,
+			"Panel": 1527,
+			"Name": "返回值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3080,
+			"Panel": 1528,
+			"Name": "CRITICAL_SECTION 臨界區",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3081,
+			"Panel": 1528,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3082,
+			"Panel": 1528,
+			"Name": "死鎖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3083,
+			"Panel": 1529,
+			"Name": "Mutex 互斥器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3084,
+			"Panel": 1529,
+			"Name": "相關api",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3085,
+			"Panel": 1529,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3086,
+			"Panel": 1530,
+			"Name": "Semaphore 信號",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3087,
+			"Panel": 1530,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3088,
+			"Panel": 1530,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3089,
+			"Panel": 1531,
+			"Name": "Event 事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3090,
+			"Panel": 1531,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3091,
+			"Panel": 1531,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3092,
+			"Panel": 1532,
+			"Name": "Interlocked*",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3093,
+			"Panel": 1532,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3094,
+			"Panel": 1533,
+			"Name": "結束線程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3095,
+			"Panel": 1534,
+			"Name": "進程優先權",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3096,
+			"Panel": 1534,
+			"Name": "線程優先權",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3097,
+			"Panel": 1535,
+			"Name": "多線程 c 函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3098,
+			"Panel": 1535,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3099,
+			"Panel": 1536,
+			"Name": "_beginthreadex",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3100,
+			"Panel": 1536,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3101,
+			"Panel": 1537,
+			"Name": "MFC線程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3102,
+			"Panel": 1538,
+			"Name": "worker線程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3103,
+			"Panel": 1538,
+			"Name": "AfxBeginThread 方式啟動",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3104,
+			"Panel": 1538,
+			"Name": "派生CWinThread 方式啟動",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3105,
+			"Panel": 1538,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3106,
+			"Panel": 1539,
+			"Name": "UI線程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3107,
+			"Panel": 1539,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3108,
+			"Panel": 1539,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3109,
+			"Panel": 1540,
+			"Name": "PostThreadMessage",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3110,
+			"Panel": 1541,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3111,
+			"Panel": 1541,
+			"Name": "注意二",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3112,
+			"Panel": 1541,
+			"Name": "同步",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3113,
+			"Panel": 1542,
+			"Name": "WM_COPYDATA",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3114,
+			"Panel": 1542,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3115,
+			"Panel": 1543,
+			"Name": "共享內存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3116,
+			"Panel": 1543,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3117,
+			"Panel": 1543,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3118,
+			"Panel": 1544,
+			"Name": "重疊 overlapped io",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3119,
+			"Panel": 1544,
+			"Name": "以文件為例相關 API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3120,
+			"Panel": 1544,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3121,
+			"Panel": 1545,
+			"Name": "io completion ports",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3122,
+			"Panel": 1545,
+			"Name": "操作摘要",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3123,
+			"Panel": 1545,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3124,
+			"Panel": 1545,
+			"Name": "判斷GetQueuedCompletionStatus返回原因",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3125,
+			"Panel": 1545,
+			"Name": "進行io 不引發io completion pack",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3126,
+			"Panel": 1546,
+			"Name": "線程池",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3127,
+			"Panel": 1547,
+			"Name": "以異步方式調用函數 CreateThreadpoolWork",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3128,
+			"Panel": 1547,
+			"Name": "方法一 使用TrySubmitThreadpoolCallback 向線程池提交一個請求",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3129,
+			"Panel": 1547,
+			"Name": "方法二 先創建工作項 再把工作項 提交到線程池",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3130,
+			"Panel": 1547,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3131,
+			"Panel": 1548,
+			"Name": "每隔一段時間調用一個函數 CreateThreadpoolTimer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3132,
+			"Panel": 1548,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3133,
+			"Panel": 1548,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3134,
+			"Panel": 1549,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3135,
+			"Panel": 1549,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3136,
+			"Panel": 1550,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3137,
+			"Panel": 1550,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3138,
+			"Panel": 1551,
+			"Name": "回調函數終止操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3139,
+			"Panel": 1551,
+			"Name": "可用函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3140,
+			"Panel": 1552,
+			"Name": "TLS線程局部存儲",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3141,
+			"Panel": 1553,
+			"Name": "靜態TLS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3142,
+			"Panel": 1553,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3143,
+			"Panel": 1554,
+			"Name": "動態TLS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3144,
+			"Panel": 1555,
+			"Name": "TLS回調",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3145,
+			"Panel": 1555,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

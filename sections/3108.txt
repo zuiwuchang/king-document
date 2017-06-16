@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若需要向UI線程傳遞參數 應該以CREATE_SUSPENDED方式創建 UI線程\n之後通過設置成員變量值\n\u003c/pre\u003e"

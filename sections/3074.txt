@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e執行失敗返回\tWAIT_FAILED \n\n執行成功返回\tWAIT_ABANDONED\t(擁有mutex的線程結束前沒釋放mutex)\n\t\tWAIT_OBJECT_0\t(核心對象變為激發態)\n\t\tWAIT_TIMEOUT\t(等待超時)\n\u003c/pre\u003e"

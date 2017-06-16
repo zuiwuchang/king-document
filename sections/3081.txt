@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於同一線程 可多次 EnterCriticalSection 但每次 EnterCriticalSection必須 對應一個LeaveCriticalSection \n這 才能確保 離開臨界區 既其他線程能夠進入臨界區\n\n如果進入臨界區的線程 當掉了(無論是怎麼當掉)而沒有離開臨界區 其他線程將無法進入臨界區\n\u003c/pre\u003e"

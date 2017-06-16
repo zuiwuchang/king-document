@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eoverlapped 使的系統為自己傳輸數據 並且在傳輸完成時 得到通知(打開的設備句柄將被激發 OVERLAPPED結構中的event將被激發)\noverlapped id 可以用在 named pipes mailslosts serial socket file\n\u003c/pre\u003e"

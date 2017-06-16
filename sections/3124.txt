@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eOVERLAPPED* pOverlapped;\nBOOL bOk\t=\tGetQueuedCompletionStatus(...,\u0026amp;pOverlapped...);\n\nDWORD dwError=GetLastError();\nif(bOk)\n{\n\t//io 請求 完成\n}\nelse if (pOverlapped != NULL)\n{\n\t//io 請求 出錯\n}\nelse if(dwError == WAIT_TIMEOUT)\n{\n\t//超時\n}\nelse\n{\n\t//其他錯誤\n}\u003c/pre\u003e"

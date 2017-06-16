@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e創建的工作項 可以多次傳遞給SubmitThreadpoolWork\nCloseThreadpoolWork 和 線程等內核對象的CloseHandle似乎是不同的 應該在工作項不再被使用時 關閉\n\u003c/pre\u003e"

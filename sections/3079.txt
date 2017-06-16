@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e同WaitForMultipleObjects 只是多出下面一個可能代表 是收到消息\nWAIT_OBJECT_0 + nCount\n\u003c/pre\u003e"

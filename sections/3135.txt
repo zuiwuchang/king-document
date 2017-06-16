@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e線程池 內部會以 WaitForMultipleObjects 等待句柄\nWaitForMultipleObjects 不能傳入相同的 HANDLE 故 不可以SetThreadpoolWait 為同一個HANDLE 註冊\n\n當一個內核對象 觸發回調後 需要再次調用SetThreadpoolWait 註冊\n\u003c/pre\u003e"

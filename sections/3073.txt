@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//WaitForSingleObject函數用於等待一個內核對象 直到其變為激發態\nDWORD WINAPI WaitForSingleObject(\n  __in  HANDLE hHandle,\t\t\t//等待的內核對象\n  __in  DWORD dwMilliseconds\t\t//等待時間  單位毫秒 0(立即返回) INFINITE(一直等待)\n);\n\u003c/pre\u003e"
