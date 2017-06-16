@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirectSound 設備對象 代表播放聲音的設備\n\u003c/pre\u003e"

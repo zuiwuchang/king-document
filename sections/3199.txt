@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMCI（Media Control Interface） 是windows提供的一個在高層次控制媒體設備的接口\n使程序員可以不必關心具體的設備對對模特進行控制\n\n#include\u0026lt;mmsystem.h\u0026gt;\n#include\u0026lt;Digitalv.h\u0026gt;\n#pragma comment(lib,\"winmm.lib\")\n\u003c/pre\u003e"

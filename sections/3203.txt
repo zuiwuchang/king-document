@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//設置參數\nMCI_OPEN_PARMS mciOpen; \n//mciOpen.wDeviceID\t\t\t\t//若打開成功返回設備id\n//mciOpen.lpstrDeviceType=L\"waveaudio\";\t\t//不填mci自動更具擴展名判斷設備類型\nmciOpen.lpstrElementName = L\"爱是没余地.wav\";\n\n//打開設備\nif(mciSendCommand(NULL,MCI_OPEN,MCI_OPEN_ELEMENT,(DWORD_PTR)\u0026amp;mciOpen))\n{\n\tMessageBox(L\"無法打開\");\n}\u003c/pre\u003e"

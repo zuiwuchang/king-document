@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e創建 DirectSound 設備對象\n設定設備的協調級別\n\n創建DirectSound緩衝區\n加載數據到緩衝區\n\n播放聲音\n停止播放\n退出程序\n\u003c/pre\u003e"

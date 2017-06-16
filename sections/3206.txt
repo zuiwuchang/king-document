@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eif(mciSendCommand(deviceId,MCI_STOP,NULL,NULL))\n{\n\tMessageBox(L\"停止失敗\");\n}\n\u003c/pre\u003e"

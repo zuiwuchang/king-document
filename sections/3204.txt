@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eMCI_PLAY_PARMS mciPlay;\n//mciPlay.dwFrom=10000;\t\t//設置播放位置\t\tMCI_FROM\n//mciPlay.dwTo=12000;\t\t//設置播放結束位置\tMCI_TO\n\nif(mciSendCommand(deviceId,MCI_PLAY,\n\tNULL/*MCI_FROM | MCI_TO*/\t//NULL當前位置播放\n\t,(DWORD_PTR)\u0026amp;mciPlay))\n{\n\tMessageBox(L\"播放失敗\");\n}\u003c/pre\u003e"

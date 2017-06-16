@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elibmad一個開源的mp3解碼庫\n#include\u0026lt;libmad-0.15.1b\\mad.h\u0026gt;\n#pragma comment(lib,\"libmad.lib\")\t//需要自己編譯libmad.lib\n\u003c/pre\u003e"

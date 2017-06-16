@@ -3767,10 +3767,94 @@ var __v={
 			"Name": "Example",
 			"Sort": 0
 		},
+		"1573": {
+			"Id": 1573,
+			"Chapter": 500,
+			"Name": "DirectSound",
+			"Sort": 0
+		},
+		"1574": {
+			"Id": 1574,
+			"Chapter": 500,
+			"Name": "DirectSound 設備對象",
+			"Sort": 0
+		},
+		"1575": {
+			"Id": 1575,
+			"Chapter": 500,
+			"Name": "CreateSoundBuffer 創建緩衝區",
+			"Sort": 0
+		},
+		"1576": {
+			"Id": 1576,
+			"Chapter": 500,
+			"Name": "Play 播放等控制",
+			"Sort": 0
+		},
+		"1577": {
+			"Id": 1577,
+			"Chapter": 500,
+			"Name": "wave文件格式",
+			"Sort": 0
+		},
+		"1578": {
+			"Id": 1578,
+			"Chapter": 501,
+			"Name": "MCI",
+			"Sort": 0
+		},
+		"1579": {
+			"Id": 1579,
+			"Chapter": 501,
+			"Name": "打開設備",
+			"Sort": 0
+		},
 		"158": {
 			"Id": 158,
 			"Chapter": 65,
 			"Name": "git stash 進度",
+			"Sort": 0
+		},
+		"1580": {
+			"Id": 1580,
+			"Chapter": 501,
+			"Name": "使用設備",
+			"Sort": 0
+		},
+		"1581": {
+			"Id": 1581,
+			"Chapter": 501,
+			"Name": "關閉設備",
+			"Sort": 0
+		},
+		"1582": {
+			"Id": 1582,
+			"Chapter": 502,
+			"Name": "Monkey's Audio",
+			"Sort": 0
+		},
+		"1583": {
+			"Id": 1583,
+			"Chapter": 502,
+			"Name": "解析ape",
+			"Sort": 0
+		},
+		"1584": {
+			"Id": 1584,
+			"Chapter": 502,
+			"Name": "解壓ape",
+			"Sort": 0
+		},
+		"1585": {
+			"Id": 1585,
+			"Chapter": 503,
+			"Name": "libmad",
+			"Sort": 0
+		},
+		"1586": {
+			"Id": 1586,
+			"Chapter": 503,
+			"Name": "mp3格式",
 			"Sort": 0
 		},
 		"159": {

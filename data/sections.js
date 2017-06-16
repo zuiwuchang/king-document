@@ -22006,5 +22006,271 @@ var __v=[
 			"Name": "Example Client",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3183,
+			"Panel": 1573,
+			"Name": "DirectSound",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3184,
+			"Panel": 1573,
+			"Name": "DirectSound 播放流程",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3185,
+			"Panel": 1573,
+			"Name": "DirectSound常見對象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3186,
+			"Panel": 1574,
+			"Name": "DirectSound 設備對象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3187,
+			"Panel": 1574,
+			"Name": "創建 DirectSound 設備對象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3188,
+			"Panel": 1574,
+			"Name": "協作級別",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3189,
+			"Panel": 1574,
+			"Name": "枚舉系統可用設備對象",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3190,
+			"Panel": 1575,
+			"Name": "CreateSoundBuffer 創建緩衝區",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3191,
+			"Panel": 1575,
+			"Name": "創建主緩衝區",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3192,
+			"Panel": 1575,
+			"Name": "創建次緩衝區",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3193,
+			"Panel": 1575,
+			"Name": "加載數據到緩衝區",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3194,
+			"Panel": 1575,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3195,
+			"Panel": 1576,
+			"Name": "Play 播放等控制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3196,
+			"Panel": 1576,
+			"Name": "Example SetNotificationPositions",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3197,
+			"Panel": 1576,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3198,
+			"Panel": 1577,
+			"Name": "wave文件格式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3199,
+			"Panel": 1578,
+			"Name": "MCI",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3200,
+			"Panel": 1578,
+			"Name": "MCI 控制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3201,
+			"Panel": 1578,
+			"Name": "一般步驟",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3202,
+			"Panel": 1578,
+			"Name": "MCI_WAIT MCI_NOTIFY",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3203,
+			"Panel": 1579,
+			"Name": "打開設備",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3204,
+			"Panel": 1580,
+			"Name": "MCI_PLAY 播放",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3205,
+			"Panel": 1580,
+			"Name": "MCI_PAUSE 暫停播放",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3206,
+			"Panel": 1580,
+			"Name": "MCI_STOP 停止播放",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3207,
+			"Panel": 1580,
+			"Name": "MCI_SEEK 設置播放位置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3208,
+			"Panel": 1580,
+			"Name": "MCI_STATUS 返回狀態",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3209,
+			"Panel": 1580,
+			"Name": "MCI_SET 設置時間格式 播放速度",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3210,
+			"Panel": 1580,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3211,
+			"Panel": 1581,
+			"Name": "關閉設備",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3212,
+			"Panel": 1582,
+			"Name": "Monkey's Audio",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3213,
+			"Panel": 1583,
+			"Name": "解析ape",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3214,
+			"Panel": 1583,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3215,
+			"Panel": 1584,
+			"Name": "解壓ape",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3216,
+			"Panel": 1584,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3217,
+			"Panel": 1585,
+			"Name": "libmad",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3218,
+			"Panel": 1585,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3219,
+			"Panel": 1585,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3220,
+			"Panel": 1586,
+			"Name": "mp3格式",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

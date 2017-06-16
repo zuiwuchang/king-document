@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e打開設備\n使用設置\n關閉設備\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMonkey's Audio 相當流行的一個無損音樂壓縮格式\nMAC_SDK為其官方發布的api\n\n官網 \u003ca href=\"http://www.monkeysaudio.com/\" target=\"_blank\"\u003ehttp://www.monkeysaudio.com/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Monkey%27s_Audio\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/Monkey%27s_Audio\u003c/a\u003e\n\u003c/pre\u003e"

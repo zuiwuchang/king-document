@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在緩衝區的播放位置 和 寫位置之間 的數據不能被改變 這是一定會被播放的數據\n對於流緩衝區 從寫位置開始寫入跟新數據才是安全的\n應該為緩衝區設置DSBCAPS_GETCURRENTPOSITION2以獲取精確的播放位置\n\nSetNotificationPositions不能在緩衝區處於播放狀態下設置 可以先stop\n\u003c/pre\u003e"

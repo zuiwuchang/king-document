@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#include\u0026lt;MAC_SDK_412\\All.h\u0026gt;\n#include\u0026lt;MAC_SDK_412\\MACLib.h\u0026gt;\n//#include\u0026lt;MAC_SDK_412\\APETag.h\u0026gt;\n\n#pragma comment(lib,\"maclib.lib\")\u003c/pre\u003e"

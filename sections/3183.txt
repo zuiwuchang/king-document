@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirectSound 是DirectX用於處理聲音組件\n\n安裝DirectX SDK\n設置 sdk 包含路徑Include 和 庫目錄 Lib\n\n包含必要頭文件 include mmsystem.h mmreg.h dsound.h \n增加鏈接庫 dxguid.lib dsound.lib\n\u003c/pre\u003e"

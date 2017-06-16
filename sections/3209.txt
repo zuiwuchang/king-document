@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eMCI_SET_PARMS mciSet;\nmciSet.dwTimeFormat\t=\tMCI_FORMAT_MILLISECONDS;\nif(mciSendCommand(deviceId,MCI_SET,MCI_SET_TIME_FORMAT/*MCI_STATUS_START*/,(DWORD_PTR)\u0026amp;mciSet))\n{\n\tMessageBox(L\"MCI_SET失敗\");\n} \n//MCI_SEQ_SET_TEMPO 设置播放速度， \n//PQRN类型，此值为节拍/分， \n//SMPTE类型，此值为祯/秒 \u003c/pre\u003e"

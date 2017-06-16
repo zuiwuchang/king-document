@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e通過 mciSendString 或 mciSendCommand 控制\n成功返回0\nMCIERROR mciSendCommand(  \n\tMCIDEVICEID IDDevice,\t\t//設備id 打開設備時不需要傳入\n\tUINT        uMsg,       \t//命令消息\n\tDWORD       fdwCommand,\t\t//命令消息標誌\t\n\tDWORD_PTR   dwParam     \t//指向命令消息參數\n);\n\u003c/pre\u003e\n"

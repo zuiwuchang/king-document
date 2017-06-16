@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eMCI_STOP會停止所有操作 釋放緩衝區等 但不會設置當前播放位置到播放開始 故下次調用MCI_PLAY播放 依然是從此刻的位置播放\nMCI_SEEK會停止播放 若需要繼續播放 要調用MCI_PLAY\n\u003c/pre\u003e"
