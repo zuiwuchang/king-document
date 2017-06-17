@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e要將一個向量 沿x y z 軸 平移 X Y Z 只需將向量和如下矩陣 相乘\n1\t0\t0\t0\n0\t1\t0\t0\n0\t0\t1\t0\nX\tY\tZ\t1\n\n//D3DXMatrixTranslation 創建一個平移矩陣\n D3DXMATRIX * D3DXMatrixTranslation(\n  __inout  D3DXMATRIX *pOut,\n  __in     FLOAT x,\n  __in     FLOAT y,\n  __in     FLOAT z\n);\n\u003c/pre\u003e"

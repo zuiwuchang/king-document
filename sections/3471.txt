@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect2D支持4中 畫刷\nID2D1Brush\t\t\t\t\t所有畫刷基類\nID2D1SolidColorBrush\t\t單色畫刷\nID2D1LinearGradientBrush\t線性漸變畫刷\nID2D1RadialGradientBrush\t放射性漸變畫刷\nID2D1BitmapBrush\t\t\t位圖畫刷\n\u003c/pre\u003e"

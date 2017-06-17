@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e構建物體時 每個模型都處於其局部坐標中 我們需要將這些物體組織在一起構成整個世界\n\n將位於局部坐標中的物體 通過一個世界變換運算 移動到世界坐標中\n通過 平移 旋轉 縮放 ... 來確定物體在世界坐標系中的位置 方向 大小...\n\n//SetTransform 傳入轉換類型 和變換矩陣 \nHRESULT IDirect3DDevice9::SetTransform(\n  [in]  D3DTRANSFORMSTATETYPE State,\t\t//D3DTS_WORLD\n  [in]  const D3DMATRIX *pMatrix\n);\n\u003c/pre\u003e"

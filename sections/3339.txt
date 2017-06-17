@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e将各分量 和 float 乘 除 以便 缩放 向量长度\n\n//D3DXVECTOR3::operator*/ 提供了此功能\n*\n/\n*=\n/=\n\u003c/pre\u003e"

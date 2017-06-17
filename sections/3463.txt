@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eID2D1GeometryGroup 表示 圖形組 對組操作 將影響 全部 成員\n\u003c/pre\u003e"

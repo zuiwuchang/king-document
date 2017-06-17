@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e向量规范化 就是使向量的模变为1\n只需要将 向量的每个分量都 / 模 便可\n\n//D3DXVec3Normalize 计算一个向量的标准化 向量\nD3DXVECTOR3 * D3DXVec3Normalize(\n  __inout  D3DXVECTOR3 *pOut,\n  __in     const D3DXVECTOR3 *pV\n);\n\u003c/pre\u003e"

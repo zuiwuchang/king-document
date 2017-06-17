@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopengl 中的線 表示一條線段 而非數學上的方向向量\n(可以使用 一對 頂點 表示)\n\n閉合的多段線 叫做 循環線(line loop)\n開放的多段線(沒有首尾閉合) 叫做 條帶線(line strip)\n\n使用\nvoid glLineWidth(GLfloat width)\n設置 線寬\n(沒提供 著色器 設置 變量)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect2D 的接口都是 com 接口 故需要Release\n\n因為Direct2D是在 WM_PAIN中 進行繪製 故在UpdateWindow之前 應該創建好所有設備資源\n\u003c/pre\u003e"

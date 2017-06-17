@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect2D 是微軟在Direct10中新加入的2D游戏编程接口 其提供了硬件加速功能\n用以替代以前低效的 GDI GDI+ 以及别捏的使用Direct3D為2D硬件加速度的尷尬\n\u003c/pre\u003e"

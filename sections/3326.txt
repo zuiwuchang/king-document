@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopengl 提供了繪製圖元的形式(點 線 三角形)\n需要將 物體分解為 圖元\n\n\n點\t\tGL_POINTS\n線\t\tGL_LINES\n條帶線\t\tGL_LINE_STRIP\n循環線\t\tGL_LINE_LOOP\n獨立三角形\tGL_TRIANGLES\n三角形條帶\tGL_TRIANGLE_STRIP\n三角形扇面\tGL_TRIANGLE_FAN\n\u003c/pre\u003e"

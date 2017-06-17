@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect2D中 沒有位圖操作接口 而是使用 WIC(windows image component) 來完成\n\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e從文件創建WIC位圖\u003c/li\u003e\n\t\u003cli\u003e由WIC位圖創建D2D位圖\u003c/li\u003e\n\t\u003cli\u003e使用D2D繪製位圖\u003c/li\u003e\n\u003c/ol\u003e"

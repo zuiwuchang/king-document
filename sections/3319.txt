@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e環境配置 mingw\n\n通常 opengl的 環境不需要配置\n只需要為連接器 加上 -lopengl32 選項(libopengl32.a) 即可\n\u003c/pre\u003e\n"

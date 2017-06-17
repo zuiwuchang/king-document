@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e將操作 封裝到了 com.hpp wic.hpp direct2d.hpp中\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e首先使用 4个 分量 \nup right front 定义一个正交坐标系 描述摄象机朝向\nposition 描述摄象机位置\n\n\n如此 攝像機可以有如下 6 種變化\n\n沿\tup\t旋轉(偏移)\n沿\tright\t旋轉(俯/仰)\n沿\tfront\t旋轉(滾動 偏著頭看)\n\n沿\tup\t升降\n沿\tright\t掃視(橫著移動)\n沿\tfront\t平移\n\u003c/pre\u003e"

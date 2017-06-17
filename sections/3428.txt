@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 \n HRESULT  D3DXCreateText(\n  __in   LPDIRECT3DDEVICE9 pDevice,\n  __in   HDC hDC,\n  __in   LPCTSTR pText,\n  __in   FLOAT Deviation,\n  __in   FLOAT Extrusion,\n  __out  LPD3DXMESH *ppMesh,\n  __out  LPD3DXBUFFER *ppAdjacency,\n  __out  LPGLYPHMETRICSFLOAT pGlyphMetrics\n);\n創建一個 3D 文字的 網格 接口 ID3DXMesh \n\u003c/pre\u003e"

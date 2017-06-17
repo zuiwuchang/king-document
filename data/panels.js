@@ -4205,10 +4205,76 @@ var __v={
 			"Name": "_EPROCESS",
 			"Sort": 0
 		},
+		"1639": {
+			"Id": 1639,
+			"Chapter": 524,
+			"Name": "OpenGL",
+			"Sort": 0
+		},
 		"164": {
 			"Id": 164,
 			"Chapter": 66,
 			"Name": "svn",
+			"Sort": 0
+		},
+		"1640": {
+			"Id": 1640,
+			"Chapter": 524,
+			"Name": "環境配置 mingw",
+			"Sort": 0
+		},
+		"1641": {
+			"Id": 1641,
+			"Chapter": 524,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1642": {
+			"Id": 1642,
+			"Chapter": 525,
+			"Name": "glClear",
+			"Sort": 0
+		},
+		"1643": {
+			"Id": 1643,
+			"Chapter": 525,
+			"Name": "glFlush",
+			"Sort": 0
+		},
+		"1644": {
+			"Id": 1644,
+			"Chapter": 525,
+			"Name": "glEnable",
+			"Sort": 0
+		},
+		"1645": {
+			"Id": 1645,
+			"Chapter": 526,
+			"Name": "shader",
+			"Sort": 0
+		},
+		"1646": {
+			"Id": 1646,
+			"Chapter": 527,
+			"Name": "繪製",
+			"Sort": 0
+		},
+		"1647": {
+			"Id": 1647,
+			"Chapter": 527,
+			"Name": "點",
+			"Sort": 0
+		},
+		"1648": {
+			"Id": 1648,
+			"Chapter": 527,
+			"Name": "線",
+			"Sort": 0
+		},
+		"1649": {
+			"Id": 1649,
+			"Chapter": 527,
+			"Name": "三角形",
 			"Sort": 0
 		},
 		"165": {
@@ -4217,10 +4283,130 @@ var __v={
 			"Name": "client 命令",
 			"Sort": 0
 		},
+		"1650": {
+			"Id": 1650,
+			"Chapter": 527,
+			"Name": "opengl 緩存數據",
+			"Sort": 0
+		},
+		"1651": {
+			"Id": 1651,
+			"Chapter": 528,
+			"Name": "DirectX",
+			"Sort": 0
+		},
+		"1652": {
+			"Id": 1652,
+			"Chapter": 528,
+			"Name": "環境配置win32",
+			"Sort": 0
+		},
+		"1653": {
+			"Id": 1653,
+			"Chapter": 529,
+			"Name": "向量",
+			"Sort": 0
+		},
+		"1654": {
+			"Id": 1654,
+			"Chapter": 529,
+			"Name": "矩陣",
+			"Sort": 0
+		},
+		"1655": {
+			"Id": 1655,
+			"Chapter": 529,
+			"Name": "基本變換",
+			"Sort": 0
+		},
+		"1656": {
+			"Id": 1656,
+			"Chapter": 529,
+			"Name": "平面",
+			"Sort": 0
+		},
+		"1657": {
+			"Id": 1657,
+			"Chapter": 529,
+			"Name": "注意",
+			"Sort": 0
+		},
+		"1658": {
+			"Id": 1658,
+			"Chapter": 530,
+			"Name": "初始化Direct3D",
+			"Sort": 0
+		},
+		"1659": {
+			"Id": 1659,
+			"Chapter": 531,
+			"Name": "模型表示",
+			"Sort": 0
+		},
 		"166": {
 			"Id": 166,
 			"Chapter": 66,
 			"Name": "RabbitVCS",
+			"Sort": 0
+		},
+		"1660": {
+			"Id": 1660,
+			"Chapter": 531,
+			"Name": "繪製流水線",
+			"Sort": 0
+		},
+		"1661": {
+			"Id": 1661,
+			"Chapter": 531,
+			"Name": "局部坐標",
+			"Sort": 0
+		},
+		"1662": {
+			"Id": 1662,
+			"Chapter": 531,
+			"Name": "世界坐標",
+			"Sort": 0
+		},
+		"1663": {
+			"Id": 1663,
+			"Chapter": 531,
+			"Name": "觀察坐標",
+			"Sort": 0
+		},
+		"1664": {
+			"Id": 1664,
+			"Chapter": 531,
+			"Name": "背面消除",
+			"Sort": 0
+		},
+		"1665": {
+			"Id": 1665,
+			"Chapter": 531,
+			"Name": "光照",
+			"Sort": 0
+		},
+		"1666": {
+			"Id": 1666,
+			"Chapter": 531,
+			"Name": "剪裁",
+			"Sort": 0
+		},
+		"1667": {
+			"Id": 1667,
+			"Chapter": 531,
+			"Name": "投影",
+			"Sort": 0
+		},
+		"1668": {
+			"Id": 1668,
+			"Chapter": 531,
+			"Name": "視口變換",
+			"Sort": 0
+		},
+		"1669": {
+			"Id": 1669,
+			"Chapter": 531,
+			"Name": "光柵化",
 			"Sort": 0
 		},
 		"167": {
@@ -4229,16 +4415,196 @@ var __v={
 			"Name": "time",
 			"Sort": 0
 		},
+		"1670": {
+			"Id": 1670,
+			"Chapter": 532,
+			"Name": "創建緩存",
+			"Sort": 0
+		},
+		"1671": {
+			"Id": 1671,
+			"Chapter": 532,
+			"Name": "繪製狀態",
+			"Sort": 0
+		},
+		"1672": {
+			"Id": 1672,
+			"Chapter": 532,
+			"Name": "繪製",
+			"Sort": 0
+		},
+		"1673": {
+			"Id": 1673,
+			"Chapter": 532,
+			"Name": "D3DXCreate*",
+			"Sort": 0
+		},
+		"1674": {
+			"Id": 1674,
+			"Chapter": 533,
+			"Name": "顏色表示",
+			"Sort": 0
+		},
+		"1675": {
+			"Id": 1675,
+			"Chapter": 533,
+			"Name": "頂點顏色",
+			"Sort": 0
+		},
+		"1676": {
+			"Id": 1676,
+			"Chapter": 533,
+			"Name": "着色",
+			"Sort": 0
+		},
+		"1677": {
+			"Id": 1677,
+			"Chapter": 534,
+			"Name": "光照",
+			"Sort": 0
+		},
+		"1678": {
+			"Id": 1678,
+			"Chapter": 534,
+			"Name": "材質",
+			"Sort": 0
+		},
+		"1679": {
+			"Id": 1679,
+			"Chapter": 534,
+			"Name": "頂點法線",
+			"Sort": 0
+		},
 		"168": {
 			"Id": 168,
 			"Chapter": 67,
 			"Name": "時間點",
 			"Sort": 0
 		},
+		"1680": {
+			"Id": 1680,
+			"Chapter": 534,
+			"Name": "光源",
+			"Sort": 0
+		},
+		"1681": {
+			"Id": 1681,
+			"Chapter": 534,
+			"Name": "使用光照",
+			"Sort": 0
+		},
+		"1682": {
+			"Id": 1682,
+			"Chapter": 535,
+			"Name": "紋理映射",
+			"Sort": 0
+		},
+		"1683": {
+			"Id": 1683,
+			"Chapter": 535,
+			"Name": "使用紋理",
+			"Sort": 0
+		},
+		"1684": {
+			"Id": 1684,
+			"Chapter": 535,
+			"Name": "紋理過濾器",
+			"Sort": 0
+		},
+		"1685": {
+			"Id": 1685,
+			"Chapter": 535,
+			"Name": "多級漸進紋理",
+			"Sort": 0
+		},
+		"1686": {
+			"Id": 1686,
+			"Chapter": 535,
+			"Name": "尋址方式",
+			"Sort": 0
+		},
+		"1687": {
+			"Id": 1687,
+			"Chapter": 536,
+			"Name": " 融合",
+			"Sort": 0
+		},
+		"1688": {
+			"Id": 1688,
+			"Chapter": 536,
+			"Name": "融合因子",
+			"Sort": 0
+		},
+		"1689": {
+			"Id": 1689,
+			"Chapter": 536,
+			"Name": "alpha",
+			"Sort": 0
+		},
 		"169": {
 			"Id": 169,
 			"Chapter": 67,
 			"Name": "時間段",
+			"Sort": 0
+		},
+		"1690": {
+			"Id": 1690,
+			"Chapter": 537,
+			"Name": "模板緩存",
+			"Sort": 0
+		},
+		"1691": {
+			"Id": 1691,
+			"Chapter": 537,
+			"Name": "鏡面效果",
+			"Sort": 0
+		},
+		"1692": {
+			"Id": 1692,
+			"Chapter": 537,
+			"Name": "陰影效果",
+			"Sort": 0
+		},
+		"1693": {
+			"Id": 1693,
+			"Chapter": 538,
+			"Name": "ID3DXFont",
+			"Sort": 0
+		},
+		"1694": {
+			"Id": 1694,
+			"Chapter": 538,
+			"Name": "D3DXCreateText",
+			"Sort": 0
+		},
+		"1695": {
+			"Id": 1695,
+			"Chapter": 539,
+			"Name": "網格 ID3DXMesh",
+			"Sort": 0
+		},
+		"1696": {
+			"Id": 1696,
+			"Chapter": 539,
+			"Name": "網格優化",
+			"Sort": 0
+		},
+		"1697": {
+			"Id": 1697,
+			"Chapter": 539,
+			"Name": "網格克隆",
+			"Sort": 0
+		},
+		"1698": {
+			"Id": 1698,
+			"Chapter": 540,
+			"Name": "ID3DXBuffer",
+			"Sort": 0
+		},
+		"1699": {
+			"Id": 1699,
+			"Chapter": 540,
+			"Name": "XFile",
 			"Sort": 0
 		},
 		"17": {
@@ -4253,16 +4619,148 @@ var __v={
 			"Name": "Timer",
 			"Sort": 0
 		},
+		"1700": {
+			"Id": 1700,
+			"Chapter": 540,
+			"Name": "ID3DXPMesh",
+			"Sort": 0
+		},
+		"1701": {
+			"Id": 1701,
+			"Chapter": 540,
+			"Name": "外接體",
+			"Sort": 0
+		},
+		"1702": {
+			"Id": 1702,
+			"Chapter": 541,
+			"Name": "CameraFPS",
+			"Sort": 0
+		},
+		"1703": {
+			"Id": 1703,
+			"Chapter": 541,
+			"Name": "攝像機描述",
+			"Sort": 0
+		},
+		"1704": {
+			"Id": 1704,
+			"Chapter": 541,
+			"Name": "旋轉",
+			"Sort": 0
+		},
+		"1705": {
+			"Id": 1705,
+			"Chapter": 541,
+			"Name": "行走 掃視 升降",
+			"Sort": 0
+		},
+		"1706": {
+			"Id": 1706,
+			"Chapter": 542,
+			"Name": "Direct2D",
+			"Sort": 0
+		},
+		"1707": {
+			"Id": 1707,
+			"Chapter": 542,
+			"Name": "環境配置win32",
+			"Sort": 0
+		},
+		"1708": {
+			"Id": 1708,
+			"Chapter": 543,
+			"Name": "base",
+			"Sort": 0
+		},
+		"1709": {
+			"Id": 1709,
+			"Chapter": 543,
+			"Name": "繪製簡單圖形",
+			"Sort": 0
+		},
 		"171": {
 			"Id": 171,
 			"Chapter": 68,
 			"Name": "net/rpc",
 			"Sort": 0
 		},
+		"1710": {
+			"Id": 1710,
+			"Chapter": 543,
+			"Name": "繪製PATH圖形",
+			"Sort": 0
+		},
+		"1711": {
+			"Id": 1711,
+			"Chapter": 543,
+			"Name": "圖形組",
+			"Sort": 0
+		},
+		"1712": {
+			"Id": 1712,
+			"Chapter": 543,
+			"Name": "圖形變化",
+			"Sort": 0
+		},
+		"1713": {
+			"Id": 1713,
+			"Chapter": 544,
+			"Name": "圖形計算",
+			"Sort": 0
+		},
+		"1714": {
+			"Id": 1714,
+			"Chapter": 544,
+			"Name": "單色畫刷",
+			"Sort": 0
+		},
+		"1715": {
+			"Id": 1715,
+			"Chapter": 544,
+			"Name": "漸變畫刷",
+			"Sort": 0
+		},
+		"1716": {
+			"Id": 1716,
+			"Chapter": 545,
+			"Name": "位圖",
+			"Sort": 0
+		},
+		"1717": {
+			"Id": 1717,
+			"Chapter": 545,
+			"Name": "WIC",
+			"Sort": 0
+		},
+		"1718": {
+			"Id": 1718,
+			"Chapter": 545,
+			"Name": "繪製位圖",
+			"Sort": 0
+		},
+		"1719": {
+			"Id": 1719,
+			"Chapter": 545,
+			"Name": "mylib",
+			"Sort": 0
+		},
 		"172": {
 			"Id": 172,
 			"Chapter": 68,
 			"Name": "net/rpc/jsonrpc",
+			"Sort": 0
+		},
+		"1720": {
+			"Id": 1720,
+			"Chapter": 546,
+			"Name": "文本绘制",
+			"Sort": 0
+		},
+		"1721": {
+			"Id": 1721,
+			"Chapter": 547,
+			"Name": "layer",
 			"Sort": 0
 		},
 		"173": {

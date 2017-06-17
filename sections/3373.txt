@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e局部坐標-\u0026gt;世界坐標-觀察坐標-\u0026gt;背景消隱-\u0026gt;光照-\u0026gt;\n剪裁-\u0026gt;投影-\u0026gt;視口坐標-\u0026gt;光柵化\n\n繪製過程中有多個地方 需要轉換坐標 使用\nHRESULT IDirect3DDevice9::SetTransform(\n  [in]  D3DTRANSFORMSTATETYPE State,\t//如何轉換 如 D3DTS_WORLD(局部坐標轉世界坐標) \n  [in]  const D3DMATRIX *pMatrix\t\t//變換矩陣\n);\n進行轉換\n\u003c/pre\u003e"

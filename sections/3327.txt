@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e點 可以通過單一頂點表示\n\n一個點 是一個四維齊次指標值\n(實際上不存在 面積\nopengl 使用一個四邊形區域來 模擬\n四邊形的 邊長 為點的大小 默認為 1.0)\n\n使用\nvoid glPointSize()\n或在 頂點 細分 幾何 著色器中 向內置的 gl_PointSize 寫入值\n\u003cstrong\u003e(需要啟用 GL_PROGRAM_POINT_SIZE 否則 著色器會忽略gl_PointSize)\u003c/strong\u003e\n改變 大小\n\u003c/pre\u003e\n"

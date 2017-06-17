@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若將法向量 規範化 其必須重新計算d\n因為 np+d=0\n\n//D3DXPlaneNormalize 將一個平面 規範化(既將n模設置為1 重新計算d後的 平面(n1,d1))\n D3DXPLANE * D3DXPlaneNormalize(\n  __inout  D3DXPLANE *pOut,\n  __in     const D3DXPLANE *pP\n);\n\u003c/pre\u003e"

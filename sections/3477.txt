@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將WIC位圖 專為D2D位圖\nCreateFormatConverter\n\u003c/pre\u003e"

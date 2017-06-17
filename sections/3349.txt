@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 Direct3D編程時 通常只使用 4*4 的矩陣 和 1*4的行向量\n這意味這 這些 矩陣的乘法一定有意義\n且 可用此向量(1*4的矩陣) 和其他矩陣(4*4)相乘\n\n1*4的向量使用 D3DXVECTOR3 或 D3DXVECTOR3表示(D3DXVECTOR3理解為第4個分量為0或1)\n4*4的矩陣使用 D3DXMATRIX 表示\n\nD3DXMATRIX重載了 \n矩陣相等比較\n矩陣相加 相減\n矩陣數乘\n類型轉換\n矩陣相乘\n\noperator () ( UINT Row, UINT Col );\t//像二維數組一樣 訪問矩陣中的元素\n\u003c/pre\u003e"

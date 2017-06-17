@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e創建工廠接口(用於創建其他設備資源)\tID2D1Factory*\u003c/li\u003e\n\t\u003cli\u003e創建繪製目標(用以渲染圖像)\t\tID2D1HwndRenderTarget*\u003c/li\u003e\n\t\u003cli\u003e創建畫刷等 繪製工具\u003c/li\u003e\n\t\u003cli\u003e在WM_PAIN中 ID2D1HwndRenderTarget::BeginDraw ID2D1HwndRenderTarget::EndDraw 間繪製\u003c/li\u003e\n\t\u003cli\u003e釋放接口\u003c/li\u003e\n\u003c/ol\u003e"

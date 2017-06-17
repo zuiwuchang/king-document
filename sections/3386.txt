@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect3D 封裝了多種 繪製狀態 這些狀態將 影響幾何體的繪製方式\n一旦改變 狀態 其將一直有效\n\n使用\nHRESULT SetRenderState(\n  [in]  D3DRENDERSTATETYPE State,\t\t//D3DRS_FILLMODE(改變繪製狀態)\n  [in]  DWORD Value\t\t//D3DFILL_WIREFRAME(使用線框繪製) ...\n);\n設置狀態\n\u003c/pre\u003e"

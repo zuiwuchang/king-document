@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLengyel指出 可以將平面 看著4D向量 \n和期望 變換矩陣的逆矩陣相乘 以變換\n\n此操作 必須先將平面 規範化\n\n//D3DXPlaneTransform 完成平面變換\nD3DXPLANE * D3DXPlaneTransform(\n  __inout  D3DXPLANE *pOut,\n  __in     const D3DXPLANE *pP,\n  __in     const D3DXMATRIX *pM\n);\n\u003c/pre\u003e"

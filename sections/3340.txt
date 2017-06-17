@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若有向量 U V \n则其点积为\nUxVx + UzVz + UzVz\n\n点积性质\n若U V 点积为0 则 U V 垂直\n...\u0026gt;0 ...夹角小于90度\n...\u0026lt;0 ...大于90度\n\n\n//D3DXVec3Dot 函数 返回 两向量的 点积\nFLOAT  D3DXVec3Dot(\n  __in  const D3DXVECTOR3 *pV1,\n  __in  const D3DXVECTOR3 *pV2\n);\n\u003c/pre\u003e"

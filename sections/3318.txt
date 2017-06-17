@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eOpenGL 一個開源 高效 跨平台的 圖像接口 被廣泛用於 遊戲 圖像處理\n\n官網 \u003ca href=\"http://www.opengl.org/\" target=\"_blank\"\u003ehttp://www.opengl.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/OpenGL\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/OpenGL\u003c/a\u003e\n\u003c/pre\u003e"

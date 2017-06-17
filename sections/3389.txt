@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect3D 提供了幾個基本的幾何體 可以直接使用 D3DXCreate* 創建 幾何體網格\nD3DXCreateBox\nD3DXCreateSphere\nD3DXCreateCylinder\nD3DXCreateTeapot\nD3DXCreatePolygon\nD3DXCreateTorus\n\n其都會返回一個 ID3DXMesh 指針接口\n\n使用ID3DXMesh的\nHRESULT DrawSubset(\n  [in]  DWORD AttribId\n);\n繪製 幾何體\n\u003c/pre\u003e"

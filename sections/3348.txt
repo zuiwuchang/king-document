@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e矩陣轉置 既將一個矩陣的 行列交換\na,b,c\nd,e,f\ng,h,i\n的轉置矩陣為\na,d,g\nb,e,h\nc,f,i\n\nm*n矩陣的轉置矩陣 是n*m階的\n\u003c/pre\u003e"

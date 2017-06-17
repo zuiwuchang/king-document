@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若要將一個向量 沿x y z 縮放 X Y Z 倍 只需要和如下矩陣 相乘\nX\t0\t0\t0\n0\tY\t0\t0\n0\t0\tZ\t0\n0\t0\t0\t1\n\n//D3DXMatrixScaling 創建一個比例變換矩陣\n D3DXMATRIX * D3DXMatrixScaling(\n  __inout  D3DXMATRIX *pOut,\n  __in     FLOAT sx,\n  __in     FLOAT sy,\n  __in     FLOAT sz\n);\n\u003c/pre\u003e"

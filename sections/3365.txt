@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect3D使用 深度緩存 表示圖像的前後位置關係 緩存越大越精確\nD3DFMT_D32\t//32位深度\nD3DFMT_D24S8\t//24位深度 其中8位保留供模板緩存使用\nD3DFMT_D24X8\t//24位深度\nD3DFMT_D16\t//16位深度\n...\n\n頂點運算 是3D集合學到基本元素 \n創建 IDirect3DDevice9 設備前 需要確認 硬件是否支持\n使用IDirect3D9::GetDeviceCaps 可獲取硬件支持的特性\n\u003c/pre\u003e"

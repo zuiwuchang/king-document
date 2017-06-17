@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect2D組要有 4中 合併圖形的計算方式\nD2D1_COMBINE_MODE_UNION \t\t並集\nD2D1_COMBINE_MODE_INTERSECT\t\t交集\nD2D1_COMBINE_MODE_XOR\t\t\t異或\t(並集 - 交集)\nD2D1_COMBINE_MODE_EXCLUDE\t\t差集 (A中 不包括B的部分)\n\n\nID2D1Geometry  接口的 CombineWithGeometry 提供了 將當前圖形與指定圖形合併的操作\n合併結構返回到 ID2D1PathGeometry 的 ID2D1GeometrySink 接口中\n\u003c/pre\u003e\n"

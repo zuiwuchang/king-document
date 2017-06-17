@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e實現使用\nHRESULT IDirect3DDevice9::SetLight(\n  [in]  DWORD Index,\t\t//定義一個索引 代表這個光\n  [in]  const D3DLIGHT9 *pLight\t//光描述\n);\n註冊一個 光照\n\n之後使用\nHRESULT LightEnable(\n  [in]  DWORD LightIndex,\t//註冊的索引\n  [in]  BOOL bEnable\t//TRUE(打開)\n);\n開啟/關閉 燈光\n\n可以支持多個燈光\n\u003c/pre\u003e"

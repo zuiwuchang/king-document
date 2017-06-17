@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e若有矩陣 A為m*n階 B為k*p階\n則 C=AB 要有意義 必需 n==k\nC 為 m*p 階\n\nC的每個 下標ij值為\nA的第i個行向量 餘b的 第j個列向量的 點積\n\n對於矩陣 AB 和 BA 是不等效的 既矩陣乘法不具備 交換律(特殊矩陣除外) \n\u003c/pre\u003e"

@@ -149,6 +149,24 @@ var __v={
 			"Name": "驅動HOOK",
 			"Sort": 1
 		},
+		"122": {
+			"Id": 122,
+			"Tag": 82,
+			"Name": "OpenGL4.3",
+			"Sort": 0
+		},
+		"123": {
+			"Id": 123,
+			"Tag": 83,
+			"Name": "DirectX",
+			"Sort": 0
+		},
+		"124": {
+			"Id": 124,
+			"Tag": 83,
+			"Name": "Direct2D",
+			"Sort": 1
+		},
 		"13": {
 			"Id": 13,
 			"Tag": 15,

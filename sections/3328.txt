@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopengl 片元 著色器 中提供了一個 特殊內置變量 gl_PointCoord\ngl_PointCoord 包含了當前 片元 在點區域內的 坐標信息\n\n將 gl_PointCoord 作為輸入紋理坐標 可以使用位圖和紋理 替代簡單的 方塊顏色\n及那個結果 進行 alpha 融合或 直接拋棄某些 片元(discard) 可以創建不同形狀的 點精靈 對象\n\u003c/pre\u003e"

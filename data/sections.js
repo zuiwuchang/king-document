@@ -22944,5 +22944,1216 @@ var __v=[
 			"Name": "dt nt!_SE_AUDIT_PROCESS_CREATION_INFO",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3318,
+			"Panel": 1639,
+			"Name": "OpenGL",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3319,
+			"Panel": 1640,
+			"Name": "mingw",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3320,
+			"Panel": 1640,
+			"Name": "glut",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3321,
+			"Panel": 1641,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3322,
+			"Panel": 1642,
+			"Name": "glClear",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3323,
+			"Panel": 1643,
+			"Name": "glFlush",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3324,
+			"Panel": 1644,
+			"Name": "glEnable",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3325,
+			"Panel": 1645,
+			"Name": "shader",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3326,
+			"Panel": 1646,
+			"Name": "繪製",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3327,
+			"Panel": 1647,
+			"Name": "點",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3328,
+			"Panel": 1647,
+			"Name": "點精靈",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3329,
+			"Panel": 1648,
+			"Name": "線",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3330,
+			"Panel": 1649,
+			"Name": "三角形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3331,
+			"Panel": 1649,
+			"Name": "多邊形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3332,
+			"Panel": 1651,
+			"Name": "DirectX",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3333,
+			"Panel": 1652,
+			"Name": "環境配置win32",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3334,
+			"Panel": 1653,
+			"Name": "向量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3335,
+			"Panel": 1653,
+			"Name": "D3DXVECTOR3",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3336,
+			"Panel": 1653,
+			"Name": "向量长度",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3337,
+			"Panel": 1653,
+			"Name": "向量规范化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3338,
+			"Panel": 1653,
+			"Name": "向量+/-",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3339,
+			"Panel": 1653,
+			"Name": "向量数乘除",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3340,
+			"Panel": 1653,
+			"Name": "向量点积",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3341,
+			"Panel": 1653,
+			"Name": "向量叉积",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3342,
+			"Panel": 1653,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3343,
+			"Panel": 1654,
+			"Name": "矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3344,
+			"Panel": 1654,
+			"Name": "矩陣 相等 數乘 加法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3345,
+			"Panel": 1654,
+			"Name": "矩陣乘法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3346,
+			"Panel": 1654,
+			"Name": "單位矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3347,
+			"Panel": 1654,
+			"Name": "逆矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3348,
+			"Panel": 1654,
+			"Name": "矩陣轉置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3349,
+			"Panel": 1654,
+			"Name": "D3DX矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3350,
+			"Panel": 1654,
+			"Name": "其他全局函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3351,
+			"Panel": 1655,
+			"Name": "基本變換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3352,
+			"Panel": 1655,
+			"Name": "平移矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3353,
+			"Panel": 1655,
+			"Name": "旋轉矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3354,
+			"Panel": 1655,
+			"Name": "比例變換矩陣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3355,
+			"Panel": 1655,
+			"Name": "變換組合",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3356,
+			"Panel": 1655,
+			"Name": "變換函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3357,
+			"Panel": 1656,
+			"Name": "平面",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3358,
+			"Panel": 1656,
+			"Name": "點面關係",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3359,
+			"Panel": 1656,
+			"Name": "平面創建",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3360,
+			"Panel": 1656,
+			"Name": "平面規範化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3361,
+			"Panel": 1656,
+			"Name": "平面變換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3362,
+			"Panel": 1657,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3363,
+			"Panel": 1658,
+			"Name": "初始化Direct3D",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3364,
+			"Panel": 1658,
+			"Name": "多重採樣",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3365,
+			"Panel": 1658,
+			"Name": "Direct3D",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3366,
+			"Panel": 1658,
+			"Name": "step 1",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3367,
+			"Panel": 1658,
+			"Name": "step 2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3368,
+			"Panel": 1658,
+			"Name": "step 3",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3369,
+			"Panel": 1658,
+			"Name": "step 4",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3370,
+			"Panel": 1658,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3371,
+			"Panel": 1658,
+			"Name": "其他函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3372,
+			"Panel": 1659,
+			"Name": "模型表示",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3373,
+			"Panel": 1660,
+			"Name": "繪製流水線",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3374,
+			"Panel": 1661,
+			"Name": "局部坐標",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3375,
+			"Panel": 1662,
+			"Name": "世界坐標",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3376,
+			"Panel": 1663,
+			"Name": "觀察坐標",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3377,
+			"Panel": 1664,
+			"Name": "背面消除",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3378,
+			"Panel": 1665,
+			"Name": "光照",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3379,
+			"Panel": 1666,
+			"Name": "剪裁",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3380,
+			"Panel": 1667,
+			"Name": "投影",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3381,
+			"Panel": 1670,
+			"Name": "創建緩存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3382,
+			"Panel": 1670,
+			"Name": "動態緩存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3383,
+			"Panel": 1670,
+			"Name": "返回信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3384,
+			"Panel": 1670,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3385,
+			"Panel": 1670,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3386,
+			"Panel": 1671,
+			"Name": "繪製狀態",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3387,
+			"Panel": 1672,
+			"Name": "繪製",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3388,
+			"Panel": 1672,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3389,
+			"Panel": 1673,
+			"Name": "D3DXCreate*",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3390,
+			"Panel": 1673,
+			"Name": "D3DXCreate*",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3391,
+			"Panel": 1673,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3392,
+			"Panel": 1674,
+			"Name": "顏色表示",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3393,
+			"Panel": 1675,
+			"Name": "頂點顏色",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3394,
+			"Panel": 1676,
+			"Name": "着色",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3395,
+			"Panel": 1676,
+			"Name": "D3DSHADE_FLAT",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3396,
+			"Panel": 1676,
+			"Name": "D3DSHADE_GOURAUD",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3397,
+			"Panel": 1676,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3398,
+			"Panel": 1677,
+			"Name": "光照",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3399,
+			"Panel": 1677,
+			"Name": "光照類型",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3400,
+			"Panel": 1678,
+			"Name": "材質",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3401,
+			"Panel": 1679,
+			"Name": "頂點法線",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3402,
+			"Panel": 1679,
+			"Name": "法線計算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3403,
+			"Panel": 1679,
+			"Name": "曲面法線",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3404,
+			"Panel": 1680,
+			"Name": "光源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3405,
+			"Panel": 1681,
+			"Name": "使用光照",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3406,
+			"Panel": 1682,
+			"Name": "紋理映射",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3407,
+			"Panel": 1682,
+			"Name": "紋理坐標",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3408,
+			"Panel": 1682,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3409,
+			"Panel": 1683,
+			"Name": "使用紋理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3410,
+			"Panel": 1684,
+			"Name": "紋理過濾器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3411,
+			"Panel": 1685,
+			"Name": "多級漸進紋理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3412,
+			"Panel": 1686,
+			"Name": "尋址方式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3413,
+			"Panel": 1687,
+			"Name": " 融合",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3414,
+			"Panel": 1687,
+			"Name": "使用融合",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3415,
+			"Panel": 1687,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3416,
+			"Panel": 1688,
+			"Name": "融合因子",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3417,
+			"Panel": 1688,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3418,
+			"Panel": 1689,
+			"Name": "alpha",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3419,
+			"Panel": 1690,
+			"Name": "模板緩存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3420,
+			"Panel": 1690,
+			"Name": "模板測試",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3421,
+			"Panel": 1691,
+			"Name": "鏡面效果",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3422,
+			"Panel": 1691,
+			"Name": "模板 限制 鏡面區域",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3423,
+			"Panel": 1691,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3424,
+			"Panel": 1692,
+			"Name": "陰影效果",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3425,
+			"Panel": 1692,
+			"Name": "模板緩存",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3426,
+			"Panel": 1693,
+			"Name": "ID3DXFont",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3427,
+			"Panel": 1693,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3428,
+			"Panel": 1694,
+			"Name": "D3DXCreateText",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3429,
+			"Panel": 1694,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3430,
+			"Panel": 1695,
+			"Name": "網格 ID3DXMesh",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3431,
+			"Panel": 1695,
+			"Name": "其他成員函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3432,
+			"Panel": 1695,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3433,
+			"Panel": 1696,
+			"Name": "網格優化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3434,
+			"Panel": 1696,
+			"Name": "鄰接數據",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3435,
+			"Panel": 1696,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3436,
+			"Panel": 1697,
+			"Name": "網格克隆",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3437,
+			"Panel": 1698,
+			"Name": "ID3DXBuffer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3438,
+			"Panel": 1698,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3439,
+			"Panel": 1699,
+			"Name": "XFile",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3440,
+			"Panel": 1699,
+			"Name": "頂點法向量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3441,
+			"Panel": 1700,
+			"Name": "ID3DXPMesh",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3442,
+			"Panel": 1700,
+			"Name": "其他接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3443,
+			"Panel": 1701,
+			"Name": "外接體",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3444,
+			"Panel": 1701,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3445,
+			"Panel": 1702,
+			"Name": "CameraFPS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3446,
+			"Panel": 1703,
+			"Name": "攝像機描述",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3447,
+			"Panel": 1703,
+			"Name": "D3DTS_VIEW 投影矩陣計算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3448,
+			"Panel": 1704,
+			"Name": "旋轉",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3449,
+			"Panel": 1705,
+			"Name": "行走 掃視 升降",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3450,
+			"Panel": 1706,
+			"Name": "Direct2D",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3451,
+			"Panel": 1707,
+			"Name": "環境配置win32",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3452,
+			"Panel": 1708,
+			"Name": "base",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3453,
+			"Panel": 1708,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3454,
+			"Panel": 1708,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3455,
+			"Panel": 1708,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3456,
+			"Panel": 1709,
+			"Name": "繪製簡單圖形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3457,
+			"Panel": 1709,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3458,
+			"Panel": 1709,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3459,
+			"Panel": 1710,
+			"Name": "繪製PATH圖形",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3460,
+			"Panel": 1710,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3461,
+			"Panel": 1710,
+			"Name": "ID2D1GeometrySink增加路徑API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3462,
+			"Panel": 1710,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3463,
+			"Panel": 1711,
+			"Name": "圖形組",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3464,
+			"Panel": 1711,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3465,
+			"Panel": 1711,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3466,
+			"Panel": 1712,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3467,
+			"Panel": 1712,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3468,
+			"Panel": 1713,
+			"Name": "圖形計算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3469,
+			"Panel": 1713,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3470,
+			"Panel": 1713,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3471,
+			"Panel": 1714,
+			"Name": "單色畫刷",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3472,
+			"Panel": 1714,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3473,
+			"Panel": 1715,
+			"Name": "漸變畫刷",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3474,
+			"Panel": 1715,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3475,
+			"Panel": 1716,
+			"Name": "位圖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3476,
+			"Panel": 1717,
+			"Name": "WIC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3477,
+			"Panel": 1718,
+			"Name": "繪製位圖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3478,
+			"Panel": 1718,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3479,
+			"Panel": 1718,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3480,
+			"Panel": 1719,
+			"Name": "mylib",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3481,
+			"Panel": 1719,
+			"Name": "main",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3482,
+			"Panel": 1719,
+			"Name": "com.hpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3483,
+			"Panel": 1719,
+			"Name": "wic.hpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3484,
+			"Panel": 1719,
+			"Name": "direct2d.hpp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3485,
+			"Panel": 1720,
+			"Name": "文本绘制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3486,
+			"Panel": 1720,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3487,
+			"Panel": 1721,
+			"Name": "layer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3488,
+			"Panel": 1721,
+			"Name": "相關 ID2D1RenderTarget 接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3489,
+			"Panel": 1721,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3490,
+			"Panel": 1721,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

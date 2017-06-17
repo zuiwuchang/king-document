@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用\n D3DXMATRIX * D3DXMatrixRotationAxis(\n  __inout  D3DXMATRIX *pOut,\t\t//返回變換矩陣\n  __in     const D3DXVECTOR3 *pV,\t//軸 方向向量\n  __in     FLOAT Angle\t\t\t\t//旋轉弧度\n);\n可以計算 一個沿任意方向的 旋轉矩陣\n\u003c/pre\u003e"

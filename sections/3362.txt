@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect3D 中所有和 角有個的 操作 \n都和std中一樣 使用弧度\n\n2PI\t== 360 度\n#define D3DX_PI    ((FLOAT)  3.141592654f)\n\u003c/pre\u003e"

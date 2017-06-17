@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e獲取 IDirect3D9 接口指針\n//設備返回NULL\nIDirect3D9 * Direct3DCreate9(\n    UINT SDKVersion\n);\n\n\tIDirect3D9* pD3d\t=\tDirect3DCreate9(D3D_SDK_VERSION);\t\n\tif(!pD3d)\n\t{\n\t\treturn;\n\t}\n\u003c/pre\u003e"

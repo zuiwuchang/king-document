@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當使用 上述法線 去逼近曲面時 是無法產生 平滑效果的\n\n更好的 法線計算方式是 求共享此點的法線平均值\n\n若有點a 被三個三角形共享 先分別求出 每個三角形的 法線 a1 a2 a3\n(a1+a2+a3) /3 為法線\n\n在變換過程中 頂點法線可能不再規範化 可以使用\nHRESULT SetRenderState::SetRenderState(\n  [in]  D3DRENDERSTATETYPE State,\t//D3DRS_NORMALIZENORMALS\n  [in]  DWORD Value\t\t\t//TRUE\n);\n使所有法線重新 規範化\n\u003c/pre\u003e"

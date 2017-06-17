@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopengl 使用狀態機實現 其提供了 許多特性 \n可供用戶選擇 是否使用\n\n\n//啟用/禁用 opengl 特性\nvoid glEnable(GLenum capability)\nvoid glDisable(GLenum capability)\n\n//返回指定 特性 是否 啟用 GL_TRUE/GL_FALSE\nGlboolean gllsEnabled(GLenum capability)\n\u003c/pre\u003e"

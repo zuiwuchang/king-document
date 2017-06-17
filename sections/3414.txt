@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e融合計算 需要很大的開銷 默認關閉\n使用\nHRESULT IDirect3DDevice9::SetRenderState(\n  [in]  D3DRENDERSTATETYPE State,\t//D3DRS_ALPHABLENDENABLE\n  [in]  DWORD Value\t\t//TRUE(開啟)\n);\n開啟關閉 融合\n\n一旦開啟融合 在Draw* 等繪製時便會 使用融合計算\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回頂點描述\nDWORD GetFVF();\n\n//返回 頂點緩存中 頂點個數\nDWORD GetNumVertices()\n\n//返回每個頂點 佔用內存大小\nDWORD GetNumBytesPerVertex()\n\n//返回三角形單元數\nDWORD GetNumFaces()\n\u003c/pre\u003e"

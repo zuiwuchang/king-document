@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elayer d2d可以 在BeginDraw 後 調用PushLayer壓入一個圖層 之後所有都繪製都將繪製到圖層上\n調用PopLayer 可以將圖層 內容 與設備已經繪製的圖像混合 以製作某些 特效\n\u003c/pre\u003e"

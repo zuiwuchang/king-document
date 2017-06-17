@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果窗口大小改變了 需要改變繪製目標大小\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopengl 未提供任何 和窗口相關的 api\nglut 是一個 輔助 工具包 提供了簡單的 窗口功能\n\n下載 將 glut32.lib glut32.dll glut.h 加入即可\n\u003c/pre\u003e"

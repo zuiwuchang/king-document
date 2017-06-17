@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e背面消除 用處 消除物體中的背面\n使用\nHRESULT SetRenderState(\n  [in]  D3DRENDERSTATETYPE State,\t//D3DRS_CULLMODE(設置消影 方式)\n  [in]  DWORD Value\n);\n改變 默認 消影 方式\n\nvalue 取值\nD3DCULL_NONE\t//完全禁用 消影\nD3DCULL_CW\t\t//只對順時針繞序的三角形單位 消影 \nD3DCULL_CCW\t\t//默認值 只對逆時針繞序的三角形單位 消影\n\u003c/pre\u003e"

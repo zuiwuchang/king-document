@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用\nHRESULT CloneMeshFVF(\n  [in]           DWORD Options,\t//網格創建標記 參見D3DXCreateMeshFVF\n  [in]           DWORD FVF,\t\t//點描述\n  [in]           LPDIRECT3DDEVICE9 pDevice,\t//設備\n  [out, retval]  LPD3DXMESH *ppCloneMesh\t//返回克隆的副本\n);\n\n複製一份網格副本到 ppCloneMesh \n可指定與原網格不同的Options FVF \n\u003c/pre\u003e"

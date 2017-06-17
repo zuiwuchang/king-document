@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e從 微軟官網下載 最新 DirectX SDK 並安裝\n\n設置 sdk 包含路徑Include 和 庫目錄 Lib\n\n#include\u0026lt;d2d1.h\u0026gt;\n#pragma comment(lib,\"D2d1.lib\")\n\u003c/pre\u003e"

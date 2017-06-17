@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect2D 支持4中簡單圖形的(線 矩形 圆角矩形 椭圆)\n繪製 使用ID2D1HwndRenderTarget::Draw...繪製\n\u003c/pre\u003e"

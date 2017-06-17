@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDX3D中 使用 class D3DXVECTOR3 表示一个 3D 向量 \nD3DXVECTOR2 D3DXVECTOR4 分别表示 2D 4D 向量\n\n成员变量\npublic float x , y , z \n分别表示三个方向的 分量\n\nD3DXVECTOR3 通过 传入 3个分量 或D3DXVECTOR3\u0026amp; 或 无参构造\n\n//下面成员函数 提供了向量相等测试\noperator ==\noperator !=\n\u003c/pre\u003e"

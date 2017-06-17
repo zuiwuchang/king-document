@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e鄰接數據 中記錄了 與此三角形單元的 鄰接面索引\n三角形單元的每個的每個面 的鄰接數據使用DWORD 記錄\n若此面 無鄰接面 則為 \n#define ULONG_MAX     0xffffffffUL \n-1\n\n使用\nHRESULT ID3DXBaseMesh::GenerateAdjacency(\n  [in]  FLOAT Epsilon,\t\t//\u0026gt;=0 將小於Epsilon的兩點 認為是一點\n  [in]  DWORD *pAdjacency\t//返回 鄰接數據\n);\n獲取鄰接數據\n\u003c/pre\u003e\n"

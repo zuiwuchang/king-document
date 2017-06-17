@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirectX 是微軟提供的一個底層API 用於 2D/3D 圖像操作\n\n其中的 Direct3D主要用於遊戲開發\n可用於 windows平台 和xbox 遊戲開發\n\u003c/pre\u003e"

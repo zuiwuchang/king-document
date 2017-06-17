@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在光柵化過程中 需要對多邊形 着色\nDirect3D 提供了兩種着色方式 D3DSHADE_FLAT(平面着色) D3DSHADE_GOURAUD（着色 默認）\n\n使用\nHRESULT SetRenderState(\n  [in]  D3DRENDERSTATETYPE State,\t//D3DRS_SHADEMODE\n  [in]  DWORD Value\t\t\t//D3DSHADE_FLAT D3DSHADE_GOURAUD\n);\n設置 着色模式\n\u003c/pre\u003e"

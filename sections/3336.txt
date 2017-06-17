@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e向量的长度 = 各分量平方和 再开方\nlength\t=\tsqrt(x*x+y*y+z*z)\nlength\t=\tfabs(length);\n\n//D3DXVec3Length函数 可计算一个 向量的长度\nFLOAT  D3DXVec3Length(\n  __in  const D3DXVECTOR3 *pV\n);\n\u003c/pre\u003e"

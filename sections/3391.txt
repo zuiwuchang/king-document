@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eLPD3DXMESH mesh\t=\t0\t;\n\n\tD3DXCreateTeapot(pDevice,\u0026amp;mesh,0);\n...\n\n\tpDevice-\u0026gt;BeginScene();\n\tmesh-\u0026gt;DrawSubset(0);\n\tpDevice-\u0026gt;EndScene();\n\n...\n\tif(mesh)\n\t{\n\t\tmesh-\u0026gt;Release();\n\t\tmesh=0;\n\t}\u003c/pre\u003e"

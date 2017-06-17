@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建圖形組\nvirtual HRESULT CreateGeometryGroup(\n         D2D1_FILL_MODE fillMode,\t\t//填充模式 D2D1_FILL_MODE_ALTERNATE(間斷填充) D2D1_FILL_MODE_WINDING(完全填充)\n  [in]   ID2D1Geometry **geometries,\t//圖形接口數組\n         UINT geometriesCount,\n  [out]  ID2D1GeometryGroup **geometryGroup\t//返回ID2D1GeometryGroup\n) = 0;\n\u003c/pre\u003e"

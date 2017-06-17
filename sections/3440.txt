@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eXFile文件中可能沒有存放頂點法向量 如果如此為了使用光照 不得不計算每個頂點法向量\n\n使用\nHRESULT  D3DXComputeNormals(\n  __inout  LPD3DXBASEMESH pMesh,\n  __in     const DWORD *pAdjacency\n);\n計算 ID3DXMesh 的法向量\n傳入 的 ID3DXMesh指針 必須包含 D3DFVF_NORMAL 標記\n如果 XFile 沒有法向量 創建的ID3DXMesh也不會有D3DFVF_NORMAL標記 \n此時需要克隆一個 ID3DXMesh 並指定 D3DFVF_NORMAL標記\n\u003c/pre\u003e"

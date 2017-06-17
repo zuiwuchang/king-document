@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e與平面 垂直的向量 稱為 平面的法向量\n使用 法向量 和 平面上的一點 就可以描述平面\n\n已知向量n 點p為某平面一點\nd\t=\t-np\n\nD3DX使用 class D3DXPLANE 表示一個平面\n通過傳入 float a b c d 構造(a b c 為向量 d為上文中d)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eID3DXBuffer 是一種泛型數據結構\n\n其只提供了兩個接口\nLPVOID GetBufferPointer();\t//返回緩存地址\nDWORD GetBufferSize();\t\t//返回緩存大小\n\n使用\nHRESULT  D3DXCreateBuffer(\n  __in   DWORD NumBytes,\n  __out  LPD3DXBUFFER *ppBuffer\n);\n創建ID3DXBuffer\n\nID3DXBuffer 是一個COM接口 故不需要時應該 Release()\n\u003c/pre\u003e\n"

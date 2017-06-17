@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eDirect2D 使用 DirectWrite 进行 文本渲染\n\n#include\u0026lt;Dwrite.h\u0026gt;\n#pragma comment(lib,\"Dwrite.lib\")\n\u003c/pre\u003e"

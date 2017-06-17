@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一個平面 (n,d)\tn為平面法向量 和一點 p\n若np+d=0\t則p位於平面上\n若np+d\u0026gt;0\t則p位於平面前方\n若np+d\u0026lt;0則p位於平面後方\n\n若平面法向量n的模為1 則 np+d 為點p到平面的最短 有符號距離\n\n//D3DXPlaneDotCoord 計算 np+d 的值\n FLOAT  D3DXPlaneDotCoord(\n  __in  const D3DXPLANE *pP,\n  __in  const D3DXVECTOR3 *pV\n);\n\u003c/pre\u003e"
