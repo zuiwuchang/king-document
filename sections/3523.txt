@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIGUIEditBox 是 一個 編輯框\n使用\nIGUIEditBox* irr::gui::IGUIEnvironment::addEditBox\t(\t\n\tconst wchar_t * \ttext,\n\tconst core::rect\u0026lt;s32\u0026gt;\u0026amp; rectangle,\n\tbool \tborder = true,\n\tIGUIElement * \tparent = 0,\n\ts32 \tid = -1 \n)\t\n為設備增加一個 編輯框\n\u003c/pre\u003e"

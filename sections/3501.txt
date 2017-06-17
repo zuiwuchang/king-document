@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 createDevice 成功之後 便需要調用其接口 返回 \n視頻設備\n場景管理器\ngui設備\n...\n並增加相應 需要的 元素\n\u003c/pre\u003e"

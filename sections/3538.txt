@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eirr::io::IFileSystem\t封裝了對文件的管理 操作\n\n在獲取到場景 管理器 ISceneManager 後 調用getFileSystem() 接口 可以返回 對應的 IFileSystem\nIFileSystem::addFileArchive 可以把 文件路徑 加入到 搜索路徑(可以把 zip quake3map 等 虛擬為 真實文件路徑)\t\n\u003c/pre\u003e"

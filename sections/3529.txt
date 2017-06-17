@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eEGET_LISTBOX_CHANGED\t\t//列表框 選項改變(500毫秒後 再次選中當前選項 亦發生此事件)    \nEGET_LISTBOX_SELECTED_AGAIN\t//同EGET_LISTBOX_CHANGED 不是現在是已經改變\n\u003c/pre\u003e"

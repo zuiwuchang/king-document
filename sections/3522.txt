@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回/設置 滾動條 當前值\ns32 getPos () const\nvoid setPos (s32 pos)\n\n//返回/設置 滾動條 最大值\ns32 getMax () const\nvoid setMax (s32 max)\n\n//返回/設置 滾動條 最小值\ns32 getMin () const\nvoid setMin (s32 max)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIGUIButton 是 一個 按鈕\n使用\nIGUIButton* irr::gui::IGUIEnvironment::addButton\t(\t\n\tconst core::rect\u0026lt;s32\u0026gt;\u0026amp; \trectangle,\t\t//按鈕位置尺寸\n\tIGUIElement* \tparent = 0,\n\ts32 \tid = -1,\n\tconst wchar_t * \ttext = 0,\t\t//按鈕顯示文本\n\tconst wchar_t * \ttooltiptext = 0 \t//鼠標懸浮顯示文本\n)\n為設備增加一個 按鈕 控件\n\u003c/pre\u003e"

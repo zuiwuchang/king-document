@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIrrlicht 是以事件驅動的 當鼠標移動 鍵盤按下 操控遊戲手柄 ... 都會產生一個事件\n要處理這些事件 必須從 class irr::IEventReceiver 派生 重寫 virtul OnEvent 函數\n\n並且將派生類 實例指針 傳給 createDevice 的最後一個參數\n或者使用\nvoid irr::IrrlichtDevice::setEventReceiver(IEventReceiver * receiver)\n設置 事件處理器即可(可以使用此函數 隨時動態改變 事件處理器)\n\u003c/pre\u003e"

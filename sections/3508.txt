@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estruct SKeyInput\n{\n\twchar_t Char;\t\t//對應字符 0(非字符)\n\tEKEY_CODE Key;\t\t//虛擬鍵碼\n\tbool PressedDown:1;\t//true 按下 false 彈起\n\tbool Shift:1;\t\t//是否同時按下 shitf\n\tbool Control:1;\t\t//是否同時按下 control\n};\n\u003c/pre\u003e"

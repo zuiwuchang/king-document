@@ -4763,10 +4763,118 @@ var __v={
 			"Name": "layer",
 			"Sort": 0
 		},
+		"1722": {
+			"Id": 1722,
+			"Chapter": 548,
+			"Name": " bitmap",
+			"Sort": 0
+		},
+		"1723": {
+			"Id": 1723,
+			"Chapter": 548,
+			"Name": "16位位圖\t565",
+			"Sort": 0
+		},
+		"1724": {
+			"Id": 1724,
+			"Chapter": 548,
+			"Name": "8位位圖",
+			"Sort": 0
+		},
+		"1725": {
+			"Id": 1725,
+			"Chapter": 549,
+			"Name": "unity",
+			"Sort": 0
+		},
+		"1726": {
+			"Id": 1726,
+			"Chapter": 550,
+			"Name": "Irrlicht",
+			"Sort": 0
+		},
+		"1727": {
+			"Id": 1727,
+			"Chapter": 550,
+			"Name": "環境配置 win32",
+			"Sort": 0
+		},
+		"1728": {
+			"Id": 1728,
+			"Chapter": 550,
+			"Name": "namespqce",
+			"Sort": 0
+		},
+		"1729": {
+			"Id": 1729,
+			"Chapter": 551,
+			"Name": "createDevice 創建設備",
+			"Sort": 0
+		},
 		"173": {
 			"Id": 173,
 			"Chapter": 69,
 			"Name": "File",
+			"Sort": 0
+		},
+		"1730": {
+			"Id": 1730,
+			"Chapter": 551,
+			"Name": "增加場景",
+			"Sort": 0
+		},
+		"1731": {
+			"Id": 1731,
+			"Chapter": 551,
+			"Name": "繪製",
+			"Sort": 0
+		},
+		"1732": {
+			"Id": 1732,
+			"Chapter": 551,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1733": {
+			"Id": 1733,
+			"Chapter": 552,
+			"Name": "event",
+			"Sort": 0
+		},
+		"1734": {
+			"Id": 1734,
+			"Chapter": 552,
+			"Name": "OnEvent",
+			"Sort": 0
+		},
+		"1735": {
+			"Id": 1735,
+			"Chapter": 552,
+			"Name": "EET_KEY_INPUT_EVENT 鍵盤事件",
+			"Sort": 0
+		},
+		"1736": {
+			"Id": 1736,
+			"Chapter": 552,
+			"Name": "EET_MOUSE_INPUT_EVENT 鼠標事件",
+			"Sort": 0
+		},
+		"1737": {
+			"Id": 1737,
+			"Chapter": 552,
+			"Name": "EET_GUI_EVENT 事件",
+			"Sort": 0
+		},
+		"1738": {
+			"Id": 1738,
+			"Chapter": 553,
+			"Name": "UI",
+			"Sort": 0
+		},
+		"1739": {
+			"Id": 1739,
+			"Chapter": 553,
+			"Name": "IGUISkin",
 			"Sort": 0
 		},
 		"174": {
@@ -4775,16 +4883,166 @@ var __v={
 			"Name": "encoding/xml",
 			"Sort": 0
 		},
+		"1740": {
+			"Id": 1740,
+			"Chapter": 553,
+			"Name": "IGUIElement",
+			"Sort": 0
+		},
+		"1741": {
+			"Id": 1741,
+			"Chapter": 553,
+			"Name": "IGUIButton 按鈕",
+			"Sort": 0
+		},
+		"1742": {
+			"Id": 1742,
+			"Chapter": 553,
+			"Name": "IGUIStaticText 靜態文本框",
+			"Sort": 0
+		},
+		"1743": {
+			"Id": 1743,
+			"Chapter": 553,
+			"Name": "IGUIScrollBar 滾動條",
+			"Sort": 0
+		},
+		"1744": {
+			"Id": 1744,
+			"Chapter": 553,
+			"Name": "IGUIEditBox 編輯框",
+			"Sort": 0
+		},
+		"1745": {
+			"Id": 1745,
+			"Chapter": 553,
+			"Name": "IGUIImage 圖像框",
+			"Sort": 0
+		},
+		"1746": {
+			"Id": 1746,
+			"Chapter": 553,
+			"Name": "IGUIListBox 列錶框",
+			"Sort": 0
+		},
+		"1747": {
+			"Id": 1747,
+			"Chapter": 553,
+			"Name": "IGUIWindow 窗口",
+			"Sort": 0
+		},
+		"1748": {
+			"Id": 1748,
+			"Chapter": 553,
+			"Name": "IGUIFileOpenDialog 文件選擇窗口",
+			"Sort": 0
+		},
+		"1749": {
+			"Id": 1749,
+			"Chapter": 553,
+			"Name": "Example",
+			"Sort": 0
+		},
 		"175": {
 			"Id": 175,
 			"Chapter": 69,
 			"Name": "encoding/json",
 			"Sort": 0
 		},
+		"1750": {
+			"Id": 1750,
+			"Chapter": 554,
+			"Name": "加載場景",
+			"Sort": 0
+		},
+		"1751": {
+			"Id": 1751,
+			"Chapter": 554,
+			"Name": "Example 靜態場景",
+			"Sort": 0
+		},
+		"1752": {
+			"Id": 1752,
+			"Chapter": 554,
+			"Name": "IAnimatedMeshSceneNode 動畫幀",
+			"Sort": 0
+		},
+		"1753": {
+			"Id": 1753,
+			"Chapter": 555,
+			"Name": "三角形選擇器",
+			"Sort": 0
+		},
+		"1754": {
+			"Id": 1754,
+			"Chapter": 555,
+			"Name": "fps動畫器",
+			"Sort": 0
+		},
+		"1755": {
+			"Id": 1755,
+			"Chapter": 555,
+			"Name": "廣告牌",
+			"Sort": 0
+		},
+		"1756": {
+			"Id": 1756,
+			"Chapter": 555,
+			"Name": "動畫器",
+			"Sort": 0
+		},
+		"1757": {
+			"Id": 1757,
+			"Chapter": 555,
+			"Name": "揀選",
+			"Sort": 0
+		},
+		"1758": {
+			"Id": 1758,
+			"Chapter": 555,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"1759": {
+			"Id": 1759,
+			"Chapter": 556,
+			"Name": "水",
+			"Sort": 0
+		},
 		"176": {
 			"Id": 176,
 			"Chapter": 69,
 			"Name": "encoding/gob",
+			"Sort": 0
+		},
+		"1760": {
+			"Id": 1760,
+			"Chapter": 556,
+			"Name": "移動點光源",
+			"Sort": 0
+		},
+		"1761": {
+			"Id": 1761,
+			"Chapter": 556,
+			"Name": "動態陰影",
+			"Sort": 0
+		},
+		"1762": {
+			"Id": 1762,
+			"Chapter": 556,
+			"Name": "粒子系統",
+			"Sort": 0
+		},
+		"1763": {
+			"Id": 1763,
+			"Chapter": 556,
+			"Name": "紋理動畫",
+			"Sort": 0
+		},
+		"1764": {
+			"Id": 1764,
+			"Chapter": 556,
+			"Name": "Example",
 			"Sort": 0
 		},
 		"177": {

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eEGET_EDITBOX_ENTER\t\t//在編輯框 輸入回車(Enter)\nEGET_EDITBOX_CHANGED\t\t//編輯框文本改變 不包括自動換行的改變\nEGET_EDITBOX_MARKING_CHANGED\t//編輯框標記變化(插入符 選中文本)\n\u003c/pre\u003e"

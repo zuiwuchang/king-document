@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 一個動畫 在 3DMAX中 每秒 播放 30幀\n如下 代碼 播放 [30,90] 幀\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#define TIME_SCALE 158.2872f\n\nnode_ptr-\u0026gt;setAnimationSpeed(TIME_SCALE * 30);\nnode_ptr-\u0026gt;setCurrentFrame(TIME_SCALE * 50);\nnode_ptr-\u0026gt;setFrameLoop(TIME_SCALE * 50, TIME_SCALE * 90);\u003c/pre\u003e"

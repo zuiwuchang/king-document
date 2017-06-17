@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIGUIElement 是 所有ui的基類 定義了 ui的基本方法\n\u003c/pre\u003e"

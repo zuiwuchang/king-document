@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIGUIScrollBar 是 一個 滾動條\n使用\nIGUIScrollBar* irr::gui::IGUIEnvironment::addScrollBar\t(\t\n\tbool \thorizontal,\t\t//true(水平) false(垂直)\n\tconst core::rect\u0026lt;s32\u0026gt;\u0026amp; rectangle,\n\tIGUIElement * \tparent = 0,\n\ts32 \tid = -1 \n)\t\n為設備增加一個 滾動條\n\u003c/pre\u003e"

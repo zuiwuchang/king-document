@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIrrlicht 提供了基本的 UI\nUI 使用UI管理器 irr::gui::IGUIEnvironment 進行管理\n\n使用 irr::IrrlichtDevice::add* 添加 UI\n\u003c/pre\u003e"

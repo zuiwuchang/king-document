@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eEGET_ELEMENT_CLOSED\t//一個元素 將要關閉 (如窗口)\n\u003c/pre\u003e"

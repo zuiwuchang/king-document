@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回/設置 控件id\ns32 getID () \nvoid setID (s32 id)\n\n//返回/設置 控件文本\nconst wchar_t * getText () const\nvoid setText (const wchar_t *text)\n\n//返回/設置 控件是否可用\nbool isEnabled () const\nvoid setEnabled (bool enabled)\n\u003c/pre\u003e"

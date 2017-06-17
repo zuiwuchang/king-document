@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIrrlicht製作水面特效 只需要先 製作/加載一個 像水面一樣有波紋的場景節點\n為其設置 一層水底紋理\n為其設置 一層水表紋理 \n之後為其指定 EMT_REFLECTION_2_LAYER 材質 即可\n\u003c/pre\u003e"

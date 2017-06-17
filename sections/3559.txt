@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eILightSceneNode* irr::scene::ISceneManager::addLightSceneNode(\t\n\tISceneNode * \tparent = 0,\n\tconst core::vector3df\u0026amp; position = core::vector3df(0, 0, 0),\t\t//光位置\n\tvideo::SColorf \tcolor = video::SColorf(1.0f, 1.0f, 1.0f),\t\t//光顏色\n\tf32 \tradius = 100.0f,\t\t\t\t\t\t//光照射半徑\n\ts32 \tid = -1 \n)\n\u003c/pre\u003e"

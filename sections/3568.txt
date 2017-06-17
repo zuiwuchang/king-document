@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIrrlicht 可以創建一個 紋理 動畫 既依次使用紋理層\n只需要使用 createTextureAnimator 創建 紋理動畫器 之後 將其和 創建節點關聯即可\n\u003c/pre\u003e"

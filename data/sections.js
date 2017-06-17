@@ -24155,5 +24155,572 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3491,
+			"Panel": 1722,
+			"Name": " bitmap",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3492,
+			"Panel": 1723,
+			"Name": "16位位圖\t565",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3493,
+			"Panel": 1724,
+			"Name": "8位位圖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3494,
+			"Panel": 1724,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3495,
+			"Panel": 1724,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3496,
+			"Panel": 1725,
+			"Name": "unity",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3497,
+			"Panel": 1726,
+			"Name": "Irrlicht",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3498,
+			"Panel": 1728,
+			"Name": "namespqce",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3499,
+			"Panel": 1727,
+			"Name": "環境配置 win32",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3500,
+			"Panel": 1729,
+			"Name": "createDevice 創建設備",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3501,
+			"Panel": 1730,
+			"Name": "增加場景",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3502,
+			"Panel": 1731,
+			"Name": "繪製",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3503,
+			"Panel": 1732,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3504,
+			"Panel": 1733,
+			"Name": "event",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3505,
+			"Panel": 1734,
+			"Name": "OnEvent",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3506,
+			"Panel": 1734,
+			"Name": "SEvent",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3507,
+			"Panel": 1734,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3508,
+			"Panel": 1735,
+			"Name": "EET_KEY_INPUT_EVENT 鍵盤事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3509,
+			"Panel": 1736,
+			"Name": "EET_MOUSE_INPUT_EVENT 鼠標事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3510,
+			"Panel": 1737,
+			"Name": "EET_GUI_EVENT 事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3511,
+			"Panel": 1738,
+			"Name": "UI",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3512,
+			"Panel": 1738,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3513,
+			"Panel": 1739,
+			"Name": "IGUISkin",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3514,
+			"Panel": 1739,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3515,
+			"Panel": 1740,
+			"Name": "IGUIElement",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3516,
+			"Panel": 1740,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3517,
+			"Panel": 1741,
+			"Name": "IGUIButton 按鈕",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3518,
+			"Panel": 1741,
+			"Name": "常用事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3519,
+			"Panel": 1742,
+			"Name": "IGUIStaticText 靜態文本框",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3520,
+			"Panel": 1743,
+			"Name": "IGUIScrollBar 滾動條",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3521,
+			"Panel": 1743,
+			"Name": "常用事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3522,
+			"Panel": 1743,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3523,
+			"Panel": 1744,
+			"Name": "IGUIEditBox 編輯框",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3524,
+			"Panel": 1744,
+			"Name": "常用事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3525,
+			"Panel": 1744,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3526,
+			"Panel": 1745,
+			"Name": "IGUIImage 圖像框",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3527,
+			"Panel": 1745,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3528,
+			"Panel": 1746,
+			"Name": "IGUIListBox 列錶框",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3529,
+			"Panel": 1746,
+			"Name": "常用事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3530,
+			"Panel": 1746,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3531,
+			"Panel": 1747,
+			"Name": "IGUIWindow 窗口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3532,
+			"Panel": 1747,
+			"Name": "常用事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3533,
+			"Panel": 1748,
+			"Name": "IGUIFileOpenDialog 文件選擇窗口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3534,
+			"Panel": 1748,
+			"Name": "常用事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3535,
+			"Panel": 1748,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3536,
+			"Panel": 1749,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3537,
+			"Panel": 1750,
+			"Name": "加載場景",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3538,
+			"Panel": 1750,
+			"Name": "IFileSystem",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3539,
+			"Panel": 1750,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3540,
+			"Panel": 1751,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3541,
+			"Panel": 1752,
+			"Name": "IAnimatedMeshSceneNode 動畫幀",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3542,
+			"Panel": 1752,
+			"Name": "相關接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3543,
+			"Panel": 1752,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3544,
+			"Panel": 1753,
+			"Name": "三角形選擇器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3545,
+			"Panel": 1753,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3546,
+			"Panel": 1754,
+			"Name": "fps動畫器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3547,
+			"Panel": 1754,
+			"Name": "ICameraSceneNode 接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3548,
+			"Panel": 1755,
+			"Name": "廣告牌",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3549,
+			"Panel": 1756,
+			"Name": "動畫器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3550,
+			"Panel": 1756,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3551,
+			"Panel": 1757,
+			"Name": "揀選",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3552,
+			"Panel": 1757,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3553,
+			"Panel": 1757,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3554,
+			"Panel": 1758,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3555,
+			"Panel": 1759,
+			"Name": "水",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3556,
+			"Panel": 1759,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3557,
+			"Panel": 1759,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3558,
+			"Panel": 1760,
+			"Name": "移動點光源",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3559,
+			"Panel": 1760,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3560,
+			"Panel": 1760,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3561,
+			"Panel": 1761,
+			"Name": "動態陰影",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3562,
+			"Panel": 1761,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3563,
+			"Panel": 1761,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3564,
+			"Panel": 1761,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3565,
+			"Panel": 1762,
+			"Name": "粒子系統",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3566,
+			"Panel": 1762,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3567,
+			"Panel": 1762,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3568,
+			"Panel": 1763,
+			"Name": "紋理動畫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3569,
+			"Panel": 1763,
+			"Name": "相關API",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3570,
+			"Panel": 1763,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3571,
+			"Panel": 1764,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

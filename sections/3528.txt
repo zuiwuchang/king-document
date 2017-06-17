@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIGUIListBox 是 一個 列錶框\n使用\nIGUIListBox* irr::gui::IGUIEnvironment::addListBox\t(\t\n\tconst core::rect\u0026lt;s32\u0026gt;\u0026amp; rectangle,\n\tIGUIElement * \tparent = 0,\n\ts32 \tid = -1,\n\tbool \tdrawBackground = false \n)\t\n為設備增加一個 列錶框\n\u003c/pre\u003e"

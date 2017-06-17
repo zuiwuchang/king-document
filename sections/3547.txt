@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//設置攝像機位置\nvoid setPosition(vector3df)\n\n//設置觀察目標位置\nvoid setPosition(setTarget)\n\u003c/pre\u003e"

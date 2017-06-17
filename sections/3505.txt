@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//當一個事件 發生 IEventReceiver::OnEven 函數將被自動調用 \nvirtual bool irr::IEventReceiver::OnEvent(const SEvent \u0026 event)\n\u003c/pre\u003e"

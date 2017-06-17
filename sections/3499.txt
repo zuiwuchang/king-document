@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e下載最新Irrlicht 得到 irrlicht-*.zip\u003c/li\u003e\n\t\u003cli\u003e解壓 將include 加入 編譯器include目錄 將Irrlicht.dll (bin\\...)\u003cbr\u003e增加到環境變量執行路徑 將Irrlicht.lib (lib\\...)設置到鏈接目錄 \u003c/li\u003e\n\t\u003cli\u003e#pragma comment(lib,\"Irrlicht.lib\")\u003cbr\u003e#include \u0026lt;irrlicht.h\u0026gt;\u003c/li\u003e\n\u003c/ol\u003e"

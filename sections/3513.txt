@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIrrlicht 使用IGUISkin 為所有UI的皮膚\n\n使用\nIGUISkin * getSkin ()\n獲取 皮膚\n\u003c/pre\u003e"

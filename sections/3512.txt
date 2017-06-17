@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一般 為需要響應事件的 ui設置 一個獨立的 id  \n在事件處理中 通過此id 判斷 是 那個ui引發的事件\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在增加場景節點 時 可以指定一個id 為不同場景 分組 (多個節點 可id相同[被視為同一組])\n一般使用 getSceneNodeAndCollisionPointFromRay 檢測碰撞 其可 指定要碰撞檢測的 id\n\u003c/pre\u003e"

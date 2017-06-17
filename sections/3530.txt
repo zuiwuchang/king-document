@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//增加子項\nu32 addItem (const wchar_t *text)\n\n//插入子項\ns32 insertItem (u32 index, const wchar_t *text, s32 icon)\n\n//刪除子項\nvoid removeItem (u32 index)\n\n//清空列表 \nvoid clear ()\n\u003c/pre\u003e"

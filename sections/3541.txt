@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在加載模型時 使用addAnimatedMeshSceneNode 將 返回一個IAnimatedMeshSceneNode\nIAnimatedMeshSceneNode 是一個包含了 多幀的動畫\n\nIAnimatedMeshSceneNode::setLoopMode(false);\n\u003c/pre\u003e"

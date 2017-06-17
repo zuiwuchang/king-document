@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e動畫器 用來為 場景節點 增加一個動畫(create*)\n\n其中\ncreateCollisionResponseAnimator\n創建一個特殊的 動作機 將自動檢測碰撞(不能穿牆 受到重力 之樂) 和相應\n\u003c/pre\u003e"

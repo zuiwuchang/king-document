@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在加載模式後只需要 調用 addShadowVolumeSceneNode 接口為模型加上動態陰影\n\u003c/pre\u003e\n"
