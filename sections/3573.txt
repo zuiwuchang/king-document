@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eblender 使用 右鍵 點選 \n使用 左鍵 移動準心(shift + c 移回準心到正中)\n使用 鍵盤a 解除選擇/選擇全部\n鼠標滾動 放大縮小\n鼠標中鍵 旋轉畫面\n(先)shift + 鼠標中鍵 移動畫面\n\u003c/pre\u003e"

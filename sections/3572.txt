@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一個開源(GPL) 跨平台的 三維繪圖及渲染軟體\n\n官網 \u003ca href=\"https://www.blender.org/\" target=\"_blank\"\u003ehttps://www.blender.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Blender\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/Blender\u003c/a\u003e\n\u003c/pre\u003e"

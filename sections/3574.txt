@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eblender 默認只有一個 視窗\n左擊 右上角 不放可以 拖來出一個新 刪除\n右擊之 可以 合併視窗\n\n//最 大/小 化 視圖\nctrl + up\nctrl + down\n\n俯視圖\nnumber7\t上視圖\nnumber5\t非透視\n\n前視圖\nnumber1\nnumber5\n\n右視圖\nnumber3\nnumber5\n\nctrl + u 保存當前 視圖設定\n\u003c/pre\u003e"

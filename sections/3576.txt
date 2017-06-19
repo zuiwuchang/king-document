@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eshift + a\nshift + 鼠標左鍵 選擇多個圖層\nm 移動被選 object 到指定圖層\n\n//拖動選框\nb + 鼠標左鍵 拖動(矩形選框)\nctrl ...(任意選框)\n\u003c/pre\u003e"
