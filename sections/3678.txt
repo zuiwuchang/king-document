@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將 tab 轉爲空格\n//將 結果 輸出到 stdout\nexpand -t file\n\t-t n\t將tab轉爲 n個空格 默認 8個\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//分割 檔案\nsplit file PREFIX\n\tPREFIX\t切割檔案 前導符\n\t-b\t切割大小 可以使用 b k m g ... 等單位\n\t-l\t以行數 切割\n\u003c/pre\u003e"

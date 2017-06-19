@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//聲明 一個 變量\ndeclare 變量名\ntypeset 變量名\n\t-a\t聲明為一個 數組\n\t-i\t聲明為整數(默認為字符串)\n\t-x\t聲明為環境變量(同 export)\n\t-r\t只讀\n\n//獲取變量 值\n$變量名\n\n//獲取數組 值\n$變量名[索引]\n\t索引從0開始\n\n//從標準輸入 讀取一個值到變量中\nread 變量名\n\t-p\t後接顯示的提示\n\t-t\t後接秒數 超過時間 直接進入 下一步\n\u003c/pre\u003e"

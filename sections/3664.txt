@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux 支持所謂的 管道 可以將 一個輸入程式的 輸出 作爲另一個程式的 輸入\n使用 | 連接管道 如 ls | less\n\u003c/pre\u003e"

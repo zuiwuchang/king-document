@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e環境 預設 檔案 (在檔案中設置 不需要加: 如 set nu)\n～/.vimrc\n\u003c/pre\u003e"

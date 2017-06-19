@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 設置了 LANG 或 LC_ALL\n其它未設置 的項都將 設置 LANG 或 LC_ALL 的設置\n\u003c/pre\u003e"

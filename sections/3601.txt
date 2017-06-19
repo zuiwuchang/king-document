@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eumask 標識了用戶在創建 檔案 目錄時 的默認 權限\n無論 umask 是否設置 x權限 創建檔案時 檔案都不會設置 x權限\n\n//查看 umask\numask -S\n\tu=rwx,g=rwx,o=rx\n//顯示 umask 中去掉的權限\numask\n\t0002\n\n//修改 umask\n//(os 重啟後將 還原為os默認值)\numask 值\n\tumask 0022\n\u003c/pre\u003e"

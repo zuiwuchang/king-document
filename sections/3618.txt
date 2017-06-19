@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//壓縮 檔案\ngzip src\n\t-c\t將 數據 輸出到屏幕\n\t-d\t解壓\n\t-t\t檢查壓縮檔案是否無錯\n\t-v\t顯示 壓縮比\n\t-#\t#為 [1,9] 代表壓縮程度 9（最慢 壓縮比最大）默認為 6\n\n//cat less ... 等 gzip 版 可直接讀取 gzip檔案\nzcat zless zmore zgrep ...\n\u003c/pre\u003e"

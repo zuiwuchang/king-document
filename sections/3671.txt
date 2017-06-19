@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//統計數據\nwc [file or stdin]\n\t-l\t統計 行數\n\t-w\t統計 有多少 英文單詞\n\t-m\t統計 有多少 字節\n\u003c/pre\u003e"

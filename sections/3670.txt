@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//消除重複行\nuniq [file or stdin]\n\t-i\t忽略大小寫\n\t-c\t顯示 消除前 數據出現 次數\n\n\t\u003cstrong\u003euniq 只消除 相鄰的 重複數據 故一般 都先 sort 再 uniq \u003c/strong\u003e\n\u003c/pre\u003e"

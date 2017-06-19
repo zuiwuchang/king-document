@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//顯示 變量PATH 的值\necho $PATH\n\n//設置變量 myvar\nmyvar=\"this is a test\"\n\n//取消 變量\nunset myvar\n\u003c/pre\u003e"

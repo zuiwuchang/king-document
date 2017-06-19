@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//查看 系統 支持的 所有 語系\nlocale -a\n\n//查看 語系 設置\nlocale\n\u003c/pre\u003e"

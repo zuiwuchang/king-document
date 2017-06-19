@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esymbolic link 只是為檔案 創建一個 指向檔案的 別名\n\n可以 跨filesystem 用於目錄\n\u003c/pre\u003e"

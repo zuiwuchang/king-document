@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecol\n\t-x\t將 tab 轉爲 對等的 空格\n\u003c/pre\u003e"

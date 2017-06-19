@@ -191,6 +191,12 @@ var __v={
 			"Name": "blender",
 			"Sort": 0
 		},
+		"129": {
+			"Id": 129,
+			"Tag": 19,
+			"Name": "linux",
+			"Sort": 0
+		},
 		"13": {
 			"Id": 13,
 			"Tag": 15,
@@ -207,7 +213,7 @@ var __v={
 			"Id": 15,
 			"Tag": 19,
 			"Name": "UBuntu",
-			"Sort": 0
+			"Sort": 1
 		},
 		"16": {
 			"Id": 16,
@@ -675,13 +681,13 @@ var __v={
 			"Id": 88,
 			"Tag": 19,
 			"Name": "OpenSUSE",
-			"Sort": 0
+			"Sort": 2
 		},
 		"89": {
 			"Id": 89,
 			"Tag": 19,
 			"Name": "Puppy",
-			"Sort": 0
+			"Sort": 3
 		},
 		"9": {
 			"Id": 9,

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elimits.conf 設置後 立刻生效 當limits.conf 只在用戶 登入時被設置\n故 需要相應用戶 登出後 對其的設置才會生效\n\u003c/pre\u003e"

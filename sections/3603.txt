@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003echmod 4777 檔案\nchmod u+s,g+s 檔案\nchmod g+s,o+t 檔案\u003c/pre\u003e"

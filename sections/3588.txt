@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/usr/share/doc 目錄被用以 存放 詳細 說明文件\nlinux下的軟體 安裝時 一般會將 自己的 各種 FAQ README EXAMPLE 之類的東西 \n放到此目錄下的 軟體名-xxx目錄下 供 用戶 查看\n\u003c/pre\u003e\n"

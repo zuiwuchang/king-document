@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ediff [-bBi] from-file to-file\n以行为单位比较文件\n-b\t//忽略空格的不同 (a b) 和 (a     b)相同\n-B\t//忽略空白行区别\n-i\t//忽略大小写 \n结果\n4d3\t//左边第4行被删除了 基准是右边第三行\n6c5\t//左边第6行被替换成右边第5行\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux 提供了許多 用於數據篩選的功能 以配合 pipe\n\u003c/pre\u003e"

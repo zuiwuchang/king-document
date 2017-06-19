@@ -24757,5 +24757,831 @@ var __v=[
 			"Name": "增加object",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3577,
+			"Panel": 1767,
+			"Name": "linux",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3578,
+			"Panel": 1768,
+			"Name": "Red Hat",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3579,
+			"Panel": 1769,
+			"Name": "CentOS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3580,
+			"Panel": 1770,
+			"Name": "Ubuntu",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3581,
+			"Panel": 1771,
+			"Name": "Mint",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3582,
+			"Panel": 1772,
+			"Name": "terminal",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3583,
+			"Panel": 1773,
+			"Name": "基礎命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3584,
+			"Panel": 1774,
+			"Name": "計算器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3585,
+			"Panel": 1775,
+			"Name": "--help",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3586,
+			"Panel": 1776,
+			"Name": "man",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3587,
+			"Panel": 1777,
+			"Name": "info",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3588,
+			"Panel": 1778,
+			"Name": "doc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3589,
+			"Panel": 1779,
+			"Name": "nano",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3590,
+			"Panel": 1780,
+			"Name": "關機",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3591,
+			"Panel": 1781,
+			"Name": "忘记root密码",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3592,
+			"Panel": 1782,
+			"Name": "檔案權限",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3593,
+			"Panel": 1783,
+			"Name": "/\t(root 系統根目錄)",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3594,
+			"Panel": 1783,
+			"Name": "/etc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3595,
+			"Panel": 1783,
+			"Name": "/usr",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3596,
+			"Panel": 1783,
+			"Name": "/var",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3597,
+			"Panel": 1783,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3598,
+			"Panel": 1784,
+			"Name": "檔案與目錄 管理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3599,
+			"Panel": 1784,
+			"Name": "操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3600,
+			"Panel": 1785,
+			"Name": "查看檔案 內容",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3601,
+			"Panel": 1786,
+			"Name": "umask 檔案預設權限",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3602,
+			"Panel": 1786,
+			"Name": "SUID SGID SBIT",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3603,
+			"Panel": 1786,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3604,
+			"Panel": 1787,
+			"Name": "檔案隱藏屬性",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3605,
+			"Panel": 1788,
+			"Name": "指令 與 檔案 搜索",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3606,
+			"Panel": 1788,
+			"Name": "find",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3607,
+			"Panel": 1789,
+			"Name": "磁盤 與目錄 容量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3608,
+			"Panel": 1790,
+			"Name": "hard link 硬連結",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3609,
+			"Panel": 1790,
+			"Name": "symbolic link 軟連結",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3610,
+			"Panel": 1791,
+			"Name": "磁盤分割",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3611,
+			"Panel": 1791,
+			"Name": "分割工具",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3612,
+			"Panel": 1792,
+			"Name": "格式化分區",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3613,
+			"Panel": 1793,
+			"Name": "磁盤掛接",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3614,
+			"Panel": 1793,
+			"Name": "開機自動掛接",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3615,
+			"Panel": 1794,
+			"Name": "mount -o loop",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3616,
+			"Panel": 1794,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3617,
+			"Panel": 1795,
+			"Name": "置換空間",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3618,
+			"Panel": 1796,
+			"Name": "gzip",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3619,
+			"Panel": 1796,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3620,
+			"Panel": 1797,
+			"Name": "bzip2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3621,
+			"Panel": 1798,
+			"Name": "xz",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3622,
+			"Panel": 1799,
+			"Name": "tar",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3623,
+			"Panel": 1799,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3624,
+			"Panel": 1800,
+			"Name": "dump",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3625,
+			"Panel": 1800,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3626,
+			"Panel": 1801,
+			"Name": "dd",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3627,
+			"Panel": 1802,
+			"Name": "vim",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3628,
+			"Panel": 1803,
+			"Name": "vi 工作模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3629,
+			"Panel": 1804,
+			"Name": "vi 一般模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3630,
+			"Panel": 1805,
+			"Name": "vi 編輯模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3631,
+			"Panel": 1806,
+			"Name": "vi 命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3632,
+			"Panel": 1807,
+			"Name": "vim 增強功能",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3633,
+			"Panel": 1807,
+			"Name": "塊選擇",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3634,
+			"Panel": 1807,
+			"Name": "多檔案 編輯",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3635,
+			"Panel": 1807,
+			"Name": "分割窗口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3636,
+			"Panel": 1807,
+			"Name": "環境設置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3637,
+			"Panel": 1808,
+			"Name": "bash",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3638,
+			"Panel": 1808,
+			"Name": "常用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3639,
+			"Panel": 1808,
+			"Name": "bash 執行路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3640,
+			"Panel": 1809,
+			"Name": "語系",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3641,
+			"Panel": 1809,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3642,
+			"Panel": 1810,
+			"Name": "命令歷史",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3643,
+			"Panel": 1811,
+			"Name": "變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3644,
+			"Panel": 1811,
+			"Name": "變量 規則",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3645,
+			"Panel": 1811,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3646,
+			"Panel": 1812,
+			"Name": "環境變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3647,
+			"Panel": 1812,
+			"Name": "env 常見 環境變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3648,
+			"Panel": 1812,
+			"Name": "set 常見 shell變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3649,
+			"Panel": 1813,
+			"Name": "變量 聲明 讀取",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3650,
+			"Panel": 1813,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3651,
+			"Panel": 1814,
+			"Name": "變量 操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3652,
+			"Panel": 1815,
+			"Name": "bash 環境設置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3653,
+			"Panel": 1815,
+			"Name": "特殊符號",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3654,
+			"Panel": 1815,
+			"Name": "數據重定向",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3655,
+			"Panel": 1816,
+			"Name": "bashrc 環境配置檔案",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3656,
+			"Panel": 1816,
+			"Name": "其它設置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3657,
+			"Panel": 1816,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3658,
+			"Panel": 1817,
+			"Name": "ulimit 程式資源限制",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3659,
+			"Panel": 1817,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3662,
+			"Panel": 1818,
+			"Name": "limits.conf",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3663,
+			"Panel": 1818,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3664,
+			"Panel": 1819,
+			"Name": "pipe",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3665,
+			"Panel": 1820,
+			"Name": "數據篩選",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3666,
+			"Panel": 1820,
+			"Name": "cut",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3667,
+			"Panel": 1820,
+			"Name": "grep egrep",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3668,
+			"Panel": 1821,
+			"Name": "數據處理",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3669,
+			"Panel": 1821,
+			"Name": "sort 排序",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3670,
+			"Panel": 1821,
+			"Name": "uniq",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3671,
+			"Panel": 1821,
+			"Name": "wc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3672,
+			"Panel": 1822,
+			"Name": "雙重重定向",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3673,
+			"Panel": 1823,
+			"Name": "字符串替換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3674,
+			"Panel": 1823,
+			"Name": "字符串替換 tr",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3675,
+			"Panel": 1823,
+			"Name": "col",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3676,
+			"Panel": 1823,
+			"Name": "join",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3677,
+			"Panel": 1823,
+			"Name": "paste 合併檔案",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3678,
+			"Panel": 1823,
+			"Name": "expand",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3679,
+			"Panel": 1824,
+			"Name": "檔案分割",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3680,
+			"Panel": 1825,
+			"Name": "正則表達式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3681,
+			"Panel": 1825,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3682,
+			"Panel": 1826,
+			"Name": "擴展的正則表達式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3683,
+			"Panel": 1827,
+			"Name": "刪除 增加 替換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3684,
+			"Panel": 1827,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3685,
+			"Panel": 1827,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3686,
+			"Panel": 1828,
+			"Name": "printf",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3687,
+			"Panel": 1829,
+			"Name": "awk",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3688,
+			"Panel": 1829,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3689,
+			"Panel": 1830,
+			"Name": "檔案比較",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3690,
+			"Panel": 1830,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3691,
+			"Panel": 1831,
+			"Name": "shell script",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3692,
+			"Panel": 1831,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3693,
+			"Panel": 1832,
+			"Name": "參數讀取",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3694,
+			"Panel": 1832,
+			"Name": "參數讀取",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3695,
+			"Panel": 1833,
+			"Name": "函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3696,
+			"Panel": 1833,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

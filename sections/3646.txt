@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//設置環境變量\nexport GOROOT=/opt/go\n\t(\n\t\tGOROOT=/opt/go\n\t\texport GOROOT\n\t)\n\n//查看所有 環境變量\nenv\nexport\n\n//查看 當前 shell 所有相關 變量(包括 自定義)\nset\n\u003c/pre\u003e"

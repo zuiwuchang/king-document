@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eHOME\t當前用戶 home 目錄\nSHELL\t...使用的 SHELL\nHISTSIZE\t...記錄命令 數量\nMAIL\tmail 命令讀取 檔案 路徑\nPATH\t可執行檔案 查找路徑\nLANG\t語系\nRANDOM\t[0,32767] 的一個偽隨機 值\n...\n\u003c/pre\u003e"

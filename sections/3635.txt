@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//分割出 一個 新窗口\n:sp\n\n//分割出 ... 編輯 file\n:sp file\n\n//編輯 下方 窗口\n[ctrl] + w + [j]/Down Arrow\n\n//編輯 上方 窗口\n[ctrl] + w + [k]/Up Arrow\n\u003c/pre\u003e"

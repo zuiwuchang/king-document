@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egrep 只支持標準的 posix 正則表達式 \n對於擴展的 語法 linux 提供了 egrep 進行支持\n\nRE字符\t含義\n+\t重複 [1,..] 次\n?\t重複 [0,1] 次\n|\t邏輯 或\n()\t將括號內 作爲同一個組\n\u003c/pre\u003e"

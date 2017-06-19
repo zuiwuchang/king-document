@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t絕對/相對 路徑\n2\talias\n3\tbash內置\n4\t$PATH 變量\n\u003c/pre\u003e"

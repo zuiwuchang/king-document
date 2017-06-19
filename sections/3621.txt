@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003exz\n\nxz 用法 完全 同 bzip2 只是現在\n\nxz 亦提供了 xzcat xzless ...\n\u003c/pre\u003e"

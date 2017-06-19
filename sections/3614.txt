@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eos啟動後 會 依據 /etc/fstab 的設置\n進行 自動掛接\n\u003cimg src='/sections/3614/image/fstab.png' style=\"max-width: 100%;\"\u003e\n\toption\tmount -o 後的參數\n\tdump\t0(不備份) 1(每天備份) 2(不定期備份)\n\tpass\t0(不要檢查刪除) 1(使用fsck檢查) 2(同1不過比1完執行)\n\u003c/pre\u003e"

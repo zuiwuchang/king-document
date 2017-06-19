@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esed 可以同時 使用 多個 動作 不過 每個動作前 都需要增加 -e\nsed '-e動作' '-e動作'\n\u003c/pre\u003e"

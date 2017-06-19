@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於 linux socket 等 都是 file 故 對於 高併發服務器\nulimit -n 是必要的(默認 一般 只有 1024)\n\nulimit 一旦設置 就只能減少不能增加\n\nulimit 默認未設置 此時使用一個 os 默認的 限制\n可以在 在 ~/.bashrc 中寫入 需要的 設置\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebzip\n\nbzip2 用法 完全 同 gzip 只是現在\nbzip2 同一個 -k 參數 可以 直接 保留 src文件\n\nbzip 亦提供了 bzcat bzless ...\n\u003c/pre\u003e"

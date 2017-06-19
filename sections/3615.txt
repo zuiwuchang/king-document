@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emount -o loop 除了可以用來 掛接 iso鏡像外 \n還可以 將一個大文件 進行 掛接 從而將一個分區的 容量 感覺上 移動到其它分區上\n\n//創建 大小 為 512M(bs*count) 的文件 file.iso\ndd if=/dev/zero of=file.iso bs=1M count=512\n\tif\t輸入檔案 /dev/zero 會一直輸出0\n\tof\t輸出檔案\n\tbs\t每個 block 大小 默認 512byte\n\tcount\tblock 數量\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/etc/man_db.conf\n\tman 指令查找檔案位置\n\n～/.bash_history\n\t命令歷史 檔案\n\n～/.bash_logout\n\t登出時後 系統自動執行的 操作\n\u003c/pre\u003e"

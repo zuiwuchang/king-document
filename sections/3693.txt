@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e執行 script 時可以使用 參數 用 空格隔開\n在script中 使用如下方式 操作 參數\n\n$#\t\t//獲取參數數量\n$1 $2 ... $n\t//操作第n個參數\n$@\t\t//獲取全部變量\n$*\t\t//獲取全部變量\n\u003c/pre\u003e"

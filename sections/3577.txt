@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux 開源(GPL) 的unix like 作業系統(內核)\n\n官網 \u003ca href=\"https://www.kernel.org/\" target=\"_blank\"\u003ehttps://www.kernel.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Linux#GNU\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/Linux#GNU\u003c/a\u003e\n\u003c/pre\u003e"

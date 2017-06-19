@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/var/cache\t應用程序緩存\n/var/lib\t應用程序執行中需要使用的數據 如 mysql為 /var/lib/mysql\n/var/locl\n/var/log\n/var/mail\n/var/run\n/var/spool\n\u003c/pre\u003e"

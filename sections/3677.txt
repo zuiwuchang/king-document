@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將 兩個 檔案 對應行 合併 並輸出 合併後 數據\n//將 合併 結果 輸出到 stdout\npaste file1 file 2\n\t-d\t合併時使用的 單個分隔字符 默認 tab\n\u003c/pre\u003e"

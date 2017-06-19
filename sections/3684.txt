@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//顯示 第 [1,5] 行\nls / -l | sed -n '1,5p' \nls / -l | sed -n '-e1,5p' \nls / -l | sed -n '-e1,2p' '-e3,5p'\u003c/pre\u003e"

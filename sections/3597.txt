@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eos啟動時只會掛接 / \n故 /etc /bin /dev /lib /sbin 不能掛接到其它分區\n\u003c/pre\u003e\n"

@@ -5057,10 +5057,88 @@ var __v={
 			"Name": "界面操作",
 			"Sort": 0
 		},
+		"1767": {
+			"Id": 1767,
+			"Chapter": 558,
+			"Name": "linux",
+			"Sort": 0
+		},
+		"1768": {
+			"Id": 1768,
+			"Chapter": 558,
+			"Name": "Red Hat",
+			"Sort": 0
+		},
+		"1769": {
+			"Id": 1769,
+			"Chapter": 558,
+			"Name": "CentOS",
+			"Sort": 0
+		},
 		"177": {
 			"Id": 177,
 			"Chapter": 69,
 			"Name": "archive/zip",
+			"Sort": 0
+		},
+		"1770": {
+			"Id": 1770,
+			"Chapter": 558,
+			"Name": "Ubuntu",
+			"Sort": 0
+		},
+		"1771": {
+			"Id": 1771,
+			"Chapter": 558,
+			"Name": "Mint",
+			"Sort": 0
+		},
+		"1772": {
+			"Id": 1772,
+			"Chapter": 559,
+			"Name": "tty1~tty6",
+			"Sort": 0
+		},
+		"1773": {
+			"Id": 1773,
+			"Chapter": 559,
+			"Name": "基礎命令",
+			"Sort": 0
+		},
+		"1774": {
+			"Id": 1774,
+			"Chapter": 559,
+			"Name": "計算器",
+			"Sort": 0
+		},
+		"1775": {
+			"Id": 1775,
+			"Chapter": 559,
+			"Name": "--help",
+			"Sort": 0
+		},
+		"1776": {
+			"Id": 1776,
+			"Chapter": 559,
+			"Name": "man",
+			"Sort": 0
+		},
+		"1777": {
+			"Id": 1777,
+			"Chapter": 559,
+			"Name": "info",
+			"Sort": 0
+		},
+		"1778": {
+			"Id": 1778,
+			"Chapter": 559,
+			"Name": "doc",
+			"Sort": 0
+		},
+		"1779": {
+			"Id": 1779,
+			"Chapter": 559,
+			"Name": "nano",
 			"Sort": 0
 		},
 		"178": {
@@ -5069,10 +5147,130 @@ var __v={
 			"Name": "archive/tar",
 			"Sort": 0
 		},
+		"1780": {
+			"Id": 1780,
+			"Chapter": 559,
+			"Name": "關機",
+			"Sort": 0
+		},
+		"1781": {
+			"Id": 1781,
+			"Chapter": 559,
+			"Name": "忘记root密码",
+			"Sort": 0
+		},
+		"1782": {
+			"Id": 1782,
+			"Chapter": 560,
+			"Name": "檔案權限",
+			"Sort": 0
+		},
+		"1783": {
+			"Id": 1783,
+			"Chapter": 560,
+			"Name": "目錄配置",
+			"Sort": 0
+		},
+		"1784": {
+			"Id": 1784,
+			"Chapter": 561,
+			"Name": "檔案與目錄 管理",
+			"Sort": 0
+		},
+		"1785": {
+			"Id": 1785,
+			"Chapter": 561,
+			"Name": "查看檔案 內容",
+			"Sort": 0
+		},
+		"1786": {
+			"Id": 1786,
+			"Chapter": 561,
+			"Name": "umask 檔案預設權限",
+			"Sort": 0
+		},
+		"1787": {
+			"Id": 1787,
+			"Chapter": 561,
+			"Name": "檔案隱藏屬性",
+			"Sort": 0
+		},
+		"1788": {
+			"Id": 1788,
+			"Chapter": 561,
+			"Name": "指令 與 檔案 搜索",
+			"Sort": 0
+		},
+		"1789": {
+			"Id": 1789,
+			"Chapter": 562,
+			"Name": "磁盤 與目錄 容量",
+			"Sort": 0
+		},
 		"179": {
 			"Id": 179,
 			"Chapter": 70,
 			"Name": "crypto",
+			"Sort": 0
+		},
+		"1790": {
+			"Id": 1790,
+			"Chapter": 562,
+			"Name": "連結",
+			"Sort": 0
+		},
+		"1791": {
+			"Id": 1791,
+			"Chapter": 562,
+			"Name": "磁盤分割",
+			"Sort": 0
+		},
+		"1792": {
+			"Id": 1792,
+			"Chapter": 562,
+			"Name": "格式化分區",
+			"Sort": 0
+		},
+		"1793": {
+			"Id": 1793,
+			"Chapter": 562,
+			"Name": "磁盤掛接",
+			"Sort": 0
+		},
+		"1794": {
+			"Id": 1794,
+			"Chapter": 562,
+			"Name": "mount -o loop",
+			"Sort": 0
+		},
+		"1795": {
+			"Id": 1795,
+			"Chapter": 562,
+			"Name": "置換空間",
+			"Sort": 0
+		},
+		"1796": {
+			"Id": 1796,
+			"Chapter": 563,
+			"Name": "gzip",
+			"Sort": 0
+		},
+		"1797": {
+			"Id": 1797,
+			"Chapter": 563,
+			"Name": "bzip2",
+			"Sort": 0
+		},
+		"1798": {
+			"Id": 1798,
+			"Chapter": 563,
+			"Name": "xz",
+			"Sort": 0
+		},
+		"1799": {
+			"Id": 1799,
+			"Chapter": 563,
+			"Name": "tar",
 			"Sort": 0
 		},
 		"18": {
@@ -5087,10 +5285,130 @@ var __v={
 			"Name": "摘要算法",
 			"Sort": 0
 		},
+		"1800": {
+			"Id": 1800,
+			"Chapter": 563,
+			"Name": "dump",
+			"Sort": 0
+		},
+		"1801": {
+			"Id": 1801,
+			"Chapter": 563,
+			"Name": "dd",
+			"Sort": 0
+		},
+		"1802": {
+			"Id": 1802,
+			"Chapter": 564,
+			"Name": "vim",
+			"Sort": 0
+		},
+		"1803": {
+			"Id": 1803,
+			"Chapter": 564,
+			"Name": "vi 工作模式",
+			"Sort": 0
+		},
+		"1804": {
+			"Id": 1804,
+			"Chapter": 564,
+			"Name": "vi 一般模式",
+			"Sort": 0
+		},
+		"1805": {
+			"Id": 1805,
+			"Chapter": 564,
+			"Name": "vi 編輯模式",
+			"Sort": 0
+		},
+		"1806": {
+			"Id": 1806,
+			"Chapter": 564,
+			"Name": "vi 命令",
+			"Sort": 0
+		},
+		"1807": {
+			"Id": 1807,
+			"Chapter": 564,
+			"Name": "vim 增強功能",
+			"Sort": 0
+		},
+		"1808": {
+			"Id": 1808,
+			"Chapter": 565,
+			"Name": "bash",
+			"Sort": 0
+		},
+		"1809": {
+			"Id": 1809,
+			"Chapter": 565,
+			"Name": "語系",
+			"Sort": 0
+		},
 		"181": {
 			"Id": 181,
 			"Chapter": 70,
 			"Name": "對稱加密",
+			"Sort": 0
+		},
+		"1810": {
+			"Id": 1810,
+			"Chapter": 565,
+			"Name": "命令歷史",
+			"Sort": 0
+		},
+		"1811": {
+			"Id": 1811,
+			"Chapter": 565,
+			"Name": "變量",
+			"Sort": 0
+		},
+		"1812": {
+			"Id": 1812,
+			"Chapter": 565,
+			"Name": "環境變量",
+			"Sort": 0
+		},
+		"1813": {
+			"Id": 1813,
+			"Chapter": 565,
+			"Name": "變量 聲明 讀取",
+			"Sort": 0
+		},
+		"1814": {
+			"Id": 1814,
+			"Chapter": 565,
+			"Name": "變量 操作",
+			"Sort": 0
+		},
+		"1815": {
+			"Id": 1815,
+			"Chapter": 565,
+			"Name": "bash 環境設置",
+			"Sort": 0
+		},
+		"1816": {
+			"Id": 1816,
+			"Chapter": 565,
+			"Name": "bashrc 環境配置檔案",
+			"Sort": 0
+		},
+		"1817": {
+			"Id": 1817,
+			"Chapter": 566,
+			"Name": "ulimit 程式資源限制",
+			"Sort": 0
+		},
+		"1818": {
+			"Id": 1818,
+			"Chapter": 566,
+			"Name": "limits.conf",
+			"Sort": 0
+		},
+		"1819": {
+			"Id": 1819,
+			"Chapter": 567,
+			"Name": "pipe",
 			"Sort": 0
 		},
 		"182": {
@@ -5099,10 +5417,94 @@ var __v={
 			"Name": "非對稱加密",
 			"Sort": 0
 		},
+		"1820": {
+			"Id": 1820,
+			"Chapter": 567,
+			"Name": "數據篩選",
+			"Sort": 0
+		},
+		"1821": {
+			"Id": 1821,
+			"Chapter": 567,
+			"Name": "數據處理",
+			"Sort": 0
+		},
+		"1822": {
+			"Id": 1822,
+			"Chapter": 567,
+			"Name": "雙重重定向",
+			"Sort": 0
+		},
+		"1823": {
+			"Id": 1823,
+			"Chapter": 567,
+			"Name": "字符串替換",
+			"Sort": 0
+		},
+		"1824": {
+			"Id": 1824,
+			"Chapter": 567,
+			"Name": "檔案分割",
+			"Sort": 0
+		},
+		"1825": {
+			"Id": 1825,
+			"Chapter": 568,
+			"Name": "正則表達式",
+			"Sort": 0
+		},
+		"1826": {
+			"Id": 1826,
+			"Chapter": 568,
+			"Name": "擴展的正則表達式",
+			"Sort": 0
+		},
+		"1827": {
+			"Id": 1827,
+			"Chapter": 568,
+			"Name": "刪除 增加 替換",
+			"Sort": 0
+		},
+		"1828": {
+			"Id": 1828,
+			"Chapter": 568,
+			"Name": "printf",
+			"Sort": 0
+		},
+		"1829": {
+			"Id": 1829,
+			"Chapter": 568,
+			"Name": "awk",
+			"Sort": 0
+		},
 		"183": {
 			"Id": 183,
 			"Chapter": 71,
 			"Name": "log",
+			"Sort": 0
+		},
+		"1830": {
+			"Id": 1830,
+			"Chapter": 568,
+			"Name": "檔案比較",
+			"Sort": 0
+		},
+		"1831": {
+			"Id": 1831,
+			"Chapter": 569,
+			"Name": "shell script",
+			"Sort": 0
+		},
+		"1832": {
+			"Id": 1832,
+			"Chapter": 569,
+			"Name": "參數讀取",
+			"Sort": 0
+		},
+		"1833": {
+			"Id": 1833,
+			"Chapter": 569,
+			"Name": "函數",
 			"Sort": 0
 		},
 		"184": {

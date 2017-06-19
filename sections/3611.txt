@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於mbr的小 磁盤 使用 fdisk 分割\n對於 gpt 分割的 大 磁盤 使用 gdisk 分割\nfdisk gdisk 的用法 基本 一樣\n\n//顯示 設備 sdb 分區情況(若不接受被名 顯示 全部)\nfdisk -l /dev/sdb\n\n//謹防 fdisk 為 sdb 分區\nfdisk /dev/sdb\n進入後的命令\nm\t顯示命令幫助信息\na\nb\nc\nd\t刪除一個分區\nl\nm\nn\t增加一個分區\no\np\t顯示分區情況\nq\t撤銷所有操作 別離開fdisk\ns\nt\nu\nv\nw\t將分區寫入磁盤\nx\n\u003c/pre\u003e"

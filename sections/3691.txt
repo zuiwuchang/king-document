@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux 提供了 強大的 shell script 用於 簡化 重複的 shell 命令執行\n\u003c/pre\u003e"

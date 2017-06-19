@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//查看 內存使用量\nfree -h\n\n//格式化設備為 置換空間\nmkswap /dev/sda6\n\n//啟用 指定 置換空間\nswapon /dev/sda6\n\n//關閉 指定 置換空間\nswapoff /dev/sda6\n\u003c/pre\u003e"

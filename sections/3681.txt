@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//顯示目錄下所有 檔案夾 \nls -al | grep '^d*'\n\n//再檔案 file.txt 中 匹配 以 d開始的行\ngrep '^d*' file.txt\u003c/pre\u003e"

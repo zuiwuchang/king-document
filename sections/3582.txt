@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux 一般提供了 6個操作終端 供用戶 操作 \ntty1 為 x window (如果沒安裝x window 一般tty1 也是字符終端)\ntty2~tty6\t為字符終端\n使用 [CTRL] + [ALT] + [F1~F6] 可在終端間切換\n\n在字符終端 輸入 startx 一般可以在此終端ttyn下啟動 w window\n(如果有安裝的話 且沒有其他 w window已經被啟動)\n\u003c/pre\u003e"

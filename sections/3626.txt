@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003edd 不但可以創建 文件 亦可用於 備份\ndd 直接從磁區讀取 數據 故可以讀取 完整的 磁盤信息 即使是不認識的 格式\n\n//創建 大小 為 512M(bs*count) 的文件 file.iso\ndd if=/dev/zero of=file.iso bs=1M count=512\n\tif\t輸入檔案 /dev/zero 會一直輸出0\n\tof\t輸出檔案\n\tbs\t每個 block 大小 默認 512byte\n\tcount\tblock 數量\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將 小寫 轉 大寫\necho abc | tr '[a-z]' 'A-Z'\n\ttr 實際上使用 正則表達式 匹配數據\n\n//刪除小寫 字符\necho abc | tr -d '[a-z]'\n\u003c/pre\u003e"

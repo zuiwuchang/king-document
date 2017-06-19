@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e启动系统读秒时按下任意键 进入启动引导程序选择\n点e 进入编辑模式\n选择 kernel /vm... 此行 点e 编辑此行\n在 kernel /vm... 最后添加single 之后 [enter](单用户模式)\n点 b 此此选项进入 单用户模式\npasswd 修改root 密码\n\u003c/pre\u003e"

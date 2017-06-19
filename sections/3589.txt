@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enano 一個簡單的 文本編輯器\n\n//查看 說明\n[CTRL] + G\n\n//退出 nano\n[CTRL] + X\n\n//存儲 檔案\n[CTRL] + O\n\n//從其它 檔案 對其數據\n[CTRL] + R\n\n//搜索字符串\n[CTRL] + W\n\n//說明 目前 游標 所在行數 列數\n[CTRL] + C\n\n//輸入 行號\n[CTRL] + _\n\n//打開/關閉 語法校正\n[ALT] + Y\n\n//使用鼠標 滑動 來移動游標\n[ALT] + M\n\u003c/pre\u003e"

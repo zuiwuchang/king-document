@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eprintf 使用 類似 c 語言 printf 當方式 \n將每行的 每個字段 格式化後 輸出\n字段 以 [tab] 或 [space] 分割 \n\u003c/pre\u003e"

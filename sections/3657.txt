@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e1\t~/.bash_profile\n2\t~/.bash_login\n3\t~/.profile\n執行中 按照順序 一旦 發現其中1個 執行後 就 不會 執行後續 檔案\n\n一般 .bash_profile 等會 判斷 是否 存在檔案 \u003cstrong\u003e~/.bashrc\u003c/strong\u003e\n如果 存在 執行其中 設置\n故一般 將 login shell 的 自定義設置 都寫在 ~/.bashrc 中\n\u003c/pre\u003e"

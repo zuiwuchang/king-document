@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecmp [-s] file1 file2\n以字节为单位比较文件\n-s //将所有不同列出 默认只列出第一处\n\u003c/pre\u003e"

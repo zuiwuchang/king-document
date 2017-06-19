@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebc 是linux提供的一個 計算器軟體 絕大部分發行版都有自帶\n+\n-\n*\n/\n^\t指数\n%\n\n\n//查看小数位数\nscale\n\n//设置小数位数 不会四舍五入 直接舍去\nscale=number\n\n//設置輸出 進制\nobase=number\n\n//設置輸入 進制\nibase=number\n\n//退出 bc\nquit\n\u003c/pre\u003e"

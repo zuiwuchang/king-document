@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//將 兩個 檔案中 指定數據 相同的 寫到一起 \n//將 結果 輸出到 stdout(沒合併的 不會輸出)\njoin file1 file2\n\t-t\t指定分隔符 默認 空白\n\t-i\t忽略大小寫\n\t-1\t後接 第一個檔案 用於比較 字段 默認從 1 開始\n\t-2\t... 二 ...\n\t(\n\t\t1.txt\tfile 1\n\t\t2.txt\tfile 2\n\n\t\tjoin 1.txt  2.txt\n\t\tjoin 1.txt  2.txt -11 -21\n\t\t\tfile 1 2\n\n\t\tjoin 1.txt  2.txt -12 -22\n\t\t\t什麼都不會輸出\n\t)\n\u003c/pre\u003e"

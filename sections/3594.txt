@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/etc/init.d\t存放服務默認啟動腳本\n/etc/X11\tX Window相關配置\n\u003c/pre\u003e"

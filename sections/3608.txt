@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ehard link 是新增 一個 檔案名 使其 inode 連結到某個已存在的 inode\nhard link 不可 跨filesystem 不可用於 目錄\n\n//創建 hard link\nln src dist\n\t-s\t創建 symbolic link\n\t-f\t若目標檔案存在 刪除之\n\t-i\t若目標存在 詢問操作\n\u003c/pre\u003e"

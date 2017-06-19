@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebash 為 Bourne SHell 的後繼兼容與開源版本 是大多linux 的默認shell\n\n/etc/shells 檔案記錄了 所有支持的shell\n\n/etc/passwd 檔案 記錄 記錄了 對應 用戶 使用的 shell\n\u003cimg src='/sections/3637/image/shells.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

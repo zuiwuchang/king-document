@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e自定義 變量 不會被引入到 新的 子 shell 中\n只有 環境變量(export MYVAR=\"env var test\") 才會被 子 shell 繼承\n\n在讀取變量值 變量值時 需要使用 $\n\n變量的 作用範圍為 當前程式\n環境變量 作用範圍為 當前程式 以及其 子程式\n\u003c/pre\u003e"

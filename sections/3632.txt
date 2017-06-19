@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evim 兼容所有 vi 用法 同時 提供了 許多額外功能\n\u003c/pre\u003e"

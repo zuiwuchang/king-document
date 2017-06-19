@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egrep egrep 使用正則表達式 對每行數據 進行 匹配 只顯示匹配的行\n用於對 數據行 進行篩選\n\t--color=auto\t爲匹配到的關鍵字 加上顏色 一般都被默認設置\n\t-a\t將 二進制檔案 以 text檔案方式 搜尋\n\t-c\t計算 找到的 匹配字串 次數\n\t-i\t忽略大小寫\n\t-n\t顯示行號\n\t-v\t反向搜尋 (將不 匹配的行 顯示出來)\n\u003c/pre\u003e"

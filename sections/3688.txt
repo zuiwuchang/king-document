@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecat /etc/passwd | awk '{FS=\":\"}$3\u0026lt;10{print $1 \"\\t\" $3}'\n//将管道中 字段3数据 小于10的 行 字段1 指定3 打印 那之前改变分隔符为: \n\n比较符号\n\u0026gt;\n\u0026lt;\n\u0026gt;=\n\u0026lt;=\n==\n!=\n\u003c/pre\u003e"

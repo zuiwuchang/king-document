@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003efunction Show(){\n\n\tdeclare -i i\n\ti=0\n\tfor v in $@\n\tdo\n\t\ti=i+1\n\t\techo \"第$i個參數        :$v\"\n\tdone\n\t\n\treturn 1\n\techo \"不會顯示 已經返回\"\n}\n\nShow 一 二 三 四\necho $?\u003c/pre\u003e"

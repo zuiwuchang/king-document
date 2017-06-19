@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//只查看包中 home/dark 下的檔案\ntar -jtf test.tar.bz2 home/dark \n\n//只解包 包中的 home/dark/test 檔案\ntar -jxf test.tar.bz2 home/dark/test \n\n//只把 home中 mtime 比包中 媒體麼新的 加入/替換到 已有包\ntar -jcvf test.tar.bz2 --newer-mtime=\"2012/01/12\" /home \n\t--newer-mtime 還可以是 --newer(包含了 mtime ctime)\n\u003c/pre\u003e"

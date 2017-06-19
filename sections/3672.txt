@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 \u0026gt; \u0026gt;\u0026gt; 可以將 數據重定向到 檔案\n然 這樣 就無法使用 pipe \n故linux 提供了 tee 將數據 重定向到 檔案的 同時 輸出到 stdout\n\ntee -a file \n\t-a\t使用累加方式 寫入檔案 \u0026gt;\u0026gt;\n\u003c/pre\u003e"

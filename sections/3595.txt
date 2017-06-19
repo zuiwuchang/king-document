@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/usr/X11R6\tx window 系統重要數據\n/usr/bin\t大部分用戶可用命令\n/usr/include\tc/c++ header\n/usr/lib\t引用程序 函數庫 目標文件\n/usr/local\t系統管理員 在本機 安裝的軟體\n/usr/sbin\t非系統正常運行需要的命令\n/usr/share\t共享文件夾\n/usr/src\t源碼\n\u003c/pre\u003e"

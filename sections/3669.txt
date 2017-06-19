@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//以行爲單位 排序數據\nsort [file or stdin]\n\t-f\t忽略大小寫\n\t-b\t忽略最前面的空白字符\n\t-M\t以月的名字排序 如 JAN DEC ...\n\t-n\t使用純數字排序\n\t-r\t反向排序\n\t-u\t相當於 uniq 消除重複行\n\t-t\t分隔符 默認 tab\n\t-k\t以分隔的第n個字符串排序 默認爲 1\n\t(\n\t\t以 : 作爲分隔符 以第3(從1開始計數)個字串 排序\n\t\tcat /etc/passwd | sort -t ':' -k 3\n\t)\n\u003c/pre\u003e"

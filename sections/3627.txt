@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evim 是由 vi 發展來的 一個 開源(Vim) 文本編輯器 是最好的編輯器之一\n用法基本同 vi 現在的linux一般都 不會帶vi \n使用 vi命令時 會被執行vim命令\n\n官網 \u003ca href=\"http://www.vim.org/\" target=\"_blank\"\u003ehttp://www.vim.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Vim\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/Vim\u003c/a\u003e\n\u003c/pre\u003e"

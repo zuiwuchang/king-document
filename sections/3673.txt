@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux 提供了 方便的 字符串 替換 工具\n\u003c/pre\u003e"

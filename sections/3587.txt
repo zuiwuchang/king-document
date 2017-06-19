@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003einfo 是一個類似 man的 命令 \n只不過 其 在 /usr/share/info 下 查找操作說明\n且顯示風格 有些不同於 man\n\u003c/pre\u003e"

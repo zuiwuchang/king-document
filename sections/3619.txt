@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egzip 會將 src 刪除 創建 src.gz 的壓縮文件\n(gzip -d 亦會 刪除 *.gz 文件)\n除非 設置 -c 參數 並配合 重定向\ngzip -c src \u0026gt; src.gz\ngzip -cd src.gz \u0026gt; src\n\u003c/pre\u003e"

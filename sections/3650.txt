@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/bin/bash\ndeclare -i length\nread -p \"input array length : \" length\necho $length\n\ndeclare -a arrs\nfor((i=0;i\u0026lt;length;i=i+1))\ndo\n        arrs[i]=$i\ndone\nfor((i=0;i\u0026lt;length;i=i+1))\ndo\n        echo ${arrs[i]}\ndone\u003c/pre\u003e"

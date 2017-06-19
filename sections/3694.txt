@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eecho \"參數總數  : $#\"\necho \"參數內容  : $@\"\necho \"參數內容  : $*\"\necho \"第n個參數 : $1\"\necho\n\necho \"遍歷參數\"\ndeclare -i i\ni=0\nfor v in $@\ndo\n\ti=i+1\n\techo \"第$i個參數        :$v\"\ndone\u003c/pre\u003e"

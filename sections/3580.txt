@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eUbuntu 一個 偏 桌面用戶 的linux 發行版本\n\n官網 \u003ca href=\"http://www.ubuntu.com/\" target=\"_blank\"\u003ehttp://www.ubuntu.com/\u003c/a\u003e\n\u003c/pre\u003e"

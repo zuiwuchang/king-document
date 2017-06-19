@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003edd if=/dev/zero of=file.iso bs=1M count=512\nsudo mkfs -t ext4 file.iso\nsudo mkdir /mnt/file\nsudo mount -o loop file.iso /mnt/file\u003c/pre\u003e"

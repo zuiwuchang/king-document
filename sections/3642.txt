@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//顯示 最近執行的 n條 命令\nhistory n\n\n//刪除 目前shell的 命令歷史\nhistory -c\n\n//將 新的 命令歷史 加入 file 而非  $HISTFILE\nhistory -a file\n\n//將 file的內容 加入到當前 命令歷史\nhistory -r file\n\n//將 當前 命令歷史 寫入到 file\nhistory -w file\n\n\n\n//執行 命令歷史中 第n個命令\n!n\n\n//執行 上個 命令\n!!\n\n//執行 最近 的以 str開頭的 命令\n!str\n\u003c/pre\u003e"
