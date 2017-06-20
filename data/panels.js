@@ -2211,19 +2211,19 @@ var __v={
 			"Id": 1335,
 			"Chapter": 434,
 			"Name": "go",
-			"Sort": 0
+			"Sort": 4
 		},
 		"1336": {
 			"Id": 1336,
 			"Chapter": 434,
 			"Name": "lua",
-			"Sort": 0
+			"Sort": 2
 		},
 		"1337": {
 			"Id": 1337,
 			"Chapter": 434,
 			"Name": "python",
-			"Sort": 0
+			"Sort": 1
 		},
 		"1339": {
 			"Id": 1339,
@@ -5536,6 +5536,12 @@ var __v={
 			"Chapter": 569,
 			"Name": "調試",
 			"Sort": 0
+		},
+		"1839": {
+			"Id": 1839,
+			"Chapter": 434,
+			"Name": "bash shell scripts",
+			"Sort": 3
 		},
 		"184": {
 			"Id": 184,
