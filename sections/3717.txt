@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eClementine 是一個 開源(GPL3) 跨平臺 的 音樂播放器\n\n官網 \u003ca href=\"https://www.clementine-player.org/\" target=\"_blank\"\u003ehttps://www.clementine-player.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/Clementine\" target=\"_blank\"\u003ehttps://https://zh.wikipedia.org/wiki/Clementine\u003c/a\u003e\n\u003c/pre\u003e"

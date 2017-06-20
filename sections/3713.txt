@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eKDiff3 是一個 開源(GPL) 跨平臺 的 檔案比較軟體\n\n官網 \u003ca href=\"http://kdiff3.sourceforge.net/\" target=\"_blank\"\u003ehttp://kdiff3.sourceforge.net/\u003c/a\u003e\n\u003c/pre\u003e"

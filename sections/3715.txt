@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eGIMP 是一個 開源(GPL3) 跨平臺 的 點陣圖圖像編輯器\n\n官網 \u003ca href=\"https://www.gimp.org/\" target=\"_blank\"\u003ehttps://www.gimp.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/GIMP\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/GIMP\u003c/a\u003e\n\u003c/pre\u003e"

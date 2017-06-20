@@ -3047,6 +3047,36 @@ var __v={
 			"Name": "簡介",
 			"Sort": 0
 		},
+		"570": {
+			"Id": 570,
+			"Doc": 130,
+			"Name": "KDiff3",
+			"Sort": 419
+		},
+		"571": {
+			"Id": 571,
+			"Doc": 130,
+			"Name": "LibreOffice",
+			"Sort": 420
+		},
+		"572": {
+			"Id": 572,
+			"Doc": 130,
+			"Name": "GIMP",
+			"Sort": 421
+		},
+		"573": {
+			"Id": 573,
+			"Doc": 130,
+			"Name": "VLC多媒體播放器",
+			"Sort": 422
+		},
+		"574": {
+			"Id": 574,
+			"Doc": 130,
+			"Name": "Clementine",
+			"Sort": 423
+		},
 		"58": {
 			"Id": 58,
 			"Doc": 19,

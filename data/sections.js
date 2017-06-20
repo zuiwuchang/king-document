@@ -25695,5 +25695,40 @@ var __v=[
 			"Name": "bash",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3713,
+			"Panel": 1840,
+			"Name": "KDiff3",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3714,
+			"Panel": 1841,
+			"Name": "LibreOffice",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3715,
+			"Panel": 1842,
+			"Name": "GIMP",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3716,
+			"Panel": 1843,
+			"Name": "VLC多媒體播放器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3717,
+			"Panel": 1844,
+			"Name": "Clementine",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

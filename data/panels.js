@@ -5549,6 +5549,36 @@ var __v={
 			"Name": "reflect",
 			"Sort": 0
 		},
+		"1840": {
+			"Id": 1840,
+			"Chapter": 570,
+			"Name": "KDiff3",
+			"Sort": 0
+		},
+		"1841": {
+			"Id": 1841,
+			"Chapter": 571,
+			"Name": "LibreOffice",
+			"Sort": 0
+		},
+		"1842": {
+			"Id": 1842,
+			"Chapter": 572,
+			"Name": "GIMP",
+			"Sort": 0
+		},
+		"1843": {
+			"Id": 1843,
+			"Chapter": 573,
+			"Name": "VLC多媒體播放器",
+			"Sort": 0
+		},
+		"1844": {
+			"Id": 1844,
+			"Chapter": 574,
+			"Name": "Clementine",
+			"Sort": 0
+		},
 		"185": {
 			"Id": 185,
 			"Chapter": 73,

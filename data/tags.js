@@ -52,15 +52,15 @@ var __v=[
 			"Id": 8,
 			"Pid": 0,
 			"Name": "中華美食",
-			"Sort": 16,
+			"Sort": 17,
 			"Docs": 1
 		},
 		{
 			"Id": 10,
 			"Pid": 0,
 			"Name": "其它",
-			"Sort": 17,
-			"Docs": 0
+			"Sort": 18,
+			"Docs": 1
 		},
 		{
 			"Id": 11,
@@ -115,7 +115,7 @@ var __v=[
 			"Id": 20,
 			"Pid": 0,
 			"Name": "代理",
-			"Sort": 15,
+			"Sort": 16,
 			"Docs": 5
 		},
 		{
