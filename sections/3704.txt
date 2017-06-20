@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e直接輸入 腳本路徑 即可執行\n此時 會在一個新的 bash中執行\n\n使用 source 腳本 可以在當前 bash中執行\n\u003c/pre\u003e"

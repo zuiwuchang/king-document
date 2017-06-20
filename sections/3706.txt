@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eshell 的switch 語句 形如 \n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#!/bin/bash\nx=\"邱淑貞\"\ncase $x in\n\t'邱淑貞')\n\t\techo beautiful 10\n\t;;\n\n\t'張敏')\n\t\techo beautiful 10\n\t;;\n\n\t'kate beckinsale')\n\t\techo beautiful 9\n\t;;\n\n\t*)\t#相當於 default\n\t\techo ugly\n\t;;\nesac\u003c/pre\u003e"

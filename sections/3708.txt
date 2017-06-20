@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/bin/bash\ndeclare -i x\nx=0\nuntil [ $x -gt 9 ]\ndo\n\techo $x\n\tx=x+1\ndone\u003c/pre\u003e"

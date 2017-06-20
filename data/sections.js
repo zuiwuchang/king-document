@@ -25559,14 +25559,14 @@ var __v=[
 		{
 			"Id": 3693,
 			"Panel": 1832,
-			"Name": "參數讀取",
+			"Name": "參數獲取",
 			"Sort": 0,
 			"Str": ""
 		},
 		{
 			"Id": 3694,
 			"Panel": 1832,
-			"Name": "參數讀取",
+			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
 		},
@@ -25581,6 +25581,111 @@ var __v=[
 			"Id": 3696,
 			"Panel": 1833,
 			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3697,
+			"Panel": 1834,
+			"Name": "if",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3698,
+			"Panel": 1834,
+			"Name": "test",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3699,
+			"Panel": 1834,
+			"Name": "判斷符號 [ ]",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3700,
+			"Panel": 1834,
+			"Name": "判斷時爲 變量加上 \"",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3701,
+			"Panel": 1834,
+			"Name": "判斷時爲 常量加上 '",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3702,
+			"Panel": 1834,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3703,
+			"Panel": 1834,
+			"Name": "-a -o",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3704,
+			"Panel": 1835,
+			"Name": "執行腳本",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3705,
+			"Panel": 1835,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3706,
+			"Panel": 1836,
+			"Name": "switch",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3707,
+			"Panel": 1837,
+			"Name": "while 滿足條件時循環",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3708,
+			"Panel": 1837,
+			"Name": "until 不滿足條件時循環",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3709,
+			"Panel": 1837,
+			"Name": "for in",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3710,
+			"Panel": 1837,
+			"Name": "for",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3711,
+			"Panel": 1838,
+			"Name": "調試",
 			"Sort": 0,
 			"Str": ""
 		}

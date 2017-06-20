@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ex='kate beckinsale'\nif [ \"$x\" == 'kate beckinsale' ];then\n\techo beautiful 9\nelif [ \"$x\" == '邱淑貞' -o \"$x\" == '張敏' ];then\n\techo beautiful 10\nelse\n\techo ugly\nfi\u003c/pre\u003e"

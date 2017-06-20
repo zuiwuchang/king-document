@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003e使用\nfunction funcName(){\n\t...\n}\n定義 函數\n使用 \nfuncName p1 p2 ... pn 調用函數\n函數 讀取參數的方法 同 腳本讀取參數\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003e使用\nfunction funcName(){\n\t...\n}\n定義 函數\n使用 \nfuncName p1 p2 ... pn 調用函數\n函數 獲取參數的方法 同 腳本獲取參數\n\u003c/pre\u003e"

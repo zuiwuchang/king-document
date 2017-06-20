@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eshell 的if 語句 形如 \n\u003cpre class='prettyprint linenums'\u003eif 判斷; then\n\t...\nelif 判斷; then\n\t...\nelse\n\t...\nfi\u003c/pre\u003e或\n\u003cpre class='prettyprint linenums'\u003eif 判斷\nthen\n\techo \"x = 1\"\nelif 判斷\nthen\n\techo \"x = 2 or 3\"\nelse\n\techo \"other\"\nfi\u003c/pre\u003e\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e同c只是多了個 ()\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\n#!/bin/bash\nfor ((x=0;x\u0026lt;10;x=x+1))\ndo\n\techo $x\ndone\u003c/pre\u003e"

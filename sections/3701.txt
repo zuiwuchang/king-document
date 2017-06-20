@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e爲了 防止不必要的歧義 應該在判斷時 爲 常量加上 \u003cstrong\u003e'\u003c/strong\u003e\n以免shell 將 123$x 中的 $x 作爲變量 取值\u003c/pre\u003e"

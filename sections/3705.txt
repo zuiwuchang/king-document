@@ -1,0 +1,1 @@
+var __v="test.sh\n\u003cpre class='prettyprint linenums'\u003e#!/bin/bash\nx=1\n./test1.sh\n#顯示 1\necho $x\n\nsource test1.sh\n#顯示 2\necho $x\n\u003c/pre\u003e\n\ntest1.sh\n\u003cpre class='prettyprint linenums'\u003e#!/bin/bash\nx=2\necho this is test1.sh x=$x\u003c/pre\u003e"

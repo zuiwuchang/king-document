@@ -5493,18 +5493,48 @@ var __v={
 			"Id": 1831,
 			"Chapter": 569,
 			"Name": "shell script",
-			"Sort": 0
+			"Sort": 5
 		},
 		"1832": {
 			"Id": 1832,
 			"Chapter": 569,
-			"Name": "參數讀取",
-			"Sort": 0
+			"Name": "參數獲取",
+			"Sort": 3
 		},
 		"1833": {
 			"Id": 1833,
 			"Chapter": 569,
 			"Name": "函數",
+			"Sort": 2
+		},
+		"1834": {
+			"Id": 1834,
+			"Chapter": 569,
+			"Name": "if",
+			"Sort": 1
+		},
+		"1835": {
+			"Id": 1835,
+			"Chapter": 569,
+			"Name": "執行腳本",
+			"Sort": 4
+		},
+		"1836": {
+			"Id": 1836,
+			"Chapter": 569,
+			"Name": "switch",
+			"Sort": 0
+		},
+		"1837": {
+			"Id": 1837,
+			"Chapter": 569,
+			"Name": "循環",
+			"Sort": 0
+		},
+		"1838": {
+			"Id": 1838,
+			"Chapter": 569,
+			"Name": "調試",
 			"Sort": 0
 		},
 		"184": {

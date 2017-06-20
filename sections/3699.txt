@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e不斷的寫 test -XXX xxx\n寫起來 好傻 shell 提供了 [] 判斷符 可以將 test 省略 型別\n[ -XXX xxx ]\n\u003cstrong\u003e[] 和 裏面的內容 必須用 空格 隔開\u003c/strong\u003e\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003ex='kate beckinsale'\nif [ \"$x\" == 'kate beckinsale' -o \"$x\" == '邱淑貞' ];then\n\techo ok\nelse\n\techo no\nfi\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esh [-nvx] scripts.sh\nbash [-nvx] scripts.sh\n\n-n\t不執行 僅僅檢查 腳本語法是否正確\n-v\t執行前 顯示 腳本 內存\n-x\t執行 並顯示解析後 執行的 腳本內容\n\u003c/pre\u003e"
