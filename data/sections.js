@@ -25730,5 +25730,19 @@ var __v=[
 			"Name": "Clementine",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3718,
+			"Panel": 1845,
+			"Name": "mplayer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3719,
+			"Panel": 1846,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
