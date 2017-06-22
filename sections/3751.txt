@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//快進/退 10秒\nright/left\n\n//快進/退 1分鐘\nup/down\n\n//快進/退 10分鐘\nPgUp/PgDn\n\n\n//暫停/播放\np\nspace\n\n//停止並退出\nq\nesc\n\n//靜音\nm\n\n//降低/升高 音量\n9/0\n\u003c/pre\u003e"

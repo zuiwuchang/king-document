@@ -5621,6 +5621,12 @@ var __v={
 			"Name": "/etc/gshadow",
 			"Sort": 0
 		},
+		"1852": {
+			"Id": 1852,
+			"Chapter": 575,
+			"Name": "快捷鍵",
+			"Sort": 0
+		},
 		"186": {
 			"Id": 186,
 			"Chapter": 73,

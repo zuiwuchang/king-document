@@ -10,5 +10,11 @@ var __v=[
 			"Chapter": 575,
 			"Name": "常用命令",
 			"Sort": 0
+		},
+		{
+			"Id": 1852,
+			"Chapter": 575,
+			"Name": "快捷鍵",
+			"Sort": 0
 		}
 	]
