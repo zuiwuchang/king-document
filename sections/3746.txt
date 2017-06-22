@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/etc/group 檔案記錄了 群組管理員 信息\n每個群組一行 四個字段\n內容類似 如下\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eking@king-company ~ $ sudo head -n 4 /etc/gshadow\nroot:*::\ndaemon:*::\nbin:*::\nsys:*::\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e第二個字段 在linux 早期用來記錄密碼 現在 固定使用 x 站位\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/etc/passwd 檔案記錄了系統的所有帳號信息\n每個帳號一行 七個字段\n內容類似 如下\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eking@king-company ~ $ head -4 /etc/passwd\nroot:x:0:0:root:/root:/bin/bash\ndaemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin\nbin:x:2:2:bin:/bin:/usr/sbin/nologin\nsys:x:3:3:sys:/dev:/usr/sbin/nologin\n\u003c/pre\u003e"

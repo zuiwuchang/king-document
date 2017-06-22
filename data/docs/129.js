@@ -70,5 +70,11 @@ var __v=[
 			"Doc": 129,
 			"Name": "shell script",
 			"Sort": 418
+		},
+		{
+			"Id": 576,
+			"Doc": 129,
+			"Name": "帳號與ACL權限設定",
+			"Sort": 425
 		}
 	]

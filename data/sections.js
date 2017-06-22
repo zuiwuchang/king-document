@@ -25744,5 +25744,208 @@ var __v=[
 			"Name": "常用命令",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3720,
+			"Panel": 1847,
+			"Name": "/etc/passwd ",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3721,
+			"Panel": 1847,
+			"Name": "帳號名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3722,
+			"Panel": 1847,
+			"Name": "x",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3723,
+			"Panel": 1847,
+			"Name": "uid",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3724,
+			"Panel": 1847,
+			"Name": "初始用戶組gid",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3725,
+			"Panel": 1847,
+			"Name": "用戶說明",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3726,
+			"Panel": 1847,
+			"Name": "home 目錄",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3727,
+			"Panel": 1847,
+			"Name": "shell",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3728,
+			"Panel": 1848,
+			"Name": "/etc/shadow",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3729,
+			"Panel": 1848,
+			"Name": "帳號名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3730,
+			"Panel": 1848,
+			"Name": "密碼",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3731,
+			"Panel": 1848,
+			"Name": "密碼變動日期",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3732,
+			"Panel": 1848,
+			"Name": "密碼不可變動時間",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3733,
+			"Panel": 1848,
+			"Name": "密碼過期天數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3734,
+			"Panel": 1848,
+			"Name": "密碼過期 提醒",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3735,
+			"Panel": 1848,
+			"Name": "密碼失效天數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3736,
+			"Panel": 1848,
+			"Name": "帳號失效",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3737,
+			"Panel": 1848,
+			"Name": "保留",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3740,
+			"Panel": 1850,
+			"Name": "/etc/group",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3741,
+			"Panel": 1850,
+			"Name": "群組名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3742,
+			"Panel": 1850,
+			"Name": "x",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3743,
+			"Panel": 1850,
+			"Name": "gid",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3744,
+			"Panel": 1850,
+			"Name": "帳號",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3745,
+			"Panel": 1850,
+			"Name": "有效群組",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3746,
+			"Panel": 1851,
+			"Name": "/etc/gshadow",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3747,
+			"Panel": 1851,
+			"Name": "群組名",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3748,
+			"Panel": 1851,
+			"Name": "密碼",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3749,
+			"Panel": 1851,
+			"Name": "群組管理員",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3750,
+			"Panel": 1851,
+			"Name": "帳號",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

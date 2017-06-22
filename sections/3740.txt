@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/etc/group 檔案記錄了 群組信息\n每個群組一行 四個字段\n內容類似 如下\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eking@king-company ~ $ cat /etc/group|egrep ,\nadm:x:4:syslog,king\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e/etc/shadow 檔案記錄了帳號對應的密碼信息\n每個帳號一行 九個字段\n內容類似 如下\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eking@king-company ~ $ sudo head -4 /etc/shadow\nroot:$6$cqmiv...:17163:0:99999:7:::\ndaemon:*:16980:0:99999:7:::\nbin:*:16980:0:99999:7:::\nsys:*:16980:0:99999:7:::\u003c/pre\u003e"
