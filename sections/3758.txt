@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e$SHELL 環境變量 只記錄了 用戶登入的 shell\n如果 用戶 切換了shell $SHELL不能顯示出 當前使用的 shell\n此時 可用 先 獲取 shell的 pid 之後 通過ps中 pid對應的 shell 獲取當前shell \n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eking@king-company ~/bin $ ps -f | egrep `echo $$` | egrep -v \"(grep)|(ps)|(awk)\" | awk '$2=='`echo $$`'{print $8}'\nbash\u003c/pre\u003e"

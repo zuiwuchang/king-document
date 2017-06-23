@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//查詢 帳號 uid gid\nid\n\n//查詢可用 shell\nchsh -l\ncat /etc/shells\n\n//查看當前 sehll\necho $SHELL\n\n//修改 shell\nchsh -s\n\u003c/pre\u003e"

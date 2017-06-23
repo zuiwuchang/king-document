@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//刪除 帳號\nuserdel 帳號名\n\t-r\t//同時刪除 帳號的 home 檔案夾\n\u003c/strong\u003e"

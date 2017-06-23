@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//修改 帳號\nusermod 帳號名\n\t-c\t//修改帳號 說明文字\n\t-d\t//... home 檔案夾 \n\t-e\t//... 密碼失效日期\n\t-f\t//... 密碼失效 天數\n\t-g\t//... 初始群組\n\t-G\t//... 群組\n\t-a\t//和 -G 配合 新增群組 而非 設定\n\t-l\t//修改帳號 名\n\t-s\t//... shell\n\t-u\t//... uid\n\t-L\t//passwd 帳號名 -l\n\t-U\t//passwd 帳號名 -u\n\n//將 dark 加入 adm群組\nsudo usermod dark -aG adm\n\u003c/strong\u003e"
