@@ -5540,7 +5540,7 @@ var __v={
 		"1839": {
 			"Id": 1839,
 			"Chapter": 434,
-			"Name": "bash shell scripts",
+			"Name": "shell scripts",
 			"Sort": 3
 		},
 		"184": {

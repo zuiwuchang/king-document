@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003eSublime Tools-\u0026gt;Build System-\u0026gt;New Build System 配置之\n{\n\t\"cmd\":[\"bash\", \"$file\"],\n\t\"selector\":\"source.shell\"\n}\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003eSublime Tools-\u0026gt;Build System-\u0026gt;New Build System 配置之\n{\n\t\"cmd\":[\"$file\"],\n\t\"selector\":\"source.shell\"\n}\n\u003c/pre\u003e"

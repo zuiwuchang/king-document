@@ -8,7 +8,7 @@ var __v=[
 		{
 			"Id": 1839,
 			"Chapter": 434,
-			"Name": "bash shell scripts",
+			"Name": "shell scripts",
 			"Sort": 3
 		},
 		{
