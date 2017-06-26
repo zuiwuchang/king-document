@@ -28,5 +28,23 @@ var __v=[
 			"Chapter": 576,
 			"Name": "帳號管理",
 			"Sort": 0
+		},
+		{
+			"Id": 1854,
+			"Chapter": 576,
+			"Name": "群組管理",
+			"Sort": 0
+		},
+		{
+			"Id": 1855,
+			"Chapter": 576,
+			"Name": "ACL",
+			"Sort": 0
+		},
+		{
+			"Id": 1856,
+			"Chapter": 576,
+			"Name": "帳號身份切換",
+			"Sort": 0
 		}
 	]

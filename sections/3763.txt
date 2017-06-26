@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eACL既Access Control List  的簡寫\n\n傳統的linux 權限 只提供了針對 owner group others 的 read write execute 權限設定\nACL 則提供了 爲檔案/檔案夾 提供多個 用戶/群組 不同的 r w x 權限設置\n\u003c/pre\u003e"

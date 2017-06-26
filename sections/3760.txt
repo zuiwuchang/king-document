@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//修改群組\ngroupmod [-g gid] [-n 新組名] 組名\n-g gid\t\t//修改 gid\n-n 新組名\t//修改組名\n\u003c/pre\u003e"

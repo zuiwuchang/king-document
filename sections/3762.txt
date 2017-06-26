@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cstrong\u003e(root)\u003c/strong\u003e\n//爲群組 創建密碼\ngpasswd 組名\ngpasswd [-A user1,...] [-M user2,...] 組名\ngpasswd [-rR] 組名\n\t-A\t//將用戶設置爲群組管理員\t\n\t-M\t//將用戶加入群組\n\t-r\t//刪除密碼\n\t-R\t//讓密碼失效\n\n\u003cstrong\u003e(群組管理員)\u003c/strong\u003e\ngpasswd [-ad] 用戶名 組名\n\t-a\t//將用戶加入群組\n\t-d\t//將用戶踢出群組\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//新建群組\ngroupadd 組名\n\t-g gid\t//新群組使用指定的 gid\n\t-r\t//新建系統群組\n\u003c/pre\u003e"
