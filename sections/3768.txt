@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esockscap64 是一個 windows 下的 透明代理工具\n\n官網 \u003ca href=\"https://www.sockscap64.com/zh-hant/\" target=\"_blank\"\u003ehttps://www.sockscap64.com/zh-hant/\u003c/a\u003e\n\u003c/pre\u003e"
