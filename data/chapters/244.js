@@ -16,5 +16,11 @@ var __v=[
 			"Chapter": 244,
 			"Name": "__VA_ARGS__ 可變長參數",
 			"Sort": 0
+		},
+		{
+			"Id": 1858,
+			"Chapter": 244,
+			"Name": "獲取系統平臺",
+			"Sort": 0
 		}
 	]

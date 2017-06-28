@@ -5657,6 +5657,12 @@ var __v={
 			"Name": "sockscap64",
 			"Sort": 0
 		},
+		"1858": {
+			"Id": 1858,
+			"Chapter": 244,
+			"Name": "獲取系統平臺",
+			"Sort": 0
+		},
 		"186": {
 			"Id": 186,
 			"Chapter": 73,

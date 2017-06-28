@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#ifdef linux\n\tstd::cout\u0026lt;\u0026lt;\"linux\"\u0026lt;\u0026lt;std::endl;\n#endif\n\n#ifdef WIN32\n\tstd::cout\u0026lt;\u0026lt;\"win32\"\u0026lt;\u0026lt;std::endl;\n#endif\u003c/pre\u003e"
