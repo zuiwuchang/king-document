@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果需要釋放 so\ndlclose 的 數量 應該 == dlopen\n\n一旦 so 被釋放 就能不在 使用 dlopen中的 任何符號\n\u003c/pre\u003e"

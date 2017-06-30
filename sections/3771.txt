@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;dlfcn.h\u0026gt;\nlink: -ldl\n\ndlfcn.h 中提供了 幾個函數 用於 動態加載 *.so\n\u003c/pre\u003e"

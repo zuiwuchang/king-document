@@ -192,7 +192,7 @@ var __v=[
 			"Id": 34,
 			"Pid": 15,
 			"Name": "開源項目",
-			"Sort": 9,
+			"Sort": 3,
 			"Docs": 0
 		},
 		{
@@ -350,20 +350,6 @@ var __v=[
 			"Docs": 1
 		},
 		{
-			"Id": 62,
-			"Pid": 15,
-			"Name": "遊戲開發",
-			"Sort": 4,
-			"Docs": 0
-		},
-		{
-			"Id": 63,
-			"Pid": 62,
-			"Name": "遊戲引擎",
-			"Sort": 1,
-			"Docs": 1
-		},
-		{
 			"Id": 64,
 			"Pid": 1,
 			"Name": "c/c++",
@@ -416,7 +402,7 @@ var __v=[
 			"Id": 71,
 			"Pid": 15,
 			"Name": "編程語言",
-			"Sort": 8,
+			"Sort": 0,
 			"Docs": 0
 		},
 		{
@@ -451,7 +437,7 @@ var __v=[
 			"Id": 76,
 			"Pid": 15,
 			"Name": "Windows",
-			"Sort": 10,
+			"Sort": 2,
 			"Docs": 1
 		},
 		{
@@ -486,7 +472,7 @@ var __v=[
 			"Id": 81,
 			"Pid": 15,
 			"Name": "遊戲開發",
-			"Sort": 11,
+			"Sort": 4,
 			"Docs": 1
 		},
 		{
@@ -508,7 +494,7 @@ var __v=[
 			"Pid": 81,
 			"Name": "遊戲引擎",
 			"Sort": 3,
-			"Docs": 2
+			"Docs": 3
 		},
 		{
 			"Id": 85,
@@ -521,6 +507,13 @@ var __v=[
 			"Id": 87,
 			"Pid": 20,
 			"Name": "windows",
+			"Sort": 1,
+			"Docs": 1
+		},
+		{
+			"Id": 88,
+			"Pid": 15,
+			"Name": "linux",
 			"Sort": 1,
 			"Docs": 1
 		},
