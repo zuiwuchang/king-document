@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emesg n 不能拒收 root的 消息\n\nwrite 如果 不寫 終端 而同一用戶 登入了多個終端 無法確定 誰會收到消息\n可以使用 w/who 查詢 終端\n\u003c/pre\u003e"

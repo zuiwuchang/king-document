@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esudo 默認必須運行在tty下 \n故不能在 /etc/rc.d/rc.local 中使用 若要在此使用 需要設置 可以非在tty下使用\nvisudo 將 \u003cstrong\u003eDefaults    requiretty\u003c/strong\u003e 註釋掉\n\u003c/pre\u003e"

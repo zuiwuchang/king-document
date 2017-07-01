@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e直接使用 su 不會讀取 root 環境配置\n使用 su - 或 su -l root\n\u003c/pre\u003e"

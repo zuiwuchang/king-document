@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux 可以在登入的用戶間 發送消息\n\n//查看 mesg 設置狀態\nmesg\n\n//接收消息\nmesg y\n\n//拒收消息\nmesg n\n\n//廣播消息\nwall \"向登錄linux的用户 广播消息\"\n\n\n//向指定用戶 發送 消息\nwrite 用戶名 [所在終端]\t\n\tctrl + d 接收 消息 編寫 並發送\n\u003c/pre\u003e"

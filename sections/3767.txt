@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//切換到 其它用戶(需要用戶密碼)\nsu [-lm] [-c 命令] [uname]\n\t[uname]\t要切換到的用戶名 默認root\n\t-\t\t以login-shell登入  (默認以 nologin-shell \u003cstrong\u003e登入故不會 讀取環境變量等配置信息\u003c/strong\u003e)\n\t-l\t\t//同 - 但必須直到 切換到的 用戶名\n\t-m\t\t//使用現在的 環境設置 不要讀取切換到的用戶配置檔案\n\t-p\t\t//同 -m\n\t-c\t\t//僅執行一次命令後登出\n\u003c/pre\u003e"

@@ -44,7 +44,19 @@ var __v=[
 		{
 			"Id": 1856,
 			"Chapter": 576,
-			"Name": "帳號身份切換",
+			"Name": "帳號身份切換 su",
+			"Sort": 0
+		},
+		{
+			"Id": 1861,
+			"Chapter": 576,
+			"Name": "sudo",
+			"Sort": 0
+		},
+		{
+			"Id": 1862,
+			"Chapter": 576,
+			"Name": "使用者查詢",
 			"Sort": 0
 		}
 	]
