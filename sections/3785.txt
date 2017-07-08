@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//靜態庫\ncmake .. -G \"MinGW Makefiles\" -DCMAKE_BUILD_TYPE=Debug -DPOCO_STATIC=1\ncmake .. -G \"MinGW Makefiles\" -DCMAKE_BUILD_TYPE=Release -DPOCO_STATIC=1\n\n//動態庫\ncmake .. -G \"MinGW Makefiles\" -DCMAKE_BUILD_TYPE=Debug\ncmake .. -G \"MinGW Makefiles\" -DCMAKE_BUILD_TYPE=Release\n\u003c/pre\u003e"

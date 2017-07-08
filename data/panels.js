@@ -5693,6 +5693,12 @@ var __v={
 			"Name": "使用者查詢",
 			"Sort": 0
 		},
+		"1863": {
+			"Id": 1863,
+			"Chapter": 335,
+			"Name": "環境配置 win32 mingw cmake",
+			"Sort": 0
+		},
 		"187": {
 			"Id": 187,
 			"Chapter": 73,
@@ -11048,7 +11054,7 @@ var __v={
 		"999": {
 			"Id": 999,
 			"Chapter": 335,
-			"Name": "環境配置 mingw",
+			"Name": "環境配置 make",
 			"Sort": 0
 		}
 	}

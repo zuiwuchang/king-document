@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e雖然使用 gcc 編譯 但亦依然需要 使用 vs命令行工具 進行cmake\n(poco的cmake檔案使用了 vs的mc工具 構建消息)\n\u003c/pre\u003e"

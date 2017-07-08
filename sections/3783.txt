@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003emkdir cmake_build \u0026\u0026 cmake_build\u003c/li\u003e\n\t\u003cli\u003ecmake .. -G \"MinGW Makefiles\" -DCMAKE_BUILD_TYPE=Release -DPOCO_STATIC=1\u003c/li\u003e\n\t\u003cli\u003emake\u003c/li\u003e\n\u003c/ol\u003e"
