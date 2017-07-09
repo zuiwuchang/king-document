@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ePoco 需要 mysql5.5 及 以前的驅動(就是被 Oracle 收購前的版本)\n同時 需要設置 環境變量 指示 mysql安裝位置\nset MYSQL_DIR=E:\\program\\database\\lib\\mysql-5.5.36-win32\ncmake .. ...\n\u003c/pre\u003e\n"

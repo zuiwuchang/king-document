@@ -26185,5 +26185,19 @@ var __v=[
 			"Name": "cmake",
 			"Sort": 2,
 			"Str": ""
+		},
+		{
+			"Id": 3786,
+			"Panel": 1863,
+			"Name": "fix bug 動態庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3787,
+			"Panel": 1863,
+			"Name": "not found mysql",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
