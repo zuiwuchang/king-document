@@ -5699,6 +5699,18 @@ var __v={
 			"Name": "環境配置 win32 mingw cmake",
 			"Sort": 0
 		},
+		"1864": {
+			"Id": 1864,
+			"Chapter": 579,
+			"Name": "七原罪",
+			"Sort": 0
+		},
+		"1865": {
+			"Id": 1865,
+			"Chapter": 580,
+			"Name": "lust",
+			"Sort": 0
+		},
 		"187": {
 			"Id": 187,
 			"Chapter": 73,
