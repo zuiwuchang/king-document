@@ -5711,6 +5711,12 @@ var __v={
 			"Name": "lust",
 			"Sort": 0
 		},
+		"1866": {
+			"Id": 1866,
+			"Chapter": 580,
+			"Name": "Asmodeus",
+			"Sort": 0
+		},
 		"187": {
 			"Id": 187,
 			"Chapter": 73,
