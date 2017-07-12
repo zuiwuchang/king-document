@@ -26220,5 +26220,19 @@ var __v=[
 			"Name": "Asmodeus",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3791,
+			"Panel": 1867,
+			"Name": "gluttony",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3792,
+			"Panel": 1868,
+			"Name": "Beelzebub",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
