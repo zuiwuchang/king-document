@@ -5729,10 +5729,22 @@ var __v={
 			"Name": "Beelzebub",
 			"Sort": 0
 		},
+		"1869": {
+			"Id": 1869,
+			"Chapter": 582,
+			"Name": "greed",
+			"Sort": 0
+		},
 		"187": {
 			"Id": 187,
 			"Chapter": 73,
 			"Name": "slice struct",
+			"Sort": 0
+		},
+		"1870": {
+			"Id": 1870,
+			"Chapter": 582,
+			"Name": "Manmon",
 			"Sort": 0
 		},
 		"188": {
