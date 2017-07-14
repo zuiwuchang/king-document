@@ -26255,5 +26255,19 @@ var __v=[
 			"Name": "Manmon",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3796,
+			"Panel": 1871,
+			"Name": "sloth",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3797,
+			"Panel": 1872,
+			"Name": "Belphegor",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

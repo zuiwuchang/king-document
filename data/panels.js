@@ -5747,6 +5747,18 @@ var __v={
 			"Name": "Manmon",
 			"Sort": 0
 		},
+		"1871": {
+			"Id": 1871,
+			"Chapter": 583,
+			"Name": "sloth",
+			"Sort": 0
+		},
+		"1872": {
+			"Id": 1872,
+			"Chapter": 583,
+			"Name": "Belphegor",
+			"Sort": 0
+		},
 		"188": {
 			"Id": 188,
 			"Chapter": 73,
