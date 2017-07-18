@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003cimg src='/sections/3799/image/Samael.jpg' style=\"max-width: 100%;\"\u003e\n\nSamael 中文稱 薩麥爾\n\u003c/pre\u003e"
