@@ -28,5 +28,17 @@ var __v=[
 			"Doc": 133,
 			"Name": "懶惰 sloth",
 			"Sort": 432
+		},
+		{
+			"Id": 584,
+			"Doc": 133,
+			"Name": "憤怒 wrath",
+			"Sort": 433
+		},
+		{
+			"Id": 585,
+			"Doc": 133,
+			"Name": "嫉妒 envy",
+			"Sort": 434
 		}
 	]

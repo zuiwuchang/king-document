@@ -5759,6 +5759,30 @@ var __v={
 			"Name": "Belphegor",
 			"Sort": 0
 		},
+		"1873": {
+			"Id": 1873,
+			"Chapter": 584,
+			"Name": "wrath",
+			"Sort": 0
+		},
+		"1874": {
+			"Id": 1874,
+			"Chapter": 584,
+			"Name": "Samael",
+			"Sort": 0
+		},
+		"1875": {
+			"Id": 1875,
+			"Chapter": 585,
+			"Name": "envy",
+			"Sort": 0
+		},
+		"1876": {
+			"Id": 1876,
+			"Chapter": 585,
+			"Name": "Leviathan",
+			"Sort": 0
+		},
 		"188": {
 			"Id": 188,
 			"Chapter": 73,

@@ -26269,5 +26269,33 @@ var __v=[
 			"Name": "Belphegor",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3798,
+			"Panel": 1873,
+			"Name": "wrath",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3799,
+			"Panel": 1874,
+			"Name": "Samael",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3800,
+			"Panel": 1875,
+			"Name": "envy",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3801,
+			"Panel": 1876,
+			"Name": "Leviathan",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
