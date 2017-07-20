@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003etuple 支持 \u0026lt; == \u0026gt; ... 比較\n其對元素 進行 逐個比較\n\ntuple 只有一個元素 \u003cstrong\u003et = (5)\u003c/strong\u003e 是錯誤寫法\npython 不會將 () 作爲 tuple 定義 python 認爲是 \u003cstrong\u003et = 5\u003c/strong\u003e\n正確寫法爲 \u003cstrong\u003et = (5,)\u003c/strong\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eint\n\t-973\n\t1234567890\n\t(phton 整數大小 只受限於 內存)\n\nstr\n\t\"可用雙引號\"\n\t'可用單引號'\n\t(可以使用 [] 獲取 字符 但無法修改\n\tpython中 字符串 是 const 型別\n\t實際上 python 沒有 字符 字符是 長度為1的 字符串)\n\n型別 轉化 寫法 同 go [好吧其實是 go 借鑒的 python語法]\nint(\"  123 \")\n\u003c/pre\u003e"

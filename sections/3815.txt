@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecollections.namedtuple 函數 提供了 命名 tuple\n使可以使用 tuple.name 訪問 tuple 元素\n\nnamedtuple 接收兩個字符串 參數 \n參數1 爲型別指定一個 名稱\n參數2 以 空格隔開 指定 tuple 每項元素對應 屬性名\n\n命名tuple 亦可 += *= \n但 之後將 變成普通的 tuple 於是將 失去 通過屬性名訪問的 能力\n\u003c/pre\u003e"

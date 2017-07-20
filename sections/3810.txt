@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e序列支持 成員關係操作符(in) 大小計算函數(len()) 分片([]) 並且可迭代\n\npython 提供了5種內置序列 bytearray bytes list str tuple\n\u003c/pre\u003e"

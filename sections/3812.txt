@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\nt = (1,2,3,4)\nl = list(t)\nl[0]=100\nprint(type(l),l)\nt1 = tuple(l)\nprint(type(t1),t1)\nprint(t1 is not t) #True\u003c/pre\u003e"

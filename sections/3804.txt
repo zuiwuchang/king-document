@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e元組(boost::tuple) 使用 () 定義\n列表(std::vector) 使用 [] 定義\n\u003cpre class='prettyprint linenums'\u003et = (1,2,3)\nprint(t,t[0],len(t),type(t))\n\nl = [1,2,3]\nl.append(4)\nprint(l,l[0],len(l),type(l))\u003c/pre\u003e...\n\u003c/pre\u003e"

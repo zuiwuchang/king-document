@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對象引用 將 變量 與 內存對象 聯繫\n使用 引用計數 自動管理 內存\n\npython 包括 int 也是 一個 到 內存 int的 引用\n只不過 其和 字符串一樣 是 const 型別\nx=1\nprint(type(x))\n\n\u003cstrong\u003etype 可以返回數據型別\u003c/strong\u003e\n\u003c/pre\u003e"

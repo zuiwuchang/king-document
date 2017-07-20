@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003edef funName(args ...)\n\u003cpre class='prettyprint linenums'\u003edef Min(l,r):\n\tif l \u0026gt; r:\n\t\treturn r\n\treturn l\nprint(Min(1,2))\u003c/pre\u003e\n每個函數 至少有1個 返回值 默認 None\n函數可返回 多個值 會被包裝到 tuple 中\n\u003c/pre\u003e"

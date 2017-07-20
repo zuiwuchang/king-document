@@ -26297,5 +26297,103 @@ var __v=[
 			"Name": "Leviathan",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3802,
+			"Panel": 1231,
+			"Name": "數據型別",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3803,
+			"Panel": 1231,
+			"Name": "對象引用",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3804,
+			"Panel": 1231,
+			"Name": "組合數據",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3805,
+			"Panel": 1231,
+			"Name": "邏輯運算符",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3806,
+			"Panel": 1231,
+			"Name": "控制語句",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3807,
+			"Panel": 1231,
+			"Name": "算術運算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3808,
+			"Panel": 1231,
+			"Name": "輸入/輸出",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3809,
+			"Panel": 1231,
+			"Name": "函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3810,
+			"Panel": 1877,
+			"Name": "序列",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3811,
+			"Panel": 1879,
+			"Name": "tuple 元組",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3812,
+			"Panel": 1879,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3814,
+			"Panel": 1879,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3815,
+			"Panel": 1880,
+			"Name": "collections",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3816,
+			"Panel": 1880,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
