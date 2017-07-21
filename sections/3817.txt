@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elist 類似 tuple 只是 使用 [] 創建\n而且 列表是 可修改\n\u003c/pre\u003e"

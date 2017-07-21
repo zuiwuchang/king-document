@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\nl=[]\nfor i in range(1,10):\t#[start,end)\n\tl.append(i)\n\n#[1, 2, 3, 4, 5, 6, 7, 8, 9]\nfor i in range(len(l)):\t#[0,end)\n\tprint(l[i])\n\u003c/pre\u003e"

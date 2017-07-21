@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epython 中 如果 參數 帶\u003cstrong\u003e*\u003c/strong\u003e 其會自動產分到何時數量的 參數 傳遞給函數\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\ndef showSum(a,b,c):\n\tprint(a+b+c)\n\nl=(1,2,3,4,5)\nshowSum(*l[:3])\t#6\nshowSum(1,*l[1:3])\t#6\nshowSum(*l[0:2],3)\t#6\n\n\u003c/pre\u003e"
