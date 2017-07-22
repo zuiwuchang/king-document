@@ -26437,5 +26437,19 @@ var __v=[
 			"Name": "分片",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3823,
+			"Panel": 1882,
+			"Name": "pride",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3824,
+			"Panel": 1883,
+			"Name": "Lucifer",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

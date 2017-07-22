@@ -5813,6 +5813,18 @@ var __v={
 			"Name": "list 列表",
 			"Sort": 0
 		},
+		"1882": {
+			"Id": 1882,
+			"Chapter": 587,
+			"Name": "pride",
+			"Sort": 0
+		},
+		"1883": {
+			"Id": 1883,
+			"Chapter": 587,
+			"Name": "Lucifer",
+			"Sort": 0
+		},
 		"189": {
 			"Id": 189,
 			"Chapter": 73,
