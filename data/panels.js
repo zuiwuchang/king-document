@@ -5825,6 +5825,18 @@ var __v={
 			"Name": "Lucifer",
 			"Sort": 0
 		},
+		"1884": {
+			"Id": 1884,
+			"Chapter": 586,
+			"Name": "set 集合",
+			"Sort": 0
+		},
+		"1885": {
+			"Id": 1885,
+			"Chapter": 586,
+			"Name": "frozenset 固定集合",
+			"Sort": 0
+		},
 		"189": {
 			"Id": 189,
 			"Chapter": 73,

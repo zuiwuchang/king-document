@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eset 類似 boost::unordered_set 是一個 哈希容器\n所有內置的 固定型別入 float frozenset int str tuple 都可存儲\ndict list set 等 可變型別(變化會改變hash) 不可存儲\n\nset 支持 in len() 同時 亦是 iterable\n\nset 支持 比較\n\u0026lt;\n\u0026lt;=\n==\n!=\n\u0026gt;\n\u0026gt;=\n使用逐項比較\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\n#創建 包含 兩個元素 的集合\ncmd = set((\"-h\",\"-test\"))\n#cmd = set({\"-h\",\"-test\"})\n\n#測試 是否存在 指定元素\nif \"-h\" in cmd:\n\tprint(cmd)\n\n#移除元素\ncmd.discard(3)\n#cmd.remove(3) KeyError\n\n#遍歷 集合\nfor key in cmd:\n\tprint(key)\u003c/pre\u003e"

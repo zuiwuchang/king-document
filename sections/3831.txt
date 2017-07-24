@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efrozenset 和 set 沒有本質的區別\n只是 frozenset 不可修改集合中的 元素罷了\n\nfrozenset 支持 set 所有不修改 集合元素的 方法\n\nfrozenset 只能通過 frozenset(set) 創建\n\u003c/pre\u003e"
