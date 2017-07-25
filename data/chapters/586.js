@@ -34,5 +34,17 @@ var __v=[
 			"Chapter": 586,
 			"Name": "frozenset 固定集合",
 			"Sort": 0
+		},
+		{
+			"Id": 1886,
+			"Chapter": 586,
+			"Name": "dict 字典",
+			"Sort": 0
+		},
+		{
+			"Id": 1887,
+			"Chapter": 586,
+			"Name": "默認字典",
+			"Sort": 0
 		}
 	]

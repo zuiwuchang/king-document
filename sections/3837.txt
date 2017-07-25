@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecollections 包中的 defaultdict 提供了匿名字典 \n其方法 基本同 dict \n只是 當 c[k] 不存在時 不會產生 KeyError 異常 而是自動 創建 c[k]\ncollections.defaultdict(f) 接收一個 函數 f 用於 創建 默認 的 項目\n\u003c/pre\u003e"

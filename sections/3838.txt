@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\nimport collections\n\n#創建一個 默認字典 默認值爲 int()\nc = collections.defaultdict(int)\nprint(c[1])\n\n#創建一個 默認字典 默認值爲 -1\nc = collections.defaultdict(lambda :-1)\nprint(c[1])\u003c/pre\u003e"
