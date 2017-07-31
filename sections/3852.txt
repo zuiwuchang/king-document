@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;hex.h\u0026gt;\n\nHexEncoder\t轉換數據為16進制(字符串不會添加字符串結尾標誌 0)\nHexDecoder\n\u003c/pre\u003e"

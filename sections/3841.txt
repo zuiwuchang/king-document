@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebase64以3個字節為一組 編碼為4字節(64位) 故編碼後長度為 (len+2)/3*4\n\u003c/pre\u003e"

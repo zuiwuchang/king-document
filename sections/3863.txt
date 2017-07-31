@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\tCryptoPP::SHA512 sha;\n\tstd::string str;\n\tCryptoPP::FileSource(\"a.exe\", true, \n\t\tnew CryptoPP::HashFilter(sha,\n\t\t\tnew CryptoPP::HexEncoder(new CryptoPP::StringSink(str))\n\t\t\t)\n\t\t);\n\tstd::cout\u0026lt;\u0026lt;str\u0026lt;\u0026lt;std::endl;\u003c/pre\u003e"

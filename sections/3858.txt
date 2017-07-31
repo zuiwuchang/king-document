@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;filters.h\u0026gt;\n\nStringSource代表了一個 字符串資源\n\nCryptoPP::StringSource source(pub_data,true);\n\n同時其可以將一個字符串 或 byte* 作為輸入流 傳遞給 其他加密解密器\nCryptoPP::StringSource(pub_hex,true,new CryptoPP::HexDecoder(new CryptoPP::StringSink(pub_data)));\n\u003c/pre\u003e"

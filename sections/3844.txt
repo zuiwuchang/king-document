@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eElectronic Code Book(电子密码本模式)\n每次加密都产生独立的分组 各组互不干扰\n\u003c/pre\u003e"

@@ -26542,5 +26542,215 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3839,
+			"Panel": 1888,
+			"Name": "摘要算法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3840,
+			"Panel": 1889,
+			"Name": "base64",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3841,
+			"Panel": 1889,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3842,
+			"Panel": 1890,
+			"Name": "對稱加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3843,
+			"Panel": 1890,
+			"Name": "工作模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3844,
+			"Panel": 1890,
+			"Name": "ECB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3845,
+			"Panel": 1890,
+			"Name": "CBC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3846,
+			"Panel": 1890,
+			"Name": "CFB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3847,
+			"Panel": 1890,
+			"Name": "OFB",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3848,
+			"Panel": 1890,
+			"Name": "CTR",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3849,
+			"Panel": 1890,
+			"Name": "填充方式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3850,
+			"Panel": 1891,
+			"Name": "非對稱加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3851,
+			"Panel": 1892,
+			"Name": "cryptopp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3852,
+			"Panel": 1893,
+			"Name": "HexEncoder",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3853,
+			"Panel": 1893,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3854,
+			"Panel": 1893,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3855,
+			"Panel": 1894,
+			"Name": "FileSink",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3856,
+			"Panel": 1894,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3857,
+			"Panel": 1895,
+			"Name": "StringSink",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3858,
+			"Panel": 1896,
+			"Name": "StringSource",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3859,
+			"Panel": 1897,
+			"Name": "FileSource",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3860,
+			"Panel": 1898,
+			"Name": "摘要",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3861,
+			"Panel": 1898,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3862,
+			"Panel": 1898,
+			"Name": "hmac",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3863,
+			"Panel": 1898,
+			"Name": "檔案摘要",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3864,
+			"Panel": 1899,
+			"Name": "對稱加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3865,
+			"Panel": 1899,
+			"Name": "Example 字符串加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3866,
+			"Panel": 1899,
+			"Name": "Example 二進制數據加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3867,
+			"Panel": 1900,
+			"Name": "非對稱加密",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3868,
+			"Panel": 1900,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

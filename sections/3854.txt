@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eHexEncoder\t維持一個輸出緩衝區 Put將 加密後 的 密文 寫入 輸出緩衝區 尾\n\t\tGet 從緩衝區中讀取密文 並從緩衝區中清空讀取的內容\n\t\tPeek\t和Get  方法類似 只是Peek並不清除緩衝區內容      \n\t\tSkipAll()\t清空緩衝區\n\t\tSkip(n);\t清空緩衝區前n個字節\n\u003c/pre\u003e"

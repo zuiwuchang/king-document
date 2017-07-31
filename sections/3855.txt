@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;files.h\u0026gt;\n\n\tFileSink 代表一個 文件資源 可將地址傳入到一些 加密器 解密器 的構造函數中 用以替代默認的輸出緩衝區 以將結果寫入到文件\n\tCryptoPP::HexEncoder hex(new CryptoPP::FileSink(\"private.txt\"));\n\u003c/pre\u003e"

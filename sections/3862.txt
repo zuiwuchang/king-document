@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\t//構造加密器\n\tbyte key[]\t\t\t=\t\"kthis is key\";\n\tCryptoPP::HMAC\u0026lt;CryptoPP::SHA512\u0026gt; mac(key,sizeof(key));\u003c/pre\u003e"

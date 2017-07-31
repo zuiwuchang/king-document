@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e//包含了密匙填充模式的定義\u003cbr\u003e#include \u0026lt;modes.h\u0026gt;\u003c/li\u003e\n\t\u003cli\u003e構造加密器\u003c/li\u003e\n\t\u003cli\u003e設置加密key\u003c/li\u003e\n\t\u003cli\u003e定義工作模式\u003c/li\u003e\n\t\u003cli\u003e加密(解碼)\u003c/li\u003e\n\u003c/ol\u003e"

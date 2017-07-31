@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;files.h\u0026gt;\n\nStringSink 性質和FileSink一樣 只是將輸出緩衝區 定位到 std::string(不支持 std::wstring) 而非文件\n\u003c/pre\u003e"

@@ -5849,10 +5849,82 @@ var __v={
 			"Name": "默認字典",
 			"Sort": 0
 		},
+		"1888": {
+			"Id": 1888,
+			"Chapter": 588,
+			"Name": "摘要算法",
+			"Sort": 0
+		},
+		"1889": {
+			"Id": 1889,
+			"Chapter": 588,
+			"Name": "base64",
+			"Sort": 0
+		},
 		"189": {
 			"Id": 189,
 			"Chapter": 73,
 			"Name": "pipelines",
+			"Sort": 0
+		},
+		"1890": {
+			"Id": 1890,
+			"Chapter": 588,
+			"Name": "對稱加密",
+			"Sort": 0
+		},
+		"1891": {
+			"Id": 1891,
+			"Chapter": 588,
+			"Name": "非對稱加密",
+			"Sort": 0
+		},
+		"1892": {
+			"Id": 1892,
+			"Chapter": 589,
+			"Name": "cryptopp",
+			"Sort": 0
+		},
+		"1893": {
+			"Id": 1893,
+			"Chapter": 589,
+			"Name": "HexEncoder HexDecoder",
+			"Sort": 0
+		},
+		"1894": {
+			"Id": 1894,
+			"Chapter": 589,
+			"Name": "FileSink",
+			"Sort": 0
+		},
+		"1895": {
+			"Id": 1895,
+			"Chapter": 589,
+			"Name": "StringSink",
+			"Sort": 0
+		},
+		"1896": {
+			"Id": 1896,
+			"Chapter": 589,
+			"Name": "StringSource",
+			"Sort": 0
+		},
+		"1897": {
+			"Id": 1897,
+			"Chapter": 589,
+			"Name": "FileSource",
+			"Sort": 0
+		},
+		"1898": {
+			"Id": 1898,
+			"Chapter": 589,
+			"Name": "摘要",
+			"Sort": 0
+		},
+		"1899": {
+			"Id": 1899,
+			"Chapter": 589,
+			"Name": "對稱加密",
 			"Sort": 0
 		},
 		"19": {
@@ -5865,6 +5937,12 @@ var __v={
 			"Id": 190,
 			"Chapter": 73,
 			"Name": "模板變量",
+			"Sort": 0
+		},
+		"1900": {
+			"Id": 1900,
+			"Chapter": 589,
+			"Name": "非對稱加密",
 			"Sort": 0
 		},
 		"191": {

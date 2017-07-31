@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebase64 嚴格來說 不是加密算法 它只是把 原文替換為 人眼不能直接識別的 64個字符組合\nUrlBase64 用其他符號替換了base64在url中不允許出現的字符 以用於在url中傳輸 二進制數據\n\u003c/pre\u003e"

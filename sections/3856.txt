@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eFileSink 必須new 而且傳入 加密器 解密器後 不能delete 加密解密器 在析構函數中 會delete之\n\u003c/pre\u003e"

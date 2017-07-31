@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對稱加密 使用公鑰加密(N,e) 私鑰解密(N,d) 故可公開公鑰 \n常見算法 rsa\n\u003c/pre\u003e"
