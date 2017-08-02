@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enode-inspector 提供了 類似 chrome 的調試功能\n\n//安裝 node-inspector\nnpm install -g node-inspector\n\n//運行 node-inspector\nnode-inspector\n\u003c/pre\u003e"

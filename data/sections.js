@@ -26752,5 +26752,166 @@ var __v=[
 			"Name": "Example",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3869,
+			"Panel": 1901,
+			"Name": "node.js",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3870,
+			"Panel": 1902,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3871,
+			"Panel": 1902,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3872,
+			"Panel": 1903,
+			"Name": "模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3873,
+			"Panel": 1904,
+			"Name": "創建模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3874,
+			"Panel": 1904,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3875,
+			"Panel": 1904,
+			"Name": "module.exports",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3876,
+			"Panel": 1904,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3877,
+			"Panel": 1905,
+			"Name": "包",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3878,
+			"Panel": 1905,
+			"Name": "package.json",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3879,
+			"Panel": 1905,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3880,
+			"Panel": 1906,
+			"Name": "npm",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3881,
+			"Panel": 1906,
+			"Name": "命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3882,
+			"Panel": 1907,
+			"Name": "調試",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3883,
+			"Panel": 1907,
+			"Name": "命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3884,
+			"Panel": 1908,
+			"Name": "遠程調試",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3885,
+			"Panel": 1908,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3886,
+			"Panel": 1909,
+			"Name": "Eclipse",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3887,
+			"Panel": 1910,
+			"Name": "node-inspector",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3888,
+			"Panel": 1911,
+			"Name": "global",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3889,
+			"Panel": 1912,
+			"Name": "process",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3890,
+			"Panel": 1912,
+			"Name": "stdin",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3891,
+			"Panel": 1912,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

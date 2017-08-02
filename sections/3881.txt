@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//本地 模式 安裝包\nnpm i 包名\nnpm install 包名\n\t包安裝在 當前目錄的 node_modules 下\n\n//全局 模式 安裝包\nnpm i -g 包名\nnpm install -g 包名\n\t包安裝在 當前目錄的 $NODE_HOME/lib/node_modules 下\n\n//創建 符合 包要求 的 package.json 檔案\nnpm init\n\n//發佈包\nnpm publish\n\n//刪除 發佈的 包\nnpm unpublish\n\u003c/pre\u003e"

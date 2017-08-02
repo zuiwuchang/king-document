@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eprocess.exit 和 c 的exit 不同 雖然會強制結束結束進程\n但 process.exit 會先 通知 所有 註冊了 process exit 事件的回調 \n\u003c/pre\u003e"

@@ -5945,10 +5945,82 @@ var __v={
 			"Name": "非對稱加密",
 			"Sort": 0
 		},
+		"1901": {
+			"Id": 1901,
+			"Chapter": 590,
+			"Name": "node.js",
+			"Sort": 0
+		},
+		"1902": {
+			"Id": 1902,
+			"Chapter": 590,
+			"Name": "linux 安裝",
+			"Sort": 0
+		},
+		"1903": {
+			"Id": 1903,
+			"Chapter": 591,
+			"Name": "模塊",
+			"Sort": 0
+		},
+		"1904": {
+			"Id": 1904,
+			"Chapter": 591,
+			"Name": "創建模塊",
+			"Sort": 0
+		},
+		"1905": {
+			"Id": 1905,
+			"Chapter": 591,
+			"Name": "包",
+			"Sort": 0
+		},
+		"1906": {
+			"Id": 1906,
+			"Chapter": 591,
+			"Name": "npm",
+			"Sort": 0
+		},
+		"1907": {
+			"Id": 1907,
+			"Chapter": 592,
+			"Name": "本地調試",
+			"Sort": 0
+		},
+		"1908": {
+			"Id": 1908,
+			"Chapter": 592,
+			"Name": "遠程調試",
+			"Sort": 0
+		},
+		"1909": {
+			"Id": 1909,
+			"Chapter": 592,
+			"Name": "Eclipse",
+			"Sort": 0
+		},
 		"191": {
 			"Id": 191,
 			"Chapter": 73,
 			"Name": "模板函數",
+			"Sort": 0
+		},
+		"1910": {
+			"Id": 1910,
+			"Chapter": 592,
+			"Name": "node-inspector",
+			"Sort": 0
+		},
+		"1911": {
+			"Id": 1911,
+			"Chapter": 593,
+			"Name": "global",
+			"Sort": 0
+		},
+		"1912": {
+			"Id": 1912,
+			"Chapter": 593,
+			"Name": "process",
 			"Sort": 0
 		},
 		"192": {

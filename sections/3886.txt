@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enode 的調試 實際是由 v8 提供的\nEclipse 支持了 v8的 調試協議 故 可作爲 調試 連接客戶端\n\n然 像 Eclipse 這種卡成狗的 東西 估計連 甚麼都不會的sb都無法忍受\n\u003c/pre\u003e"

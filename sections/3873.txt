@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e模塊中 會自動創建一個 exports 的 {}\nrequire 的返回值 其實 就是這個 exports 對象 \n\u003c/pre\u003e"

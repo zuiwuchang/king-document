@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//打開遠程調試 在 指定端口 默認 5858\nnode --debug[=port] xxx.js\n\n//...\n//但會暫停 腳本 等待客戶連接\nnode --debug-brk[=port] xxx.js\n\n//連接 調試 服務器\nnode debug address:port \n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eglobal 用於保存 全局 變量 所有 全局變量 都是 global 的 屬性\n在 node 無法 直接 定義 全局變量 變量 最外層作用域只能到 模塊\n\n一定要定義 全局變量 只能 global.XXX =\n\tglobal.alert = console.log\n\u003c/pre\u003e"

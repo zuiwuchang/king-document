@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 node 一個檔案(可以是 js c/c++ 編寫的模塊) 就是 一個模塊\n\n使用 require 傳入模塊名 加載 模塊\nrequire 返回 模塊對象\n\u003c/pre\u003e"

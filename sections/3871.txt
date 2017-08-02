@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enode 需要依賴其它幾個庫 如 libuv1\n可以先 使用 apt 等 命令 安裝 平臺 自帶的舊版本(sudo apt install nodejs) 自動安裝好 依賴\n在手動 安裝 最新 node \n\u003c/pre\u003e"

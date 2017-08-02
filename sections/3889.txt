@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eprocess 是一個全局變量 其包含了 當前進程相關信息\n\n//pid\nprocess.pid\n\n//進程參數 \n//[0] = node\n//[1] = xxx.js\n//[2:] = params\nprocess.argv\n\n//stdout\nprocess.stdout\n\n//stdin\nprocess.stdin\n\n//下次執行 事件循環時 調用 callback\nprocess.nextTick(callback)\n\n//退出進程\nprocess.exit([code])\n\n//當前平臺 linux/\nprocess.platform\n\u003c/pre\u003e"

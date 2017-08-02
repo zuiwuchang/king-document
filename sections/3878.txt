@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 包的 檔案夾下 創建 一個 package.json 的配置 可以對包進行 更詳細的 描述\nnpm init 可以創建一個 package.json 檔案\n\nname\t包名\nmain\t包入口檔案\n...\n\u003c/pre\u003e"

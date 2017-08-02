@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enpm 是 node 官方提供的 包 管理 工具\n可以方便的 進行 包的 發佈 下載 安裝 升級 刪除\n\n包搜索 \u003ca href=\"http://npmjs.org\" target=\"_blank\"\u003ehttp://npmjs.org\u003c/a\u003e\n\u003c/pre\u003e"

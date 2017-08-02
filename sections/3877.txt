@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enode 的 包 只是 將 模塊 進行了進一步的整合\n\n要創建一個 包 直接創建一個 檔案夾 在裏面 創建一個 index.js/index.node 模塊即可\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003emodule.exports 不一定要是 一個 {}\n從技術上講 module.exports 可以是 任何 js 型別 比如一個 函數\nrequire 只是簡單的將其 返回 並且避免重複加載 \n\u003cstrong\u003e不過 一般來說 module.exports 依然只是一個 {} \u003c/strong\u003e\n\u003c/pre\u003e"

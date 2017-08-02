@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e得益與 v8 node 提供了 單步調試等 功能\n\n只需要 使用 node debug xxx.js 即可\n\u003c/pre\u003e"
