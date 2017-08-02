@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efs 模塊 對 檔案系統進行了封裝\n\n其api 基本都提供了 同步 和 異步 兩個版本\nfs.xxx\t\t//異步版本\nfs.xxxSync\t//同步版本\n\u003c/pre\u003e"

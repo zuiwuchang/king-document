@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eutil 模塊 提供了常用的 函數 集合\n\u003c/pre\u003e"

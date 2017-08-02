@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eutil.inspect(object, [showHide], [depth], [colors]) 將 任意對象 轉換爲 字符串\n通常用於 調試和 錯誤 輸出\n\tobject\t\t要轉換的對象\n\tshowHide\t如果爲 true 將輸出更多 隱藏信息\n\tdepth\t\t最大遞歸層 默認爲 2 如果爲null 不限制\n\tcolors\t\t如果爲 true 輸出將以 ANSI 顏色編碼\n\u003c/pre\u003e"

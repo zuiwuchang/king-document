@@ -26913,5 +26913,68 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3892,
+			"Panel": 1913,
+			"Name": "console",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3893,
+			"Panel": 1914,
+			"Name": "util",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3894,
+			"Panel": 1914,
+			"Name": "util.inspect",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3895,
+			"Panel": 1915,
+			"Name": "events",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3896,
+			"Panel": 1915,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3897,
+			"Panel": 1915,
+			"Name": "error 事件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3898,
+			"Panel": 1916,
+			"Name": "fs",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3899,
+			"Panel": 1916,
+			"Name": "readFile readFileSync",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3900,
+			"Panel": 1916,
+			"Name": "fs.open",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

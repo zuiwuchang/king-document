@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e全局變量 console 提供了控制檯的 標準輸出\n\n//類似 printf \n\u003cstrong\u003e//不過 多餘的 參數 會自動 以空格 隔開 輸出\n//會在結尾 輸出 換行\u003c/strong\u003e\nconsole.log([data], [...])\n\n//同 log 不過 輸出到 stderr\nconsole.error([data], [...])\n\n//同 error 不過同時會輸出 當前 棧信息\nconsole.trace([data], [...])\n\u003c/pre\u003e"

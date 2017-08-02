@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eevents 模塊的 EventEmitter 類 提供 了 事件的 封裝\n\n//爲事件 eventName 註冊 監聽器\nemitter.on(eventName, listener)\n\n//同 one 不過 監聽器 執行一次後 自動刪除\nemitter.once(eventName, listener)\n\n//刪除 監聽器\nemitter.removeListener(eventName, listener)\n\n//刪除 所有 監聽器\nemitter.removeAllListeners([eventName])\n\n//發送一個事件\nemitter.emit(eventName[, ...args])\n\u003c/pre\u003e"
