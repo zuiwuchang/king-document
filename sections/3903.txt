@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eio_service 的 stop 方法 不能保證 run 退出\nstop 只是讓 io_service 無法 投遞新的異步 事件\n\u003c/pre\u003e"
