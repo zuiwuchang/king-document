@@ -6047,10 +6047,40 @@ var __v={
 			"Name": "fs",
 			"Sort": 0
 		},
+		"1917": {
+			"Id": 1917,
+			"Chapter": 594,
+			"Name": "system",
+			"Sort": 0
+		},
+		"1918": {
+			"Id": 1918,
+			"Chapter": 594,
+			"Name": "error_code",
+			"Sort": 0
+		},
+		"1919": {
+			"Id": 1919,
+			"Chapter": 594,
+			"Name": "error_category",
+			"Sort": 0
+		},
 		"192": {
 			"Id": 192,
 			"Chapter": 73,
 			"Name": "Must",
+			"Sort": 0
+		},
+		"1920": {
+			"Id": 1920,
+			"Chapter": 594,
+			"Name": "system_error",
+			"Sort": 0
+		},
+		"1922": {
+			"Id": 1922,
+			"Chapter": 595,
+			"Name": "exception",
 			"Sort": 0
 		},
 		"193": {

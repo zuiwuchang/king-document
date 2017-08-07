@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eerror_code 使用 error_category 將 錯誤進行 分類\n\nerror_category 提供了兩個 虛函數\n\n//返回 類 描述\nvirtual const char *name() const BOOST_SYSTEM_NOEXCEPT\n\n//依據 錯誤碼 ev 返回 錯誤描述\nvirtual std::string message(int ev) const\n\u003c/pre\u003e"

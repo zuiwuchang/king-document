@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/system/system_error.hpp\u0026gt;\n\nboost::system 庫提供了 error_code system_error 用來 包裝 系統 錯誤\n一般  error_code 作爲 返回值 重載了 operator bool \nsystem_error 作爲 throw 拋出的異常\n\u003c/pre\u003e"

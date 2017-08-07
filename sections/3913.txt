@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#include \u0026lt;boost/exception/all.hpp\u0026gt;\n\nboost::exception 允許給 異常 添加 消息 如函數名 檔案位置 行 ...\n\n只需要 派生己 std::exception \n使用 BOOST_THROW_EXCEPTION 替代 throw \n使用 boost::diagnostic_information(e) 替代 e.what()\n\u003c/pre\u003e"

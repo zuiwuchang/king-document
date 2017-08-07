@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esystem_error 和 error_code 可以相互 轉換\n且是 std::exception 的子孫類\n\u003c/pre\u003e"

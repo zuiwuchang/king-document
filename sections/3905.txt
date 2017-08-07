@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eerror_code 通常有倆個值 系統返回值 錯誤描述\nerror_code 用 int 存儲 系統返回值 同時重載了 operator bool 如果 系統返回值 爲非0 operator bool 返回 ture 代表 存在一個 錯誤\n同時 boost 爲 標準輸出 特化了 error_code 可以直接 使用 std::cout 輸出 錯誤描述 \n\u003c/pre\u003e"

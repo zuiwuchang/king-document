@@ -26990,5 +26990,68 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3904,
+			"Panel": 1917,
+			"Name": "system_error",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3905,
+			"Panel": 1918,
+			"Name": "error_code",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3906,
+			"Panel": 1918,
+			"Name": "常用函數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3907,
+			"Panel": 1919,
+			"Name": "error_category",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3908,
+			"Panel": 1919,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3910,
+			"Panel": 1920,
+			"Name": "system_error",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3911,
+			"Panel": 1920,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3913,
+			"Panel": 1922,
+			"Name": "exception",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3914,
+			"Panel": 1922,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
