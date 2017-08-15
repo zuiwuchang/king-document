@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e需要將\nwxWidgets-XXX/lib/vc_xxx/mswu\nwxWidgets-XXX/lib/vc_xxx/mswud\n分別 設置 到 debug release 項目的 include 中 否則 會出現 無法 include setup.h 的錯誤\n\u003c/pre\u003e"
