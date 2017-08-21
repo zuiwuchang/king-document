@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e註冊表 \u003cstrong\u003eHKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\u003c/strong\u003e 下的子項 包含了 服務提供者 信息\n\n每個 子項目 包含 兩個 鍵值\nProtocolName\t\t//字符串\nPackedCatalogItem\t//二進制 提供者 信息\n\nPackedCatalogItem 是一個 char[MAX_PATH] 後跟一個 WSAPROTOCOL_INFOW 結構\n\u003c/pre\u003e"

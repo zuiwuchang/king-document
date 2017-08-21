@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eWinsock 2中 引入了 SPI 編程接口\n提供了 在 ring3 下 實現防火牆 等能力\n\nSPI 定義了 分層 服務提供者接口 sock api 調用 SPI 完成功能\n實現 自己的 服務提供者 即可 在 sock api 調用時 完成 過濾等功能 \n\u003c/pre\u003e"
