@@ -6101,6 +6101,18 @@ var __v={
 			"Name": "WSAPROTOCOL_INFOW",
 			"Sort": 0
 		},
+		"1926": {
+			"Id": 1926,
+			"Chapter": 597,
+			"Name": "rdesktop",
+			"Sort": 0
+		},
+		"1927": {
+			"Id": 1927,
+			"Chapter": 597,
+			"Name": "常用命令",
+			"Sort": 0
+		},
 		"193": {
 			"Id": 193,
 			"Chapter": 73,

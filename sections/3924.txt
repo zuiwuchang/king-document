@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003erdesktop 是一個開源(GPL) 的 windows NT 遠程桌面客戶端\n可以 讓linux 連接到 windows NT 的 遠程桌面\n\n官網 \u003ca href=\"http://www.rdesktop.org/\" target=\"_blank\"\u003ehttp://www.rdesktop.org/\u003c/a\u003e\nwiki \u003ca href=\"https://en.wikipedia.org/wiki/Rdesktop\" target=\"_blank\"\u003ehttps://en.wikipedia.org/wiki/Rdesktop\u003c/a\u003e\n\u003c/pre\u003e"
