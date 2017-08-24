@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003estart\t啓動服務\nstop\t停止服務\nrestart\t重啓服務\nreload\t重新加載設定\nenable\t設置開啓啓動\ndisable\t設置開機不啓動\nstatus\t顯示服務當中狀態\nis-active\t返回服務是否處於 運行中\nis-enabled\t返回服務是否設定開機啓動\n\u003c/pre\u003e"

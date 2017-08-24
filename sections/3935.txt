@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//查看 ssh 依賴的服務\nsystemctl list-dependencies ssh\n\n//查詢誰使用了 ssh\nsystemctl list-dependencies ssh --reverse\n\u003c/pre\u003e"

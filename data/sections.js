@@ -27158,5 +27158,47 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3930,
+			"Panel": 1929,
+			"Name": "systemctl",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3931,
+			"Panel": 1929,
+			"Name": "command",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3932,
+			"Panel": 1929,
+			"Name": "status",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3933,
+			"Panel": 1930,
+			"Name": "systemctl [command] [--type=TYPE] [--all]",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3934,
+			"Panel": 1930,
+			"Name": "查看所有服務",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3935,
+			"Panel": 1931,
+			"Name": "systemctl list-dependencies [unit] [--reverse]",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

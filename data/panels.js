@@ -6119,10 +6119,28 @@ var __v={
 			"Name": "signal",
 			"Sort": 0
 		},
+		"1929": {
+			"Id": 1929,
+			"Chapter": 598,
+			"Name": "systemctl",
+			"Sort": 0
+		},
 		"193": {
 			"Id": 193,
 			"Chapter": 73,
 			"Name": "模板 嵌套",
+			"Sort": 0
+		},
+		"1930": {
+			"Id": 1930,
+			"Chapter": 598,
+			"Name": "列舉系統所有服務",
+			"Sort": 0
+		},
+		"1931": {
+			"Id": 1931,
+			"Chapter": 598,
+			"Name": "查看服務依賴",
 			"Sort": 0
 		},
 		"194": {

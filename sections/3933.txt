@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecommand:\n\tlist-units\t(默認) 依據 unit 列出目前有啟動的 unit。若加上 --all 才會列出沒啟動的。\n\tlist-unit-files\t依據 /usr/lib/systemd/system/ 內的檔案，將所有檔案列表說明。\n--type=TYPE\tservice socket target ...\n\u003c/pre\u003e"

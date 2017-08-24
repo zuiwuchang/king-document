@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elinux kernerl 3 以上的版本 開始 提供了 新的 服務管理 機制 systemctl\n\n//命令形式\nsystemctl [command] [unit]\n\u003c/pre\u003e"
