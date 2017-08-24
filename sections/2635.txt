@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003eSetConsoleCtrlHandler 註冊的 HandlerRoutine 會在一個 新的 線程中被執行 其它線程不會被中斷掛起\n需要注意 同步和死鎖\n\n對於 CTRL_LOGOFF_EVENT CTRL_SHUTDOWN_EVENT CTRL_CLOSE_EVENT os 都有 超時設置\n且 在之後 os 爲其執行了 ExitProcess 函數\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003eSetConsoleCtrlHandler 註冊的 HandlerRoutine 會在一個 新的 線程中被執行 其它線程不會被中斷掛起\n需要注意 同步和死鎖\n\n對於 CTRL_LOGOFF_EVENT CTRL_SHUTDOWN_EVENT CTRL_CLOSE_EVENT os 都有 超時設置\n且 在之後 os 爲其執行了 ExitProcess 函數\n\nSetConsoleCtrlHandler 可以爲 事件 添加多個 處理函數 多次調用SetConsoleCtrlHandler即可\n\u003c/pre\u003e"

@@ -6113,6 +6113,12 @@ var __v={
 			"Name": "常用命令",
 			"Sort": 0
 		},
+		"1928": {
+			"Id": 1928,
+			"Chapter": 427,
+			"Name": "signal",
+			"Sort": 0
+		},
 		"193": {
 			"Id": 193,
 			"Chapter": 73,

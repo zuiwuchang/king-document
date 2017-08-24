@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在win32 的 signal 實現中\nsignal 的處理函數 在每次被回調後 都會被 註銷掉\n\nsignal不能像 SetConsoleCtrlHandler 一樣 註冊多個處理函數 只有最後一個註冊的 處理函數 有效\n\u003c/pre\u003e"
