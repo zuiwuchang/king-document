@@ -27200,5 +27200,89 @@ var __v=[
 			"Name": "systemctl list-dependencies [unit] [--reverse]",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3936,
+			"Panel": 1932,
+			"Name": "服務定義",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3937,
+			"Panel": 1932,
+			"Name": "服務配置檔案",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3938,
+			"Panel": 1932,
+			"Name": "Unit",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3939,
+			"Panel": 1932,
+			"Name": "Service",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3940,
+			"Panel": 1929,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3941,
+			"Panel": 1933,
+			"Name": "unit 分類",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3942,
+			"Panel": 1933,
+			"Name": "常見分類",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3943,
+			"Panel": 1934,
+			"Name": "相關目錄",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3944,
+			"Panel": 1934,
+			"Name": "查看需要 socket file 的 服務所在 檔案",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3945,
+			"Panel": 1932,
+			"Name": "Install",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3946,
+			"Panel": 1932,
+			"Name": "Restart 取值",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3947,
+			"Panel": 1932,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

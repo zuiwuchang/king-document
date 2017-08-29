@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e服務配置檔案\n使用 # 註釋\n\n存在 三個段 [Unit] [Service] [Install] 用於描述服務\n每個段落 使用 key=value 的方式 進行設置\nvalue如果有多個 項目 使用 空格隔開\nkey值如果 重複 以最後一個 key值 作爲有效值(所以可以使用 key= 空白 來取消一個 key的 設置)\n\u003c/pre\u003e"

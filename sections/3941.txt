@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esystemd 中 將 每個 服務 都作爲一個 unit 單元\n針對 每個 unit 又進行了 分類 用於 標註 其 類別 通過 副檔 名稱即可找到\n如 multi-user.target 的分類爲 target \nssh.service 的分類爲 service \n\u003c/pre\u003e"

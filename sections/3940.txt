@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 os 使用了 systemd 管理服務\n不要使用 使用 init.d/*** start (system V) 等舊式方式 管理服務 這樣 systemd 無法偵查到 服務狀態\n\n如果os 還沒 提供 systemd的服務 管理 那麼你該 換個os 不要 cosplay 上個世紀的 環境\n\u003c/pre\u003e"

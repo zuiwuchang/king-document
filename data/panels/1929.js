@@ -19,5 +19,12 @@ var __v=[
 			"Name": "status",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3940,
+			"Panel": 1929,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

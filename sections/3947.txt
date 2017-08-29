@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e[Unit]\nDescription=go echo 服務器\nAfter=network.target\n\n[Service]\nType=simple\nExecStart=/home/king/program/project/go/src/test-echo/s/s\nKillMode=process\nRestart=on-failure\n\n[Install]\nWantedBy=multi-user.target\u003c/pre\u003e"
