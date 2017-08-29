@@ -5595,13 +5595,13 @@ var __v={
 			"Id": 1847,
 			"Chapter": 576,
 			"Name": "/etc/passwd ",
-			"Sort": 0
+			"Sort": 11
 		},
 		"1848": {
 			"Id": 1848,
 			"Chapter": 576,
 			"Name": "/etc/shadow",
-			"Sort": 0
+			"Sort": 10
 		},
 		"185": {
 			"Id": 185,
@@ -5613,13 +5613,13 @@ var __v={
 			"Id": 1850,
 			"Chapter": 576,
 			"Name": "/etc/group",
-			"Sort": 0
+			"Sort": 9
 		},
 		"1851": {
 			"Id": 1851,
 			"Chapter": 576,
 			"Name": "/etc/gshadow",
-			"Sort": 0
+			"Sort": 8
 		},
 		"1852": {
 			"Id": 1852,
@@ -5631,25 +5631,25 @@ var __v={
 			"Id": 1853,
 			"Chapter": 576,
 			"Name": "帳號管理",
-			"Sort": 0
+			"Sort": 7
 		},
 		"1854": {
 			"Id": 1854,
 			"Chapter": 576,
 			"Name": "群組管理",
-			"Sort": 0
+			"Sort": 6
 		},
 		"1855": {
 			"Id": 1855,
 			"Chapter": 576,
 			"Name": "ACL",
-			"Sort": 0
+			"Sort": 5
 		},
 		"1856": {
 			"Id": 1856,
 			"Chapter": 576,
 			"Name": "帳號身份切換 su",
-			"Sort": 0
+			"Sort": 4
 		},
 		"1857": {
 			"Id": 1857,
@@ -5685,13 +5685,13 @@ var __v={
 			"Id": 1861,
 			"Chapter": 576,
 			"Name": "sudo",
-			"Sort": 0
+			"Sort": 3
 		},
 		"1862": {
 			"Id": 1862,
 			"Chapter": 576,
 			"Name": "使用者查詢",
-			"Sort": 0
+			"Sort": 1
 		},
 		"1863": {
 			"Id": 1863,
@@ -6159,6 +6159,12 @@ var __v={
 			"Id": 1934,
 			"Chapter": 598,
 			"Name": "systemd 的 daemon 運作過程相關的目錄簡介",
+			"Sort": 2
+		},
+		"1935": {
+			"Id": 1935,
+			"Chapter": 576,
+			"Name": "runuser",
 			"Sort": 2
 		},
 		"194": {

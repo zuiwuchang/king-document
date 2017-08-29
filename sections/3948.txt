@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003erunuser 指令只能由root 使用\n用於 在root 身份時 使用 另外一個 用戶 啓動一個 進程\n\n//runuser -u 用戶名 命令\nrunuser -u king echo yes\n\u003c/pre\u003e"
