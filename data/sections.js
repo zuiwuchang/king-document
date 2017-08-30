@@ -27354,5 +27354,124 @@ var __v=[
 			"Name": "Example Client",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3958,
+			"Panel": 1939,
+			"Name": "Cocos Creator",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3959,
+			"Panel": 1940,
+			"Name": "環境配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3960,
+			"Panel": 1939,
+			"Name": "發佈平臺",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3961,
+			"Panel": 1941,
+			"Name": "項目結構",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3962,
+			"Panel": 1941,
+			"Name": "assets 資源檔案夾",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3963,
+			"Panel": 1941,
+			"Name": "library 資源庫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3964,
+			"Panel": 1941,
+			"Name": "local 本地設置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3965,
+			"Panel": 1941,
+			"Name": "settings",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3966,
+			"Panel": 1941,
+			"Name": "project.json",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3967,
+			"Panel": 1941,
+			"Name": "build",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3968,
+			"Panel": 1942,
+			"Name": "場景",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3969,
+			"Panel": 1943,
+			"Name": "座標系",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3970,
+			"Panel": 1943,
+			"Name": "本地座標",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3971,
+			"Panel": 1943,
+			"Name": "錨點",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3972,
+			"Panel": 1944,
+			"Name": "層級管理器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3973,
+			"Panel": 1945,
+			"Name": "Canvas",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3974,
+			"Panel": 1945,
+			"Name": "空節點",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

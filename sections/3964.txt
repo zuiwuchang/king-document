@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elocal 保存了 項目本地設置 如 編輯器面板佈局 編輯器窗口大小 日誌 ...\n\n應該 在 git中 忽略掉此 檔案夾\n\u003c/pre\u003e"

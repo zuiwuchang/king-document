@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 使用opengl 進行渲染所以 使用了opengl一樣的 笛卡爾右手座標系\n\n原點在 屏幕左下角\n\u003c/pre\u003e"

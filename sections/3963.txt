@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003elibrary 下的資源是 assets中導入資源後自動產生的 其會被打包到最終的遊戲中\n\n應該 在 git中 忽略掉此 檔案夾\n\u003c/pre\u003e"

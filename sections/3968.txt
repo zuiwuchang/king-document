@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e場景 通常 保存在 assets/Scene 檔案夾下\n用於呈現遊戲中的某個場景 效果\n\n直接在 資源管理器中 右鍵鼠標-\u0026gt;新建-\u0026gt;Scene 即可創建一個場景\n\n場景會自動創建一個 Canvas 節點 所有子節點 都應該創建在 Canvas中\n\u003c/pre\u003e"

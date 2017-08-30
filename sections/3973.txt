@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e應該以 Canvas 作爲場景 根節點\n\nCanvas 提供了到 多分辨率的 自動縮放功能\n\u003c/pre\u003e\n"

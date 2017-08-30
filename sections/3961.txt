@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eProjectName (項目檔案夾)\n├──assets\n├──library\n├──local\n├──settings\n├──temp\n└──project.json\n\u003c/pre\u003e"

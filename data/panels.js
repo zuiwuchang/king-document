@@ -6185,10 +6185,58 @@ var __v={
 			"Name": "雙向驗證",
 			"Sort": 0
 		},
+		"1939": {
+			"Id": 1939,
+			"Chapter": 600,
+			"Name": "Cocos Creator",
+			"Sort": 0
+		},
 		"194": {
 			"Id": 194,
 			"Chapter": 74,
 			"Name": "proxychains",
+			"Sort": 0
+		},
+		"1940": {
+			"Id": 1940,
+			"Chapter": 600,
+			"Name": "環境配置",
+			"Sort": 0
+		},
+		"1941": {
+			"Id": 1941,
+			"Chapter": 600,
+			"Name": "項目結構",
+			"Sort": 0
+		},
+		"1942": {
+			"Id": 1942,
+			"Chapter": 601,
+			"Name": "Scene 場景",
+			"Sort": 0
+		},
+		"1943": {
+			"Id": 1943,
+			"Chapter": 601,
+			"Name": "座標系",
+			"Sort": 0
+		},
+		"1944": {
+			"Id": 1944,
+			"Chapter": 601,
+			"Name": "節點顯示順序",
+			"Sort": 0
+		},
+		"1945": {
+			"Id": 1945,
+			"Chapter": 601,
+			"Name": "其它",
+			"Sort": 0
+		},
+		"1946": {
+			"Id": 1946,
+			"Chapter": 602,
+			"Name": "攝像機",
 			"Sort": 0
 		},
 		"195": {
