@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eInsecureSkipVerify 設置爲 true 則不會效驗 證書中的 主機名 是否 和服務器 一致\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egolang 的 crypto/tls 包提供了 對 TLS 的實現\n網絡 操作 基本同 net 包 \n只是 再網絡工作之前 需要 配置好 證書選項\n\u003c/pre\u003e"

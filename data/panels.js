@@ -6167,6 +6167,24 @@ var __v={
 			"Name": "runuser",
 			"Sort": 2
 		},
+		"1936": {
+			"Id": 1936,
+			"Chapter": 599,
+			"Name": "TLS",
+			"Sort": 0
+		},
+		"1937": {
+			"Id": 1937,
+			"Chapter": 599,
+			"Name": "crypto/tls",
+			"Sort": 0
+		},
+		"1938": {
+			"Id": 1938,
+			"Chapter": 599,
+			"Name": "雙向驗證",
+			"Sort": 0
+		},
 		"194": {
 			"Id": 194,
 			"Chapter": 74,

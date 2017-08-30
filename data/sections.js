@@ -27291,5 +27291,68 @@ var __v=[
 			"Name": "runuser",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 3949,
+			"Panel": 1936,
+			"Name": "TLS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3950,
+			"Panel": 1936,
+			"Name": "生成證書",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3951,
+			"Panel": 1937,
+			"Name": "crypto/tls",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3952,
+			"Panel": 1937,
+			"Name": "Example Server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3953,
+			"Panel": 1937,
+			"Name": "Example Client",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3954,
+			"Panel": 1937,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3955,
+			"Panel": 1938,
+			"Name": "驗證客戶端",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3956,
+			"Panel": 1938,
+			"Name": "Example Server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 3957,
+			"Panel": 1938,
+			"Name": "Example Client",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

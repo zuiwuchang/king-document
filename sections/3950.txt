@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eopenssl 提供了 生成證書的 工具\n\n\t\nopenssl genrsa -out server.key 2048\nopenssl req -new -x509 -key server.key -out server.pem -days 3650\n\n\t\nopenssl genrsa -out client.key 2048\nopenssl req -new -x509 -key client.key -out client.pem -days 3650\n\u003c/pre\u003e"

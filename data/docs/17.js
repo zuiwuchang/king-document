@@ -72,51 +72,57 @@ var __v=[
 			"Sort": 11
 		},
 		{
+			"Id": 599,
+			"Doc": 17,
+			"Name": "crypto/tls",
+			"Sort": 12
+		},
+		{
 			"Id": 87,
 			"Doc": 17,
 			"Name": "encoding/binary",
-			"Sort": 12
+			"Sort": 13
 		},
 		{
 			"Id": 68,
 			"Doc": 17,
 			"Name": "net/rpc",
-			"Sort": 13
+			"Sort": 14
 		},
 		{
 			"Id": 73,
 			"Doc": 17,
 			"Name": "html/template",
-			"Sort": 14
+			"Sort": 15
 		},
 		{
 			"Id": 370,
 			"Doc": 17,
 			"Name": "sort",
-			"Sort": 225
+			"Sort": 16
 		},
 		{
 			"Id": 371,
 			"Doc": 17,
 			"Name": "path",
-			"Sort": 226
+			"Sort": 17
 		},
 		{
 			"Id": 372,
 			"Doc": 17,
 			"Name": "path/filepath",
-			"Sort": 227
+			"Sort": 18
 		},
 		{
 			"Id": 420,
 			"Doc": 17,
 			"Name": "os/exec",
-			"Sort": 275
+			"Sort": 19
 		},
 		{
 			"Id": 421,
 			"Doc": 17,
 			"Name": "os/signal",
-			"Sort": 276
+			"Sort": 20
 		}
 	]

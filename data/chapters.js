@@ -1725,19 +1725,19 @@ var __v={
 			"Id": 370,
 			"Doc": 17,
 			"Name": "sort",
-			"Sort": 225
+			"Sort": 16
 		},
 		"371": {
 			"Id": 371,
 			"Doc": 17,
 			"Name": "path",
-			"Sort": 226
+			"Sort": 17
 		},
 		"372": {
 			"Id": 372,
 			"Doc": 17,
 			"Name": "path/filepath",
-			"Sort": 227
+			"Sort": 18
 		},
 		"373": {
 			"Id": 373,
@@ -2061,13 +2061,13 @@ var __v={
 			"Id": 420,
 			"Doc": 17,
 			"Name": "os/exec",
-			"Sort": 275
+			"Sort": 19
 		},
 		"421": {
 			"Id": 421,
 			"Doc": 17,
 			"Name": "os/signal",
-			"Sort": 276
+			"Sort": 20
 		},
 		"422": {
 			"Id": 422,
@@ -3233,6 +3233,12 @@ var __v={
 			"Name": "服務管理",
 			"Sort": 445
 		},
+		"599": {
+			"Id": 599,
+			"Doc": 17,
+			"Name": "crypto/tls",
+			"Sort": 12
+		},
 		"6": {
 			"Id": 6,
 			"Doc": 1,
@@ -3291,7 +3297,7 @@ var __v={
 			"Id": 68,
 			"Doc": 17,
 			"Name": "net/rpc",
-			"Sort": 13
+			"Sort": 14
 		},
 		"69": {
 			"Id": 69,
@@ -3327,7 +3333,7 @@ var __v={
 			"Id": 73,
 			"Doc": 17,
 			"Name": "html/template",
-			"Sort": 14
+			"Sort": 15
 		},
 		"74": {
 			"Id": 74,
@@ -3417,7 +3423,7 @@ var __v={
 			"Id": 87,
 			"Doc": 17,
 			"Name": "encoding/binary",
-			"Sort": 12
+			"Sort": 13
 		},
 		"88": {
 			"Id": 88,
