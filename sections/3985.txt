@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLabel 組件提供了 文字排版的功能\nClamp\t截斷超過尺寸的會被隱藏\nShrink\t自動縮小文字到可以完全顯示\nResize Height\t自動適配尺寸高度到文字高度\n\u003c/pre\u003e"

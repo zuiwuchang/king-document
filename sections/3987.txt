@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 允許創建自定義的 Prefab 控件\n直接在場景中 創建好 節點 之後將其 拖放到 資源管理器中 即可\n\u003c/pre\u003e"

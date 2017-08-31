@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLayout 可以自動佈局其子節點\nType 屬性確定了佈局規則\nHorizontal\t水平佈局\nVertical\t\t垂直佈局\n\u003c/pre\u003e"

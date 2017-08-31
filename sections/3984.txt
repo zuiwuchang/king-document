@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eLabel 組件提供了 文字排版的功能\n\u003cimg src='/sections/3984/image/label.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

@@ -6239,10 +6239,64 @@ var __v={
 			"Name": "攝像機",
 			"Sort": 0
 		},
+		"1947": {
+			"Id": 1947,
+			"Chapter": 603,
+			"Name": "Canvas",
+			"Sort": 0
+		},
+		"1948": {
+			"Id": 1948,
+			"Chapter": 603,
+			"Name": "Widget 對齊組件",
+			"Sort": 0
+		},
+		"1949": {
+			"Id": 1949,
+			"Chapter": 603,
+			"Name": "Sprite 九宮格縮放",
+			"Sort": 0
+		},
 		"195": {
 			"Id": 195,
 			"Chapter": 74,
 			"Name": "安裝",
+			"Sort": 0
+		},
+		"1950": {
+			"Id": 1950,
+			"Chapter": 603,
+			"Name": "Label 文字排版",
+			"Sort": 0
+		},
+		"1951": {
+			"Id": 1951,
+			"Chapter": 603,
+			"Name": "Layout 自動佈局",
+			"Sort": 0
+		},
+		"1952": {
+			"Id": 1952,
+			"Chapter": 605,
+			"Name": "Prefab",
+			"Sort": 0
+		},
+		"1953": {
+			"Id": 1953,
+			"Chapter": 605,
+			"Name": "創建列表模板",
+			"Sort": 0
+		},
+		"1954": {
+			"Id": 1954,
+			"Chapter": 604,
+			"Name": "節點與組件",
+			"Sort": 0
+		},
+		"1955": {
+			"Id": 1955,
+			"Chapter": 604,
+			"Name": "新面板",
 			"Sort": 0
 		},
 		"196": {

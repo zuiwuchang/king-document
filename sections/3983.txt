@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eSprite 提供了一種 九宮格縮放 策略\n\u003cimg src='/sections/3983/image/Sprite.png' style=\"max-width: 100%;\"\u003e\n\n要使用 此功能 首先編輯圖像資源 設置九宮格 分別\n之後在 Sprite組件中 將Type設置爲 SLICED\n\u003c/pre\u003e"

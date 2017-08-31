@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果FitHeight FitWidth 都沒有被選中\nCanvas 自動選擇一種合適的 適配方式\n\u003c/pre\u003e"

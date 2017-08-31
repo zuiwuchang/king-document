@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 Canvas FitHeight 或 FitWidth 可能會使用 ui被剪裁到屏幕顯示之外\nWidget 提供了使ui相對 父節點進行佈局\n\n\u003cimg src='/sections/3981/image/Widget.PNG' style=\"max-width: 100%;\"\u003e\n除了可以設置 具體的 px 還可以使用 % (如 10%)\n\u003c/pre\u003e"

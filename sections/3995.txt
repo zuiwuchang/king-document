@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建 節點 並增加一個組件\nvar node = new cc.Node('Sprite');\nvar sp = node.addComponent(cc.Sprite);\n\n//創建一個 節點的深拷貝\nvar cloneNode = cc.instantiate(node);\n\n//銷毀節點\nnode.destroy();\n\n...\n\u003c/pre\u003e"

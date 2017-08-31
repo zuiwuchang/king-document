@@ -16,11 +16,5 @@ var __v=[
 			"Tag": 84,
 			"Name": "Irrlicht",
 			"Sort": 1
-		},
-		{
-			"Id": 137,
-			"Tag": 84,
-			"Name": "Cocos Creator",
-			"Sort": 1
 		}
 	]

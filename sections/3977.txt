@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eFitWidth 會將 Canvas 的寬度 縮放到屏幕寬度\n\u003c/pre\u003e"

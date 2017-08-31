@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCanvas 提供了 如何適配屏幕的方案\n其允許 適配高度 適配寬度 同時適配高寬 自動適配\n\n\u003cimg src='/sections/3975/image/c.png' style=\"max-width: 100%\"\u003e\n\u003c/pre\u003e"

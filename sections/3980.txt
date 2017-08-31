@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCanvas 只提供了等 寬高的縮放\n\n應該使用 Canvas 作爲場景的 根節點\n\u003c/pre\u003e"

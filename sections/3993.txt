@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//存儲了組件所在的 節點\nthis.node\n\n//返回節點上的其它組件\nthis.getComponent(cc.Label);\nthis.getComponent(\"cc.Label\");\nthis.getComponent(\"SinRotate\");\t//SinRotate.js\n\n...\n\u003c/pre\u003e"

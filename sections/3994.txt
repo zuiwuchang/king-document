@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 提供了幾個生命週期相關的 回調函數\nonLoad\t\t組件首次激活時觸發 (一般用於初始化組件)\nstart\t\t組件第一次激活前(onLoad 之後) 被調用 通常用於初始化 狀態數據\nupdate\t\t//遊戲每幀開始前\nlateUpdate\t//遊戲每幀結束後\nonDestroy\t//組件銷毀\nonEnable\t//當 組件 enabled 從 false 變爲 true\nonDisable\t//當 組件 enabled 從 true 變爲 false\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果同時選中 FitHeight FitWidth\nCanvas 會選中 能保證完整顯示到 屏幕中 FitHeight 或 FitWidth\n\u003c/pre\u003e"

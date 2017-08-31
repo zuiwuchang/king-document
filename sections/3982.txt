@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一般 ui 只需要佈局一次 就沒必要在運行中 不斷的 重複佈局 AlignOnce選項用於完成此功能\n如果 AlignOnce 被選中 初始化 佈局完成 後 會自動將 Widget 設置爲 enabled 爲false\n手動 將enabled 設置爲 true 可使用 Widget重新佈局一次\n\u003c/pre\u003e\n"
