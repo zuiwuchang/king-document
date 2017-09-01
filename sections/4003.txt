@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在事件回調中 會傳入一個 cc.Event 的事件對象\n其提供了 如下 接口\n\n//返回 事件名\ngetEventName ( )  String\n\n//返回當前 節點\ngetCurrentTarget ( )  Node\n\n//停止冒泡事件\nstopPropagation ( )\n\n//返回 設置 用戶自定義 數據\ngetUserData ( )  Any\nsetUserData ( Any )\n\t(實際是操作的 Event.detail 屬性)\n\u003c/pre\u003e"

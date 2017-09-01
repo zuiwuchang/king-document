@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於內置對象 可以使用 事件名 或者 類型 進行註冊\n\n\u003cpre class='prettyprint linenums'\u003e//使用 類型註冊\nnode.on(cc.Node.EventType.MOUSE_DOWN, function (event) {\n\tconsole.log('Mouse down');\n}, this);\n//使用 名稱註冊\nnode.on('mousedown', function (event) {\n\tconsole.log('Mouse down');\n}, this);\u003c/pre\u003e\u003c/pre\u003e\n"

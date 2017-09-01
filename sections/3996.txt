@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 cc.director.loadScene(\"場景名\"); 切換場景\n如果 成功返回 true\n\n使用 \ncc.director.preloadScene(\"場景名\", function () {\n\tcc.log(\"Next scene preloaded\");\n});\n預加載 場景\n\u003c/pre\u003e"

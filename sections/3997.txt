@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e即時 preloadScene 預加載的場景 還沒加載成功\n依然可以 調用 loadScene 切換到此場景 loadScene會等待場景加載\n\u003c/pre\u003e"

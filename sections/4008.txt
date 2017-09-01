@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 以提供了 全局系統事件 由 cc.systemEvent 統一派發 如\n鍵盤事件\n設備重力傳感事件\u003c/pre\u003e\n\n\u003cul\u003e\n\t\u003cli\u003ecc.SystemEvent.EventType.KEY_DOWN (鍵盤按下)\u003c/li\u003e\n\t\u003cli\u003ecc.SystemEvent.EventType.KEY_UP (键盘釋放)\u003c/li\u003e\n\t\u003cli\u003ecc.SystemEvent.EventType.DEVICEMOTION (設備重力傳感)\u003c/li\u003e\n\u003c/ul\u003e"

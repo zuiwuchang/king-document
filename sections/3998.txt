@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 只會同時加載一個場景 切換到其它場景 會銷毀掉當前場景和其所有節點\n如果 需要保留場景 節點 使用 \ncc.game.addPersistRootNode(rootNode);\n將節點聲明爲 常駐節點\n\u003cstrong\u003e(addPersistRootNode 只能添加 層級的根節點)\u003c/strong\u003e\n\n使用\ncc.game.removePersistRootNode(rootNode);\n取消常駐節點\n\u003cstrong\u003e(removePersistRootNode 不會銷毀節點 只是取消 常駐節點 屬性)\u003c/strong\u003e\n\u003c/pre\u003e\n"
