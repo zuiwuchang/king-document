@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//爲組件啓動一個 計時器 每5秒執行一次\ncomponent.scheduleOnce(function() {\n\t//這裏 this 指向 component\n\tthis.doSomething();\n},5);\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e緩動作 不可單獨存在 它可以讓基礎動作 又 快入 緩入 快出 等效果 基礎接口是 cc.ActionEase\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003evar aciton = cc.scaleTo(0.5, 2, 2);\naction.easing(cc.easeIn(3.0));\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='prettyprint linenums'\u003e//爲動作 設置 tag\nvar ACTION_TAG = 1;\naction.setTag(ACTION_TAG);\n\n//通過 tag 返回動作\nnode.getActionByTag(ACTION_TAG);\n\n//通過 tag 停止動作\nnode.stopActionByTag(ACTION_TAG);\u003c/pre\u003e"

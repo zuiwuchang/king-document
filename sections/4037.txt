@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eschedule 將執行 repeat + 1 次\n默認 一直執行\n\u003c/pre\u003e"

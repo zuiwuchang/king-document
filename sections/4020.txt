@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecc.speed 使動作 執行的更快或更慢\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e//讓動作花費的時間變爲之前的 0.5 倍\nvar action = cc.speed(\n\tcc.sequence(\n\t\tcc.moveBy(2, 200, 0), \n\t\tcc.moveBy(2, -200, 0)\n\t), 0.5);\nnode.runAction(action);\u003c/pre\u003e"

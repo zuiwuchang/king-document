@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於動作 cocos 都提供了三個api\nrepeat repeatForever speed\n用於 將 這三個動作可以 方便的 鏈式 書寫\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e//以 1/2 的速度 執行5次 來回移動\nvar action = cc.sequence(\n\tcc.moveBy(2, 200, 0), \n\tcc.moveBy(2, -200, 0)\n).repeat(5).speed(2);\nnode.runAction(action);\u003c/pre\u003e"

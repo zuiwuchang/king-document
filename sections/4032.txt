@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 爲組件提供了 靈活的計時器功能\n\u003c/pre\u003e"

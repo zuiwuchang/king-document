@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e基礎動作 完成了 形變 位移 等基本操作\n\n其中又分爲 \n時間間隔動作 實現了 cc.ActionInterval 接口\n即時動作 實現了 cc.ActionInstant 接口\n\u003c/pre\u003e"

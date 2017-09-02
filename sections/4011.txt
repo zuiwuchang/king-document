@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 提供了動作系統 其基礎接口時 cc.Action\n\u003c/pre\u003e\n"

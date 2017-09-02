@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecc.repeat 使動作 重複執行指定次數\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e//讓節點 來回移動 5次\nvar action = cc.repeat(\n\tcc.sequence(\n\t\tcc.moveBy(2, 200, 0), \n\t\tcc.moveBy(2, -200, 0)\n\t), 5);\nnode.runAction(action);\u003c/pre\u003e"

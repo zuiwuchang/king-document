@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e鏈式操作時 \n是 時間/speed\n而使用 cc.speed 動作 時\n是 時間*speed\n\t(顯然這種分裂 這是 cocos開發人員 又忘記吃藥)\n\u003c/pre\u003e"

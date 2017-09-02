@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//每5秒執行一次\nvar interval = 5;\n//執行3次 後停止\nvar repeat = 2;\n//延遲10秒 才開始執行\nvar delay = 10;\n//啓動計時器\ncomponent.schedule(function() {\n\tthis.doSomething();\n}, interval, repeat, delay);\u003c/pre\u003e"

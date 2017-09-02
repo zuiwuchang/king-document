@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecc.spawn 使多個動作 同步執行\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e//讓節點 移動的同時縮放\nvar action = cc.spawn(cc.moveBy(0.5, 0, 50), cc.scaleTo(0.5, 0.8, 1.4));\nnode.runAction(action);\n\u003c/pre\u003e"

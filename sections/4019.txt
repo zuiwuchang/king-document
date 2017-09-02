@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e//讓節點 持續來回移動\nvar action = cc.repeatForever(\n\tcc.sequence(\n\t\tcc.moveBy(2, 200, 0), \n\t\tcc.moveBy(2, -200, 0)\n\t)\n\t);\nnode.runAction(action);\u003c/pre\u003e"

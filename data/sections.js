@@ -27725,5 +27725,187 @@ var __v=[
 			"Name": "重力傳感",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4011,
+			"Panel": 1960,
+			"Name": "動作系統",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4012,
+			"Panel": 1960,
+			"Name": "創建動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4013,
+			"Panel": 1960,
+			"Name": "使用 tag 控制動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4014,
+			"Panel": 1961,
+			"Name": "基礎動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4015,
+			"Panel": 1962,
+			"Name": "容器動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4016,
+			"Panel": 1962,
+			"Name": "cc.sequence 順序",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4017,
+			"Panel": 1962,
+			"Name": "cc.spawn 同步",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4018,
+			"Panel": 1962,
+			"Name": "cc.repeat 重複n次",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4019,
+			"Panel": 1962,
+			"Name": "cc.repeatForever 一直重複",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4020,
+			"Panel": 1962,
+			"Name": "cc.speed 改變速率",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4021,
+			"Panel": 1962,
+			"Name": "鏈式操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4022,
+			"Panel": 1962,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4024,
+			"Panel": 1963,
+			"Name": "callFunc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4025,
+			"Panel": 1964,
+			"Name": "緩動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4026,
+			"Panel": 1964,
+			"Name": "曲線圖",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4027,
+			"Panel": 1965,
+			"Name": "接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4028,
+			"Panel": 1965,
+			"Name": "容器動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4029,
+			"Panel": 1965,
+			"Name": "即時動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4030,
+			"Panel": 1965,
+			"Name": "時間間隔動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4031,
+			"Panel": 1965,
+			"Name": "緩動作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4032,
+			"Panel": 1966,
+			"Name": "計時器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4033,
+			"Panel": 1966,
+			"Name": "開始一個計時器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4034,
+			"Panel": 1966,
+			"Name": "更靈活參數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4035,
+			"Panel": 1966,
+			"Name": "只執行一次",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4036,
+			"Panel": 1966,
+			"Name": "取消定時器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4037,
+			"Panel": 1966,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

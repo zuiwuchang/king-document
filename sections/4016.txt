@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecc.sequence 使多個動作 順序執行\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e//讓節點 來回移動\nvar action = cc.sequence(cc.moveBy(0.5, 200, 0), cc.moveBy(0.5, -200, 0));\nnode.runAction(action);\u003c/pre\u003e"

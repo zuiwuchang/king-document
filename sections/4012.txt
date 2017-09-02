@@ -1,0 +1,1 @@
+var __v="\u003cpre class='prettyprint linenums'\u003e//創建一個 移動動作\nvar action = cc.moveTo(2, 100, 100);\n\n//執行動作\nnode.runAction(action);\n\n//停止指定動作\nnode.stopAction(action);\n\n//停止所有動\nnode.stopAllActions();\u003c/pre\u003e"
