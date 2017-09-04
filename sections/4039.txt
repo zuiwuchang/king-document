@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e直接創建一個 js 檔案\n將要導出的 設置爲到 module.exports\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003emodule.exports = {\n    Version:\"v0.0.0\",\n    Show:function(){\n        console.log(this.Version);\n    },\n};\u003c/pre\u003e"

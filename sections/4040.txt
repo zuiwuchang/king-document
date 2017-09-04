@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 require 傳入檔案名 即可導入模塊\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003evar utils = require(\"utils\");\nutils.Show();\u003c/pre\u003e"

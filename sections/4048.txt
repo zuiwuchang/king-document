@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e雖然沒什麼用 然 cocos 提供了 SocketIO 一種 基於 WebSocket 的封裝 可用於 node.js 服務器\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e插件腳本 不支持 require 也不可被 require\n\u003c/pre\u003e"

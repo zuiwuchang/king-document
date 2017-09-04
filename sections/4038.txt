@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 提供了 蹩腳的 模塊 基本就是 蹩腳的抄襲 node\n\u003c/pre\u003e"

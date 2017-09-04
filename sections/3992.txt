@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003e在場景管理器中的元素 都是節點\n通過爲其增加組件 擴展功能\n\n一個組件 就是 一個 js 腳本 其派生自 cc.Component\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003e在場景管理器中的元素 都是節點\n通過爲其增加組件 擴展功能\n\n一個組件 就是 一個 js 腳本 其派生自 cc.Component\n\n如果要在組件中 設置全局變量 設置到 window 對象 即可\n\u003cstrong\u003ewindow.Version = \"v0.0.1\"\u003cstrong\u003e\n\u003c/pre\u003e"

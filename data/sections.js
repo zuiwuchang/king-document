@@ -27907,5 +27907,82 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4038,
+			"Panel": 1967,
+			"Name": "模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4039,
+			"Panel": 1967,
+			"Name": "創建模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4040,
+			"Panel": 1967,
+			"Name": "引入模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4041,
+			"Panel": 1967,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4042,
+			"Panel": 1968,
+			"Name": "插件腳本",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 4043,
+			"Panel": 1968,
+			"Name": "注意",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4044,
+			"Panel": 1968,
+			"Name": "全局變量",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 4045,
+			"Panel": 1969,
+			"Name": "網路",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4046,
+			"Panel": 1970,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4047,
+			"Panel": 1971,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4048,
+			"Panel": 1972,
+			"Name": "SocketIO",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

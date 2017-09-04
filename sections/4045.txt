@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 包裝了 標準的 瀏覽器 網路訪問功能\napi 基本同 瀏覽器 api\nXMLHttpRequest\nWebSocket\n\u003c/pre\u003e"
