@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從1到9隨便選擇一個數字 N\u003c/li\u003e\n\t\u003cli\u003e將 (N * 2 + 5) * 50 得到 N1\u003c/li\u003e\n\t\u003cli\u003e生日已經過 + 1767 否則 + 1766\u003c/li\u003e\n\t\u003cli\u003e-出生年份\u003c/li\u003e\n\t\u003cli\u003e結果爲3個數字 XYZ X爲選擇的數字YZ爲年齡\u003c/li\u003e\n\u003c/ol\u003e"

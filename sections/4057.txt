@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eN2 就得到 9 爲固定值了 最後 +4 只是爲了混淆 參與者\n\u003c/pre\u003e"

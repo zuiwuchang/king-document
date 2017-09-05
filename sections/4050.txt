@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//創建一個 對象池\nnew cc.NodePool()\n\n//返回對象池中 對象 數量\nsize ( )  Number\n\n//清空對象池\nclear ( )\n\n//將一個對象 加入 到對象池\nput ( obj )\n\n//從對象池中 返回一個對象\nget ( params )  Node | Null\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ex = (i+5)*3 - 15 一個數字 太容易暴光\n孤在此之上 想了個 兩個數字的 猜法 使結果x 和 原 數字更加隱蔽\n\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003efunc Dec(sum int) (int, int) {\n\tsum -= 74\n\ty := sum % 120 / 3\n\tx := sum / 120\n\treturn x, y\n}\nfunc Enc(x, y int) int {\n\tsum := (x*3+2)*40 + (y-2)*3\n\treturn sum\n}\u003c/pre\u003e"

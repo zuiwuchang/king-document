@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從1到9隨便選擇一個數字 N\u003c/li\u003e\n\t\u003cli\u003e將 N * 9 得到 N1\u003c/li\u003e\n\t\u003cli\u003e將 N1 的個位和十位相加得到 N2\u003c/li\u003e\n\t\u003cli\u003e將 N2 + 4 \u003c/li\u003e\n\t\u003cli\u003e猜測結果爲 13\u003c/li\u003e\n\u003c/ol\u003e"

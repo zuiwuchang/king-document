@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003epackage main\n\nimport \"fmt\"\nconst (\n\tSum = 1046\n)\nfunc main() {\n\tfmt.Println(Dec(Sum))\n}\nfunc Dec(sum int) (int, int) {\n\tsum -= 74\n\ty := sum % 120 / 3\n\tx := sum / 120\n\treturn x, y\n}\u003c/pre\u003e"

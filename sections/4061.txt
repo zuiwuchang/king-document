@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e從1到20隨便選擇一個數字 N\u003c/li\u003e\n\t\u003cli\u003e將 x = (i+5)*3 - 15\u003c/li\u003e\n\t\u003cli\u003e猜測選的數字是 x/3\u003c/li\u003e\n\u003c/ol\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e創建節點(cc.instantiate) 和銷毀節點(node.destroy) 將時一個十分耗時的 操作\n\ncocos 提供了 對象池 以提高遊戲性能\n\u003c/pre\u003e"
