@@ -28082,5 +28082,110 @@ var __v=[
 			"Name": "dec-go",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4066,
+			"Panel": 1982,
+			"Name": "Animation 組件",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4067,
+			"Panel": 1982,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4068,
+			"Panel": 1983,
+			"Name": "Animation  Clip",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4069,
+			"Panel": 1984,
+			"Name": "動畫編輯器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4070,
+			"Panel": 1984,
+			"Name": "編輯時間線",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4071,
+			"Panel": 1984,
+			"Name": "事件回調",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4072,
+			"Panel": 1985,
+			"Name": "播放",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4073,
+			"Panel": 1985,
+			"Name": "同時播放多個動畫",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4074,
+			"Panel": 1985,
+			"Name": "暫停 停止 恢復",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4075,
+			"Panel": 1985,
+			"Name": "設置動畫當前時間",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4076,
+			"Panel": 1986,
+			"Name": "AnimationState",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4077,
+			"Panel": 1986,
+			"Name": "獲取動畫信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4078,
+			"Panel": 1986,
+			"Name": "設置動畫信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4079,
+			"Panel": 1986,
+			"Name": "註冊回調",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4080,
+			"Panel": 1987,
+			"Name": "Animation Clip",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

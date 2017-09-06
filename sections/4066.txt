@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 提供了 Animation 組件 用於實現動畫系統\n一個節點 只需要一個 Animation 組件\n \n Animation 組件 包含如下 三個屬性\n DefaultClip\t默認播放時 動畫剪輯\n Clips\t\t可播放的剪輯數組\n PlayOnLoad\t如果選中 自動播放 DefaultClip\n\u003c/pre\u003e"

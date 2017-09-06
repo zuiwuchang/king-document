@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evar anim = this.getComponent(cc.Animation);\n\nanim.play('test');\n\n//暫停 test 動畫\nanim.pause('test');\n\n//暫停 所有動畫\n//anim.pause();\n\n//恢復 test 動畫\nanim.resume('test');\n\n//恢復 所有動畫\n//anim.resume();\n\n//停止 test 動畫\nanim.stop('test');\n\n//停止 所有動畫\n//anim.stop();\n\u003c/pre\u003e\n"

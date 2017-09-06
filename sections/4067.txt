@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 PlayOnLoad 爲true 自會播放 DefaultClip\n如果需要 同時播放 多個 剪輯 或依次播放剪輯 需要使用腳本 控制\n\u003c/pre\u003e"

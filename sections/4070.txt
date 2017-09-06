@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在兩個 關鍵幀 之間 默認 使用 均勻變化(Linear)\n雙擊 關鍵幀 連線 可以 修改 變化 曲線(並且 cocos 提供了幾種可選的預設曲線)\n\u003cimg src='/sections/4070/image/line.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

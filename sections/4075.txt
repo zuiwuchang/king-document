@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evar anim = this.getComponent(cc.Animation);\n\nanim.play('test');\n\n//設置 test 動畫 當前播放時間 爲 1s\nanim.setCurrentTime(1, 'test');\n\n//設置 所有動畫 當前播放時間 爲 1s\n//anim.setCurrentTime(1);\n\n\u003cstrong\u003e可以在任何 時候設置時間 然需要在動畫 下個 update 中 才會重新計算播放狀態\u003c/strong\u003e\n\u003c/pre\u003e"

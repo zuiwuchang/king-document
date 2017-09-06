@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclip 定義了動畫數據 然播放時候的 播放實例 則是 AnimationState\n\nvar anim = this.getComponent(cc.Animation);\n//play 等函數會返回 AnimationState\nvar animState = anim.play('test');\n\n//亦可直接返回 AnimationState\nvar animState = anim.getAnimationState('test');\n\u003c/pre\u003e"

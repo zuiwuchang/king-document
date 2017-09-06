@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//返回 Animation 組件\nvar anim = this.getComponent(cc.Animation);\n\n//播放 defaultClip 動畫\nanim.play();\n\n//播放 名稱爲 test 的動畫\nanim.play('test');\n\n//從 1秒 開始 播放 test 的動畫\nanim.play('test', 1);\n\n//使用 play 時 會停止其它 正在播放的 動畫\nanim.play('test2');\n\nplay 時 如果 要求的 動畫 \n處於 暫停 會繼續播放\n... 停止 ...重新播放\n... 播放 ...先停止後播放\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e使用 playAdditive  替換 play 即可同時播放多個 動畫\n\u003c/pre\u003e"
