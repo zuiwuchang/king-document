@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecocos 內置了一個簡單的 碰撞系統 支持 圓形 矩形 多邊形 間的 碰撞檢測\n\u003c/pre\u003e\n"

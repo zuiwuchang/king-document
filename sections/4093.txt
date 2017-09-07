@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e點測試 測試 是否有碰撞體會包含在一個世界座標系下的點\n\n如果測試成功 返回一個 包含這個點的 碰撞體\n\u003cstrong\u003e如果有多個 碰撞體同時 滿足 會返回一個隨機的 結果\u003c/strong\u003e\nvar collider = cc.director.getPhysicsManager().testPoint(point);\n\u003c/pre\u003e"

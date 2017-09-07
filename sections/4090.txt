@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ebox2d使用 米-千克-秒(MDS) 作爲單位\n2d遊戲一般使用 像素 所以需要一個 轉換比率\n只讀 cc.PhysicsManager.PTM_RATIO 定義了這個比率 通常是32\n\u003c/pre\u003e"

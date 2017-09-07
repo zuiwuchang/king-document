@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e矩形測試 將 測試 世界座標系下的一個矩形 如果任何碰撞體的包圍盒與這個矩形有重疊\n則將 碰撞體 添加到返回列表中\n\nvar colliderList = cc.director.getPhysicsManager().testAABB(rect);\n\u003c/pre\u003e"

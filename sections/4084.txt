@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e所有節點的 Node 屬性中都有個 Group 指定 節點所在的 碰撞分組\n\n在 菜單 項目-\u0026gt;項目設置-\u0026gt;分組管理 中可以 新增/改名分組\n以及確定 哪些分組中的 碰撞組件 可以碰撞 \n\n\u003cimg src='/sections/4084/image/1.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e默認重力是 (0, -320) 像素/秒^2 既 (0, -10) 米/秒^2\n\n//設置重力爲 0\ncc.director.getPhysicsManager().gravity = cc.v2();\n\n//設置 2倍 重力\ncc.director.getPhysicsManager().gravity = cc.v2(0, -640);\n\u003c/pre\u003e"

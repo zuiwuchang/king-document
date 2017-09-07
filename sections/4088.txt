@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e默認關閉物理系統 需要手動打開\ncc.director.getPhysicsManager().enabled = true;\n\u003c/pre\u003e"

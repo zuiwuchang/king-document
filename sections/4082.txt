@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e爲 節點 添加碰撞組件後 需要 勾選上 Editing 後\n才能 在 場景編輯器中 編輯碰撞組件\n\u003cimg src='/sections/4082/image/1.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"
