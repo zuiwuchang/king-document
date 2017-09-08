@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e只有開啓了碰撞監聽 剛體發生碰撞時才會回調到相應組件上\n\nrigidbody.enabledContactListener = true;\n\u003c/pre\u003e\n"

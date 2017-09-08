@@ -1,0 +1,1 @@
+var __v="\u003cul\u003e\n\t\u003cli\u003econnectedBody\t關節鏈接的另一端的剛體\u003c/li\u003e\n\t\u003cli\u003eanchor\t關節本端鏈接的剛體的錨點\u003c/li\u003e\n\t\u003cli\u003econnectedAnchor\t關節另外一端鏈接的剛體的錨點\u003c/li\u003e\n\t\u003cli\u003ecollideConnected\t關節兩端的剛體是否能夠互相碰撞\u003c/li\u003e\n\u003c/ul\u003e"

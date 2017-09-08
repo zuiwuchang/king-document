@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//直接返回\nvar out = rigidbody.getWorldPosition();\n\n//通過參數 返回\nout = cc.v2();\nrigidbody.getWorldPosition(out);\n\u003c/pre\u003e"

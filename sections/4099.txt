@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e剛體的質量是通過 碰撞組件 的密度和大小自動計算的\n\n//返回 質量\nvar mass = rigidbody.getMass();\n\u003c/pre\u003e"

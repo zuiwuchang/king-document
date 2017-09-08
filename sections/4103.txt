@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e做平臺跳躍遊戲 通常不希望主角的旋轉屬性也被加入物理模擬中(會導致主角東倒西歪) 可以設置 fixedRotation 屬性\n\nrigidbody.fixedRotation = true;\n\u003c/pre\u003e"

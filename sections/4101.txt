@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//獲取 旋轉速度\nvar velocity = rigidbody.angularVelocity;\n//設置 旋轉速度\nrigidbody.angularVelocity = velocity;\n\n//獲取 旋轉衰減系數\nvar velocity = rigidbody.angularDamping;\n//設置 旋轉衰減系數\nrigidbody.angularDamping = velocity;\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e剛體上組成物理世界的基本對象 cocos 使用 RigidBody 組件提供剛體\n\n\u003cimg src='/sections/4097/image/RigidBody.png' style=\"max-width: 100%;\"\u003e\n\u003c/pre\u003e"

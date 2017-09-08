@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當對剛體進行施力時 一般會旋轉剛體的質心作爲施力作用點 以保證力不會影響旋轉值\n\n//獲取 本地坐標系下的 質心\nvar localCenter = rigidbody.getLocalCenter();\n//...\nlocalCenter = cc.v2();\nrigidbody.getLocalCenter(localCenter);\n\n//獲取 世界坐標系下的 質心\nvar worldCenter = rigidbody.getWorldCenter();\n//...\nworldCenter = cc.v2();\nrigidbody.getWorldCenter(worldCenter);\n\u003c/pre\u003e"

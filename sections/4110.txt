@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e有時需要獲取剛體上某點速度時 可以使用 getLinearVelocityFromWorldPoint\n比如 當物品碰撞到一個平臺時 需要根據物體碰撞點的速度判斷物體相對於平臺是從上方碰撞還是下發碰撞\n\nrigidbody.getLinearVelocityFromWorldPoint(worldPoint);\n\u003c/pre\u003e"

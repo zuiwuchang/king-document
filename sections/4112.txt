@@ -1,0 +1,1 @@
+var __v="\u003cul\u003e\n\t\u003cli\u003esensor\t是否爲傳感器類型 傳感器類型碰撞 會產生碰撞回調 但不會發生物理碰撞效果\u003c/li\u003e\n\t\u003cli\u003edensity\t碰撞體密度 用於計算剛體質量\u003c/li\u003e\n\t\u003cli\u003efriction\t碰撞體摩擦力 碰撞體接觸時的運動會受摩擦力影響\u003c/li\u003e\n\t\u003cli\u003erestitution\t碰撞體的彈性系數 指示碰撞體碰撞是否受到彈力影響\u003c/li\u003e\n\u003c/ul\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evar rotation = rigidbody.getWorldRotation();\n\u003c/pre\u003e"

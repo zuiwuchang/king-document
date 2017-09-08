@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003econtact\tcc.PhysicsContact 實例\nselfCollider\t腳本所在的碰撞組件\notherCollider\t另外一個碰撞組件\n\n//獲取 世界坐標系信息\nvar worldManifold = contact.getWorldManifold();\nvar points = worldManifold.points;\t//碰撞體數組\nvar normal = worldManifold.normal;\t//碰撞點 法向量\n\u003c/pre\u003e"
