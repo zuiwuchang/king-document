@@ -6605,6 +6605,42 @@ var __v={
 			"Name": "關節組件",
 			"Sort": 0
 		},
+		"2001": {
+			"Id": 2001,
+			"Chapter": 616,
+			"Name": "image",
+			"Sort": 0
+		},
+		"2002": {
+			"Id": 2002,
+			"Chapter": 616,
+			"Name": "Image 接口",
+			"Sort": 0
+		},
+		"2003": {
+			"Id": 2003,
+			"Chapter": 616,
+			"Name": "操作像素",
+			"Sort": 0
+		},
+		"2004": {
+			"Id": 2004,
+			"Chapter": 616,
+			"Name": "draw",
+			"Sort": 0
+		},
+		"2005": {
+			"Id": 2005,
+			"Chapter": 617,
+			"Name": "image",
+			"Sort": 0
+		},
+		"2006": {
+			"Id": 2006,
+			"Chapter": 617,
+			"Name": "golang.org/x/image/bmp",
+			"Sort": 0
+		},
 		"201": {
 			"Id": 201,
 			"Chapter": 75,

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e一個一個的設置像素 不但麻煩而且 效率底下\nimage/draw 提供了 簡單 高效的圖像 合成工具\n\n詳情見 golang 官網示例 \u003ca href=\"https://blog.golang.org/go-imagedraw-package\" target=\"_blank\"\u003ehttps://blog.golang.org/go-imagedraw-package\u003c/a\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eimage 包 包裝了對圖像的處理功能\nimage/gif\nimage/jpeg\nimage/png\n分別包含了對 gif jpeg png 的 編解碼 實現\n\u003c/pre\u003e"
