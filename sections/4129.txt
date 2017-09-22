@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003egit 可以同時存在多個 remote 倉庫\n使用 git remote xxx 對遠程 倉庫進行管理\n\n//增加一個 指定名稱的 遠程 倉庫\ngit remote add 名稱 地址\n\n//刪除一個遠程 倉庫\ngit remote remove 名稱\n\n//修改遠程 倉庫名\ngit remote ranme 名稱 新名稱\n\u003c/pre\u003e"

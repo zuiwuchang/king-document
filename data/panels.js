@@ -6641,6 +6641,12 @@ var __v={
 			"Name": "golang.org/x/image/bmp",
 			"Sort": 0
 		},
+		"2007": {
+			"Id": 2007,
+			"Chapter": 618,
+			"Name": "git remote",
+			"Sort": 0
+		},
 		"201": {
 			"Id": 201,
 			"Chapter": 75,

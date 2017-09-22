@@ -28516,5 +28516,12 @@ var __v=[
 			"Name": "3143 註冊碼",
 			"Sort": 2,
 			"Str": ""
+		},
+		{
+			"Id": 4129,
+			"Panel": 2007,
+			"Name": "git remote",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
