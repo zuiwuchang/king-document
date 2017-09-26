@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eajax 的一個弊端是 沒有url的修改 使用 頁面無法被用戶 保存 分享 也無法被google抓取\nhtml 爲 window.history 提供了 新的 方法 pushState 可以無刷新 增加一個url\n(replaceState 用法完全同 pushState 只是修改當前url而非 新增加一個 history 記錄)\n\u003c/pre\u003e"

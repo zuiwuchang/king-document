@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當前 pushState 不會修改瀏覽器 標題\n如果要修改 可以使用 document.title=XXX\n\npushState 不能跨域\n\u003c/pre\u003e"

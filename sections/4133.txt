@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ehtml5 爲 popstate 增加了 popstate 事件\n當 瀏覽器 前進後退時 會觸發此事件 以便 前進後退 能正確處理 pushState 添加的url\n\u003c/pre\u003e"

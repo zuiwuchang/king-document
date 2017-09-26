@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epushState 接收3個參數 \n\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e用戶自定義的數據\u003c/li\u003e\n\t\u003cli\u003e字符串 代表當前瀏覽器標題 \u003cstrong\u003e(當前瀏覽器一般都忽略此參數)\u003c/strong\u003e\u003c/li\u003e\n\t\u003cli\u003e字符串 增加的url地址\u003c/li\u003e\n\u003c/ol\u003e"
