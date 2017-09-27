@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於 列表 使用 [:] 創建 副本\n對於 字典 使用 copy 創建 副本\n\u003c/pre\u003e"

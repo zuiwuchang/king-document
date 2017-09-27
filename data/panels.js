@@ -6689,6 +6689,18 @@ var __v={
 			"Name": "命令面板",
 			"Sort": 2
 		},
+		"2014": {
+			"Id": 2014,
+			"Chapter": 586,
+			"Name": "iterable",
+			"Sort": 0
+		},
+		"2015": {
+			"Id": 2015,
+			"Chapter": 586,
+			"Name": "拷貝副本",
+			"Sort": 0
+		},
 		"202": {
 			"Id": 202,
 			"Chapter": 75,

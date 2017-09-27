@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eiterable 數據每次返回其中的一個 數據\n任意包含 __iter__() 方法的對象或序列\n(包含 __getitem__() 方法 此方法接收從0開始的整數參數)\n都是一個 iterable 並可提供一個迭代子\n\n迭代子 是一個對象 該對象提供一個 __next__() 方法\n該方法 依次返回每個相繼的數據 在沒有數據時 產生 StopIteration 異常\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\na0=[\"cat\",\"dog\"]\na1=a0[:]\na1[1]=\"people\"\nprint(a0)\nprint(a1)\n\np0 = {\"Name\":\"kate\"}\np1 = p0.copy()\np1[\"Name\"] = \"king\"\nprint(p0)\nprint(p1)\u003c/pre\u003e"
