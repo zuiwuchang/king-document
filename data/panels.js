@@ -6671,6 +6671,24 @@ var __v={
 			"Name": "Example",
 			"Sort": 0
 		},
+		"2011": {
+			"Id": 2011,
+			"Chapter": 620,
+			"Name": "vscode",
+			"Sort": 3
+		},
+		"2012": {
+			"Id": 2012,
+			"Chapter": 620,
+			"Name": "快捷鍵",
+			"Sort": 1
+		},
+		"2013": {
+			"Id": 2013,
+			"Chapter": 620,
+			"Name": "命令面板",
+			"Sort": 2
+		},
 		"202": {
 			"Id": 202,
 			"Chapter": 75,

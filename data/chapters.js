@@ -3383,6 +3383,12 @@ var __v={
 			"Name": "linux",
 			"Sort": 0
 		},
+		"620": {
+			"Id": 620,
+			"Doc": 141,
+			"Name": "vscode",
+			"Sort": 466
+		},
 		"63": {
 			"Id": 63,
 			"Doc": 21,

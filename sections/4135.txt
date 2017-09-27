@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003evscode 既 Visual Studio Code 是微軟開發的一個 多平臺(windows linux osx) 的開源(MIT) 文字編輯工具 \n\u003c/pre\u003e"
