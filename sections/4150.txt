@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epython 使用 try except 捕獲異常\n使用 raise 拋出異常\n\t\ntry:\n\tpass\nexcept expression as identifier:\n\tpass\nelse:\n\tpass\nfinally:\n\tpass\n\u003c/pre\u003e"

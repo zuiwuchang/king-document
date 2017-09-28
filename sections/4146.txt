@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\ni = 0\nif 0 == i:\n    print(\"king\")\nelif 1 == i:\n    print(\"kate\")\nelif 2 == i:\n    pass\nelse:\n    print(\"no\")\n\u003c/pre\u003e"

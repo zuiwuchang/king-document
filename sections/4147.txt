@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epython 允許將if作爲一個條件表達式\nxxx = val if expression else val \n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\t\t\nimport sys\n\nstr = \"你是一個 \" + (\"人類\" if sys.platform.startswith(\"linux\") else \"智障\")\nprint(str)\n\u003c/pre\u003e"

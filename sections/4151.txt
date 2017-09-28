@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\ntry:\n    raise Exception(\"拋出異常\")\nexcept Exception as e:\n    print(e)\nexcept:\n    print(\"捕獲任意異常\")\nelse:  # 可選 沒有發生任何異常時執行\n    print(\"ok\")\nfinally:  # 可選 始終執行\n    print(\"always\")\n\u003c/pre\u003e"

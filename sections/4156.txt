@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epython 提供了 lambad 起返回值是一個 匿名函數\n使用\nlambad parameters:expression\n的語法 定義\n\u003c/pre\u003e"

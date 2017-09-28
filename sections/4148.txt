@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epython 的while for 存在一個 可選的 else\n當循環正常結束時 會被執行\n當因爲 break return 異常 ... 結束時 不會執行 else 的內容\n\t\nwhile expression:\n\tpass\nelse:\n\tpass\n\nfor target_list in expression_list:\n\tpass\nelse:\n\tpass\n\u003c/pre\u003e"

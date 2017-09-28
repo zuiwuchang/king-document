@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003es = lambda name: \"yes\" if name == \"kate\" else \"no\"\nprint(s(\"kate\"))\u003c/pre\u003e"

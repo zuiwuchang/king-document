@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eif expression:\n    pass\nelif expression:\n    pass\nelse:\n    pass\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eexpression 不能包含分支 循環 return yield 等\n可以包含 條件表達式\n如果 expression 是一個 元組 需要用 括號 括起來\n\u003c/pre\u003e"

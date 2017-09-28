@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\n\ni = 0\nwhile i \u0026lt; 10:\n    print(i)\n    i += 1\n    if i == 5:\n        break  # 不會執行 else\nelse:\n    print(\"ok\")  # 不會執行\n\nfor i in range(10, 15):\n    print(i)\nelse:\n    print(\"yes\")  # 會執行\n\u003c/pre\u003e"
