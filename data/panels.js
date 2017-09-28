@@ -6755,6 +6755,12 @@ var __v={
 			"Name": "lambad",
 			"Sort": 0
 		},
+		"2025": {
+			"Id": 2025,
+			"Chapter": 621,
+			"Name": "斷言",
+			"Sort": 0
+		},
 		"203": {
 			"Id": 203,
 			"Chapter": 76,

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#!/usr/bin/env python3\ntry:\n    assert 0 == 1, \"test assert\"\nexcept AssertionError as e:\n    print(e)\n\u003c/pre\u003e"

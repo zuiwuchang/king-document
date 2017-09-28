@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003epython 提供了 斷言供開發者使用\nassert boolean_expression,optional_expression\n\n如果 boolean_expression 返回False 將引發 AssertionError異常\noptional_expression 是可選的 作爲 AssertionError 參數的 異常描述字符串\n\n使用 -O 參數執行 可以使用 python 忽略掉 斷言\n\u003c/pre\u003e"

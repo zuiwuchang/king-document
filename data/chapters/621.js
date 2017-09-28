@@ -22,5 +22,11 @@ var __v=[
 			"Chapter": 621,
 			"Name": "lambad",
 			"Sort": 0
+		},
+		{
+			"Id": 2025,
+			"Chapter": 621,
+			"Name": "斷言",
+			"Sort": 0
 		}
 	]
