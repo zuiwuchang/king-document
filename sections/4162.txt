@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//顯示 隱藏side bar\nctrl + k + b\n\t\u003cstrong\u003e(需要先安下 k 鬆開k後 按下 b 不是同時按下)\u003c/strong\u003e\n\u003c/pre\u003e"

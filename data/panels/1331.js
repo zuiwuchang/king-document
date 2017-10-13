@@ -33,5 +33,12 @@ var __v=[
 			"Name": "搜索",
 			"Sort": 1,
 			"Str": ""
+		},
+		{
+			"Id": 4162,
+			"Panel": 1331,
+			"Name": "bar",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
