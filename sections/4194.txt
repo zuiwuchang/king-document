@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecJSON 是一個 開源(BSD) 的 c json 讀寫庫\n\n直接將 cJSON.h cJSON.c 加入項目即可 亦可編譯動態庫\n\nwiki \u003ca href=\"https://github.com/DaveGamble/cJSON\" target=\"_blank\"\u003ehttps://github.com/DaveGamble/cJSON\u003c/a\u003e\n\u003c/pre\u003e"

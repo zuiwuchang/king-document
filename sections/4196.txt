@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecJSON 沒提供 undefined 不存在的節點 返回空指針\n\n\u003cstrong\u003ecJSON 沒提供 bool 而是將 true 的 type 設置爲 cJSON_True false 設置爲 cJSON_False\u003c/strong\u003e \n\u003c/pre\u003e"
