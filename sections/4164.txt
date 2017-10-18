@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在linux 下gcc 測試\njsoncpp1.8 支持註釋 允許字符串中存在tab\n不支持 混用 \" ' 也不允許省略 屬性名的 \"\" 不允許 額外的 ,\n\u003c/pre\u003e"
