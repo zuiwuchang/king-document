@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e由於 CMake 當中並沒有提供直接的數學運算子，所有的符號組合最終都會形成字串或串列。數學計算必須透過 math 指令解釋：\n\nmath(EXPR var \"1 + 2 * 3\")\nmessage(\"var = ${var}\")\n\u003c/pre\u003e"

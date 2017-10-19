@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e判斷檔案和資料夾是否存在。行為只對完整路徑是 well-defined。\nif(EXISTS file-name)\nif(EXISTS directory-name)\n\n當 file1 比 file2 新，或者其中一個檔案不存在時。行為只對完整路徑是 well-defined。\nif(file1 IS_NEWER_THAN file2)\n\n判斷給定的path是否是絕對路徑。\nif(IS_ABSOLUTE path)\n\u003c/pre\u003e"

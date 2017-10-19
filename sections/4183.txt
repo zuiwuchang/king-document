@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eadd_executable(\u0026lt;name\u0026gt; [WIN32] [MACOSX_BUNDLE]\n\t[EXCLUDE_FROM_ALL]\n\tsource1 source2 ... sourceN)\n\nWIN32 是可選的 在win32平臺下 會將 WinMain 作爲入口點\n其它平臺 忽略此參數\n\u003c/pre\u003e"

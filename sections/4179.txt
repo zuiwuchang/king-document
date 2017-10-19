@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eif(variable MATCHES regex)\nif(string MATCHES regex)\nMATCHS 會先檢查左方運算元是否為已定義過的變數，若是則會比對變數儲存的字串值，否則將整串符號當成字串處理。\n\u003c/pre\u003e"

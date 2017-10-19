@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eset(xxxName xxxVal) 設置變量\n一般使用　${xxxName} 獲取變量\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eset(var hello)\nset(foo var)\n\nmessage(${foo})\nmessage(${${foo}})\u003c/pre\u003e"

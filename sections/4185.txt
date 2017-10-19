@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecmake [選項] \u0026lt;source tree 根目錄\u0026gt;\ncmake [選項] \u0026lt;binary tree 根目錄\u0026gt;\n\ncmake 最後一項指定的路徑 作爲 source tree 根目錄(不設置 使用當前目錄)\nsorce tree 必須包含 CMakeLists.txt\n當命令列指定的路徑下含有 CMakeCache.txt 時(通常是前次建置時遺留下的)，該路徑也會被當成 binary tree 根目錄，否則 CMake 一律會把目前工作資料夾當成 binary tree 根目錄。\n\u003c/pre\u003e"

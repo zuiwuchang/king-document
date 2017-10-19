@@ -28768,5 +28768,208 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4165,
+			"Panel": 2028,
+			"Name": "CMake",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4166,
+			"Panel": 2029,
+			"Name": "CMakeLists.txt",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4167,
+			"Panel": 2029,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4168,
+			"Panel": 2030,
+			"Name": "語法簡介",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4169,
+			"Panel": 2030,
+			"Name": "指令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4170,
+			"Panel": 2030,
+			"Name": "變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4171,
+			"Panel": 2030,
+			"Name": "字串與串列",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4172,
+			"Panel": 2030,
+			"Name": "boolean",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4173,
+			"Panel": 2030,
+			"Name": "數學計算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4174,
+			"Panel": 2031,
+			"Name": "if",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4175,
+			"Panel": 2031,
+			"Name": "for",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4176,
+			"Panel": 2031,
+			"Name": "function",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4177,
+			"Panel": 2032,
+			"Name": "邏輯運算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4178,
+			"Panel": 2032,
+			"Name": "比較運算",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4179,
+			"Panel": 2032,
+			"Name": "Regular Expression 比對",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4180,
+			"Panel": 2032,
+			"Name": "檔案相關",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4181,
+			"Panel": 2032,
+			"Name": "其他",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4182,
+			"Panel": 2033,
+			"Name": "CMakeLists.txt",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4183,
+			"Panel": 2033,
+			"Name": "add_executable",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4184,
+			"Panel": 2033,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4185,
+			"Panel": 2034,
+			"Name": "目錄",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4186,
+			"Panel": 2034,
+			"Name": "變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4187,
+			"Panel": 2035,
+			"Name": "顯示更多構建信息",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4188,
+			"Panel": 2035,
+			"Name": "預設的編譯組態",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4189,
+			"Panel": 2035,
+			"Name": "加入編譯選項",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4190,
+			"Panel": 2035,
+			"Name": "加入連接選項",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4191,
+			"Panel": 2035,
+			"Name": "Preprocessor",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4192,
+			"Panel": 2035,
+			"Name": "加入編譯器 搜索路徑",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4193,
+			"Panel": 2035,
+			"Name": "使用屬性控制編譯選項",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

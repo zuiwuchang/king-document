@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCMAKE_C_FLAGS 會被傳遞給c編譯器 作用在所有組態上\n如果 要只作用在 Release 上 可以使用 CMAKE_C_FLAGS_RELEASE/CMAKE_C_FLAGS_DEBUG/...\n\nc++ 使用 CMAKE_CXX_FLAGS CMAKE_CXX_FLAGS_XXX\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#禁用 vc的 sprintf 警告\nif(MSVC)\n    set(CMAKE_C_FLAGS \"${CMAKE_C_FLAGS} /wd4996\")\nendif()\u003c/pre\u003e"

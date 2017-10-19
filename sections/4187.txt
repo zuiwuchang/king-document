@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 CMakeList.txt 中加入\nset(CMAKE_VERBOSE_MAKEFILE ON)\n\n或者\ncmake -DCMAKE_VERBOSE_MAKEFILE=ON ...options...\nmake\n\n或者\ncmake ...options...\nmake VERBOSE=1\n\u003c/pre\u003e"

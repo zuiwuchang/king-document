@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e當 expr 值為 FALSE 時成立。\nif(NOT \u0026lt;expr\u0026gt;)\n\n當 expr1 和 expr2 同時為 TRUE 時成立。\nif(\u0026lt;expr1\u0026gt; AND \u0026lt;expr2\u0026gt;)\n\n當 expr1 和 expr2 至少其中之一為 TRUE 時成立。\nif(\u0026lt;expr1\u0026gt; OR \u0026lt;expr2\u0026gt;)\n\u003c/pre\u003e"

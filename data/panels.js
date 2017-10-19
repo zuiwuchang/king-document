@@ -6773,10 +6773,58 @@ var __v={
 			"Name": "編譯 cmake",
 			"Sort": 2
 		},
+		"2028": {
+			"Id": 2028,
+			"Chapter": 624,
+			"Name": "CMake",
+			"Sort": 0
+		},
+		"2029": {
+			"Id": 2029,
+			"Chapter": 624,
+			"Name": "CMakeLists.txt",
+			"Sort": 0
+		},
 		"203": {
 			"Id": 203,
 			"Chapter": 76,
 			"Name": "Siege",
+			"Sort": 0
+		},
+		"2030": {
+			"Id": 2030,
+			"Chapter": 625,
+			"Name": "語法簡介",
+			"Sort": 0
+		},
+		"2031": {
+			"Id": 2031,
+			"Chapter": 625,
+			"Name": "流程控制",
+			"Sort": 0
+		},
+		"2032": {
+			"Id": 2032,
+			"Chapter": 625,
+			"Name": "運算",
+			"Sort": 0
+		},
+		"2033": {
+			"Id": 2033,
+			"Chapter": 626,
+			"Name": "建立檔案",
+			"Sort": 0
+		},
+		"2034": {
+			"Id": 2034,
+			"Chapter": 626,
+			"Name": "目錄",
+			"Sort": 0
+		},
+		"2035": {
+			"Id": 2035,
+			"Chapter": 626,
+			"Name": "編譯選項",
 			"Sort": 0
 		},
 		"204": {

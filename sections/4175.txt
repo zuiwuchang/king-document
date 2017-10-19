@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eforeach ... endforeach\nwhile ... endwhile\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eset(V  alpha beta gamma)\nmessage(${V})\n\nforeach(i  ${V})\n    message(${i})\nendforeach() \u003c/pre\u003e\n輸出\n\u003cpre class='prettyprint linenums'\u003ealphabetagamma\nalpha\nbeta\ngamma\u003c/pre\u003e"

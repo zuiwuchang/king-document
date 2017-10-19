@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#\t(可選) 指定檢查 cmake 最低版本\ncmake_minimum_required(VERSION 2.6)\n\n#\t指定 項目名稱\nproject(ex2)\n\n#\t增加要編譯的 源碼到 項目\nadd_executable(ex2 main.cpp)\u003c/pre\u003e"

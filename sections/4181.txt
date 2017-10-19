@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e判斷給定的 command-name 是否屬於指令、function、macro。\nif(COMMAND command-name)\n\n判斷給定的 variable-name 是否已經被定義過。\nif(DEFINED variable-name)\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecmake 要求 目錄下 存在 CMakeLists.txt 檔案\nCMakeLists.txt 定義了 如果構建項目\n\n//使用 平臺默認編譯器 構建\ncmake .\n\n//指定 編譯環境 構建\ncmake -G \"Unix Makefiles\"\ncmake -G \"MSYS Makefiles\"\ncmake -G \"Visual Studio 9 2008\"\n...\n\u003c/pre\u003e\n"

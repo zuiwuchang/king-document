@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003ecmake 由 指令(command) 和註解組成\u003c/li\u003e\n\t\u003cli\u003e使用　# 開行開頭　註釋單行\u003c/li\u003e\n\t\u003cli\u003ecommand 使用　() , 傳遞參數\u003c/li\u003e\n\t\u003cli\u003e指令名稱　忽略大小寫\u003c/li\u003e\n\t\u003cli\u003e變量只有　字符串　串列　兩種　區分大小寫(內建變量　全部大寫)\u003c/li\u003e\n\u003c/ol\u003e"

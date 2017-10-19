@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eadd_definitions 可以用來增加 Preprocessor 定義 作用範圍爲 所在 檔案夾下的編譯單元\n\nadd_definitions(\"-DFOO -DBAR\")\n\u003c/pre\u003e"

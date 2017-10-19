@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#\tinclude 路徑 \ninclude_directories([AFTER|BEFORE] [SYSTEM] dir1 dir2 ...)\n\n#\t庫路徑\nlink_directories(dir1 dir2 ...)\n\u003c/pre\u003e"

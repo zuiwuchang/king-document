@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ecmake 中 字符串可以被 賦予 boolean (忽略大小寫)\n\n以下認爲是 FALSE\n\tOFF\n\tFALSE\n\tN\n\tNO\n\t0\n\t\"\"\n\t沒指定值的變量\n\tNOTFOUND\n\t以 -NOTFOUND 結尾的字串\n以下認爲是 TRUE\n\tON\n\tTRUE\n\tY\n\tYE\n\tYES\n\t1\n\t其它不爲 FALSE 的字串\n\u003c/pre\u003e"

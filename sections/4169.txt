@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e#\t一個輸出 helloworld 的指令\nmessage(helloworld)\n\u003c/pre\u003e"

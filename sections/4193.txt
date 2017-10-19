@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e可以對某個 target 指定屬性 以替代全局設定\nset_target_properties(target1 target2 ...\n    PROPERTIES\n    屬性名稱1  值\n    屬性名稱2  值\n    ...\n    )\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eset_target_properties(app\n    PROPERTIES\n    LINK_FLAGS          -static\n    LINK_FLAGS_RELEASE  -s\n    )\u003c/pre\u003e"

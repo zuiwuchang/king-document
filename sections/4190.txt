@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCMAKE_EXE_LINKER_FLAGS 指定連接選項\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#\t爲所有組態加上 -static Realse則爲 -static -s\nif(MINGW)\n    set(CMAKE_EXE_LINKER_FLAGS \"-static\")\n    set(CMAKE_EXE_LINKER_FLAGS_RELEASE \"-s\")\nendif()\u003c/pre\u003e"

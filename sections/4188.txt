@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCMAKE_BUILD_TYPE 默認爲 None 可以指定 編譯組態\n\tNone\t\t編譯器預設\n\tDebug\t\t產生調試信息\n\tRelease\t\t執行速度最優化\n\tRelWithDebInfo\t執行速度最優化但仍然啓用 debugflag\n\tMinSizeRel\t代碼最小化\n\u003c/pre\u003e"
