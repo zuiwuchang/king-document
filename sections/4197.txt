@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e*.proto 檔案用於定義 Protocol Buffers 序列化的數據結構\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eprotoc 用於生成 爲指定語言 生成 *.proto 的序列化 代碼\n\n//將 animal.proto 生成go代碼 到 ./animal 檔案夾下\nprotoc animal.proto --go_out=./animal\n\u003c/pre\u003e"

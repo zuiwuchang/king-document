@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e枚舉必須使用 一個 = 0 的值 且在最開始\n(以便和 proto2兼容 以及作爲 default val)\n\u003c/pre\u003e"

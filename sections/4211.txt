@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eproto 允許 import 引入其它的 proto檔案\n在 protoc -I= 設置 import 搜索路徑 默認搜索當前路徑\n\u003c/pre\u003e"

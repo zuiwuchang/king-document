@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在 字段名 可以 加上 repeated 修飾\n以表示 複數形式\n\n非 repeated 字段 消息中 只能存在 [0,1] 個\nrepeated 字段 消息中 可以存在 [0,...) 個\n\u003c/pre\u003e"

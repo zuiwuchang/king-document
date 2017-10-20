@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e上例animal中\n每個 message 的 字段後都 有一個 數字 tag\nprotoc 使用 這個 tag 識別 字段在二進制數據中的位置\n(字段名 只是給愚蠢人類看的 東西)\n因此 一旦message 開始使用 就不要再改變 這個tag\n\n\u003cstrong\u003etag 最小是1 最大是 536,870,911 (pow(2,29)-1)\n不能使用 [19000,19999] 作爲 tag 這段數據被 protoc 內部保留使用\n\u003c/strong\u003e\n\n[1,15] 的tag 只需要用1個 字節 故應該儘量 將 這部分 tag保留給 最常用到的 字段\n\u003c/pre\u003e"

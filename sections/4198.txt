@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e從 https://github.com/google/protobuf/releases 下載最新 protoc-xxx-xxx.zip\n將 protoc 加入 PATH 環境變量\n\u003cstrong\u003e(預編譯版本中 只包含了 protoc 執行檔 沒有 cpp的 庫)\u003c/strong\u003e\n\n亦可下載 cpp 版本源碼 自行編譯 protoc 和 cpp庫\n\u003c/pre\u003e"

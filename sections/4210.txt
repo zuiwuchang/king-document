@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eproto 允許 message 嵌套\n\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003emessage SearchResponse {\n  repeated Result results = 1;\n}\n\nmessage Result {\n  string url = 1;\n  string title = 2;\n  repeated string snippets = 3;\n}\u003c/pre\u003e"

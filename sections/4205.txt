@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在升級 message 後 如果 刪除某個字段 在讀取 舊版message可能會產生問題\n可以使用 reserved 來指示 保留字段\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003emessage Foo {\n  reserved 2, 15, 9 to 11;\n  reserved \"foo\", \"bar\";\n}\u003c/pre\u003e"
