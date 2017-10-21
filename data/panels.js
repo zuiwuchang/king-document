@@ -6881,6 +6881,18 @@ var __v={
 			"Name": "import",
 			"Sort": 0
 		},
+		"2045": {
+			"Id": 2045,
+			"Chapter": 623,
+			"Name": "build linux",
+			"Sort": 0
+		},
+		"2046": {
+			"Id": 2046,
+			"Chapter": 630,
+			"Name": "c++",
+			"Sort": 0
+		},
 		"205": {
 			"Id": 205,
 			"Chapter": 77,
