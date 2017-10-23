@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003evs2015 生成的程式默認無法在 xp中 運行 如果要支持 需要 在 linker中加上 設置\n\n/SUBSYSTEM:CONSOLE,5.01\n\t\u003cstrong\u003e(x86)\u003c/strong\u003e\n\n/SUBSYSTEM:CONSOLE,5.02\n\t\u003cstrong\u003e(x64)\u003c/strong\u003e\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003evs2015 生成的程式默認無法在 xp中 運行 如果要支持 需要 在 linker中加上 設置\n\n/SUBSYSTEM:CONSOLE,5.01\n/SUBSYSTEM:WINDOWS,5.01\n\t\u003cstrong\u003e(x86)\u003c/strong\u003e\n\n/SUBSYSTEM:CONSOLE,5.02\n/SUBSYSTEM:WINDOWS,5.02\n\t\u003cstrong\u003e(x64)\u003c/strong\u003e\n\u003c/pre\u003e"
