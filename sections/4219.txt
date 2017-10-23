@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e\n\t\t添加編譯參數\u003cbr\u003e\n\t\t/FI\"wx_pch.h\"\u003cbr\u003e\n\t\t/Yc\"wx_pch.h\"\u003cbr\u003e\n\t\u003c/li\u003e\n\t\u003cli\u003e\n\t\t爲 Debug Release 添加不同的編譯參數\u003cbr\u003e\n\t\t/Fp\"obj\\Debug\\vc.pch\"\u003cbr\u003e\n\t\t/Fp\"obj\\Release\\vc.pch\"\u003cbr\u003e\n\t\u003c/li\u003e\n\u003c/ol\u003e"
