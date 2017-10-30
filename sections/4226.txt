@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e\u003ca href=\"http://ffmpeg.zeranoe.com/builds/\" target=\"_balnk\"\u003ehttp://ffmpeg.zeranoe.com/builds/\u003c/a\u003e 上提供了 windows/mac 下 ffmpeg 的庫程式\n\u003c/pre\u003e\n"

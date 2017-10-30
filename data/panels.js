@@ -6935,6 +6935,18 @@ var __v={
 			"Name": "pcm8 單聲道",
 			"Sort": 0
 		},
+		"2053": {
+			"Id": 2053,
+			"Chapter": 634,
+			"Name": "ffmpeg",
+			"Sort": 0
+		},
+		"2054": {
+			"Id": 2054,
+			"Chapter": 634,
+			"Name": "環境配置",
+			"Sort": 0
+		},
 		"206": {
 			"Id": 206,
 			"Chapter": 78,

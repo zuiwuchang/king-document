@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003effmpeg 是一個開源(GPL LGPL)的 跨平臺 c 語言 音訊視訊 編解碼庫\n\n官網 \u003ca href=\"https://ffmpeg.org/\" target=\"_blank\"\u003ehttps://ffmpeg.org/\u003c/a\u003e\nwiki \u003ca href=\"https://zh.wikipedia.org/wiki/FFmpeg\" target=\"_blank\"\u003ehttps://zh.wikipedia.org/wiki/FFmpeg\u003c/a\u003e\n\u003c/pre\u003e"
