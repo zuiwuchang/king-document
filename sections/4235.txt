@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ec 中 有許多 回調函數\nsyscall 包 提供了 NewCallback 和 NewCallbackCDecl 函數\n用於將 一個 返回值爲 uintptr 到go 函數 生成一個 返回值爲uintptr_t 到 c函數\nNewCallback 使用 __stdcall 調用約定\nNewCallbackCDecl __cdecl 調用約定\n\u003c/pre\u003e"

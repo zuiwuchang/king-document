@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e將 只讀的 字符串 內存\n用上述 方式 強轉到 []byte 後 如果寫 bytes 將引發錯誤 (內存已然是只讀)\n\nunsafe.Pointer 將爲內存 引用計數 +1 \nuintptr 不會影響 引用計數\n\u003c/pre\u003e"

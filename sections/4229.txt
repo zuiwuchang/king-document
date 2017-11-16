@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eC.CString C.CBytes 會自動從c中 malloc 內存 並醬 go數據 copy到 此內存中\n此內存 需要 用戶 自動去 釋放\n\nGoString GoBytes 會自動創建新到 go託管內存 並將 c 數據 copy到 此\n\u003c/pre\u003e"
