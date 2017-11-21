@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003efloat \u003cstrong\u003emax_n\u0026lt;float\u0026gt;\u003c/strong\u003e(const float arrs[],std::size_t n) 亦可直接 寫 float \u003cstrong\u003emax_n\u003c/strong\u003e(const float arrs[],std::size_t n)\n\u003cstrong\u003emax_n\u0026lt;float\u0026gt;\u003c/strong\u003e 寫法在於一些情況下 存在歧義 編譯器 無法知道要特化哪各模板時 可以顯示 的 寫出\n\u003c/pre\u003e"

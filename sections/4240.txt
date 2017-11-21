@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e對於 class 除了 特化 還支持 偏特化(\u003cstrong\u003e爲某個 型別參數 進行特化\u003c/strong\u003e)\n(\u003cstrong\u003e函數不支持 偏特化\u003c/strong\u003e)\n\u003c/pre\u003e"
