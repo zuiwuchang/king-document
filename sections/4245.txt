@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eCaller Callers 的 skip 參數 是不同的\nCaller 用 \u003cstrong\u003e0\u003c/strong\u003e Callers 用 \u003cstrong\u003e1\u003c/strong\u003e 表示 當前 函數\n\nfunc (*Func) FileLine 返回的是 Func 函數返回位置的 檔案名 行數\nCaller 返回的 是 調用處 檔案名 行數\n\u003c/pre\u003e"
