@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003esudo apt install cdparanoia -y\nmkdir wavs \u0026amp;\u0026amp; cd wavs\n#將 cd 內容 全部 翻錄到當前 檔案夾下 (16bit wav 格式)\ncdparanoia -B\u003c/pre\u003e"
