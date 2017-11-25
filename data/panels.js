@@ -7007,6 +7007,24 @@ var __v={
 			"Name": "cdparanoia",
 			"Sort": 0
 		},
+		"2065": {
+			"Id": 2065,
+			"Chapter": 639,
+			"Name": "v8",
+			"Sort": 0
+		},
+		"2066": {
+			"Id": 2066,
+			"Chapter": 639,
+			"Name": "獲取源碼",
+			"Sort": 0
+		},
+		"2067": {
+			"Id": 2067,
+			"Chapter": 639,
+			"Name": "編譯",
+			"Sort": 0
+		},
 		"207": {
 			"Id": 207,
 			"Chapter": 78,

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003emkdir ~/v8\ncd ~/v8\nfetch v8\ncd v8\u003c/pre\u003e"

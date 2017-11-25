@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003ev8 的依賴環境 比較複雜 不要指望使用 代理 下載\n如果在 社會主義 只有 先 購買個 vps 在vps 上 下載 \n(反正孤 多次 嘗試使用 代理 都設備了 最後 通過 vps 下載的)\n\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e安裝 git python gcc make\u003c/li\u003e\n\t\u003cli\u003e安裝 depot_tools\u003c/li\u003e\n\t\u003cli\u003e下載 v8 源碼\u003c/li\u003e\n\t\u003cli\u003e更新 v8 依賴\u003c/li\u003e\n\u003c/ol\u003e\n"
