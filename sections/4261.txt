@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eV8::Initialize 在一切就緒後 就可以 初始化 v8 了\n\nstatic bool V8::Initialize()\nstatic bool V8::Dispose()\n\u003c/pre\u003e"

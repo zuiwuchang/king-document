@@ -7025,10 +7025,34 @@ var __v={
 			"Name": "編譯",
 			"Sort": 0
 		},
+		"2069": {
+			"Id": 2069,
+			"Chapter": 640,
+			"Name": "base",
+			"Sort": 0
+		},
 		"207": {
 			"Id": 207,
 			"Chapter": 78,
 			"Name": "小退再進黑屏",
+			"Sort": 0
+		},
+		"2070": {
+			"Id": 2070,
+			"Chapter": 640,
+			"Name": "class V8",
+			"Sort": 0
+		},
+		"2071": {
+			"Id": 2071,
+			"Chapter": 640,
+			"Name": "class Isolate",
+			"Sort": 0
+		},
+		"2072": {
+			"Id": 2072,
+			"Chapter": 640,
+			"Name": "js call c++",
 			"Sort": 0
 		},
 		"208": {

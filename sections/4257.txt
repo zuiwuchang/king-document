@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclass \u003cstrong\u003eV8\u003c/strong\u003e 只提供了 static 方法\n用來 聚集 v8 的 版本 初始化 等操作\n\n//返回 引擎版本號 \nstatic const char* V8::GetVersion()\n\u003c/pre\u003e"

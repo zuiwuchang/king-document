@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eIsolate 是一個 隔離的 js 運行 環境\nv8 運行 同時 建立多個 不相關的 js環境 一個 Isolate 可以看着就是一個 js 虛擬機實例(雖然 v8 是沒有 js 虛擬機的) \n\u003c/pre\u003e"

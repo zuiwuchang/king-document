@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eV8::InitializeICUDefaultLocation 通常是 調用的 第一個 v8 函數\n用來 初始化 和 v8 綁定 的 icu 庫 icudtl.dat\n\n//初始化 icu 庫\nstatic bool V8::InitializeICUDefaultLocation(const char *exec_path, const char *icu_data_file=nullptr)\n\texec_path\t通常 就是 應用程式 路徑 v8 或使用 exec_path 返回 獲取 icu庫 的目錄\n\ticu_data_file\ticu庫 名稱 默認爲 icudtl.dat\n\u003c/pre\u003e"

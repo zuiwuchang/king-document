@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eV8::InitializePlatform 是需要調用的 下個 函數 用來設置 v8平臺相關 信息\n\nstatic void V8::InitializePlatform(Platform *platform)\nstatic void V8::ShutdownPlatform()\n\u003c/pre\u003e"
