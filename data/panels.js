@@ -7055,6 +7055,18 @@ var __v={
 			"Name": "js call c++",
 			"Sort": 0
 		},
+		"2073": {
+			"Id": 2073,
+			"Chapter": 367,
+			"Name": ".bashrc 無效",
+			"Sort": 0
+		},
+		"2074": {
+			"Id": 2074,
+			"Chapter": 641,
+			"Name": "golang",
+			"Sort": 0
+		},
 		"208": {
 			"Id": 208,
 			"Chapter": 79,

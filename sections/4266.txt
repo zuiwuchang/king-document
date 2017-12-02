@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eubuntu 在 用戶 登入時不會 加載 ~/.bashrc 而是加載 ~/.profile\n\n可以自己 在 .profile 中 添加 如下代碼 來加載 .bashrc\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eif [ -n \"$BASH_VERSION\" ]; then\n    # include .bashrc if it exists\n    if [ -f \"$HOME/.bashrc\" ]; then\n        . \"$HOME/.bashrc\"\n    fi\nfi\n\u003c/pre\u003e"

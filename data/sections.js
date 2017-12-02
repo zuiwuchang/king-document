@@ -29454,5 +29454,19 @@ var __v=[
 			"Name": "Example (bad SetWeak)",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4266,
+			"Panel": 2073,
+			"Name": ".bashrc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4267,
+			"Panel": 2074,
+			"Name": "golang",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

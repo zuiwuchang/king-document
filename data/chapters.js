@@ -3521,6 +3521,12 @@ var __v={
 			"Name": "base",
 			"Sort": 482
 		},
+		"641": {
+			"Id": 641,
+			"Doc": 141,
+			"Name": "launch.json",
+			"Sort": 483
+		},
 		"65": {
 			"Id": 65,
 			"Doc": 21,
