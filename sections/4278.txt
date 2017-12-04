@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003escp 使用 ssh 進行安全的文件傳輸(使用ssh端口22) \n傳輸的兩端都需要安裝ssh軟體 openssh-clients\nsudo yum -y install openssh-clients\u003c/pre\u003e"

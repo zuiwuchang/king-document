@@ -7067,10 +7067,52 @@ var __v={
 			"Name": "golang",
 			"Sort": 0
 		},
+		"2075": {
+			"Id": 2075,
+			"Chapter": 642,
+			"Name": "ssh",
+			"Sort": 0
+		},
+		"2076": {
+			"Id": 2076,
+			"Chapter": 642,
+			"Name": "超時斷線",
+			"Sort": 0
+		},
+		"2077": {
+			"Id": 2077,
+			"Chapter": 642,
+			"Name": "sftp",
+			"Sort": 0
+		},
+		"2078": {
+			"Id": 2078,
+			"Chapter": 642,
+			"Name": "scp",
+			"Sort": 0
+		},
+		"2079": {
+			"Id": 2079,
+			"Chapter": 642,
+			"Name": "sshd設置",
+			"Sort": 0
+		},
 		"208": {
 			"Id": 208,
 			"Chapter": 79,
 			"Name": "全服脚本",
+			"Sort": 0
+		},
+		"2080": {
+			"Id": 2080,
+			"Chapter": 642,
+			"Name": "不用密碼登錄ssh",
+			"Sort": 0
+		},
+		"2081": {
+			"Id": 2081,
+			"Chapter": 643,
+			"Name": "Netfilter",
 			"Sort": 0
 		},
 		"209": {

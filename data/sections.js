@@ -29468,5 +29468,124 @@ var __v=[
 			"Name": "golang",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4268,
+			"Panel": 2075,
+			"Name": "ssh",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 4269,
+			"Panel": 2075,
+			"Name": "通信步驟",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4270,
+			"Panel": 2075,
+			"Name": "命令",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 4271,
+			"Panel": 2075,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4272,
+			"Panel": 2076,
+			"Name": "超時斷線",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4273,
+			"Panel": 2076,
+			"Name": "服務器",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4274,
+			"Panel": 2076,
+			"Name": "客戶端",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4276,
+			"Panel": 2077,
+			"Name": "sftp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4277,
+			"Panel": 2077,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4278,
+			"Panel": 2078,
+			"Name": "scp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4279,
+			"Panel": 2078,
+			"Name": "命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4280,
+			"Panel": 2079,
+			"Name": "sshd設置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4281,
+			"Panel": 2079,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4282,
+			"Panel": 2080,
+			"Name": "不用密碼登錄ssh",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4283,
+			"Panel": 2080,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4284,
+			"Panel": 2081,
+			"Name": "Netfilter",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4285,
+			"Panel": 2081,
+			"Name": "Netfilter工作步驟",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

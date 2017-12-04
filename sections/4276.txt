@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eftp 是不安全的 其使用 明文傳輸 \nssh 模擬了 ftp 其使用 sftp 連接\n(由ssh直接提供此服務 故依然工作在 ssh的端口上 不需要額外開新服務)\u003c/pre\u003e"

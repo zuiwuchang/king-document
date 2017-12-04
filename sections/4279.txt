@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e//將本地文件上傳到遠程地址\nscp path user@ip:path\n(scp /home/dark/test dark@127.0.0.1:/home/dark/test1)\n\n//反過來寫就是 將遠程 文件 下載到本地\nscp user@ip:path path\n\n可選參數\n-v\t顯示進度\n-P\t指定端口\n-4\t使用ipv4\n-6\t使用ipv6\u003c/pre\u003e"

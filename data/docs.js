@@ -333,6 +333,12 @@ var __v={
 			"Id": 15,
 			"Tag": 19,
 			"Name": "UBuntu",
+			"Sort": 2
+		},
+		"150": {
+			"Id": 150,
+			"Tag": 19,
+			"Name": "linux服務器",
 			"Sort": 1
 		},
 		"16": {
@@ -801,13 +807,13 @@ var __v={
 			"Id": 88,
 			"Tag": 19,
 			"Name": "OpenSUSE",
-			"Sort": 2
+			"Sort": 3
 		},
 		"89": {
 			"Id": 89,
 			"Tag": 19,
 			"Name": "Puppy",
-			"Sort": 3
+			"Sort": 4
 		},
 		"9": {
 			"Id": 9,

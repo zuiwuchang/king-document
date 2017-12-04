@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003esudo /etc/ssh/sshd_config\n添加如下設置\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#保持 長連接\nTCPKeepAlive yes\n# 每分鐘 ping 一次\nClientAliveInterval=60\n#最多3次 未響應 認為斷線\nClientAliveCountMax=3\u003c/pre\u003e"

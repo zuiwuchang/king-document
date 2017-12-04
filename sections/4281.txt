@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e建議 將 ssh 的版本設置為 使用 V2 而非 V1 版本\nV2更加安全\n\u003cstrong\u003eProtocol 2\u003c/strong\u003e\n\n建議 禁止掉 使用 root 登錄 (默認 允許)\n\u003cstrong\u003ePermitRootLogin no\u003c/strong\u003e\u003c/pre\u003e"

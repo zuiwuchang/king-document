@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eLinux 內建了 Netfilter 防火牆機制\n所謂 Netfilter 既通過 分析網絡封包 進行放行/抵制\n(因為是內建功能 故效率很高)\nLinux 提供 iptables(Linux2.6開始) 軟體 管理 Netfilter 防火牆\u003c/pre\u003e"

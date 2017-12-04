@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003eclient 到新 服務器 連接 會將 server public key 記錄到 ~/.ssh/known_hosts\n若有人 想冒充 服務器 或服務器產生了 新 key 將 無法連接 \n此時需要 手動編輯 ~/.ssh/known_hosts 將 其中相應的 key 刪除\n\u003c/pre\u003e"

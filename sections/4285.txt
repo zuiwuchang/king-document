@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003eNetfilter依據iptables設置 依次比對規則\u003c/li\u003e\n\t\u003cli\u003e若 符合 ACCEPT 放行\u003c/li\u003e\n\t\u003cli\u003e若 符合 DROP\t阻擋\u003c/li\u003e\n\t\u003cli\u003e檢索完所有規則 無配對的 按照預訂規則處理\u003c/li\u003e\n\u003c/ol\u003e"

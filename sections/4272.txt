@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e出於安全考慮 如果一段時間不操作 ssh 連接會被斷開\n可以通過設置 服務器 ping\n或客戶端ping 防止斷線\n\u003c/pre\u003e"

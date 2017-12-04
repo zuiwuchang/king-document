@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e修改服務器 設置不利於安全 亦可修改客戶端設置 讓客戶端ping服務器\nvi /etc/ssh/ssh_config\n\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003e#針對 指定服務器 進行設置 *(所有服務器)\nHost *\n\n#每分鐘 ping 一次\nServerAliveInterval=60\n#失敗3次 認為 斷線\nServerAliveCountMax=3\u003c/pre\u003e"
