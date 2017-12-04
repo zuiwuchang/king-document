@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e#清除 filter 第4條 INPUT 規則\niptables -D INPUT 4\n\n#刪除 iptables-save 中 的指定規則 (-p tcp -m tcp --dport 3306 -j ACCEPT)\niptables -D INPUT -p tcp -m tcp --dport 3306 -j ACCEPT\u003c/pre\u003e"

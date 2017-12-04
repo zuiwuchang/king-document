@@ -6,39 +6,9 @@ var __v=[
 			"Sort": 0
 		},
 		{
-			"Id": 1879,
+			"Id": 2014,
 			"Chapter": 586,
-			"Name": "tuple 元組",
-			"Sort": 0
-		},
-		{
-			"Id": 1880,
-			"Chapter": 586,
-			"Name": "命名 tuple",
-			"Sort": 0
-		},
-		{
-			"Id": 1881,
-			"Chapter": 586,
-			"Name": "list 列表",
-			"Sort": 0
-		},
-		{
-			"Id": 1884,
-			"Chapter": 586,
-			"Name": "set 集合",
-			"Sort": 0
-		},
-		{
-			"Id": 1885,
-			"Chapter": 586,
-			"Name": "frozenset 固定集合",
-			"Sort": 0
-		},
-		{
-			"Id": 1886,
-			"Chapter": 586,
-			"Name": "dict 字典",
+			"Name": "iterable",
 			"Sort": 0
 		},
 		{
@@ -48,9 +18,39 @@ var __v=[
 			"Sort": 0
 		},
 		{
-			"Id": 2014,
+			"Id": 1886,
 			"Chapter": 586,
-			"Name": "iterable",
+			"Name": "dict 字典",
+			"Sort": 0
+		},
+		{
+			"Id": 1885,
+			"Chapter": 586,
+			"Name": "frozenset 固定集合",
+			"Sort": 0
+		},
+		{
+			"Id": 1884,
+			"Chapter": 586,
+			"Name": "set 集合",
+			"Sort": 0
+		},
+		{
+			"Id": 1881,
+			"Chapter": 586,
+			"Name": "list 列表",
+			"Sort": 0
+		},
+		{
+			"Id": 1880,
+			"Chapter": 586,
+			"Name": "命名 tuple",
+			"Sort": 0
+		},
+		{
+			"Id": 1879,
+			"Chapter": 586,
+			"Name": "tuple 元組",
 			"Sort": 0
 		},
 		{

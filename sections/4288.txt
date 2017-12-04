@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e所有 iptables 的操作都必須要有 管理員權限\n\nsudo iptables [-t filter] [-XXXX]\n命令都需要指定要操作的 chain 用-t 指定\n\u003cstrong\u003e不指定 默認操作 filter\u003c/strong\u003e\n\u003c/pre\u003e"

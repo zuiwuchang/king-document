@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e//清空規則\niptables [-t tables] [-FXZ]\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003e#清除所有的已定義規則\nsudo iptables -F\t\n#清除所有 使用者 \"自定\" 的 chain(table)\nsudo iptables -X\n#將所有的 chain 計算流量統計歸零\nsudo iptables -Z\u003c/pre\u003e"

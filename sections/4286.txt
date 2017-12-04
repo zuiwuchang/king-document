@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eiptables 由多個 table 組成 每個table 用於分析不同的 數據\n可以對不同table 設置不同的 規則\u003c/pre\u003e"

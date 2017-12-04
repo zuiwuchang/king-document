@@ -29587,5 +29587,75 @@ var __v=[
 			"Name": "Netfilter工作步驟",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4286,
+			"Panel": 2082,
+			"Name": "chain 鏈",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4287,
+			"Panel": 2082,
+			"Name": "table",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4288,
+			"Panel": 2083,
+			"Name": "iptables",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4289,
+			"Panel": 2084,
+			"Name": "iptables-save",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4290,
+			"Panel": 2084,
+			"Name": "iptables -L -n",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4291,
+			"Panel": 2085,
+			"Name": "清除規則",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4292,
+			"Panel": 2085,
+			"Name": "清除指定規則",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4293,
+			"Panel": 2085,
+			"Name": "增加規則",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4294,
+			"Panel": 2085,
+			"Name": "--sport --dport",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4295,
+			"Panel": 2086,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

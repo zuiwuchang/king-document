@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e在對tcp udp制定協議時 可以 加上 端口限制\n如 \niptables ... -p tcp --sport 1024:65534 --dport ssh ...\niptables ... -p tcp --dport 22 ...\niptables ... -p tcp --dport 1:22 --syn ...\t//針對tcp的syn包\n\u003c/pre\u003e"

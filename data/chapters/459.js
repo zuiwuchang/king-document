@@ -24,27 +24,9 @@ var __v=[
 			"Sort": 1
 		},
 		{
-			"Id": 1431,
+			"Id": 1436,
 			"Chapter": 459,
-			"Name": "CColorDialog",
-			"Sort": 0
-		},
-		{
-			"Id": 1432,
-			"Chapter": 459,
-			"Name": "CFontDialog",
-			"Sort": 0
-		},
-		{
-			"Id": 1433,
-			"Chapter": 459,
-			"Name": "WM_CTLCOLOR 改變 對話框 子控件 背景",
-			"Sort": 0
-		},
-		{
-			"Id": 1434,
-			"Chapter": 459,
-			"Name": "CBitmap",
+			"Name": "坐標空間",
 			"Sort": 0
 		},
 		{
@@ -54,9 +36,27 @@ var __v=[
 			"Sort": 0
 		},
 		{
-			"Id": 1436,
+			"Id": 1434,
 			"Chapter": 459,
-			"Name": "坐標空間",
+			"Name": "CBitmap",
+			"Sort": 0
+		},
+		{
+			"Id": 1433,
+			"Chapter": 459,
+			"Name": "WM_CTLCOLOR 改變 對話框 子控件 背景",
+			"Sort": 0
+		},
+		{
+			"Id": 1432,
+			"Chapter": 459,
+			"Name": "CFontDialog",
+			"Sort": 0
+		},
+		{
+			"Id": 1431,
+			"Chapter": 459,
+			"Name": "CColorDialog",
 			"Sort": 0
 		},
 		{

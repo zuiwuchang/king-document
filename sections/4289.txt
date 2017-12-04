@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003esudo iptables-save 可以查看當前的完整 規\n\u003c/pre\u003e\n\u003cimg src='/sections/4289/image/iptables-save.PNG' style='max-width:100%'\u003e\n\u003cpre class='k-pre'\u003e*filter 指明後面 是定義哪個 chain 的規則\n\n:INPUT ACCEPT //INPUT的預定義規則為 ACCEPT\n...\n\n-A\t後接 INPUT/OUTPUT... 分支\n-j\t後接處理方式\n-p\t後接協議\n--dport\t後接端口\u003c/pre\u003e"

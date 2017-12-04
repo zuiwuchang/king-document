@@ -6,39 +6,9 @@ var __v=[
 			"Sort": 0
 		},
 		{
-			"Id": 465,
+			"Id": 472,
 			"Chapter": 181,
-			"Name": "位操作",
-			"Sort": 0
-		},
-		{
-			"Id": 466,
-			"Chapter": 181,
-			"Name": "基本型別",
-			"Sort": 0
-		},
-		{
-			"Id": 467,
-			"Chapter": 181,
-			"Name": "class",
-			"Sort": 0
-		},
-		{
-			"Id": 468,
-			"Chapter": 181,
-			"Name": "包",
-			"Sort": 0
-		},
-		{
-			"Id": 469,
-			"Chapter": 181,
-			"Name": "基本輸入輸出",
-			"Sort": 0
-		},
-		{
-			"Id": 470,
-			"Chapter": 181,
-			"Name": "控制流程",
+			"Name": "格式化輸出",
 			"Sort": 0
 		},
 		{
@@ -48,9 +18,39 @@ var __v=[
 			"Sort": 0
 		},
 		{
-			"Id": 472,
+			"Id": 470,
 			"Chapter": 181,
-			"Name": "格式化輸出",
+			"Name": "控制流程",
+			"Sort": 0
+		},
+		{
+			"Id": 469,
+			"Chapter": 181,
+			"Name": "基本輸入輸出",
+			"Sort": 0
+		},
+		{
+			"Id": 468,
+			"Chapter": 181,
+			"Name": "包",
+			"Sort": 0
+		},
+		{
+			"Id": 467,
+			"Chapter": 181,
+			"Name": "class",
+			"Sort": 0
+		},
+		{
+			"Id": 466,
+			"Chapter": 181,
+			"Name": "基本型別",
+			"Sort": 0
+		},
+		{
+			"Id": 465,
+			"Chapter": 181,
+			"Name": "位操作",
 			"Sort": 0
 		},
 		{

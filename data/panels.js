@@ -7115,6 +7115,36 @@ var __v={
 			"Name": "Netfilter",
 			"Sort": 0
 		},
+		"2082": {
+			"Id": 2082,
+			"Chapter": 643,
+			"Name": "chain 鏈",
+			"Sort": 0
+		},
+		"2083": {
+			"Id": 2083,
+			"Chapter": 643,
+			"Name": "iptables",
+			"Sort": 0
+		},
+		"2084": {
+			"Id": 2084,
+			"Chapter": 643,
+			"Name": "查看當前規則",
+			"Sort": 0
+		},
+		"2085": {
+			"Id": 2085,
+			"Chapter": 643,
+			"Name": "規則管理",
+			"Sort": 0
+		},
+		"2086": {
+			"Id": 2086,
+			"Chapter": 643,
+			"Name": "注意",
+			"Sort": 0
+		},
 		"209": {
 			"Id": 209,
 			"Chapter": 79,
