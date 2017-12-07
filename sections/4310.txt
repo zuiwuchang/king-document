@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//傳入 配置檔 啓動 nginx\nnginx -c /etc/nginx/nginx.conf\n\n//向 nginx master 發送一個 強制關閉 信號\nnginx -s stop\n\tstop\t強制關閉\n\tquit\t優雅退出 會等待 worker 完成當前 任務後退出\n\treopen\t重新運行\n\treload\t重載配置\n\u003c/pre\u003e"

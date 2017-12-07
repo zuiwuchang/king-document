@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003evisudo\n\n添加如下內容\n\u003cpre class='prettyprint linenums'\u003e用戶名    ALL=(ALL:ALL) NOPASSWD:ALL\u003c/pre\u003e到(%admin ALL=(ALL) ALL\t\t%sudo ALL=(ALL:ALL) ALL) 之後 (否則會被 覆蓋)\u003c/pre\u003e\n\n"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003evi /etc/lightdm/lightdm.conf 增加\n\u003cpre class='prettyprint linenums'\u003e[SeatDefaults]\nallow-guest=false\u003c/pre\u003e之後重啓計算機 使之生效\u003c/pre\u003e"

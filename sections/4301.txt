@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eapt-get install python-gevent python-pip\npip install shadowsocks\u003c/pre\u003e\n\u003cpre class='k-pre'\u003e//連接 shadowsocks 服務器\nsslocal -s '107.191.*.*' -p 50126 -k '***' -m 'rc4-md5'\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e//ubuntu 自帶的vim不是完整版 故先下載之\nsudo apt-get install vim\n//修改默認文本編輯器\nsudo update-alternatives --config editor\n\u003c/pre\u003e"

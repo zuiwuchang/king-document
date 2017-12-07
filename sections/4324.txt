@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 源碼安裝的方式\nGate One 會在第一次運行時 才創建配置檔案\u003c/pre\u003e"

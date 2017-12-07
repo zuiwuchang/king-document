@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e雖然 nginx 可以運行在 windows 上 \n然不要在 windows上 運行 nginx 在 windows上 效率並不理想\n而且不會有sb在windows上用 nginx 故其在windows上的穩定性 也是不可保證的\n\u003c/pre\u003e"

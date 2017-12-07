@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e如果 有 多個 location 匹配 \nnginx 會使用 從左到右 匹配到 最長url的 一個 location\n\nroot 配置的 目錄 是相對 nginx 根目錄\n(ubuntu 下是 /usr/share/nginx)\n\u003c/pre\u003e"

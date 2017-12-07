@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e配置中的 字符串 如果 由 空格 等 需要用 \u003cstrong\u003e'\u003c/strong\u003e或\u003cstrong\u003e\"\u003c/strong\u003e 擴起來\n\nworker_connections 是每個 worker 的 最大 連接數量\nnginx 最大連接數量 是 worker_connections*worker_processes\n如果 作爲 反向代理 或 負載服務器 則需要 \u003cstrong\u003e/2\u003c/strong\u003e 因爲到 後端服務器 和 客戶端 各佔用一個 tcp 一個 請求現在 佔用了2個連接\n\u003c/pre\u003e"

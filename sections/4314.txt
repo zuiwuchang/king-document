@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003enginx 配置選項 可分爲 簡單 複合\n簡單 配置 由 \u003cstrong\u003ekey v0 v1 ...;\u003c/strong\u003e 組成\n複合 配置 由 \u003cstrong\u003e{ \n\tkey v0 v1 ...;\n\tkey v0 v1 ...;\n\t...\n\tkey v0 v1 ...{\n\t\t...\n\t}\n}\u003c/strong\u003e 組成\n\u003c/pre\u003e"

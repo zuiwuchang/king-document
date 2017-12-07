@@ -1,0 +1,1 @@
+var __v="在右鍵菜單增加 在當前文件夾打開終端功能\nsudo apt-get install nautilus-open-terminal\n註銷之"

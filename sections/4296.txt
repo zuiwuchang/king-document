@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e//查看 分支 當前分支前 帶有 *\ngit branch [-r]\n\t-r 查看遠程分支\n\n//創建 分支\ngit branch [dev]\n\n//刪除 分支\ngit branch -d [dev]\n\n//刪除 遠程 分支\ngit push origin :[dev]\n\n//切換分支\ngit checkout [dev]\n\n//創建 分支 並且 切換到此分支\ngit checkout -b [dev]\n\n//合併指定分支到當前 分支\ngit merge [dev]\n\n\n//建立分支 並且 更新為遠程指定分支\ngit checkout -b [dev] origin/[dev]\u003c/pre\u003e"

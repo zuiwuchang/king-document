@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e//安裝 nginx\nsudo apt install nginx -y\n\n//編輯配置檔案\nsudo vi /etc/nginx/nginx.conf\n\u003c/pre\u003e"

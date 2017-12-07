@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e除了 使用 nginx -s\n亦可直接使用 kill 向 master 進程 發送 signal\n其實 nginx -s 也不過上 包 kill進行了包裝 省略了 使用者 查詢 master pid的麻煩罷了\n\u003c/pre\u003e"

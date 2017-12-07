@@ -1,0 +1,1 @@
+var __v="\u003cpre class=\"k-pre\"\u003e處於 安全 考慮 nginx 默認不會 列出 檔案夾下的 檔案列表\n如果 需要此功能 在 location 中配置 \u003cstrong\u003eautoindex on;\u003c/strong\u003e即可\n\u003c/pre\u003e"

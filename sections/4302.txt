@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e//中州韻輸入法引擎\nsudo apt-get install fcitx-rime\n\n\n//google 拼音\nsudo apt-get install fcitx-googlepinyin  \u003c/pre\u003e"

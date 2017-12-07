@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 運行 Gate One\nsudo gateone\n\n#停止 Gate One\nsudo gateone --kill\n\n#查看版本信息\ngateone --version\n\u003c/pre\u003e"

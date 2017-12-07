@@ -29657,5 +29657,201 @@ var __v=[
 			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4296,
+			"Panel": 2087,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4297,
+			"Panel": 2088,
+			"Name": "vim",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4298,
+			"Panel": 2088,
+			"Name": "sudo 免密碼",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4299,
+			"Panel": 2088,
+			"Name": "禁用客戶會話",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4300,
+			"Panel": 2088,
+			"Name": "不啟動 x window",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4301,
+			"Panel": 2088,
+			"Name": "安裝 shadowsocks",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4302,
+			"Panel": 2088,
+			"Name": "安裝 輸入法",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4303,
+			"Panel": 2088,
+			"Name": "nautilus-open-terminal",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4304,
+			"Panel": 2088,
+			"Name": "nautilus-open-terminal",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4306,
+			"Panel": 87,
+			"Name": "刪除",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4307,
+			"Panel": 2089,
+			"Name": "Nginx",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4308,
+			"Panel": 2090,
+			"Name": "環境",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4309,
+			"Panel": 2091,
+			"Name": "nginx -h",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4310,
+			"Panel": 2091,
+			"Name": "常用命令",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 4311,
+			"Panel": 2090,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4312,
+			"Panel": 2091,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4313,
+			"Panel": 2092,
+			"Name": "默認配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4314,
+			"Panel": 2092,
+			"Name": "配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4315,
+			"Panel": 2092,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4316,
+			"Panel": 2093,
+			"Name": "配置 http",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4317,
+			"Panel": 2093,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4318,
+			"Panel": 2094,
+			"Name": "gzip",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4319,
+			"Panel": 2095,
+			"Name": "新段落",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4320,
+			"Panel": 2096,
+			"Name": "Gate One",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4321,
+			"Panel": 2097,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4322,
+			"Panel": 2098,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4323,
+			"Panel": 2099,
+			"Name": "配置",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4324,
+			"Panel": 2099,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
 		}
 	]
