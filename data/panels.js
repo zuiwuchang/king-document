@@ -7191,19 +7191,19 @@ var __v={
 			"Id": 2093,
 			"Chapter": 645,
 			"Name": "配置 http",
-			"Sort": 0
+			"Sort": 5
 		},
 		"2094": {
 			"Id": 2094,
 			"Chapter": 645,
 			"Name": "gzip",
-			"Sort": 0
+			"Sort": 4
 		},
 		"2095": {
 			"Id": 2095,
 			"Chapter": 645,
 			"Name": "列出檔案目錄",
-			"Sort": 0
+			"Sort": 3
 		},
 		"2096": {
 			"Id": 2096,
@@ -7240,6 +7240,30 @@ var __v={
 			"Chapter": 79,
 			"Name": "重新加載",
 			"Sort": 0
+		},
+		"2100": {
+			"Id": 2100,
+			"Chapter": 647,
+			"Name": "安全認證",
+			"Sort": 0
+		},
+		"2101": {
+			"Id": 2101,
+			"Chapter": 645,
+			"Name": "反向代理",
+			"Sort": 2
+		},
+		"2102": {
+			"Id": 2102,
+			"Chapter": 645,
+			"Name": "負載均衡",
+			"Sort": 1
+		},
+		"2103": {
+			"Id": 2103,
+			"Chapter": 645,
+			"Name": "location",
+			"Sort": 6
 		},
 		"211": {
 			"Id": 211,

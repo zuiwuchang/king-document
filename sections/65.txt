@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003exorm 只針對 有 pk 的表建立 緩存\n\n如果 調用 Exec 方法 會使 數據庫 和 緩存不一致 \n此時需要手動 調用ClearCache \nengine.Exec(\"update user set name = ? where id = ?\", \"xlw\", 1)\nengine.ClearCache(new(User))\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003exorm 只針對 有 pk 的表建立 緩存\n\n如果 調用 Exec 方法 會使 數據庫 和 緩存不一致 \n此時需要手動 調用ClearCache \nengine.Exec(\"update user set name = ? where id = ?\", \"xlw\", 1)\nengine.ClearCache(new(User))\n\nxorm 使用的是 sql 命令 字符串 作爲 緩存的 key\n(故 儘量使用 相同的 字符串 比如大小寫不同的 兩個相同命令 會創建出兩個 緩存)\n\u003c/pre\u003e"

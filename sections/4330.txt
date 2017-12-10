@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003enginx 從上到下一旦匹配到一個server_name 就不會進行其它server_name的匹配\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eGate One  支持多種 用戶 認證方式 none, api, cas, google, ssl, pam  默認 是none\n\n編輯 /etc/gateone/conf.d/20authentication.conf  並設置\n\"auth\": \"pam\",\n即可使用 linux pam 進行認證\u003c/pre\u003e"

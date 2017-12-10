@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003eserver {\n     listen       80;\n     server_name  ~^(?.+)\\.domain\\.com$;\n     ...\n}\u003c/pre\u003e"
