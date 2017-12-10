@@ -7265,6 +7265,18 @@ var __v={
 			"Name": "location",
 			"Sort": 6
 		},
+		"2104": {
+			"Id": 2104,
+			"Chapter": 645,
+			"Name": "websocket",
+			"Sort": 0
+		},
+		"2105": {
+			"Id": 2105,
+			"Chapter": 645,
+			"Name": "https",
+			"Sort": 0
+		},
 		"211": {
 			"Id": 211,
 			"Chapter": 79,

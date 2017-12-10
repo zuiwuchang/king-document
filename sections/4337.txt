@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e要支持 https 需要 在配置 中 爲listen 傳入 ssl參數 並且 配置 ssl證書 檔案位置\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eserver {\n\t...\n\t\n\tlisten 443 ssl;\n\n\t# 憑證與金鑰的路徑\n\tssl_certificate /etc/nginx/ssl/nginx.crt;\n\tssl_certificate_key /etc/nginx/ssl/nginx.key;\n\n\t...\n}\n\u003c/pre\u003e"
