@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 任意時間\n*\n\n# 分隔多個時間\n,\n\n# 時間段\n-\n\n# 每隔多久\n/n\n\u003c/pre\u003e"

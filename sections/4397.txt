@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e通常 或驗證 域名 所有權 機構註冊信息等\n需要人工 驗證\u003c/pre\u003e"

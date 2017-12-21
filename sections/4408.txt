@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e要啟動 http2 只需要在 listen 加上 http2 參數 即可\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eserver {\n\t...\n\t\n\tlisten 443 ssl http2;\n \n\t# 憑證與金鑰的路徑\n\tssl_certificate /etc/nginx/ssl/nginx.crt;\n\tssl_certificate_key /etc/nginx/ssl/nginx.key;\n \n\t...\n}\u003c/pre\u003e"

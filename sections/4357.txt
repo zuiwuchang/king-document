@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 啓動一個 vnc \nvncserver [:number] [-geometry 1024x768] [...]\n\t:number\t指定要啓動 那個 vnc 服務\n\t-geometry\t設置分辨率\n\n# 關閉 指定的 vnc 服務\nvncserver -kill :number\n\n# 修改 vnc 連接密碼\nvncpasswd\n\u003c/pre\u003e"

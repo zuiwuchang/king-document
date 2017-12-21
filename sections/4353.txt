@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 使用正則 向下 搜索\n/\n\n# 使用正則 向上 搜索\n?\n\n# 重複上個 搜索\nn\n\n# 反方向 重複上個 搜索\nN\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 進入at 命令編輯模式 並在指定時間執行\nat 時間\n\t取消\tctrl c\n\t創建\tctrl d\n\n# 直接以檔案內容 創建 任務\nat -f 檔案 時間\n\n# 列出當前用戶的at任務列表\nat -l\natq\n\n# 查詢 指定at任務的 具體命令\nat -c 任務id\n\n# 刪除 指定 at 任務\nat -d 任務id\natrm 任務id\n\u003c/pre\u003e"

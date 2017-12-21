@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e--webroot 模式 certbot 會向 -w 指定 目錄寫入創建 .well-known 檔案夾 並創建若干檔案\n通過 http 訪問這些 檔案 以驗證 域名所有權\n\n--standalone 模式則 自動 監聽 443 端口 來和 Let's Encrypt 通信驗證\n\n生成好的證書 會在 \u003cstrong\u003e/etc/letsencrypt/live/xxx/\u003c/strong\u003e 中\n\u003cstrong\u003efullchain.pem  privkey.pem\u003c/strong\u003e 分別是 證書 和 key \n\u003c/pre\u003e"

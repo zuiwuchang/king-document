@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ego.uuid 是一個 go實現的 開源(MIT) uuid 庫\n\ngithub \u003ca href='https://github.com/satori/go.uuid' target='_blank'\u003ehttps://github.com/satori/go.uuid\u003c/a\u003e\n\u003c/pre\u003e"

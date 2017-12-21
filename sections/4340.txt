@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003evim 分成3個模式 以用於快速完成不同的任務\u003c/pre\u003e\n\u003cul\u003e\n\t\u003cli\u003e編輯模式\u003c/li\u003e\n\t\u003cli\u003e插入模式\u003c/li\u003e\n\t\u003cli\u003e命令模式\u003c/li\u003e\n\u003c/ul\u003e"

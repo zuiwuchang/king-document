@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003esudo vi /etc/xrdp/xrdp.ini\n修改 \u003cstrong\u003e[xrdp1]\u003c/strong\u003e 中的 port=ask 爲 \u003cstrong\u003eport=ask-1\u003c/strong\u003e \n連接時 傳入 上次會話使用的 vnc 端口\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e[xrdp1]\nname=sesman-Xvnc\nlib=libvnc.so\nusername=ask\npassword=ask\nip=127.0.0.1\nport=ask-1\u003c/pre\u003e"

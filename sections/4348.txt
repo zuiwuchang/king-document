@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 移動到下個相同單詞處\n*\n\n# 移動到上個相同單詞處\n#\n\n\n# 移動到首行\ngg\n\n# 移動到尾行情\nGG\n\n# 移動到指定行 N是行數\nNG 或 Ngg\u003c/pre\u003e"

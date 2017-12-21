@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e基本上述所有命令 在輸入前都可輸入一個數字\n\n比如 \u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e# 移動到 下個相同 單詞\n*\n# 移動到 下2個相同 單詞\n2*\u003c/pre\u003e"

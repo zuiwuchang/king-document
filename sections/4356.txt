@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003evnc 爲linux 提供了 遠程桌面的 功能\n\nvnc 一般會啓動 5901~5910 之間的 斷開 當 X server 連接後 將 預先 設定好的 X client 傳給客戶端\n\u003c/pre\u003e"

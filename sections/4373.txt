@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eat 會將執行結構 email 到 /car/main/XXX\n如果 需要 輸出到當前終端 需要自己在命令中重定向 \u003cstrong\u003e echo \"重定向到 tty n\" \u0026gt;\u0026gt; /dev/tty1\u003c/strong\u003e\n\n如果任務沒有 輸出 at不會email 加上 \u003cstrong\u003e-m\u003c/strong\u003e 參數\n可以在沒有輸出時 依然 email 任務執行通知\n\nat 會啟動一個 新shell執行 故 檔案路徑 應該使用 全路徑\n\nat任務在用戶 非登入狀態下依然會執行\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 打開一個 檔案\n:e filepath\n\n# 保存 檔案\n:w\n# 檔案 另存為\n:w filepath\n\n# 退出 vim\n:q\n\n# 強制執行\n!\n\u003c/pre\u003e"

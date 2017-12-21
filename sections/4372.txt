@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 今天 某時 若已過則為明天\nHH:MM\nHH:MM[am|pm]\n\n# 指定日期時間\nHH:MM YYYY-MM-DD\n\n# 馬上執行\nnow\n\nTIME+number[weeks|days|hours|minutes]\n\u003c/pre\u003e"

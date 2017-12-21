@@ -51,7 +51,7 @@ var __v=[
 		{
 			"Id": 4304,
 			"Panel": 2088,
-			"Name": "nautilus-open-terminal",
+			"Name": "unity-tweak-tool",
 			"Sort": 0,
 			"Str": ""
 		}

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003esudo apt-get update\nsudo apt-get install software-properties-common\nsudo add-apt-repository ppa:certbot/certbot\nsudo apt-get update\nsudo apt-get install certbot \u003c/pre\u003e"

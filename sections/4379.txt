@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eanacron 會在開機時自動 比較 crontab 執行的時間戳 \n將 未執行的 crontab 執行\n\n以天 周 月 為單位 執行 \u003cstrong\u003e/etc/anacrontab\u003c/strong\u003e\n\n一般不需要設置 anacron 以系統默認 即可\n\u003c/pre\u003e"

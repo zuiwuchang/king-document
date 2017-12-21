@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ecrontab 任務會被週期性執行\n\n任務記錄在 \u003cstrong\u003e/etc/spool/cron/\u003c/strong\u003e 檔案夾下\n\n\u003cstrong\u003e/etc/cron.allow /etc/cron.deny\u003c/strong\u003e 規則同 at\n\u003c/pre\u003e"

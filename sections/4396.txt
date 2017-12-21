@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eDV 級別的證書 通常 只會檢查 申請者是否又域名 管理權限\n無需人工參與\n通常是訪問 域名下指定 檔案\n(如 [http|https]://xxx/xxxx.txt)\u003c/pre\u003e"

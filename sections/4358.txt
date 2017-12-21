@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e一般 vncserver :number\nvnc 就工作 在 5090 + number 端口上\n\n如果和 vnc 斷開 vnc 不會斷開 和 X Client的 連接 下次 連上 vnc 會是斷開時的狀態 \n\u003c/pre\u003e"

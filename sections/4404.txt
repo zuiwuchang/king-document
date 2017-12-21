@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 測試 https 安全性\n\u003ca href='https://www.ssllabs.com/ssltest/analyze.html' target='_blank'\u003ehttps://www.ssllabs.com/ssltest/analyze.html\u003c/a\u003e\n\n# 測試 是否 支持 http2\n\u003ca href='https://tools.keycdn.com/http2-test' target='_blank'\u003ehttps://tools.keycdn.com/http2-test\u003c/a\u003e\n\u003c/pre\u003e"

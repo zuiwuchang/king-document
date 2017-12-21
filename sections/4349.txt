@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 移動到 屏幕最上方\nH\n\n# 移動到 屏幕中間\nM\n\n# 移動到 屏幕最上方\nL\u003c/pre\u003e"

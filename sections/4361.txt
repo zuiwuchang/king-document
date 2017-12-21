@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003evncviewer 是linux 下的 一個 vnc 客戶端\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003evncviewer ip:number\u003c/pre\u003e"

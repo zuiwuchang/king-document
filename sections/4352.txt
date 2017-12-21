@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在編輯模式下輸入\n\u003cstrong\u003eZZ\u003c/strong\u003e\n可以自動執行 \u003cstrong\u003e:wq\u003c/strong\u003e\n\u003c/pre\u003e"

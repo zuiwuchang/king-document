@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003erealvnc 是 windows下的一個 vnc 客戶端\n官網 \u003ca href='https://www.realvnc.com/en/products/vnc/' target='_blank'\u003ehttps://www.realvnc.com/en/products/vnc/\u003c/a\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ebatch 用法基本同at\n不過當負載 高於0.8時 不會執行\u003c/pre\u003e"

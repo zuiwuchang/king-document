@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 為 example.com www.example.com 申請證書\ncertbot certonly --webroot -w /var/www/example -d example.com -d www.example.com\ncertbot certonly --standalone -d example.com -d www.example.com\n\n# 自動 更新證書\ncertbot renew --dry-run \n\u003c/pre\u003e"

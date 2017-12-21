@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egoogle 因為安全考慮 chrome 只支持h2 並不支持 h2c(firefox 亦不支持)\n然如果 自己想要 以http2為通信協議 有些時候 h2c 相對 h2的 高效 可能更加適合\n\n雖然 x庫的 http2 沒直接 提供 h2c 的功能\n但 其實 h2的 所有功能都 已經實現 只需要 接管 連接的 建立 跳過 tls 驗證過程 即可 \u003c/pre\u003e"

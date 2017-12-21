@@ -6629,18 +6629,6 @@ var __v={
 			"Name": "draw",
 			"Sort": 0
 		},
-		"2005": {
-			"Id": 2005,
-			"Chapter": 617,
-			"Name": "image",
-			"Sort": 0
-		},
-		"2006": {
-			"Id": 2006,
-			"Chapter": 617,
-			"Name": "golang.org/x/image/bmp",
-			"Sort": 0
-		},
 		"2007": {
 			"Id": 2007,
 			"Chapter": 618,
@@ -7277,10 +7265,88 @@ var __v={
 			"Name": "https",
 			"Sort": 0
 		},
+		"2106": {
+			"Id": 2106,
+			"Chapter": 648,
+			"Name": "模式",
+			"Sort": 0
+		},
+		"2108": {
+			"Id": 2108,
+			"Chapter": 649,
+			"Name": "編輯模式",
+			"Sort": 0
+		},
+		"2109": {
+			"Id": 2109,
+			"Chapter": 649,
+			"Name": "跳轉",
+			"Sort": 0
+		},
 		"211": {
 			"Id": 211,
 			"Chapter": 79,
 			"Name": "動態增刪npc",
+			"Sort": 0
+		},
+		"2110": {
+			"Id": 2110,
+			"Chapter": 649,
+			"Name": "搜索",
+			"Sort": 0
+		},
+		"2111": {
+			"Id": 2111,
+			"Chapter": 650,
+			"Name": "遠程桌面",
+			"Sort": 0
+		},
+		"2112": {
+			"Id": 2112,
+			"Chapter": 650,
+			"Name": "VNC",
+			"Sort": 0
+		},
+		"2113": {
+			"Id": 2113,
+			"Chapter": 650,
+			"Name": "VNC 客戶端",
+			"Sort": 0
+		},
+		"2114": {
+			"Id": 2114,
+			"Chapter": 650,
+			"Name": "xrdp",
+			"Sort": 0
+		},
+		"2115": {
+			"Id": 2115,
+			"Chapter": 649,
+			"Name": "刪除 替換",
+			"Sort": 0
+		},
+		"2116": {
+			"Id": 2116,
+			"Chapter": 651,
+			"Name": "at",
+			"Sort": 0
+		},
+		"2117": {
+			"Id": 2117,
+			"Chapter": 651,
+			"Name": "batch",
+			"Sort": 0
+		},
+		"2118": {
+			"Id": 2118,
+			"Chapter": 651,
+			"Name": "crontab",
+			"Sort": 0
+		},
+		"2119": {
+			"Id": 2119,
+			"Chapter": 651,
+			"Name": "anacron",
 			"Sort": 0
 		},
 		"212": {
@@ -7289,10 +7355,100 @@ var __v={
 			"Name": "代碼段",
 			"Sort": 0
 		},
+		"2120": {
+			"Id": 2120,
+			"Chapter": 652,
+			"Name": "go.uuid",
+			"Sort": 0
+		},
+		"2121": {
+			"Id": 2121,
+			"Chapter": 649,
+			"Name": "撤銷 重做",
+			"Sort": 0
+		},
+		"2122": {
+			"Id": 2122,
+			"Chapter": 653,
+			"Name": "插入模式",
+			"Sort": 0
+		},
+		"2123": {
+			"Id": 2123,
+			"Chapter": 656,
+			"Name": "image",
+			"Sort": 0
+		},
+		"2124": {
+			"Id": 2124,
+			"Chapter": 656,
+			"Name": "bmp",
+			"Sort": 0
+		},
+		"2125": {
+			"Id": 2125,
+			"Chapter": 655,
+			"Name": "http2",
+			"Sort": 0
+		},
+		"2126": {
+			"Id": 2126,
+			"Chapter": 655,
+			"Name": "h2c",
+			"Sort": 0
+		},
+		"2127": {
+			"Id": 2127,
+			"Chapter": 657,
+			"Name": "SSL 證書",
+			"Sort": 0
+		},
+		"2128": {
+			"Id": 2128,
+			"Chapter": 657,
+			"Name": "SSL 證書級別",
+			"Sort": 0
+		},
+		"2129": {
+			"Id": 2129,
+			"Chapter": 658,
+			"Name": "Let's Encrypt",
+			"Sort": 0
+		},
 		"213": {
 			"Id": 213,
 			"Chapter": 80,
 			"Name": "系統變量",
+			"Sort": 0
+		},
+		"2130": {
+			"Id": 2130,
+			"Chapter": 658,
+			"Name": "certbot",
+			"Sort": 0
+		},
+		"2131": {
+			"Id": 2131,
+			"Chapter": 657,
+			"Name": "測試",
+			"Sort": 0
+		},
+		"2133": {
+			"Id": 2133,
+			"Chapter": 660,
+			"Name": "使用強 Diffie-Hellman",
+			"Sort": 0
+		},
+		"2134": {
+			"Id": 2134,
+			"Chapter": 654,
+			"Name": "命令模式",
+			"Sort": 0
+		},
+		"2135": {
+			"Id": 2135,
+			"Chapter": 654,
+			"Name": "常用命令",
 			"Sort": 0
 		},
 		"214": {

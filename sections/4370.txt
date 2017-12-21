@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eat 只會執行一次\n任務 記錄在 \u003cstrong\u003e/var/spool/at\u003c/strong\u003e 檔案夾下\n\n\u003cstrong\u003e/etc/at.allow\u003c/strong\u003e (允許)\n\u003cstrong\u003e/etc/at.deny\u003c/strong\u003e (拒絕)\n檔案 記錄了 可以所以 at 命令的用戶\n\t(格式為 每行一個 用戶名)\n如果 兩個檔案都不存在 則只有 root 可以執行\n如果 兩個檔案都存在 則以 at.allow 為準\n\u003c/pre\u003e"

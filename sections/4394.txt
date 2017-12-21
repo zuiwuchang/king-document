@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eTLS (Transport Layer Security) 傳輸層安全協定 及其前身體 SSL(Secure Sockets Layer) 是一種 安全協定 用於提供安全的網路通信\n\nSSL證書 主要用於 https 加密\u003c/pre\u003e"

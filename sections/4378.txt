@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ecrontab 的執行結果 在 日誌 \u003cstrong\u003e/var/log/cron\u003c/strong\u003e 中\n\ncrontab -e 是針對 用戶設計的 對於系統例行工作 root 可直接 編輯 \u003cstrong\u003evi /etc/crontab\u003c/strong\u003e \n\n周 不能 與 日 月 同時存在\n\u003c/pre\u003e"

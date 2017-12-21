@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ehttp2 提供了很多優化效率的 特性 -- 二進制的header 多路復用 socket ...\n\n通常 加密傳輸的 http2 稱為 h2\n非加密 傳輸 稱為 h2c\n\ngolang.org/x/net/http2 庫實現了 h2\u003c/pre\u003e"

@@ -28497,20 +28497,6 @@ var __v=[
 			"Str": ""
 		},
 		{
-			"Id": 4126,
-			"Panel": 2005,
-			"Name": "image",
-			"Sort": 0,
-			"Str": ""
-		},
-		{
-			"Id": 4127,
-			"Panel": 2006,
-			"Name": "golang.org/x/image/bmp",
-			"Sort": 0,
-			"Str": ""
-		},
-		{
 			"Id": 4128,
 			"Panel": 1327,
 			"Name": "3143 註冊碼",
@@ -29717,7 +29703,7 @@ var __v=[
 		{
 			"Id": 4304,
 			"Panel": 2088,
-			"Name": "nautilus-open-terminal",
+			"Name": "unity-tweak-tool",
 			"Sort": 0,
 			"Str": ""
 		},
@@ -29942,20 +29928,468 @@ var __v=[
 			"Id": 4337,
 			"Panel": 2105,
 			"Name": "https",
-			"Sort": 0,
+			"Sort": 4,
 			"Str": ""
 		},
 		{
 			"Id": 4338,
 			"Panel": 2105,
 			"Name": "自己簽發證書",
-			"Sort": 0,
+			"Sort": 2,
 			"Str": ""
 		},
 		{
 			"Id": 4339,
 			"Panel": 2105,
 			"Name": "Example",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4340,
+			"Panel": 2106,
+			"Name": "模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4344,
+			"Panel": 2108,
+			"Name": "編輯模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4346,
+			"Panel": 2109,
+			"Name": "基本移動",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4347,
+			"Panel": 2109,
+			"Name": "翻頁",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4348,
+			"Panel": 2109,
+			"Name": "大範圍移動",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4349,
+			"Panel": 2109,
+			"Name": "屏幕中移動",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4350,
+			"Panel": 2109,
+			"Name": "行內移動",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4351,
+			"Panel": 2109,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4352,
+			"Panel": 2108,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4353,
+			"Panel": 2110,
+			"Name": "搜索",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4354,
+			"Panel": 2111,
+			"Name": "遠程桌面",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4355,
+			"Panel": 2111,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4356,
+			"Panel": 2112,
+			"Name": "VNC",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4357,
+			"Panel": 2112,
+			"Name": "常用 命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4358,
+			"Panel": 2112,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4359,
+			"Panel": 2112,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4361,
+			"Panel": 2113,
+			"Name": "linux",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4362,
+			"Panel": 2113,
+			"Name": "windows",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4363,
+			"Panel": 2112,
+			"Name": "配置-mint",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4364,
+			"Panel": 2114,
+			"Name": "xrdp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4365,
+			"Panel": 2114,
+			"Name": "xrdp.ini",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4366,
+			"Panel": 2114,
+			"Name": "sesman.ini",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4367,
+			"Panel": 2114,
+			"Name": "恢復會話",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4368,
+			"Panel": 2115,
+			"Name": "刪除",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4369,
+			"Panel": 2115,
+			"Name": "替換",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4370,
+			"Panel": 2116,
+			"Name": "at",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4371,
+			"Panel": 2116,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4372,
+			"Panel": 2116,
+			"Name": "時間格式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4373,
+			"Panel": 2116,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4374,
+			"Panel": 2117,
+			"Name": "batch",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4375,
+			"Panel": 2118,
+			"Name": "crontab",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4376,
+			"Panel": 2118,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4377,
+			"Panel": 2118,
+			"Name": "時間定義",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4378,
+			"Panel": 2118,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4379,
+			"Panel": 2119,
+			"Name": "anacron",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4380,
+			"Panel": 2119,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4381,
+			"Panel": 2120,
+			"Name": "go.uuid",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4382,
+			"Panel": 2120,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4383,
+			"Panel": 2121,
+			"Name": "撤銷 重做",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4384,
+			"Panel": 2122,
+			"Name": "插入模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4385,
+			"Panel": 2122,
+			"Name": "進入 插入模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4386,
+			"Panel": 2122,
+			"Name": "退出 插入模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4387,
+			"Panel": 2123,
+			"Name": "image",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4388,
+			"Panel": 2124,
+			"Name": "bmp",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4389,
+			"Panel": 2125,
+			"Name": "http2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4390,
+			"Panel": 2125,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4391,
+			"Panel": 2126,
+			"Name": "h2c",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4392,
+			"Panel": 2126,
+			"Name": "server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4393,
+			"Panel": 2126,
+			"Name": "client",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4394,
+			"Panel": 2127,
+			"Name": "SSL 證書",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4396,
+			"Panel": 2128,
+			"Name": "域名 DV SSL",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4397,
+			"Panel": 2128,
+			"Name": "企業 OV SSL",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4398,
+			"Panel": 2128,
+			"Name": "增強 EV SSL",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4399,
+			"Panel": 2129,
+			"Name": "Let's Encrypt",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4400,
+			"Panel": 2130,
+			"Name": "certbot",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4401,
+			"Panel": 2130,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4402,
+			"Panel": 2130,
+			"Name": "獲取證書",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4403,
+			"Panel": 2130,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4404,
+			"Panel": 2131,
+			"Name": "測試",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4405,
+			"Panel": 2129,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4407,
+			"Panel": 2133,
+			"Name": "使用強 Diffie-Hellman",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4408,
+			"Panel": 2105,
+			"Name": "http2",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 4409,
+			"Panel": 2134,
+			"Name": "命令模式",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4410,
+			"Panel": 2135,
+			"Name": "基礎操作",
 			"Sort": 0,
 			"Str": ""
 		}

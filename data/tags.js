@@ -18,7 +18,7 @@ var __v=[
 			"Pid": 2,
 			"Name": "第三方庫",
 			"Sort": 1,
-			"Docs": 5
+			"Docs": 6
 		},
 		{
 			"Id": 4,
@@ -137,7 +137,7 @@ var __v=[
 			"Pid": 22,
 			"Name": "工具",
 			"Sort": 0,
-			"Docs": 3
+			"Docs": 4
 		},
 		{
 			"Id": 25,
@@ -382,7 +382,7 @@ var __v=[
 			"Pid": 2,
 			"Name": "golang.org/x",
 			"Sort": 0,
-			"Docs": 1
+			"Docs": 2
 		},
 		{
 			"Id": 69,

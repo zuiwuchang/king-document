@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 撤銷\nu\n\n# 取消一個 u 操作\nctrl+r\n\n# 重做最後一條編輯 指令\n.\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eanacron -u [job]\nanacron [-sfn] [job]...\n\t-s\t# 開始執行 各項工作 依據時間戳 判斷 是否要執行\n\t-f\t# 強制執行 任務 而不必 判斷 時間\n\t-n\t# 立刻執行 所有未執行的 任務\n\t-u\t# 更新 時間戳 但不要執行 任務\n\n\tjob\t\u003cstrong\u003e/etc/anacrontab\u003c/strong\u003e 定義的各項 工作名\n\u003c/pre\u003e"

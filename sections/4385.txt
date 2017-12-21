@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 在光標前插入\ni\n\n# 在光標後插入\na\n\n# 在 行首 插入\nI\n\n# 在 行尾 插入\nA\n\n# 在 光標後 增加一行\no\n\n# 在 光標前 增加一行\nO\n\u003c/pre\u003e"

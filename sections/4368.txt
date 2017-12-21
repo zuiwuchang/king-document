@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 向後刪除字符\nx\n# 向前刪除字符\nX\n\n# 行刪除\ndd\n# 行內刪除\nd\n\n# 將本行和下行 合併\nJ\n\u003c/pre\u003e"

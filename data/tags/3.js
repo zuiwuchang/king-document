@@ -28,5 +28,11 @@ var __v=[
 			"Tag": 3,
 			"Name": "barcode",
 			"Sort": 4
+		},
+		{
+			"Id": 153,
+			"Tag": 3,
+			"Name": "輕量庫",
+			"Sort": 5
 		}
 	]
