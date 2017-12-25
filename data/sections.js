@@ -30392,5 +30392,40 @@ var __v=[
 			"Name": "基礎操作",
 			"Sort": 0,
 			"Str": ""
+		},
+		{
+			"Id": 4411,
+			"Panel": 2136,
+			"Name": "行",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4412,
+			"Panel": 2136,
+			"Name": "常用操作",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4413,
+			"Panel": 2137,
+			"Name": "gocui",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4414,
+			"Panel": 2138,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4416,
+			"Panel": 2139,
+			"Name": "正則匹配",
+			"Sort": 0,
+			"Str": ""
 		}
 	]

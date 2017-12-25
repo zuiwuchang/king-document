@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egocui 是一個 開源(BSD-3-Clause) go cui庫\n\ngithub \u003ca href='https://github.com/jroimartin/gocui' target='_blank'\u003ehttps://github.com/jroimartin/gocui\u003c/a\u003e\u003c/pre\u003e"

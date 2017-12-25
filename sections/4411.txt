@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e命令模式可以指定要操作的行\n\n# 當前行\n.\n\n# 指定行\nn\n\n# 當前行 之後/之前\n.+n\n.-n\n\n# 最後一行\n$\n\u003c/pre\u003e"

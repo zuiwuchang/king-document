@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 正向 正則 搜索\n:/regex/\n# 反向 正則 搜索\n:?regex?\n\n# 正向 重複 上次 正則 搜索\nn\n# 反向 重複 上次 正則 搜索\nN\n\n# 正向 正則匹配 並寫入 新檔案\n:/regex/ w filename\n\n# 將 regex1 到 regex2 之間的內容 寫入 新 檔案\n:/regex1/,/regex2/ w filename\n\u003c/pre\u003e"
