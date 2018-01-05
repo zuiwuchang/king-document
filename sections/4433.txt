@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003esudo apt install libopenal-dev libalut-dev\u003c/pre\u003e\n\u003cpre class='k-pre'\u003e-lopenal\n-lalut\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e#include \u0026lt;AL/al.h\u0026gt;\n#include \u0026lt;AL/alc.h\u0026gt;\n#include \u0026lt;AL/alut.h\u0026gt;\u003c/pre\u003e"

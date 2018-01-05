@@ -1,0 +1,1 @@
+var __v="\u003cpre class='prettyprint linenums'\u003etype ServerWebSocket interface {\n    ServerResponse\n    MessageSendJSON(v interface{}) error\n    MessageReceiveJSON(v interface{}) error\n}\u003c/pre\u003e"

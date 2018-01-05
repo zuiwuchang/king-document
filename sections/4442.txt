@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eOpenAL 1.1 Core SDK (zip) 中 沒有提供 alut\u003c/pre\u003e"

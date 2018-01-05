@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ecolor 可以為控制檯輸出 添加上顏色\n\ngithub \u003ca href='https://github.com/fatih/color' target='_blank'\u003ehttps://github.com/fatih/color\u003c/a\u003e\n\n\u003cimg src='/sections/4429/image/color.png' style='max-width:100%;'\u003e\n\u003c/pre\u003e\n"

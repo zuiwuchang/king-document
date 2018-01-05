@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003elogrus 是一個 開源(MIT) 的 golang 日誌庫\n\ngithub \u003ca href='https://github.com/sirupsen/logrus' target='_blank'\u003ehttps://github.com/sirupsen/logrus\u003c/a\u003e\n\u003c/pre\u003e"

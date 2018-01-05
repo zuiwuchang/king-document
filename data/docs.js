@@ -321,7 +321,7 @@ var __v={
 			"Id": 148,
 			"Tag": 94,
 			"Name": "ffmpeg",
-			"Sort": 0
+			"Sort": 1
 		},
 		"149": {
 			"Id": 149,
@@ -376,6 +376,24 @@ var __v={
 			"Tag": 3,
 			"Name": "gocui",
 			"Sort": 0
+		},
+		"157": {
+			"Id": 157,
+			"Tag": 97,
+			"Name": "logrus",
+			"Sort": 0
+		},
+		"158": {
+			"Id": 158,
+			"Tag": 94,
+			"Name": "OpenAL",
+			"Sort": 0
+		},
+		"159": {
+			"Id": 159,
+			"Tag": 91,
+			"Name": "gRPC",
+			"Sort": 1
 		},
 		"16": {
 			"Id": 16,

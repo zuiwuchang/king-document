@@ -3647,6 +3647,42 @@ var __v={
 			"Name": "gocui",
 			"Sort": 498
 		},
+		"662": {
+			"Id": 662,
+			"Doc": 132,
+			"Name": "printf 顏色",
+			"Sort": 499
+		},
+		"663": {
+			"Id": 663,
+			"Doc": 153,
+			"Name": "color",
+			"Sort": 500
+		},
+		"664": {
+			"Id": 664,
+			"Doc": 157,
+			"Name": "logrus",
+			"Sort": 501
+		},
+		"665": {
+			"Id": 665,
+			"Doc": 158,
+			"Name": "OpenAL",
+			"Sort": 502
+		},
+		"666": {
+			"Id": 666,
+			"Doc": 159,
+			"Name": "gRPC",
+			"Sort": 503
+		},
+		"667": {
+			"Id": 667,
+			"Doc": 159,
+			"Name": "golang",
+			"Sort": 504
+		},
 		"67": {
 			"Id": 67,
 			"Doc": 17,

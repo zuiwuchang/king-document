@@ -536,7 +536,7 @@ var __v=[
 			"Pid": 1,
 			"Name": "基礎組件",
 			"Sort": 4,
-			"Docs": 1
+			"Docs": 2
 		},
 		{
 			"Id": 92,
@@ -557,7 +557,7 @@ var __v=[
 			"Pid": 15,
 			"Name": "音頻處理",
 			"Sort": 5,
-			"Docs": 1
+			"Docs": 2
 		},
 		{
 			"Id": 95,
@@ -571,6 +571,13 @@ var __v=[
 			"Pid": 22,
 			"Name": "ssh",
 			"Sort": 2,
+			"Docs": 1
+		},
+		{
+			"Id": 97,
+			"Pid": 3,
+			"Name": "日誌",
+			"Sort": 1,
 			"Docs": 1
 		},
 		{

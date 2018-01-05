@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ego get -u github.com/golang/protobuf/protoc-gen-go\ngo get -u google.golang.org/grpc\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eset 可以在一個上下文中 設置變量值\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e{{set . \"title\" \"Basic Chat room\"}}\n\n\u0026lt;h1\u0026gt;{{.title}}\u0026lt;/h1\u0026gt;\u003c/pre\u003e"

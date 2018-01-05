@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ego template 為了安全會將 內容 轉義html後在 輸出\nraw 可以將 內容 原樣輸出\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;div class=\"body\"\u0026gt;{{raw .blogBody}}\u0026lt;/div\u0026gt;\u003c/pre\u003e"

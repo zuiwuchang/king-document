@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003ev0.18.0\u003c/strong\u003e 傳入 的websocket 接口 \u003cstrong\u003eServerWebSocket\u003c/strong\u003e 實際上是 \u003cstrong\u003e*GoWebSocket\u003c/strong\u003e\n故 如果需要使用 原始的 websocket 接口 可以使用 *GoWebSocket 替代 ServerWebSocket\n\u003c/pre\u003e"

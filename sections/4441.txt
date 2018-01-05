@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e從 openal 官網下載 OpenAL 1.1 Core SDK (zip) 並安裝\n\n將 C:\\Program Files (x86)\\OpenAL 1.1 SDK\\include 加入 include目錄\n將 C:\\Program Files (x86)\\OpenAL 1.1 SDK\\libs\\WinXX 加入 lib目錄\u003c/pre\u003e"

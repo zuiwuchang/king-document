@@ -4,5 +4,11 @@ var __v=[
 			"Doc": 153,
 			"Name": "go.uuid",
 			"Sort": 493
+		},
+		{
+			"Id": 663,
+			"Doc": 153,
+			"Name": "color",
+			"Sort": 500
 		}
 	]

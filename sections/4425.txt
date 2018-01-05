@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003elinux 下 printf 可以支持 顏色等特性\n\u003cstrong\u003e\\033[\u003c/strong\u003e背景色;文本色m內容\u003cstrong\u003e\\033[0m\u003c/strong\u003e\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003epackage main\n\nimport (\n\t\"fmt\"\n)\n\nfunc main() {\n\tfmt.Printf(\"\\033[47;31m%v\\033[0m\\n\", \"hellow word\")\n}\u003c/pre\u003e"

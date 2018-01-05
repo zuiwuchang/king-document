@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egRPC 會自己維護 和服務器的 tcp 連接 使用 gRPC 時 不需要使用者去 瞎操心\ngrpc.Dial 不會建立 tcp 而是 當 發送 rpc 請求時 才安需(如果 已有可用連接 復用 否則 創建新連接) 連接\n\nproto3中 定義的 rpc 方法 必須是 一個 傳入 參數 同 一個 返回值\n且在服務器實現 和客戶端請求 時 這兩個值 不能為nil\n\u003c/pre\u003e"

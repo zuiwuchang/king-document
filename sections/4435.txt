@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e#include \u0026lt;AL/alut.h\u0026gt; 定義了一個 輔助函數 用以簡化 openal 編程\n\u003c/pre\u003e"

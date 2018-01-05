@@ -1,1 +1,1 @@
-var __v="\u003cpre class='k-pre'\u003eMbrFix64.exe /drive 0 fixmbr /yes\u003c/pre\u003e"
+var __v="\u003cpre class='k-pre'\u003eMbrFix64.exe /drive 0 fixmbr /yes\n\u003c/pre\u003e\n\u003ca href='/sections/4306/file/mbrfix.zip' target='_blank'\u003embrfix.zip\u003c/a\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eOpenAL 既 Open Audio Library 是一個 開源(LGPL) 跨平臺的 音頻 c api\n其風格 模仿了 OpenGL\n\n官網 \u003ca href='http://www.openal.org/' target='_blank'\u003ehttp://www.openal.org/\u003c/a\u003e\nwiki \u003ca href='https://zh.wikipedia.org/wiki/OpenAL' target='_blank'\u003ehttps://zh.wikipedia.org/wiki/OpenAL\u003c/a\u003e\n\u003c/pre\u003e"

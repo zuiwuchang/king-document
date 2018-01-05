@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003efunc init() {\n    revel.TemplateFuncs[\"my_eq\"] = func(a, b interface{}) bool {\n        return a == 0  || a == b\n    }\n}\u003c/pre\u003e"
