@@ -10,5 +10,11 @@ var __v=[
 			"Doc": 141,
 			"Name": "launch.json",
 			"Sort": 483
+		},
+		{
+			"Id": 678,
+			"Doc": 141,
+			"Name": "tasks",
+			"Sort": 509
 		}
 	]

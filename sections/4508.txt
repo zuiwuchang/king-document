@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eqtmoc 用來 創建 qt 的一個 子類 同時 使用自己多 構造函數 信號 插槽 屬性\n\n# 爲項目 生成 moc\nqtmoc desktop path/to/your/projec\n# 爲 package 生成 moct\nqtmoc desktop path/to/your/sub-package\n\n\nqtmoc 會產生 如下 5個 檔案\n\u003cstrong\u003emoc.h\nmoc_moc.h\nmoc.cpp\nmoc.go\nmoc_cgo_XXX.go\u003c/strong\u003e\n\u003c/pre\u003e"

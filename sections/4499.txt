@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e和 go build 一樣 如果 在項目目錄下 可以 省略 項目路徑\n\n如果 target 就是 當前平臺 可以 省略 target\n\nqtdeploy 相當緩慢 一般可以 使用 -fast 參數\n這樣 便不會最新 moc minimal dependencie(依賴) 操縱 從而提升速度\u003cstrong\u003e(但 只支持 桌面平臺)\u003c/strong\u003e\n\u003c/pre\u003e"

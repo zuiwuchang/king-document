@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eshadowsocksr-libev 同樣 提供了 c 語言 實現的 shadowsocksrr 開源(GPL3.0)套件\n\ngit clone \u003ca href='https://github.com/shadowsocksrr/shadowsocksr-libev' target='_blank'\u003ehttps://github.com/shadowsocksrr/shadowsocksr-libev.git\u003c/a\u003e\n\u003c/pre\u003e"

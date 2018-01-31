@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eMSYS2 從 archlinux 移植了 pacman 來作爲 MSYS2 的包管理工具\u003c/pre\u003e"

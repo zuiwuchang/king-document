@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eQML 是qt爲QtQuick  開發的一個新的 宣告式 語言\n其提供了 高可讀 復用 交換 的 ui編寫模式\n\nQML 使用 類似 json 語法聲明\u003c/pre\u003e"

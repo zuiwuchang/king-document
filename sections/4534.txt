@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eshadowsocksr-libev 提供了 類似 shadowsocks-libev 的工具包\n使用 方式 也基本 相同 只是 現在 增加了 額外的 參數 指定 混淆方式 和 協議\u003c/pre\u003e"

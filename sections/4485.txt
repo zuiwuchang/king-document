@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eQtQuick 是 qt 提供的 UI 排版引擎\n\n其提供了 QML 用於 方便的 編寫界面\n同時提供了 用 c++ 擴展 QtQuick 的能力\n\u003c/pre\u003e"

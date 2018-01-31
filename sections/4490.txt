@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003eimport QtQuick.Window 2.2\u003c/strong\u003e\n\nWindow 是QtQuick.Window 模塊中提供的 一個型別\n用於 創建 一個 頂層 窗口\u003c/pre\u003e"

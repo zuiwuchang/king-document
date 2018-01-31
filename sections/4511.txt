@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ego qt 支持了qt的 國際化 功能 同 qt一樣 在 創建類 application 後 加載 翻譯檔案 並設置到 app即可\u003c/pre\u003e"

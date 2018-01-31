@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ess-local 是 shadowsocks 客戶端 程式\n\n# 以 在本地 1080 創建 sock5 代理 到 domain:1911\nss-local -l 1080 -s domain -p 1911  -k 123 m rc4-md5 $@ --reuse-port --fast-open\u003c/pre\u003e"

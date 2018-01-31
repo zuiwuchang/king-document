@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 更新軟件包數據庫和核心系統軟件包\npacman -Syu\n\n# 查找 包\npacman -Ss 包名\n\n# 安裝 包\npacman -S 包名\n\n# 刪除 包\npacman -R 包名\n\n//查詢 已安裝的 包\npacman -Q 包名\npacman -Qs 包名\n\u003c/pre\u003e"

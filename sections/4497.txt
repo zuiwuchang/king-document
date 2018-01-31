@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e執行 qtsetup 配置之前 需要 設置必要的 環境變量 以指明 Qt 版本 安裝位置 os 等 詳細見 官方說明\n\u003ca href='https://github.com/therecipe/qt/wiki/Installation' target='_blank'\u003ehttps://github.com/therecipe/qt/wiki/Installation\u003c/a\u003e\n\n不知道爲何 最新的 Qt5.10 無法正確 安裝 可能是 binding 代碼 不兼容 最新 Qt5.10\n孤使用 Qt5.9.3 在 linux 和 windows 都安裝正常\u003c/pre\u003e"

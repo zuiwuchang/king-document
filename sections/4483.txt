@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003esudo apt install libgl1-mesa-dev\u003c/pre\u003e"

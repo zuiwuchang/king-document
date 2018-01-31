@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eQtQuick 中 提供了 qml 的 基本圖形元件\n通過 import QtQuick 2.10 引入\n\u003c/pre\u003e"

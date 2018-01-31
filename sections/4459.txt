@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ess-server 是 shadowsocks 服務器 程式\n\n# 以 king 用戶 運行 shadowsocks 服務器 在 0.0.0.0:1911 地址上 連接密碼爲 123\nss-server -k 123 -p 1911 -a king\n\u003c/pre\u003e"

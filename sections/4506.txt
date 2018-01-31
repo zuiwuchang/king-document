@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e不要 手動 修改 qtrcc 產生的 三個 檔案\n\n如果 需要更多的資源控制 自己新建個 *.qrc 檔案到 項目根目錄\u003c/pre\u003e"

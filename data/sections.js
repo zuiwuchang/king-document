@@ -30653,9 +30653,541 @@ var __v=[
 			"Str": ""
 		},
 		{
-			"Id": 4452,
-			"Panel": 2157,
+			"Id": 4453,
+			"Panel": 2158,
 			"Name": "TransportCredentials 接口",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4454,
+			"Panel": 2158,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4455,
+			"Panel": 2158,
+			"Name": "Example TLS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4456,
+			"Panel": 2159,
+			"Name": "ubuntu",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4457,
+			"Panel": 2160,
+			"Name": "shadowsocks-libev",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4458,
+			"Panel": 2161,
+			"Name": "ubuntu",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4459,
+			"Panel": 2162,
+			"Name": "ss-server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4461,
+			"Panel": 2162,
+			"Name": "參數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4462,
+			"Panel": 2163,
+			"Name": "ss-local",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4463,
+			"Panel": 2163,
+			"Name": "參數",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4464,
+			"Panel": 2164,
+			"Name": "ss-redir",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4466,
+			"Panel": 2164,
+			"Name": "pptpd",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4468,
+			"Panel": 2165,
+			"Name": "potoc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4469,
+			"Panel": 2165,
+			"Name": "server",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4471,
+			"Panel": 2159,
+			"Name": "c++",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 4472,
+			"Panel": 2165,
+			"Name": "client",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4473,
+			"Panel": 2166,
+			"Name": "vs2015",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4474,
+			"Panel": 2167,
+			"Name": "MSYS2",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4475,
+			"Panel": 2168,
+			"Name": "安裝",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4477,
+			"Panel": 2169,
+			"Name": "pacman",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4478,
+			"Panel": 2168,
+			"Name": "添加 右鍵 菜單",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4479,
+			"Panel": 2169,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4481,
+			"Panel": 2159,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4482,
+			"Panel": 2170,
+			"Name": "TLS",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4483,
+			"Panel": 2171,
+			"Name": "-lGL",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4484,
+			"Panel": 2171,
+			"Name": "-lpulse-mainloop-glib -lpulse",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4485,
+			"Panel": 2172,
+			"Name": "QtQuick",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4486,
+			"Panel": 2172,
+			"Name": "QML",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4487,
+			"Panel": 2173,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4488,
+			"Panel": 2174,
+			"Name": "QtQuick",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4489,
+			"Panel": 2174,
+			"Name": "子模塊",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4490,
+			"Panel": 2175,
+			"Name": "Window",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4491,
+			"Panel": 2176,
+			"Name": "ApplicationWindow",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4492,
+			"Panel": 1328,
+			"Name": "sub-fcitx.c",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4493,
+			"Panel": 2177,
+			"Name": "qt",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4494,
+			"Panel": 2178,
+			"Name": "tools",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4495,
+			"Panel": 2179,
+			"Name": "qtsetup",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4496,
+			"Panel": 2179,
+			"Name": "常用命令",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4497,
+			"Panel": 2179,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4498,
+			"Panel": 2180,
+			"Name": "qtdeploy",
+			"Sort": 4,
+			"Str": ""
+		},
+		{
+			"Id": 4499,
+			"Panel": 2180,
+			"Name": "注意",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4500,
+			"Panel": 2180,
+			"Name": "target",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 4501,
+			"Panel": 2180,
+			"Name": "常用命令",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 4502,
+			"Panel": 2181,
+			"Name": "main.go",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 4503,
+			"Panel": 2181,
+			"Name": "qml/main.qml",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4504,
+			"Panel": 2181,
+			"Name": "effect",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 4505,
+			"Panel": 2182,
+			"Name": "qtrcc",
+			"Sort": 3,
+			"Str": ""
+		},
+		{
+			"Id": 4506,
+			"Panel": 2182,
+			"Name": "注意",
+			"Sort": 1,
+			"Str": ""
+		},
+		{
+			"Id": 4507,
+			"Panel": 2182,
+			"Name": "默認捆綁資源",
+			"Sort": 2,
+			"Str": ""
+		},
+		{
+			"Id": 4508,
+			"Panel": 2183,
+			"Name": "qtmoc",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4509,
+			"Panel": 2183,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4510,
+			"Panel": 2184,
+			"Name": "qtminimal",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4511,
+			"Panel": 2185,
+			"Name": "國際化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4512,
+			"Panel": 2185,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4513,
+			"Panel": 2185,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4514,
+			"Panel": 2186,
+			"Name": "QMediaPlayer",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4515,
+			"Panel": 2186,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4516,
+			"Panel": 2187,
+			"Name": "go qml 交互",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4517,
+			"Panel": 2183,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4518,
+			"Panel": 2187,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4519,
+			"Panel": 2188,
+			"Name": "tasks",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4520,
+			"Panel": 2188,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4521,
+			"Panel": 2188,
+			"Name": "變量",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4522,
+			"Panel": 2190,
+			"Name": "QSettings",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4523,
+			"Panel": 2190,
+			"Name": "構造",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4525,
+			"Panel": 2191,
+			"Name": "持久化",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4526,
+			"Panel": 2192,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4527,
+			"Panel": 2192,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4528,
+			"Panel": 2191,
+			"Name": "注意",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4529,
+			"Panel": 2193,
+			"Name": "qml",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4530,
+			"Panel": 2193,
+			"Name": "Example",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4531,
+			"Panel": 2194,
+			"Name": "shadowsocksrr",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4532,
+			"Panel": 2195,
+			"Name": "shadowsocksr-libev",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4533,
+			"Panel": 2196,
+			"Name": "Ubuntu",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4534,
+			"Panel": 2197,
+			"Name": "tools",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4535,
+			"Panel": 2197,
+			"Name": "ss-local -c xxx.json",
+			"Sort": 0,
+			"Str": ""
+		},
+		{
+			"Id": 4536,
+			"Panel": 2197,
+			"Name": "注意",
 			"Sort": 0,
 			"Str": ""
 		}

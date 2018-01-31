@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eMSYS2 是基於 Cygwin 重新射線的 MSYS\n爲 sb的 windows 提供了一個 bash shell 環境 和 使用 MinGW-w64 工具鏈 構建本地 windows 程式的 環境\n\n官網 \u003ca href='http://www.msys2.org/' target='_blank'\u003ehttp://www.msys2.org/\u003c/a\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ego 的 error 會關聯成爲 QString\nerror 爲nil 則 設置爲 空字符串QString\u003c/pre\u003e"

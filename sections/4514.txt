@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e#include \u0026lt;QMediaPlayer\u0026gt; \nQT += multimedia\n\n\nQMediaPlayer 提供了一個 音樂播放器 框架\n\u003c/pre\u003e"

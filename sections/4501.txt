@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 顯示 使用 幫助\nqtdeploy -help\n\n# 部署 桌面 項目\nqtdeploy build desktop\n\n# 適應 fast 部署 桌面 項目\nqtdeploy -fast build desktop\n\u003c/pre\u003e"

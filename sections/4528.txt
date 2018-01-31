@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e處於 效率考慮 在 設置 key值後\nQSettings 不會 立刻將 其持久化到 物理設備 可以調用 sync 立刻進行 持久化到物理設備\u003c/pre\u003e"

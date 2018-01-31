@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003eHeader: #include \u0026lt;QSettings\u0026gt; \nqmake: QT += core\u003c/strong\u003e\n\nqt 提供類 QSettings 主要用於爲 應用 提供 跨平臺的 配置檔案的抽象\nQSettings 提供類 key value 的 鍵值對 抽象 \nkey 是 QString\nvalue 是 QVariant\n\u003c/pre\u003e"

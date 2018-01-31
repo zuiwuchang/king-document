@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 windows 下編譯前 需要 預定義宏 _WIN32_WINNT=0x600\u003c/pre\u003e"

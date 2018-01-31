@@ -116,7 +116,7 @@ var __v=[
 			"Pid": 0,
 			"Name": "代理",
 			"Sort": 16,
-			"Docs": 5
+			"Docs": 6
 		},
 		{
 			"Id": 21,
@@ -312,7 +312,7 @@ var __v=[
 			"Pid": 53,
 			"Name": "gui",
 			"Sort": 1,
-			"Docs": 2
+			"Docs": 3
 		},
 		{
 			"Id": 57,
@@ -550,7 +550,7 @@ var __v=[
 			"Pid": 76,
 			"Name": "工具",
 			"Sort": 3,
-			"Docs": 1
+			"Docs": 2
 		},
 		{
 			"Id": 94,
@@ -578,6 +578,13 @@ var __v=[
 			"Pid": 3,
 			"Name": "日誌",
 			"Sort": 1,
+			"Docs": 1
+		},
+		{
+			"Id": 98,
+			"Pid": 3,
+			"Name": "gui",
+			"Sort": 0,
 			"Docs": 1
 		},
 		{

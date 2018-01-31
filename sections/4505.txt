@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eqtrcc 用於 包裝 qt 的資源 將資源和代碼捆綁在一起\n通常 不想要手動執行 qtdeploy  會自動調用\n\nqtrcc 會產生 三個 檔案\n\u003cstrong\u003ercc.qrc\nrcc.cpp\nrcc_cgo_XXX.go\u003c/strong\u003e\n將一些默認資源 捆綁到 代碼\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eqtrcc 會將 項目目錄下多 qml 目錄中所有東西 作爲資源 捆綁到 程式\n同時 會將 根目錄下的 qtquickcontrols2.conf 捆綁到 程式 以便定義 quick\n最後 會將 項目 根目錄下 *.qrc 定義的資源 捆綁程式\u003c/pre\u003e"

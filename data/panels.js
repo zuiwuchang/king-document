@@ -7589,10 +7589,82 @@ var __v={
 			"Name": "TLS",
 			"Sort": 0
 		},
+		"2158": {
+			"Id": 2158,
+			"Chapter": 667,
+			"Name": "TransportCredentials 接口",
+			"Sort": 0
+		},
+		"2159": {
+			"Id": 2159,
+			"Chapter": 668,
+			"Name": "c++",
+			"Sort": 0
+		},
 		"216": {
 			"Id": 216,
 			"Chapter": 80,
 			"Name": "貨幣 相關",
+			"Sort": 0
+		},
+		"2160": {
+			"Id": 2160,
+			"Chapter": 669,
+			"Name": "shadowsocks-libev",
+			"Sort": 0
+		},
+		"2161": {
+			"Id": 2161,
+			"Chapter": 669,
+			"Name": "安裝",
+			"Sort": 0
+		},
+		"2162": {
+			"Id": 2162,
+			"Chapter": 669,
+			"Name": "ss-server",
+			"Sort": 0
+		},
+		"2163": {
+			"Id": 2163,
+			"Chapter": 669,
+			"Name": "ss-local",
+			"Sort": 0
+		},
+		"2164": {
+			"Id": 2164,
+			"Chapter": 669,
+			"Name": "ss-redir",
+			"Sort": 0
+		},
+		"2165": {
+			"Id": 2165,
+			"Chapter": 668,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"2166": {
+			"Id": 2166,
+			"Chapter": 623,
+			"Name": "build windows",
+			"Sort": 0
+		},
+		"2167": {
+			"Id": 2167,
+			"Chapter": 670,
+			"Name": "MSYS2",
+			"Sort": 0
+		},
+		"2168": {
+			"Id": 2168,
+			"Chapter": 670,
+			"Name": "安裝",
+			"Sort": 0
+		},
+		"2169": {
+			"Id": 2169,
+			"Chapter": 670,
+			"Name": "pacman",
 			"Sort": 0
 		},
 		"217": {
@@ -7601,16 +7673,178 @@ var __v={
 			"Name": "職業 相關",
 			"Sort": 0
 		},
+		"2170": {
+			"Id": 2170,
+			"Chapter": 668,
+			"Name": "TLS",
+			"Sort": 0
+		},
+		"2171": {
+			"Id": 2171,
+			"Chapter": 334,
+			"Name": "/usr/bin/ld: cannot find XXX",
+			"Sort": 0
+		},
+		"2172": {
+			"Id": 2172,
+			"Chapter": 671,
+			"Name": "QtQuick",
+			"Sort": 0
+		},
+		"2173": {
+			"Id": 2173,
+			"Chapter": 671,
+			"Name": "hello world",
+			"Sort": 0
+		},
+		"2174": {
+			"Id": 2174,
+			"Chapter": 672,
+			"Name": "QtQuick",
+			"Sort": 0
+		},
+		"2175": {
+			"Id": 2175,
+			"Chapter": 672,
+			"Name": "Window",
+			"Sort": 0
+		},
+		"2176": {
+			"Id": 2176,
+			"Chapter": 672,
+			"Name": "ApplicationWindow",
+			"Sort": 0
+		},
+		"2177": {
+			"Id": 2177,
+			"Chapter": 673,
+			"Name": "qt",
+			"Sort": 0
+		},
+		"2178": {
+			"Id": 2178,
+			"Chapter": 674,
+			"Name": "tools",
+			"Sort": 0
+		},
+		"2179": {
+			"Id": 2179,
+			"Chapter": 674,
+			"Name": "qtsetup",
+			"Sort": 0
+		},
 		"218": {
 			"Id": 218,
 			"Chapter": 80,
 			"Name": "裝備 相關",
 			"Sort": 0
 		},
+		"2180": {
+			"Id": 2180,
+			"Chapter": 674,
+			"Name": "qtdeploy",
+			"Sort": 0
+		},
+		"2181": {
+			"Id": 2181,
+			"Chapter": 673,
+			"Name": "Example QML",
+			"Sort": 0
+		},
+		"2182": {
+			"Id": 2182,
+			"Chapter": 674,
+			"Name": "qtrcc",
+			"Sort": 0
+		},
+		"2183": {
+			"Id": 2183,
+			"Chapter": 674,
+			"Name": "qtmoc",
+			"Sort": 0
+		},
+		"2184": {
+			"Id": 2184,
+			"Chapter": 674,
+			"Name": "qtminimal",
+			"Sort": 0
+		},
+		"2185": {
+			"Id": 2185,
+			"Chapter": 675,
+			"Name": "國際化",
+			"Sort": 0
+		},
+		"2186": {
+			"Id": 2186,
+			"Chapter": 676,
+			"Name": "QMediaPlayer",
+			"Sort": 0
+		},
+		"2187": {
+			"Id": 2187,
+			"Chapter": 677,
+			"Name": "go qml 交互",
+			"Sort": 0
+		},
+		"2188": {
+			"Id": 2188,
+			"Chapter": 678,
+			"Name": "tasks",
+			"Sort": 0
+		},
 		"219": {
 			"Id": 219,
 			"Chapter": 80,
 			"Name": "寵物相關 相關",
+			"Sort": 0
+		},
+		"2190": {
+			"Id": 2190,
+			"Chapter": 679,
+			"Name": "QSettings",
+			"Sort": 0
+		},
+		"2191": {
+			"Id": 2191,
+			"Chapter": 679,
+			"Name": "持久化",
+			"Sort": 0
+		},
+		"2192": {
+			"Id": 2192,
+			"Chapter": 679,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"2193": {
+			"Id": 2193,
+			"Chapter": 679,
+			"Name": "qml",
+			"Sort": 0
+		},
+		"2194": {
+			"Id": 2194,
+			"Chapter": 680,
+			"Name": "shadowsocksrr",
+			"Sort": 0
+		},
+		"2195": {
+			"Id": 2195,
+			"Chapter": 681,
+			"Name": "shadowsocksr-libev",
+			"Sort": 0
+		},
+		"2196": {
+			"Id": 2196,
+			"Chapter": 681,
+			"Name": " 安裝",
+			"Sort": 0
+		},
+		"2197": {
+			"Id": 2197,
+			"Chapter": 681,
+			"Name": "tools",
 			"Sort": 0
 		},
 		"22": {

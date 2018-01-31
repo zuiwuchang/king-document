@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e通常 不需要 手動執行 qtminimal\nqtminimal 用於 分析使用到的 qt 內容 從而減少 要捆綁的 qt 內容\n\n如果 手動執行 qtrcc or qtmoc 則需要 使用\n\nqtminimal desktop path/to/your/project\n\u003c/pre\u003e"

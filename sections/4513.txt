@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e需要 在 創建了 application 之後 創建 translator\n\n需要 將 翻譯檔案 加入到 *.qrc  中以便將 翻譯檔案 打包到應用資源中\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 顯示 使用 幫助\nqtsetup -help\n\n\u003cstrong\u003e# 安裝 binding 代碼 和 Qt packages\nqtsetup\u003c/strong\u003e\n\n# 更新 'cmd' and 'internal/cmd'\nqtsetup update\n\n\u003cstrong\u003e# 更新 所有東西\nqtsetup upgrade\u003c/strong\u003e\n\u003c/pre\u003e"

@@ -10,5 +10,11 @@ var __v=[
 			"Tag": 54,
 			"Name": "QT",
 			"Sort": 0
+		},
+		{
+			"Id": 161,
+			"Tag": 54,
+			"Name": "QtQuick",
+			"Sort": 2
 		}
 	]

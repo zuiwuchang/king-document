@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eqtsetup 用於 自動 安裝 binding 代碼 和 Qt packages\n通常 只需要 在 安裝時 運行 一次\n或在 更新 後 使用 qtsetup  更新 binding 代碼 和 Qt packages\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e應該使用 qtdeploy 替代 go build\nqtdeploy 將 自動 運行 其它工具 並生成 binding 代碼 最後 自動 build 項目\n\n# 部署項目\nqtdeploy build [target] [path/to/your/project]\n\n# 部署項目 如果安裝的是 docker 版本\nqtdeploy -docker build [target] [path/to/your/project]\n\u003c/pre\u003e"

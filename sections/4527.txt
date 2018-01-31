@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003elinux 下 是區分大小寫的 然 windows下 註冊表是 不區分大小寫的\n故 最好 不要使用 同名 不同大小寫的 key 且 key安裝區分大小寫 處理\n\n儘量不要 使用 特殊 字符\n\n使用 \u003cstrong\u003e/\u003c/strong\u003e 可以 在 init 中 分組\n或者 調用 beginGroup endGroup 在其之間 都將 默認 在beginGroup中 指定的 組中 \u003c/pre\u003e"

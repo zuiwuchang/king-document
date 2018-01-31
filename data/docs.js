@@ -45,7 +45,7 @@ var __v={
 			"Id": 105,
 			"Tag": 77,
 			"Name": "Sublime Text 3",
-			"Sort": 0
+			"Sort": 2
 		},
 		"106": {
 			"Id": 106,
@@ -279,7 +279,7 @@ var __v={
 			"Id": 141,
 			"Tag": 77,
 			"Name": "vscode",
-			"Sort": 2
+			"Sort": 1
 		},
 		"142": {
 			"Id": 142,
@@ -309,7 +309,7 @@ var __v={
 			"Id": 146,
 			"Tag": 93,
 			"Name": "codeblock",
-			"Sort": 0
+			"Sort": 1
 		},
 		"147": {
 			"Id": 147,
@@ -401,6 +401,30 @@ var __v={
 			"Name": "golang",
 			"Sort": 0
 		},
+		"160": {
+			"Id": 160,
+			"Tag": 93,
+			"Name": "MSYS2",
+			"Sort": 0
+		},
+		"161": {
+			"Id": 161,
+			"Tag": 54,
+			"Name": "QtQuick",
+			"Sort": 2
+		},
+		"162": {
+			"Id": 162,
+			"Tag": 98,
+			"Name": "go qt",
+			"Sort": 0
+		},
+		"163": {
+			"Id": 163,
+			"Tag": 20,
+			"Name": "shadowsocksrr",
+			"Sort": 1
+		},
 		"17": {
 			"Id": 17,
 			"Tag": 2,
@@ -411,7 +435,7 @@ var __v={
 			"Id": 18,
 			"Tag": 20,
 			"Name": "常用設置",
-			"Sort": 0
+			"Sort": 2
 		},
 		"19": {
 			"Id": 19,
@@ -429,7 +453,7 @@ var __v={
 			"Id": 20,
 			"Tag": 20,
 			"Name": "Privoxy",
-			"Sort": 0
+			"Sort": 3
 		},
 		"21": {
 			"Id": 21,
@@ -447,7 +471,7 @@ var __v={
 			"Id": 23,
 			"Tag": 20,
 			"Name": "proxychains",
-			"Sort": 0
+			"Sort": 4
 		},
 		"24": {
 			"Id": 24,
@@ -891,7 +915,7 @@ var __v={
 			"Id": 92,
 			"Tag": 20,
 			"Name": "socks5協議",
-			"Sort": 0
+			"Sort": 5
 		},
 		"94": {
 			"Id": 94,
