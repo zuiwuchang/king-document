@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003ego get github.com/google/uuid\u003c/strong\u003e\n\ngoogle/uuid 是由google維護的 一個 開源(BSD-3-Clause) go uuid 庫\nRFC 4122 and DCE 1.1\n\u003c/pre\u003e"

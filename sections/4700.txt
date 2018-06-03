@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e修改 \u003cstrong\u003e/etc/resolvconf/resolv.conf.d/base\u003c/strong\u003e 檔案\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003enameserver 8.8.8.8\nnameserver 8.8.4.4\u003c/pre\u003e\n\n\u003cpre class='k-pre'\u003e# 執行 base 配置\nresolvconf -u\n\n# 查看 dns\ncat /etc/resolv.conf\n\u003c/pre\u003e"

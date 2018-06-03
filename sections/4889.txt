@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e你可以將 待翻譯文件放到 ng-containe 標籤中 這樣 html 不會創建一個 新標籤\nng-container 會被 Angular 轉爲註釋\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;ng-container i18n\u0026gt;I don't output any element\u0026lt;/ng-container\u0026gt;\u003c/pre\u003e"

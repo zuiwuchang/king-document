@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngularJS 提供了 所謂的 過濾器 以提供 類似 linux 的  \u003cstrong\u003e|\u003c/strong\u003e 管道寫法\u003c/pre\u003e"

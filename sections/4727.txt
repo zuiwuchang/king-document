@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngularJS 為 $scope 提供了\n$emit 向 父親控制器 執行 冒泡 事件 傳遞\n$broadcast 則像 子節點 廣播 事件\u003c/pre\u003e"

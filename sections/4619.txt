@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eSSCap 是同個作者開發的 一個 shadowsocks shadowsocksR 客戶端\n\ndown \u003ca href='https://sourceforge.net/projects/sscap/files/?source=navbar' target='_blank'\u003ehttps://sourceforge.net/projects/sscap/files/?source=navbar\u003c/a\u003e\u003c/pre\u003e"

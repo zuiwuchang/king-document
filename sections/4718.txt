@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e$location 服務提供了 到瀏覽器 url地址的 綁定\u003c/pre\u003e"

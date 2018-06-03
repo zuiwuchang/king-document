@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 映像名稱 可以加上 \u003cstrong\u003e:tag\u003c/strong\u003e 指定版本 如\nsudo docker pull ubuntu\u003cstrong\u003e:16.04\u003c/strong\u003e\u003c/pre\u003e"

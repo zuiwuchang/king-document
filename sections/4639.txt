@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egrpc 還支持使用 token\ntoken 會在 每次 請求時 都傳遞到 服務器 以便 在不同 請求時 可以 傳遞 不同的 token\u003c/pre\u003e\n"

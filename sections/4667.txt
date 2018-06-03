@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\t\u0026lt;ol\u0026gt;\n\t\t\u0026lt;!-- 1,520.48 --\u0026gt;\n\t\t\u0026lt;li\u0026gt;{{1520.475566907 | number:2 }}\u0026lt;/li\u0026gt;\n\t\u0026lt;/ol\u0026gt;\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eng new 會創建一個 根組建 AppComponent 並將其 引入到 初始頁面中\n其定義 在 src/app 檔案夾下的\n\u003cstrong\u003eapp.component.ts app.component.html app.component.css\u003c/strong\u003e\n\u003c/pre\u003e"

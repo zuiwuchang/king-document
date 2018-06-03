@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e調用 Observable 的 subscriber 函數 可以 訂閱 一個 Observable 並且返回一個 訂閱者實例\n訂閱者 實例 提供了 unsubscribe 方法 可以 退訂\u003c/pre\u003e"

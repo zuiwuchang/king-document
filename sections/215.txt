@@ -1,1 +1,0 @@
-var __v="\u003cpre class=\"k-pre\"\u003esync.Cond 型別 用於實現生產者 消費者模型\nfunc NewCond(l Locker) *Cond\nfunc (c *Cond) Broadcast()\nfunc (c *Cond) Signal()\nfunc (c *Cond) Wait()\u003c/pre\u003e"

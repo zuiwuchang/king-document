@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003epackage main\n\nimport (\n\t\"github.com/boltdb/bolt\"\n\t\"log\"\n)\n\nfunc main() {\n\t// 如果 不存在檔案 則 創建數據庫\n\t// 否則 打開數據庫\n\tdb, e := bolt.Open(\"my.db\", 0600, nil)\n\tif e != nil {\n\t\tlog.Fatal(e)\n\t}\n\t// 關閉 數據庫\n\tdefer db.Close()\n}\n\u003c/pre\u003e"

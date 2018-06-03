@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003einterface Container {\n    length:number\n}\n\nlet len = function \u0026lt;T extends Container\u0026gt;(l:T): number {\n    return l.length\n}\n\nconsole.log(len([1,2,3]))\n\u003c/pre\u003e"

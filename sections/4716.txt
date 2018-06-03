@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 AngularJS  中 服務是一個 函數 或 對象\n在控制器中 使用 依賴注入 以供 控制器 使用\n\nAngularJS 內置了 30多個 服務 以提供 常用的功能\u003c/pre\u003e"

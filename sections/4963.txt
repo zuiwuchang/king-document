@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e通過 @Input @Output 定義 輸入輸出 屬性 父組件 可以通過 屬性綁定 和 子組件 通信\u003c/pre\u003e"

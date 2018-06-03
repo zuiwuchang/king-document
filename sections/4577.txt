@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ecmake_minimum_required(VERSION 3.0)\nproject(asio)\n\nadd_compile_options(-std=gnu++17)\nadd_compile_options(-m64)\n\nadd_executable(asio main.cpp)\ntarget_link_libraries(asio\n   boost_system\n   boost_date_time\n   boost_thread\n   boost_coroutine\n   boost_context\n   pthread\n   ssl\n   crypto\n)\n\u003c/pre\u003e"

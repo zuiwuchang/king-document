@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e有可以你要將組建屬性 翻譯爲不同 文本 這可以使用 select 語法 和 plural 類似\n不過 此時是將 字符串 翻譯爲 其它值\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;span i18n\u0026gt;The author is {gender, select, male {male} female {female} other {other}}\u0026lt;/span\u0026gt;\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003esudo apt install checkinstall\u003c/pre\u003e"

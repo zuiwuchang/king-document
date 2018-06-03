@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e類型斷言 可以告訴 ts 編譯器 數據型別 而不是 自動推導\nts 提供了 兩種 寫法\n\u003cstrong\u003e\u0026lt;XXX\u0026gt;\u003c/strong\u003ev\nv \u003cstrong\u003eas XXX\u003c/strong\u003e\n\u003c/pre\u003e"

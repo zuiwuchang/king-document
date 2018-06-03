@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eangular 6 之前 loadChildren 要配置爲\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eloadChildren: 'app/beauty/beauty.module#BeautyModule',\u003c/pre\u003e\n\u003cpre class='k-pre'\u003e對於 惰性加載模塊 的服務 只在 本模塊中可訪問\u003c/pre\u003e"

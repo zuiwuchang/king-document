@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003ego get github.com/boltdb/bolt/...\u003c/pre\u003e"

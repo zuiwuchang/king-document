@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003enpm install -g gulp-uglify\n\ngulp-uglify 是一個 使用 UglifyJS2 對 js進行 壓縮的 插件\n\u003c/pre\u003e"

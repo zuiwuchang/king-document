@@ -72,69 +72,81 @@ var __v=[
 			"Sort": 11
 		},
 		{
+			"Id": 730,
+			"Doc": 17,
+			"Name": "net/smtp",
+			"Sort": 12
+		},
+		{
 			"Id": 599,
 			"Doc": 17,
 			"Name": "crypto/tls",
-			"Sort": 12
+			"Sort": 13
 		},
 		{
 			"Id": 87,
 			"Doc": 17,
 			"Name": "encoding/binary",
-			"Sort": 13
+			"Sort": 14
 		},
 		{
 			"Id": 68,
 			"Doc": 17,
 			"Name": "net/rpc",
-			"Sort": 14
+			"Sort": 15
 		},
 		{
 			"Id": 73,
 			"Doc": 17,
 			"Name": "html/template",
-			"Sort": 15
+			"Sort": 16
 		},
 		{
 			"Id": 370,
 			"Doc": 17,
 			"Name": "sort",
-			"Sort": 16
+			"Sort": 17
 		},
 		{
 			"Id": 371,
 			"Doc": 17,
 			"Name": "path",
-			"Sort": 17
+			"Sort": 18
 		},
 		{
 			"Id": 372,
 			"Doc": 17,
 			"Name": "path/filepath",
-			"Sort": 18
+			"Sort": 19
 		},
 		{
 			"Id": 420,
 			"Doc": 17,
 			"Name": "os/exec",
-			"Sort": 19
+			"Sort": 20
 		},
 		{
 			"Id": 421,
 			"Doc": 17,
 			"Name": "os/signal",
-			"Sort": 20
+			"Sort": 21
 		},
 		{
 			"Id": 616,
 			"Doc": 17,
 			"Name": "image",
-			"Sort": 462
+			"Sort": 22
 		},
 		{
 			"Id": 637,
 			"Doc": 17,
 			"Name": "runtime",
-			"Sort": 479
+			"Sort": 23
+		},
+		{
+			"Id": 750,
+			"Doc": 17,
+			"Name": "sync",
+			"Sort": 565
 		}
 	]

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ev3 使用 名字空間 和md5 爲指定 名稱 產生 uuid\n如果 名字空間相同 且名字一樣 則產生 相同的 uuid\u003c/pre\u003e"

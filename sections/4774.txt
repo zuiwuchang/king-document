@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngularJS 默認將 參數 以json寫入 body 傳遞 \n如果需要 將參數 作為 form 傳遞 需要 額外設置\u003c/pre\u003e"

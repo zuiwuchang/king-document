@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e一個組建 應該只專注與做 一件簡單的事 前文的 HeroesComponent 中的 \n顯示 詳情完全 可以用一個單獨的 組建來完成\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 也支持翻譯 屬性 在要 翻譯的 屬性 前加上 i18n-屬性名 即可\ni18n-屬性名 的用法 完全同 i18n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;img [src]=\"logo\" i18n-title title=\"Angular logo\" /\u0026gt;\u003c/pre\u003e"

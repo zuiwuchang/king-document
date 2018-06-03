@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ebolt 數據庫 就是一個當然 直接備份 檔案即可\n然 bolt 亦提供了幾個 api 用於在 數據庫打開時 備份\n\n// 備份到 檔案\nfunc (tx *Tx) CopyFile(path string, mode os.FileMode) error\n\n// 備份到 io.Writer\nfunc (tx *Tx) WriteTo(w io.Writer) (n int64, err error)\n\u003c/pre\u003e"

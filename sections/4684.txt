@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003enode-windows 還包含了 幾個 常用的 命令 函數 用於 完成 一些 常用的 windows 操縱\u003c/pre\u003e"

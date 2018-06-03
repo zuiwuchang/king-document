@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e官方 維護這 linux 的 ibus-rime 既 \u003cstrong\u003e中州韻\u003c/strong\u003e\nwindows 下的 小狼毫 (Weasel)\nOS X 發行版鼠鬚管 (Squirrel)\n\n另外 linux下 fcitx 團隊 維護了一份 fcitx-rime\n...\n\u003c/pre\u003e"

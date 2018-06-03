@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\t\u0026lt;ol\u0026gt;\n\t\t\u0026lt;li\u0026gt;{{1520475566907 | date }}\u0026lt;/li\u0026gt;\n\t\t\u0026lt;li\u0026gt;{{1520475566907 | date:\"yyyy-MM-dd HH:mm:ss\"}}\u0026lt;/li\u0026gt;\n\t\u0026lt;/ol\u0026gt;\u003c/pre\u003e"

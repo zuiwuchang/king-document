@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e.controller('innerCtrlA', ['$scope', '$rootScope', function($scope, $rootScope){\n    $scope.change = function(){\n        $rootScope.$broadcast('nameChanged', $scope.name);\n    }\n    $rootScope.$on('nameChanged', function(event, data){\n        $scope.name = data;\n    })\n}])\u003c/pre\u003e"

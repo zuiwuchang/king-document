@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 go get  自行 編譯安裝 需要 go1.9 及以上 版本\ngithub 上 google 亦提供了 各平臺的 編譯版本 供下載\u003c/pre\u003e"

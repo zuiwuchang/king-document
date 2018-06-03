@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003eng-controller\u003c/strong\u003e 定義一個 控制器\nAngularJS 以 控制器 區分 作用域\u003c/pre\u003e"

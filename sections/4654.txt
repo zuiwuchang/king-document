@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003e{{}}\u003c/strong\u003e 或 \u003cstrong\u003eng-bind\u003c/strong\u003e 中 指定的 值為 ng表達式\nng表達式 可以包含 變量 運算符 常量 文本\n(文本 需要加上 \u003cstrong\u003e'\u003c/strong\u003e 或 \u003cstrong\u003e\"\u003c/strong\u003e)\n\n\u003cstrong\u003eng-init\u003c/strong\u003e 可以初始化 一些 變量 以便提供給 ng表達式 使用\n\u003c/pre\u003e"

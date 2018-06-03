@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ev4 將所有數據都以 僞隨機 產生\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e安裝後 直接執行 conky 即可\n\u003cpre class='prettyprint linenums'\u003esudo apt install conky-all\nconky \u0026amp;\u003c/pre\u003e\nconky 會按照 /etc/conky/conky.conf 的配置 執行\n如果 存在 ~/.conkyrc 檔案 則執行 ~/.conkyrc 的配置項\u003c/pre\u003e"

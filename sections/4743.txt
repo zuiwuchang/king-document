@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e// 定義一個 基礎 接口\ninterface IEat{\n    // 定義 方法\n    Eat(): void\n    // 同樣 可以指定 可選\n    Speak?(str: string): void\n}\n\n// 繼承一個 接口\ninterface IAnimal extends IEat{\n    // 定義 一個 rw 屬性\n    Name: string\n\n    // 定義一個 只讀 屬性\n    readonly Type: string\n\n    // 使用 ? 定義 可選 屬性\n    Lv?: number\n}\u003c/pre\u003e"

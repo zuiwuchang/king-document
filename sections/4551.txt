@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eandroid 使用 java 作爲 程式 語言 然 android 不使用低效無能的 java虛擬機 而是將 其轉爲Dalvik 執行\n\n同時 android 提供了 ndk 以使 c/c++ go 等 語言開發android 程式 成爲可能\n\u003c/pre\u003e"

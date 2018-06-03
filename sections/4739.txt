@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 愚蠢的 var 時 在同樣的 作用域下 可用多次 var 一個 變量\nlet const 則不行\n\nlet const 不是 ts特有的 而是最新的 js 標準 不過 ts可以為你 生成到不支持 let const 的 兼容 js代碼\u003c/pre\u003e"

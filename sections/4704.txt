@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 grub 界面 安 e 編輯 啓動設置\n將第二行的 \u003cstrong\u003equiet splash\u003c/strong\u003e 改爲 \u003cstrong\u003enomodeset\u003c/strong\u003e\nF10 保存 並啓動\u003c/pre\u003e"

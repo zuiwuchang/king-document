@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 接口中 定義 [propName: string]: any;\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003einterface IAnimal{\n    Name: string\n    [propName: string]: any;\n}\nfunction Show(obj:IAnimal){\n    console.log(obj.Name)\n\n}\nShow({\n    Name:\"Cat\",\n    Lv:123,\n})\n\u003c/pre\u003e"

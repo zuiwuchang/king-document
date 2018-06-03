@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eObservable 一旦發送 錯誤 訂閱者 會自動 退訂 無論訂閱者是否 接收 error 通知\u003c/pre\u003e"

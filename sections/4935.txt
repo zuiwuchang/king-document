@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e要創建一個 惰性加載模塊 只要按部就班的 按照如下步驟即可\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e創建一個 特性模塊\u003c/li\u003e\n\t\u003cli\u003e爲 特性模塊 創建 路由模塊\u003c/li\u003e\n\t\u003cli\u003e配置路由\u003c/li\u003e\n\u003c/ol\u003e"

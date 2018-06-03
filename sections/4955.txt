@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e*NgForOf 類似 AngularJS 的 ng-repeat\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;ul\u0026gt;\n  \u0026lt;li *ngFor=\"let name of items\"\u0026gt;{{name}}\u0026lt;/li\u0026gt;\n\u0026lt;/ul\u0026gt;\n\u003c/pre\u003e"

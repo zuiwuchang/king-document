@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ets 同樣 提供了 接口的 支持\u003c/pre\u003e"

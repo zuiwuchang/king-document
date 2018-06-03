@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在一個 Bucket 中 已可以 嵌套 另外一個 Bucket\nAPI 同 bolt.Tx 的 Bucket 操作\u003c/pre\u003e"

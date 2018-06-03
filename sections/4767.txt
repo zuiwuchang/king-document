@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003erequirejs 是一個 瀏覽器下的 amd 模塊加載器\n\n官網 \u003ca href='http://requirejs.org/' target='_blank'\u003ehttp://requirejs.org/\u003c/a\u003e\u003c/pre\u003e"

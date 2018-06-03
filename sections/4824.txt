@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eNextSequence 可以返回一個 唯一的 uint64 值作為 key\n類似 數據庫的 自增\n\n在 Update中 不需要判斷 失敗 因為 NextSequence 只在 非 write 事務 和 數據庫已經關閉時 返回 錯誤 \u003c/pre\u003e"

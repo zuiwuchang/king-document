@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 提供了一些 常用的 內置 指令 來簡化 操作\u003c/pre\u003e"

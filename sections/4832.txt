@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 nginx 可以 方便的 將 Angular 和 後臺服務器 路由到一起\u003c/pre\u003e"

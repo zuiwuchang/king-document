@@ -1,0 +1,1 @@
+var __v="godep save 會執行如下操作\n\u003col\u003e\n\t\u003cli\u003eGodeps/Godeps.json 檔案 (記錄 依賴庫 以及 版本)\u003c/li\u003e\n\t\u003cli\u003e將 Godeps/Godeps.json 記錄的 庫版本 copy 到 vendor 檔案夾下\u003c/li\u003e\n\u003c/ol\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eEventLogger 提供了 window 日誌 寫入的 功能\u003c/pre\u003e"

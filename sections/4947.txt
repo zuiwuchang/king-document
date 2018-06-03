@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 模板 擴展了 html 提供了 許多 方便的 擴展功能\nAngular 模板 幾乎 兼容 html 但 有過濾了 script 標籤\n\u003c/pre\u003e"

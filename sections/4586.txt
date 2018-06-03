@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eUUID的字符串 格式爲 8-4-4-4-12 的32個字符+4個\u003cstrong\u003e-\u003c/strong\u003e\n不區分大小寫\n\n行如 xxxxxxxx-xxxx-\u003cstrong\u003eM\u003c/strong\u003exxx-\u003cstrong\u003eN\u003c/strong\u003exxx-xxxxxxxxxxxx\n\nM 代表 版本號 當前可以是 1 2 3 4 5 五個版本\nN 必須爲 8 9 a b 中的一個\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\nclass Animal{\n    constructor(){\n        console.log(\"Animal created\")\n    }\n}\nfunction create\u0026lt;T\u0026gt;(c: {new(): T; }): T {\n    return new c();\n}\ncreate\u0026lt;Animal\u0026gt;(Animal)\u003c/pre\u003e"

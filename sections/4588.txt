@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e雖然 google 有提供 v2的 實現 然 v2不建議使用v2 而是使用 v1\u003c/pre\u003e"

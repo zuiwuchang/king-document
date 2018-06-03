@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e./configure 務必加上--disable-documentation 以禁止 生成 文檔 否則 需要安裝相應的 依賴\n\u003c/pre\u003e"

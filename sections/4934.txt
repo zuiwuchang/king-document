@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eNgModule 的服務是 公開的\n也就是說 只要 模塊 import 了此 NgModule 就可以使用她的 服務\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egodns 是一個 用 golang 實現的 開源(MIT) dns服務器\n\ngithub \u003ca href='https://github.com/kenshinx/godns' target='_blank'\u003ehttps://github.com/kenshinx/godns\u003c/a\u003e\n\u003c/pre\u003e"

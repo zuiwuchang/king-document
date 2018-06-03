@@ -1,1 +1,0 @@
-var __v="\u003cpre class=\"k-pre\"\u003egolang 提供了 對email的 支持\u003c/pre\u003e"

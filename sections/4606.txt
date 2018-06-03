@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e以 sudo checkinstall 替代 make install 即可\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e./configure\nmake\nsudo checkinstall\u003c/pre\u003e"

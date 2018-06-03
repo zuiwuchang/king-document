@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ev2 和v1算法 差不多 只是將 時間戳的 前 4位 替換爲\nuid 或 gid\n一般 uuid 庫都沒實現 也不建議使用 v2\u003c/pre\u003e"

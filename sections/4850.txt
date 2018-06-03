@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eObservable 的 構造函數 接收一個 回調函數 每當被訂閱時 回調此函數\n回調函數 傳入了一個 Subscriber 訂閱者的實例 \n調用 其 next error complete 可以通知 訂閱者 消息\n回調函數 可以返回一個 對象 如果此對象 提供了 unsubscribe 方法 訂閱者 退訂時 此方法會被回調\n\u003c/pre\u003e"

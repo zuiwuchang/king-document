@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ebolt 會使用 獨佔寫鎖 打來 數據庫 這意味者著 數據庫 同時只能被一個 進程 打開使用\n如果 數據庫 已經被 bolt 打開 此時 另外一個 程式 繼續打開 bolt 在linux下 後Open的程式 會一直阻塞等待 數據庫被關閉 會再繼續 Open\n此時 可以 在Open時 傳入 一個 超時時間 以便在打開超時後 返回\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003edb, e := bolt.Open(\"my.db\", 0600, \u0026amp;bolt.Options{Timeout: time.Second})\u003c/pre\u003e"

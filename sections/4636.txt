@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ecobra 是一個 開源(Apache-2.0) 強大的 命令解析工具(支持 子命令)\ndocker 等項目 亦在使用 此項目 解析 命令\n\ngithub \u003ca href='https://github.com/spf13/cobra' target='_blank'\u003ehttps://github.com/spf13/cobra\u003c/a\u003e\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003ego get -u github.com/spf13/cobra\u003c/pre\u003e"

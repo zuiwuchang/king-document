@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e路由正常 工作後 就可以 通過 改變 url 訪問到 不同 組件\n\n然 刷新 瀏覽器 url 地址 不是個好主意 這或 重新刷新 整個頁面 並重新 運行 Angular\n為此 Angular 提供了 routerLink 用來 導航 當用戶 單擊 routerLink 時 只會 更新 router-outlet\n\nAngular 還提供了 routerLinkActive 當 routerLink 被單擊激活後 會為 routerLinkActive 元素 添加 routerLinkActive指定處 css\n而 失去激活狀態後 去掉此 css\n\u003c/pre\u003e"

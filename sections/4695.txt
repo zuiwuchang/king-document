@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 vbox 下 無法修改 uefi \n冷重啟後 設置會被 還原 只能通過 編譯 startup.nsh 檔案的 方式啟動\u003c/pre\u003e"

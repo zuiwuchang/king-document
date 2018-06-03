@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ets 的函數 支持 可選 以及 默認值\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003elet test = function (a: any = \"notset\",b?:string) {\n    console.log(a)\n}\ntest()\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e需要在 使用 服務的 控制器/過濾器 之前 定義服務\n\n自定義服務的名稱 不能以 \u003cstrong\u003e$\u003c/strong\u003e 開始\u003c/pre\u003e"

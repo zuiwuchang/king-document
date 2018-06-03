@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e當 路由激活時 可以注入 ActivatedRoute 來獲取 路由的 相關 信息\u003c/pre\u003e"

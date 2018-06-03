@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e每次 Update 都會分別進行 磁盤io 這可能比較耗時\nBatch 會將 請求 添加到一個 隊列中 等待 MaxBatchDelay 後執行(如果 隊列 達到 MaxBatchSize 則 立刻處理隊列)\n處理 隊列時 Batch 會將 隊列 所有 事件 同時取出執行 並將沒有錯誤的 操作 全部寫入 磁盤 並將 錯誤 返回給 Batch 調用者 以便 Batch 返回\n\n在 同個 goroutine 中 多個 Batch 可能 比 Update 更慢 且沒有 意義 可以選擇 手動 事務\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 AngularJS 中 要實現 控制器間的 通信 有如下 三種 方式\u003c/pre\u003e\n\u003col\u003e\n\t\u003cli\u003e子控制器 可以讀取 父控制變量\u003c/li\u003e\n\t\u003cli\u003e使用服務\u003c/li\u003e\n\t\u003cli\u003e使用事件\u003c/li\u003e\n\u003c/ol\u003e"

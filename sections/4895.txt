@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 CLI 工具時 傳入 必要參數 告訴 Angular 翻譯文檔的 相關信息即可\n--i18nFile 指定 翻譯文檔 路徑\n--i18nFormat 指定翻譯文檔 格式\n--locale 指定 地區 ID\n\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eng serve --aot --i18nFile=src/locale/messages.zh.xlf --i18nFormat=xlf --locale=zh\u003c/pre\u003e"

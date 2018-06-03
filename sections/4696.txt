@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e編輯 \u003cstrong\u003e/etc/network/interfaces\u003c/strong\u003e 檔案 添加如下內容\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e# eth0 是網卡名稱\nauto eth0\niface eth0 inet dhcp\u003c/pre\u003e\u003cpre class='k-pre'\u003esudo systemctrl restarl networking.service\u003c/pre\u003e"

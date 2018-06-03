@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e安裝好 node 和 npm\u003c/li\u003e\n\t\u003cli\u003e安裝 Angular 工具 \u003cstrong\u003enpm install -g @angular/cli\u003c/strong\u003e\u003c/li\u003e\n\u003c/ol\u003e"

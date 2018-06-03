@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 運行 所在目錄的 項目\nng serve\n\t--open 運行後 自動在 瀏覽器中 訪問項目\n\u003c/pre\u003e"

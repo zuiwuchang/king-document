@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003enpm install -g  gulp-typescript\n\ngulp-typescript 可以實現 對ts的 自動編譯\u003c/pre\u003e"

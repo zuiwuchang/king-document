@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 AppModule 中 import 後 只需要在需要的 組件中 注入 HttpClient 即可使用\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eimport { Injectable } from '@angular/core';\nimport { HttpClient } from '@angular/common/http';\n\n@Injectable()\nexport class ConfigService {\n  constructor(private http: HttpClient) { }\n}\u003c/pre\u003e"

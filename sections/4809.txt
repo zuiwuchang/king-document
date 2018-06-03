@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eWaitGroup 一旦使用後 變不可copy 如果需要在函數間 傳遞 需要傳遞 指針\u003c/pre\u003e"

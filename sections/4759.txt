@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ets 提供類對 範型的 支持\u003c/pre\u003e"

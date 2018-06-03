@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003esync 包 提供了 其他語言中 常用的同步 方法 如 互恥量 讀寫鎖 條件變量 ...\u003c/pre\u003e"

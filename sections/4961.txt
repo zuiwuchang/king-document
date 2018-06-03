@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e?.  可以在 訪問 null.XXX undefined.XXX 時 保護視圖\n返回 空白 並終止 後續的 . 訪問\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;p\u0026gt;\n  {{beauty?.name}}\n\u0026lt;/p\u0026gt;\n\u003c/pre\u003e"

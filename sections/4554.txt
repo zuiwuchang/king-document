@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 壓縮\nzip a.zip 1.txt 2.txt\n\n# zip 支持 添加 檔案 到 已有 *.zip 中\nzip -ur a.zip bin\n\t\u003cstrong\u003e-u\t只增加改變的 檔案\u003c/strong\u003e\n\t\u003cstrong\u003e-r\t對於檔案夾 將 其中內容 也全部 加入\u003c/strong\u003e\n# 刪除 檔案\nzip -d a.zip 1.txt\nzip -d a.zip bin/usa-proxy.sh\n\n# 解壓\nunzip a.zip\n\n#解壓到指定 位置\nunzip a.zip ~/\n\u003c/pre\u003e\n\n"

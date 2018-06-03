@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e可以將 一個 QObject 設置爲 到QQmlContext\nqml 可以直接 調用 QObject 中的 所有 slots 並且可以 訪問 QObject 的屬性 以及 監聽其 signals\n\u003c/pre\u003e"

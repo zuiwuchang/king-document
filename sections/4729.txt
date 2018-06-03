@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngularJS 提供了 $rootScope 服務 其 存儲了根控制器 故 可用 直接使用 $rootScope 廣播 處理事件\u003c/pre\u003e"

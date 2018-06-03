@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eng-repeat 可以遍歷 數組/對象 的值 並重複生產 當前元素\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;ol ng-init=\"beauty=['kate','anita','anna']\"\u0026gt;\n\t\u0026lt;li ng-repeat=\"name in beauty\"\u0026gt;\n\t\t{{name}}\n\t\u0026lt;/li\u0026gt;\n\u0026lt;/ol\u0026gt;\u003c/pre\u003e"

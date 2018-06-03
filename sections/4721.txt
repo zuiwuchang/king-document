@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003evar app = angular.module('app', []);\napp.controller('ctrl', function($log) {\n\t$log.log(\"this is a  log message\");\n\t$log.debug(\"this is a  debug message\");\n\t$log.info(\"this is a  info message\");\n\t$log.warn(\"this is a  warn message\");\n\t$log.error(\"this is a  error message\");\n});\u003c/pre\u003e"

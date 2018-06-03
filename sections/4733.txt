@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 顯示 版本\ntsc -v\n\n# 將 ts 編譯為 js\ntsc 1.ts 2.ts ...\n\u003c/pre\u003e"

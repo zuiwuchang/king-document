@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egodep restore 會將 Godeps/Godeps.json 記錄的版本 還原到 $GOPATH中\u003c/pre\u003e"

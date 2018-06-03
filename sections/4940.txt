@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 從 版本6 開始 首推 使用 providedIn: 'root', 創建單例服務\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eimport { Injectable } from '@angular/core';\n\n@Injectable({\n  providedIn: 'root',\n})\nexport class XXXService {\n}\u003c/pre\u003e"

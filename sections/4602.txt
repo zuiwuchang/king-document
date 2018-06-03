@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egoogle 官方對 jsonnet 提供了 golang 的支持\n需要 go1.8 及以上版本\n\ngithub \u003ca href='https://github.com/google/go-jsonnet' target='_blank'\u003ehttps://github.com/google/go-jsonnet\u003c/a\u003e\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003ego get github.com/google/go-jsonnet/jsonnet\u003c/pre\u003e"

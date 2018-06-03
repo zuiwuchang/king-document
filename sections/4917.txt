@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 創建新項目\nng new XXX\n\n# 更新 項目 到最新版本的 Angular\nng update\n\n# 運行項目 並關閉 域名檢測\nng serve --disable-host-check\n\u003c/pre\u003e"

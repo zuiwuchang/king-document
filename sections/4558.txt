@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eRime 使用 *.yaml 的YAML文本 配置\u003c/pre\u003e"

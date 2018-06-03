@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 創建的 依賴 對於 相同的 註入器 來說 都是 單例\u003c/pre\u003e"

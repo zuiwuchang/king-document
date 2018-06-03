@@ -1,1 +1,1 @@
-var __v="\u003cpre class=\"k-pre\"\u003eqt使用 *.ts 作為 翻譯編輯文件\n\n在*.pro中 添加 TRANSLATIONS += *.ts\n之後 在 項目文件夾下 執行 lupdate *.pro\n\nlupdate 自動為項目 創建 *.ts 或更新 *.ts 文件\n\u003c/pre\u003e"
+var __v="\u003cpre class=\"k-pre\"\u003eqt使用 *.ts 作為 翻譯編輯文件\n\n在*.pro中 添加 TRANSLATIONS += *.ts\n之後 在 項目文件夾下 執行 lupdate *.pro\n\nlupdate 自動為項目 創建 *.ts 或更新 *.ts 文件\nlrelease *.pro 自動 將 *ts 轉爲 二進制翻譯檔案 *.qm\n\u003c/pre\u003e"

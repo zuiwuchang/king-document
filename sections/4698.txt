@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 mint18.3下 測試 入住 static 如果 不設置 dns-nameservers 則dns為空 無法解析 域名\u003c/pre\u003e"

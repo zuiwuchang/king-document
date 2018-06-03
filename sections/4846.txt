@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e確保 Angular 版本大於5\u003c/li\u003e\n\t\u003cli\u003e下載 \u003ca href='http://getbootstrap.com/docs/4.1/getting-started/download/' target='_blank'\u003eBootstrap CSS\u003c/a\u003e import 到 Angular 項目的 styles.css 中\u003c/li\u003e\n\t\u003cli\u003enpm install --save @ng-bootstrap/ng-bootstrap\u003c/li\u003e\n\u003c/ol\u003e"

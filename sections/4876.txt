@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e安裝 \u003cstrong\u003ego get -u -v  github.com/kenshinx/godns\u003c/strong\u003e\u003c/li\u003e\n\t\u003cli\u003e運行 \u003cstrong\u003esudo godns -c ./etc/godns.conf\u003c/strong\u003e\u003c/li\u003e\n\t\u003cli\u003e測試 \u003cstrong\u003edig www.github.com @127.0.0.1\u003c/strong\u003e\u003c/li\u003e\n\u003c/ol\u003e"

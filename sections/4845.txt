@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eng-bootstrap 是 使用 bootstrap 製作的一些 Angular 組件\n\n官網 \u003ca href='https://ng-bootstrap.github.io/#/home' target='_blank'\u003ehttps://ng-bootstrap.github.io/#/home\u003c/a\u003e\ngithub \u003ca href='https://github.com/ng-bootstrap/ng-bootstrap' target='_blank'\u003ehttps://github.com/ng-bootstrap/ng-bootstrap\u003c/a\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ets 使用和 golang一樣的 duck 類型\n不需要 顯示的 實現 接口\n然在 class 中 使用 \u003cstrong\u003eimplements\u003c/strong\u003e 可以強制要求class 實現 指定接口\u003c/pre\u003e"

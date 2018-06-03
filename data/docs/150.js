@@ -3,18 +3,24 @@ var __v=[
 			"Id": 642,
 			"Doc": 150,
 			"Name": "ssh",
-			"Sort": 484
+			"Sort": 0
+		},
+		{
+			"Id": 724,
+			"Doc": 150,
+			"Name": "網卡配置",
+			"Sort": 1
 		},
 		{
 			"Id": 643,
 			"Doc": 150,
 			"Name": "iptables",
-			"Sort": 485
+			"Sort": 2
 		},
 		{
 			"Id": 650,
 			"Doc": 150,
 			"Name": "遠程桌面",
-			"Sort": 492
+			"Sort": 3
 		}
 	]

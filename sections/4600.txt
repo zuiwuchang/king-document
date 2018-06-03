@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ejsonnet 是由 google 推出的一個 開源(Apache-2.0) 配置語言\n用於 增強和彌補 JSON 的 不足\n\n官網 \u003ca href='http://jsonnet.org/' target='_blank'\u003ehttp://jsonnet.org/\u003c/a\u003e\ngithub \u003ca href='https://github.com/google/jsonnet' target='_blank'\u003ehttps://github.com/google/jsonnet\u003c/a\u003e\n\u003c/pre\u003e"

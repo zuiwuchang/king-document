@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 \u003cstrong\u003eapp.conf\u003c/strong\u003e 中 配置 \u003cstrong\u003eresults.compressed = true\u003c/strong\u003e\n則 text/html/css/json/xml/js 會被使用 gzip 壓縮後返回\u003c/pre\u003e"

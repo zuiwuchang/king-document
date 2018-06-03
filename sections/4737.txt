@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003elet v: any = 123\n// 兩種 寫法 完全 等價 只在於 個人習慣\nlet str0 = \u0026lt;string\u0026gt;v\nlet str1 = v as number\n\u003c/pre\u003e"

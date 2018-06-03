@@ -1,1 +1,1 @@
-var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003eimport QtQuick.Controls 1.4\u003c/strong\u003e\n\nApplicationWindow 派生自 Window 在Window之上 爲窗口提供了 MenuBar ToolBar StatusBar ...\n\u003c/pre\u003e"
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003eimport QtQuick.Controls 2.2\u003c/strong\u003e\n\nApplicationWindow 派生自 Window 在Window之上 爲窗口提供了 MenuBar ToolBar StatusBar ...\n\u003c/pre\u003e"

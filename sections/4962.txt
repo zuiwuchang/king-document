@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e有時 綁定表達式的 值可能 存在 類型 不兼容的 錯誤 可以使用 $any  強制 轉化\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;!-- Accessing an undeclared member --\u0026gt;\n\u0026lt;div\u0026gt;\n  The hero's marker is {{$any(hero).marker}}\n\u0026lt;/div\u0026gt;\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 查詢 網卡\nIfconfig\n\n# 歷時設置 ip\nIfconfig ech0 192.168.1.100 netmask 255.255.255.0\n\u003c/pre\u003e"

@@ -34,5 +34,11 @@ var __v=[
 			"Doc": 47,
 			"Name": "jqModal",
 			"Sort": 46
+		},
+		{
+			"Id": 705,
+			"Doc": 47,
+			"Name": "bootstrap-material-datetimepicker",
+			"Sort": 527
 		}
 	]

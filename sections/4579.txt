@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e# 在linux下 需要將 用戶 加入vboxusers 組\nsudo gpasswd -a king vboxusers\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e應該 儘量使用 型別斷言 以確定代碼的 健壯性\u003c/pre\u003e"

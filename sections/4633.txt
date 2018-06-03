@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e-p 參數 可多次使用 以便 映射 多個 端口\n\n可以使用 docker inspect 容器\n查看 容器 詳細 信息\n\u003c/pre\u003e"

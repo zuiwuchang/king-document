@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003esudo add-apt-repository ppa:antumdeluge/debreate\nsudo apt-get update\nsudo apt install debreate\u003c/pre\u003e"

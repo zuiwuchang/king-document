@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e可以再 i18n 中 寫入待翻譯文本的描述 以便 翻譯人員 更好的理解要 翻譯的 內容\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;h1 i18n=\"An introduction header for this sample\"\u0026gt;Hello i18n!\u0026lt;/h1\u0026gt;\u003c/pre\u003e"

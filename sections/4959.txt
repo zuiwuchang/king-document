@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e可以使用 # 在模板中 來聲明 對 組件的 引用\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;!-- #name 聲明 一個 引用 到  --\u0026gt;\n\u0026lt;input #name \u0026gt;\n\u0026lt;button (click)=\"onTest(name.value)\"\u0026gt;do\u0026lt;/button\u0026gt;\u003c/pre\u003e"

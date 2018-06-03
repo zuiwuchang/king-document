@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eObservable 可觀察對象 用於在應用中的 \u003cstrong\u003e發佈者\u003c/strong\u003e 和 \u003cstrong\u003e訂閱者\u003c/strong\u003e 之間傳遞消息\n\nObservable 可以發送多個 任意類型的值 -- 字面量 消息 事件 ...\n且無論同步還是異步 都使用 相同的 API 處理\n\nAngular 中 大量使用了 Observable\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 默認使用 en-US 可以傳入 --locale 參數來 設定\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eng serve --aot --locale zh\u003c/pre\u003e"

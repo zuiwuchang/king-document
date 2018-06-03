@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e$htpp 的 data 對 get 請求無效\n\n\u003cstrong\u003e$.param\u003c/strong\u003e 是angular內置的一個 函數\n(就是 Example 局部設置 13 行 transformRequest 的實現)\n\u003c/pre\u003e"

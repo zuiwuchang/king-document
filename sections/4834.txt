@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003eng serve --disable-host-check\u003c/strong\u003e\n需要 爲 ng serve 加上 --disable-host-check 參數 否則 無法使用 dev.my.web 域名訪問到 angular\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e引入 angular-material.min.css\u003c/li\u003e\n\t\u003cli\u003e引入 angular.min.js angular-animate.min.js angular-aria.min.js angular-messages.min.js\u003c/li\u003e\n\t\u003cli\u003e引入 angular-material.min.js\u003c/li\u003e\n\t\u003cli\u003e創建模塊 並 注入 ngMaterial ngMessages 模塊\u003c/li\u003e\n\u003c/ol\u003e"

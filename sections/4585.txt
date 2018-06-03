@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ev1 使用 當前時間戳 序列 MAC 地址 創建 uuid\n\u003c/pre\u003e"

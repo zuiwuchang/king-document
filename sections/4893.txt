@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e可以 將 plural select 嵌套使用\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;span i18n\u0026gt;Updated: {minutes, plural,\n  =0 {just now}\n  =1 {one minute ago}\n  other {{{minutes}} minutes ago by {gender, select, male {male} female {female} other {other}}}}\n\u0026lt;/span\u0026gt;\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e隨著 nodejs的 流行\nCryptoJS 已然移植到 nodejs環境\n\ngithub \u003ca href='https://github.com/brix/crypto-js' target='_blank'\u003ehttps://github.com/brix/crypto-js\u003c/a\u003e\n新的 版本 依然可以使用 瀏覽器調用(amd 測試可用)\ngoogle code 上的 版本 已經多年未更新\n\u003c/pre\u003e"

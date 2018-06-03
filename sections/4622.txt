@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003egodep 是一個 開源的 第三方 golang 包依賴管理 工具\n\ngithub \u003ca href='https://github.com/tools/godep' target='_blank'\u003ehttps://github.com/tools/godep\u003c/a\u003e\n\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003ego get -u github.com/tools/godep\u003c/pre\u003e"

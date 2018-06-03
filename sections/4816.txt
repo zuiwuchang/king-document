@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ebolt 是一個 用golang實現的 開源(MIT) key/value 數據庫\n支持了 完整的 事務\n(bolt 使用了 b+樹 實現)\n\ngithub \u003ca href='https://github.com/boltdb/bolt' target='_blank'\u003ehttps://github.com/boltdb/bolt\u003c/a\u003e\u003c/pre\u003e"

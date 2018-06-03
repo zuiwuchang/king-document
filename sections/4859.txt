@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e每次調用 subscribe 訂閱時\n發佈者 都會 提供 獨立的環境 執行 Observable 構造時 傳入的 函數\n\n如果 想要 所有 訂閱者 共享發佈的消息 可以利用 閉包 將 共享數據 包裝到一個 函數中\n\u003c/pre\u003e"

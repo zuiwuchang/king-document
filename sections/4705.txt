@@ -1,0 +1,1 @@
+var __v="解决方法：重启，光标选中“Ubuntu”，按“e”，进入grub界面，在刚刚改过的那行最后加上“ acpi_osi=Linux nomodeset”（nvidia显卡 ）\n如果是amd显卡则改为：\"acpi_osi=linux xforcevesa\" 或 \"acpi_osi=linux radeon.modeset=0 xforcevesa\"\n如果是intel显卡则改为：\"acpi_osi=linux i915.modeset=1\" 或 \"acpi_osi=linux i915.modeset=0”\nPS：amd和intel没有亲测过，Nvidia亲测可用\n再F10保存重启，就可以进入。"

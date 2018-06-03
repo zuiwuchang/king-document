@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eng-template 通常被用在 結構指令中 如果 不存在 結構指令\nAngular 會 把其內容 轉爲 註釋\u003c/pre\u003e"

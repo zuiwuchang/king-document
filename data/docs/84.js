@@ -27,60 +27,60 @@ var __v=[
 			"Id": 327,
 			"Doc": 84,
 			"Name": "基礎控件",
-			"Sort": 4
+			"Sort": 5
 		},
 		{
 			"Id": 328,
 			"Doc": 84,
 			"Name": "資源",
-			"Sort": 5
+			"Sort": 6
 		},
 		{
 			"Id": 329,
 			"Doc": 84,
 			"Name": "佈局",
-			"Sort": 6
+			"Sort": 7
 		},
 		{
 			"Id": 330,
 			"Doc": 84,
 			"Name": "國際化",
-			"Sort": 7
+			"Sort": 8
 		},
 		{
 			"Id": 679,
 			"Doc": 84,
 			"Name": "QSettings",
-			"Sort": 8
+			"Sort": 9
 		},
 		{
 			"Id": 676,
 			"Doc": 84,
 			"Name": "音頻",
-			"Sort": 9
+			"Sort": 10
 		},
 		{
 			"Id": 331,
 			"Doc": 84,
 			"Name": "QWebEngineView",
-			"Sort": 10
+			"Sort": 11
 		},
 		{
 			"Id": 332,
 			"Doc": 84,
 			"Name": "QNetworkRequest",
-			"Sort": 11
+			"Sort": 12
 		},
 		{
 			"Id": 333,
 			"Doc": 84,
 			"Name": "QGLWidget",
-			"Sort": 12
+			"Sort": 13
 		},
 		{
 			"Id": 334,
 			"Doc": 84,
 			"Name": "FAQ",
-			"Sort": 13
+			"Sort": 14
 		}
 	]

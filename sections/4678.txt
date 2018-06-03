@@ -1,0 +1,1 @@
+var __v="\u003col\u003e\n\t\u003cli\u003e安裝 typings\u003cbr\u003enpm i -g typings\u003c/li\u003e\n\t\u003cli\u003e在當前 目錄下 安裝 nodejs 的提示檔案\u003cbr\u003etypings install dt~node --global --save\u003c/li\u003e\n\t\u003cli\u003e在 需要提示 的檔案第一行 定義 提示檔案位置\u003cbr\u003e/// \u0026lt;reference path=\"./typings/index.d.ts\" /\u0026gt;\u003c/li\u003e\n\u003c/ol\u003e"

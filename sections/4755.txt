@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eabstract 方法 只能 存在於 abstract class 中\n如果 從 abstract class 派生 abstract class 必須在子類定義是 顯示 指定未 abstract class\u003c/pre\u003e"

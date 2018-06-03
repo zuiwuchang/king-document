@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ebrowserify 是一個 面向瀏覽器的 組建 可以將 ts 等自動 打包 合併 到 一個js以供 瀏覽器使用\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\tconn, e = grpc.Dial(\n\t\tAddr,\n\t\tgrpc.WithTransportCredentials(creds),\n\t\tgrpc.WithPerRPCCredentials(pb.NewToken()),\n\t)\u003c/pre\u003e"

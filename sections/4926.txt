@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 提供了自己的 模塊系統 NgModule 用來 將 組件 指令 廣島 服務...等 功能 打包起來\n以方便 代碼組織分發重用\n\nAngular 庫 以及第三方庫 都以 NgModule 方式 發佈\n\nNgModule 還可以使用 路由的 墮性加載 只在需要時 才加載 模塊\n\u003c/pre\u003e"

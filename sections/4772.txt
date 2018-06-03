@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e$http 是 AngularJS 中的 一個常用 服務 主要用來 向服務器 發送 異步請求\u003c/pre\u003e"

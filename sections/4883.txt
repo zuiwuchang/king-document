@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eJIT 雖然可以提供 靈活和 動態的 加載語言環境 但相比 aot 既慢又大\n應該只在開發中使用 JIT 發佈時使用 aot\u003c/pre\u003e"

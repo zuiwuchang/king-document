@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e日誌 默認 以 1000 的事件 id 記錄 除非 顯示 指定\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003elog.info('Something different happened!', 1002, function () {\n    console.log('記錄成功回調');\n});\u003c/pre\u003e"

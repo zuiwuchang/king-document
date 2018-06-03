@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003erevel 和 angular 都使用 \u003cstrong\u003e{{ }}\u003c/strong\u003e 作為模板\n\n如果要 使用 angular 可以在 revel app.conf 中 配置 \u003cstrong\u003e[[ ]]\u003c/strong\u003e 替代 \u003cstrong\u003e{{ }}\u003c/strong\u003e\n\u003cstrong\u003etemplate.go.delimiters = [[ ]]\u003c/strong\u003e\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e如果 安裝成功 將 創建一個 ~/Dropbox 檔案夾 裏面的內容將 自動同步 到 Dropbox 服務器\n\nDropbox linux 下 使用的 python 請確認 由 python 運行環境\n\n淪陷區 是封鎖了 Dropbox的 請 確認有使用 代理\u003c/pre\u003e"

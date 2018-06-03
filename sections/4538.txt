@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003emahonia 提供了 utf8 和 gbk 之間的 字符串 轉碼功能\n\ngithub \u003ca href='https://github.com/axgle/mahonia' target='_blank'\u003ehttps://github.com/axgle/mahonia\u003c/a\u003e\u003c/pre\u003e"

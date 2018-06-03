@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e gopkg.in/fsnotify.v1 的著作以及將 項目  移到 github.com/fsnotify/fsnotify\nRevel v0.19.0 (2018-02-06) 依然在 import  gopkg.in/fsnotify.v1\n\ngo get github.com/fsnotify/fsnotify\ncd gopkg.in\nln -s ../github.com/fsnotify/fsnotify fsnotify.v1\n\u003c/pre\u003e"

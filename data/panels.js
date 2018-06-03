@@ -5253,25 +5253,25 @@ var __v={
 			"Id": 1796,
 			"Chapter": 563,
 			"Name": "gzip",
-			"Sort": 0
+			"Sort": 7
 		},
 		"1797": {
 			"Id": 1797,
 			"Chapter": 563,
 			"Name": "bzip2",
-			"Sort": 0
+			"Sort": 6
 		},
 		"1798": {
 			"Id": 1798,
 			"Chapter": 563,
 			"Name": "xz",
-			"Sort": 0
+			"Sort": 5
 		},
 		"1799": {
 			"Id": 1799,
 			"Chapter": 563,
 			"Name": "tar",
-			"Sort": 0
+			"Sort": 4
 		},
 		"18": {
 			"Id": 18,
@@ -5289,13 +5289,13 @@ var __v={
 			"Id": 1800,
 			"Chapter": 563,
 			"Name": "dump",
-			"Sort": 0
+			"Sort": 2
 		},
 		"1801": {
 			"Id": 1801,
 			"Chapter": 563,
 			"Name": "dd",
-			"Sort": 0
+			"Sort": 1
 		},
 		"1802": {
 			"Id": 1802,
@@ -7847,6 +7847,18 @@ var __v={
 			"Name": "tools",
 			"Sort": 0
 		},
+		"2198": {
+			"Id": 2198,
+			"Chapter": 682,
+			"Name": "mahonia",
+			"Sort": 0
+		},
+		"2199": {
+			"Id": 2199,
+			"Chapter": 324,
+			"Name": "scopes",
+			"Sort": 0
+		},
 		"22": {
 			"Id": 22,
 			"Chapter": 8,
@@ -7859,11 +7871,119 @@ var __v={
 			"Name": "特效 相關",
 			"Sort": 0
 		},
+		"2202": {
+			"Id": 2202,
+			"Chapter": 684,
+			"Name": "qml 訪問 c++",
+			"Sort": 0
+		},
+		"2203": {
+			"Id": 2203,
+			"Chapter": 684,
+			"Name": "c++ 訪問 qml",
+			"Sort": 0
+		},
+		"2204": {
+			"Id": 2204,
+			"Chapter": 685,
+			"Name": "android",
+			"Sort": 3
+		},
+		"2205": {
+			"Id": 2205,
+			"Chapter": 685,
+			"Name": "與無恥oracle的糾紛",
+			"Sort": 1
+		},
+		"2206": {
+			"Id": 2206,
+			"Chapter": 685,
+			"Name": "java",
+			"Sort": 2
+		},
+		"2207": {
+			"Id": 2207,
+			"Chapter": 686,
+			"Name": "Android Studio",
+			"Sort": 0
+		},
+		"2208": {
+			"Id": 2208,
+			"Chapter": 686,
+			"Name": "ubuntu安裝",
+			"Sort": 0
+		},
+		"2209": {
+			"Id": 2209,
+			"Chapter": 563,
+			"Name": "zip",
+			"Sort": 3
+		},
 		"221": {
 			"Id": 221,
 			"Chapter": 81,
 			"Name": "增加怪物",
 			"Sort": 0
+		},
+		"2210": {
+			"Id": 2210,
+			"Chapter": 687,
+			"Name": "Rime",
+			"Sort": 0
+		},
+		"2211": {
+			"Id": 2211,
+			"Chapter": 687,
+			"Name": "配置",
+			"Sort": 0
+		},
+		"2212": {
+			"Id": 2212,
+			"Chapter": 688,
+			"Name": "Dropbox",
+			"Sort": 0
+		},
+		"2213": {
+			"Id": 2213,
+			"Chapter": 688,
+			"Name": "安裝linux",
+			"Sort": 0
+		},
+		"2214": {
+			"Id": 2214,
+			"Chapter": 687,
+			"Name": "同步詞庫",
+			"Sort": 0
+		},
+		"2215": {
+			"Id": 2215,
+			"Chapter": 689,
+			"Name": "c++",
+			"Sort": 5
+		},
+		"2216": {
+			"Id": 2216,
+			"Chapter": 689,
+			"Name": "tasks.json",
+			"Sort": 4
+		},
+		"2217": {
+			"Id": 2217,
+			"Chapter": 689,
+			"Name": "launch.json",
+			"Sort": 3
+		},
+		"2218": {
+			"Id": 2218,
+			"Chapter": 624,
+			"Name": "常用命令",
+			"Sort": 0
+		},
+		"2219": {
+			"Id": 2219,
+			"Chapter": 689,
+			"Name": "tools bash scripts",
+			"Sort": 1
 		},
 		"222": {
 			"Id": 222,
@@ -7871,10 +7991,124 @@ var __v={
 			"Name": "自動解包",
 			"Sort": 0
 		},
+		"2220": {
+			"Id": 2220,
+			"Chapter": 689,
+			"Name": "c_cpp_properties.json",
+			"Sort": 2
+		},
+		"2221": {
+			"Id": 2221,
+			"Chapter": 690,
+			"Name": "tools bash scripts",
+			"Sort": 0
+		},
+		"2222": {
+			"Id": 2222,
+			"Chapter": 691,
+			"Name": "ssl",
+			"Sort": 0
+		},
+		"2223": {
+			"Id": 2223,
+			"Chapter": 691,
+			"Name": "client",
+			"Sort": 0
+		},
+		"2224": {
+			"Id": 2224,
+			"Chapter": 692,
+			"Name": "linux 無法使用 usb",
+			"Sort": 0
+		},
+		"2225": {
+			"Id": 2225,
+			"Chapter": 673,
+			"Name": "FAQ",
+			"Sort": 0
+		},
+		"2226": {
+			"Id": 2226,
+			"Chapter": 693,
+			"Name": "google/uuid",
+			"Sort": 2
+		},
+		"2227": {
+			"Id": 2227,
+			"Chapter": 694,
+			"Name": "Example",
+			"Sort": 1
+		},
+		"2228": {
+			"Id": 2228,
+			"Chapter": 695,
+			"Name": "Example",
+			"Sort": 1
+		},
+		"2229": {
+			"Id": 2229,
+			"Chapter": 694,
+			"Name": "v1",
+			"Sort": 2
+		},
 		"223": {
 			"Id": 223,
 			"Chapter": 83,
 			"Name": "沙巴克",
+			"Sort": 0
+		},
+		"2230": {
+			"Id": 2230,
+			"Chapter": 693,
+			"Name": "uuid",
+			"Sort": 3
+		},
+		"2232": {
+			"Id": 2232,
+			"Chapter": 696,
+			"Name": "v2",
+			"Sort": 0
+		},
+		"2233": {
+			"Id": 2233,
+			"Chapter": 696,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"2234": {
+			"Id": 2234,
+			"Chapter": 697,
+			"Name": "v3",
+			"Sort": 0
+		},
+		"2235": {
+			"Id": 2235,
+			"Chapter": 697,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"2236": {
+			"Id": 2236,
+			"Chapter": 698,
+			"Name": "v5",
+			"Sort": 0
+		},
+		"2237": {
+			"Id": 2237,
+			"Chapter": 698,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"2238": {
+			"Id": 2238,
+			"Chapter": 695,
+			"Name": "v4",
+			"Sort": 2
+		},
+		"2239": {
+			"Id": 2239,
+			"Chapter": 699,
+			"Name": "conky",
 			"Sort": 0
 		},
 		"224": {
@@ -7883,10 +8117,106 @@ var __v={
 			"Name": "封號",
 			"Sort": 0
 		},
+		"2240": {
+			"Id": 2240,
+			"Chapter": 699,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"2241": {
+			"Id": 2241,
+			"Chapter": 700,
+			"Name": "jsonnet",
+			"Sort": 0
+		},
+		"2243": {
+			"Id": 2243,
+			"Chapter": 702,
+			"Name": "golang",
+			"Sort": 0
+		},
+		"2244": {
+			"Id": 2244,
+			"Chapter": 703,
+			"Name": "CheckInstall",
+			"Sort": 0
+		},
+		"2245": {
+			"Id": 2245,
+			"Chapter": 700,
+			"Name": "編譯",
+			"Sort": 0
+		},
+		"2246": {
+			"Id": 2246,
+			"Chapter": 704,
+			"Name": "Debreate",
+			"Sort": 0
+		},
+		"2247": {
+			"Id": 2247,
+			"Chapter": 705,
+			"Name": "bootstrap-material-datetimepicker",
+			"Sort": 0
+		},
+		"2248": {
+			"Id": 2248,
+			"Chapter": 705,
+			"Name": "使用",
+			"Sort": 0
+		},
+		"2249": {
+			"Id": 2249,
+			"Chapter": 706,
+			"Name": "gulpjs",
+			"Sort": 0
+		},
 		"225": {
 			"Id": 225,
 			"Chapter": 85,
 			"Name": "bytes",
+			"Sort": 0
+		},
+		"2250": {
+			"Id": 2250,
+			"Chapter": 706,
+			"Name": "安裝",
+			"Sort": 0
+		},
+		"2252": {
+			"Id": 2252,
+			"Chapter": 706,
+			"Name": "使用",
+			"Sort": 0
+		},
+		"2253": {
+			"Id": 2253,
+			"Chapter": 707,
+			"Name": "gulp-uglify",
+			"Sort": 0
+		},
+		"2254": {
+			"Id": 2254,
+			"Chapter": 577,
+			"Name": "SSCap",
+			"Sort": 0
+		},
+		"2255": {
+			"Id": 2255,
+			"Chapter": 708,
+			"Name": "dep",
+			"Sort": 0
+		},
+		"2256": {
+			"Id": 2256,
+			"Chapter": 709,
+			"Name": "godep",
+			"Sort": 0
+		},
+		"2257": {
+			"Id": 2257,
+			"Chapter": 709,
+			"Name": "常用 命令",
 			"Sort": 0
 		},
 		"226": {
@@ -7895,10 +8225,118 @@ var __v={
 			"Name": "Buffer",
 			"Sort": 0
 		},
+		"2260": {
+			"Id": 2260,
+			"Chapter": 711,
+			"Name": "網路映射",
+			"Sort": 0
+		},
+		"2261": {
+			"Id": 2261,
+			"Chapter": 711,
+			"Name": "虛擬網卡",
+			"Sort": 0
+		},
+		"2262": {
+			"Id": 2262,
+			"Chapter": 711,
+			"Name": "--link",
+			"Sort": 0
+		},
+		"2263": {
+			"Id": 2263,
+			"Chapter": 712,
+			"Name": "cobra",
+			"Sort": 0
+		},
+		"2264": {
+			"Id": 2264,
+			"Chapter": 712,
+			"Name": "Example",
+			"Sort": 0
+		},
+		"2265": {
+			"Id": 2265,
+			"Chapter": 667,
+			"Name": "token",
+			"Sort": 0
+		},
+		"2266": {
+			"Id": 2266,
+			"Chapter": 713,
+			"Name": "invalid flag in #cgo CFLAGS",
+			"Sort": 0
+		},
+		"2267": {
+			"Id": 2267,
+			"Chapter": 667,
+			"Name": "metadata",
+			"Sort": 0
+		},
+		"2268": {
+			"Id": 2268,
+			"Chapter": 714,
+			"Name": "AngularJS",
+			"Sort": 0
+		},
 		"227": {
 			"Id": 227,
 			"Chapter": 86,
 			"Name": "container/list",
+			"Sort": 0
+		},
+		"2270": {
+			"Id": 2270,
+			"Chapter": 715,
+			"Name": "ng",
+			"Sort": 0
+		},
+		"2271": {
+			"Id": 2271,
+			"Chapter": 715,
+			"Name": "表達式",
+			"Sort": 0
+		},
+		"2272": {
+			"Id": 2272,
+			"Chapter": 715,
+			"Name": "指令",
+			"Sort": 0
+		},
+		"2273": {
+			"Id": 2273,
+			"Chapter": 715,
+			"Name": "控制器",
+			"Sort": 0
+		},
+		"2275": {
+			"Id": 2275,
+			"Chapter": 716,
+			"Name": "過濾器",
+			"Sort": 0
+		},
+		"2276": {
+			"Id": 2276,
+			"Chapter": 716,
+			"Name": "內置過濾器",
+			"Sort": 0
+		},
+		"2277": {
+			"Id": 2277,
+			"Chapter": 667,
+			"Name": "tools",
+			"Sort": 0
+		},
+		"2278": {
+			"Id": 2278,
+			"Chapter": 717,
+			"Name": "node-windows",
+			"Sort": 0
+		},
+		"2279": {
+			"Id": 2279,
+			"Chapter": 718,
+			"Name": "Service",
 			"Sort": 0
 		},
 		"228": {
@@ -7907,10 +8345,124 @@ var __v={
 			"Name": "container/ring",
 			"Sort": 0
 		},
+		"2280": {
+			"Id": 2280,
+			"Chapter": 719,
+			"Name": "nodejs",
+			"Sort": 0
+		},
+		"2281": {
+			"Id": 2281,
+			"Chapter": 718,
+			"Name": "env",
+			"Sort": 0
+		},
+		"2282": {
+			"Id": 2282,
+			"Chapter": 720,
+			"Name": "EventLogger",
+			"Sort": 0
+		},
+		"2283": {
+			"Id": 2283,
+			"Chapter": 721,
+			"Name": "Commands",
+			"Sort": 0
+		},
+		"2285": {
+			"Id": 2285,
+			"Chapter": 722,
+			"Name": "commander",
+			"Sort": 0
+		},
+		"2286": {
+			"Id": 2286,
+			"Chapter": 723,
+			"Name": "net",
+			"Sort": 0
+		},
+		"2287": {
+			"Id": 2287,
+			"Chapter": 43,
+			"Name": "uefi",
+			"Sort": 0
+		},
+		"2288": {
+			"Id": 2288,
+			"Chapter": 724,
+			"Name": "dhcp",
+			"Sort": 0
+		},
+		"2289": {
+			"Id": 2289,
+			"Chapter": 724,
+			"Name": "static",
+			"Sort": 0
+		},
 		"229": {
 			"Id": 229,
 			"Chapter": 87,
 			"Name": "encoding/binary",
+			"Sort": 0
+		},
+		"2290": {
+			"Id": 2290,
+			"Chapter": 724,
+			"Name": "dns",
+			"Sort": 0
+		},
+		"2291": {
+			"Id": 2291,
+			"Chapter": 724,
+			"Name": "Ifconfig",
+			"Sort": 0
+		},
+		"2292": {
+			"Id": 2292,
+			"Chapter": 725,
+			"Name": "Rufus",
+			"Sort": 0
+		},
+		"2293": {
+			"Id": 2293,
+			"Chapter": 726,
+			"Name": "UNetbootin",
+			"Sort": 0
+		},
+		"2294": {
+			"Id": 2294,
+			"Chapter": 43,
+			"Name": "dell mint 卡死在 logo",
+			"Sort": 0
+		},
+		"2295": {
+			"Id": 2295,
+			"Chapter": 727,
+			"Name": " gopkg.in/fsnotify.v1",
+			"Sort": 0
+		},
+		"2296": {
+			"Id": 2296,
+			"Chapter": 728,
+			"Name": "電飯煲蒸飯",
+			"Sort": 0
+		},
+		"2297": {
+			"Id": 2297,
+			"Chapter": 729,
+			"Name": "Vitess",
+			"Sort": 0
+		},
+		"2298": {
+			"Id": 2298,
+			"Chapter": 730,
+			"Name": "net/smtp",
+			"Sort": 0
+		},
+		"2299": {
+			"Id": 2299,
+			"Chapter": 730,
+			"Name": "Example",
 			"Sort": 0
 		},
 		"23": {
@@ -7925,10 +8477,130 @@ var __v={
 			"Name": "flag",
 			"Sort": 0
 		},
+		"2300": {
+			"Id": 2300,
+			"Chapter": 731,
+			"Name": "angular",
+			"Sort": 0
+		},
+		"2301": {
+			"Id": 2301,
+			"Chapter": 732,
+			"Name": "服務",
+			"Sort": 0
+		},
+		"2302": {
+			"Id": 2302,
+			"Chapter": 732,
+			"Name": "$location",
+			"Sort": 0
+		},
+		"2303": {
+			"Id": 2303,
+			"Chapter": 732,
+			"Name": "$log",
+			"Sort": 0
+		},
+		"2304": {
+			"Id": 2304,
+			"Chapter": 732,
+			"Name": "自定義服務",
+			"Sort": 0
+		},
+		"2305": {
+			"Id": 2305,
+			"Chapter": 733,
+			"Name": "控制器通信",
+			"Sort": 0
+		},
+		"2306": {
+			"Id": 2306,
+			"Chapter": 733,
+			"Name": "事件通信",
+			"Sort": 0
+		},
+		"2307": {
+			"Id": 2307,
+			"Chapter": 733,
+			"Name": "$rootScope",
+			"Sort": 0
+		},
+		"2308": {
+			"Id": 2308,
+			"Chapter": 734,
+			"Name": "TypeScript",
+			"Sort": 0
+		},
+		"2309": {
+			"Id": 2309,
+			"Chapter": 735,
+			"Name": "基礎型別",
+			"Sort": 0
+		},
 		"231": {
 			"Id": 231,
 			"Chapter": 89,
 			"Name": "firefox",
+			"Sort": 0
+		},
+		"2310": {
+			"Id": 2310,
+			"Chapter": 735,
+			"Name": "類型斷言",
+			"Sort": 0
+		},
+		"2311": {
+			"Id": 2311,
+			"Chapter": 736,
+			"Name": "變量聲明",
+			"Sort": 0
+		},
+		"2312": {
+			"Id": 2312,
+			"Chapter": 737,
+			"Name": "接口",
+			"Sort": 0
+		},
+		"2313": {
+			"Id": 2313,
+			"Chapter": 737,
+			"Name": "接口繼承",
+			"Sort": 0
+		},
+		"2314": {
+			"Id": 2314,
+			"Chapter": 737,
+			"Name": "實現接口",
+			"Sort": 0
+		},
+		"2315": {
+			"Id": 2315,
+			"Chapter": 737,
+			"Name": "額外屬性監測",
+			"Sort": 0
+		},
+		"2316": {
+			"Id": 2316,
+			"Chapter": 738,
+			"Name": "class",
+			"Sort": 0
+		},
+		"2317": {
+			"Id": 2317,
+			"Chapter": 738,
+			"Name": "abstract",
+			"Sort": 0
+		},
+		"2318": {
+			"Id": 2318,
+			"Chapter": 739,
+			"Name": "函數",
+			"Sort": 0
+		},
+		"2319": {
+			"Id": 2319,
+			"Chapter": 739,
+			"Name": "this",
 			"Sort": 0
 		},
 		"232": {
@@ -7937,10 +8609,130 @@ var __v={
 			"Name": "about:config",
 			"Sort": 0
 		},
+		"2320": {
+			"Id": 2320,
+			"Chapter": 740,
+			"Name": "範型",
+			"Sort": 0
+		},
+		"2321": {
+			"Id": 2321,
+			"Chapter": 740,
+			"Name": "範型約束",
+			"Sort": 0
+		},
+		"2322": {
+			"Id": 2322,
+			"Chapter": 740,
+			"Name": "在範型中 使用工廠函數",
+			"Sort": 0
+		},
+		"2323": {
+			"Id": 2323,
+			"Chapter": 741,
+			"Name": "模塊",
+			"Sort": 0
+		},
+		"2324": {
+			"Id": 2324,
+			"Chapter": 742,
+			"Name": "gulp-typescript",
+			"Sort": 0
+		},
+		"2325": {
+			"Id": 2325,
+			"Chapter": 743,
+			"Name": "requirejs",
+			"Sort": 0
+		},
+		"2326": {
+			"Id": 2326,
+			"Chapter": 744,
+			"Name": "browserify",
+			"Sort": 0
+		},
+		"2327": {
+			"Id": 2327,
+			"Chapter": 745,
+			"Name": "$http",
+			"Sort": 0
+		},
+		"2328": {
+			"Id": 2328,
+			"Chapter": 745,
+			"Name": "提交 form 參數",
+			"Sort": 0
+		},
+		"2329": {
+			"Id": 2329,
+			"Chapter": 746,
+			"Name": "nodejs",
+			"Sort": 0
+		},
 		"233": {
 			"Id": 233,
 			"Chapter": 90,
 			"Name": "瀏覽器緩存",
+			"Sort": 0
+		},
+		"2330": {
+			"Id": 2330,
+			"Chapter": 747,
+			"Name": "gzip",
+			"Sort": 0
+		},
+		"2331": {
+			"Id": 2331,
+			"Chapter": 748,
+			"Name": "Angular",
+			"Sort": 0
+		},
+		"2332": {
+			"Id": 2332,
+			"Chapter": 749,
+			"Name": "手動安裝更新",
+			"Sort": 0
+		},
+		"2333": {
+			"Id": 2333,
+			"Chapter": 748,
+			"Name": "環境配置",
+			"Sort": 0
+		},
+		"2334": {
+			"Id": 2334,
+			"Chapter": 748,
+			"Name": "創建項目 ng new",
+			"Sort": 0
+		},
+		"2335": {
+			"Id": 2335,
+			"Chapter": 748,
+			"Name": "創建組建 ng generate component",
+			"Sort": 0
+		},
+		"2336": {
+			"Id": 2336,
+			"Chapter": 748,
+			"Name": "ngFor ngIf",
+			"Sort": 0
+		},
+		"2337": {
+			"Id": 2337,
+			"Chapter": 748,
+			"Name": "主從組建",
+			"Sort": 0
+		},
+		"2338": {
+			"Id": 2338,
+			"Chapter": 748,
+			"Name": "服務",
+			"Sort": 0
+		},
+		"2339": {
+			"Id": 2339,
+			"Chapter": 750,
+			"Name": "sync",
 			"Sort": 0
 		},
 		"234": {
@@ -7949,10 +8741,130 @@ var __v={
 			"Name": "HTML 5",
 			"Sort": 0
 		},
+		"2340": {
+			"Id": 2340,
+			"Chapter": 750,
+			"Name": "WaitGroup",
+			"Sort": 0
+		},
+		"2341": {
+			"Id": 2341,
+			"Chapter": 750,
+			"Name": "Cond",
+			"Sort": 0
+		},
+		"2342": {
+			"Id": 2342,
+			"Chapter": 751,
+			"Name": "百度AI開放平臺",
+			"Sort": 0
+		},
+		"2343": {
+			"Id": 2343,
+			"Chapter": 751,
+			"Name": "成為無恥的開發者",
+			"Sort": 0
+		},
+		"2344": {
+			"Id": 2344,
+			"Chapter": 752,
+			"Name": "bolt",
+			"Sort": 0
+		},
+		"2345": {
+			"Id": 2345,
+			"Chapter": 752,
+			"Name": "打開數據庫",
+			"Sort": 0
+		},
+		"2346": {
+			"Id": 2346,
+			"Chapter": 752,
+			"Name": "事務",
+			"Sort": 0
+		},
+		"2347": {
+			"Id": 2347,
+			"Chapter": 752,
+			"Name": "Bucket",
+			"Sort": 0
+		},
+		"2348": {
+			"Id": 2348,
+			"Chapter": 752,
+			"Name": "range",
+			"Sort": 0
+		},
+		"2349": {
+			"Id": 2349,
+			"Chapter": 752,
+			"Name": "備份",
+			"Sort": 0
+		},
 		"235": {
 			"Id": 235,
 			"Chapter": 92,
 			"Name": "display 塊屬性",
+			"Sort": 0
+		},
+		"2350": {
+			"Id": 2350,
+			"Chapter": 715,
+			"Name": "事件",
+			"Sort": 0
+		},
+		"2351": {
+			"Id": 2351,
+			"Chapter": 753,
+			"Name": "nginx",
+			"Sort": 0
+		},
+		"2352": {
+			"Id": 2352,
+			"Chapter": 754,
+			"Name": "base href",
+			"Sort": 0
+		},
+		"2353": {
+			"Id": 2353,
+			"Chapter": 754,
+			"Name": "路由器",
+			"Sort": 0
+		},
+		"2354": {
+			"Id": 2354,
+			"Chapter": 754,
+			"Name": "路由 模塊",
+			"Sort": 0
+		},
+		"2355": {
+			"Id": 2355,
+			"Chapter": 754,
+			"Name": "routerLink",
+			"Sort": 0
+		},
+		"2356": {
+			"Id": 2356,
+			"Chapter": 754,
+			"Name": "路由定義",
+			"Sort": 0
+		},
+		"2357": {
+			"Id": 2357,
+			"Chapter": 754,
+			"Name": "ActivatedRoute",
+			"Sort": 0
+		},
+		"2358": {
+			"Id": 2358,
+			"Chapter": 755,
+			"Name": "ng-bootstrap",
+			"Sort": 0
+		},
+		"2359": {
+			"Id": 2359,
+			"Chapter": 755,
+			"Name": "環境配置",
 			"Sort": 0
 		},
 		"236": {
@@ -7961,10 +8873,118 @@ var __v={
 			"Name": "margin",
 			"Sort": 0
 		},
+		"2360": {
+			"Id": 2360,
+			"Chapter": 756,
+			"Name": "Observable",
+			"Sort": 0
+		},
+		"2361": {
+			"Id": 2361,
+			"Chapter": 756,
+			"Name": "發佈者",
+			"Sort": 0
+		},
+		"2362": {
+			"Id": 2362,
+			"Chapter": 756,
+			"Name": "訂閱者",
+			"Sort": 0
+		},
+		"2364": {
+			"Id": 2364,
+			"Chapter": 756,
+			"Name": "多播",
+			"Sort": 0
+		},
+		"2365": {
+			"Id": 2365,
+			"Chapter": 757,
+			"Name": "RxJS",
+			"Sort": 0
+		},
+		"2366": {
+			"Id": 2366,
+			"Chapter": 757,
+			"Name": "創建可觀察對象",
+			"Sort": 0
+		},
+		"2367": {
+			"Id": 2367,
+			"Chapter": 757,
+			"Name": "操作符",
+			"Sort": 0
+		},
+		"2368": {
+			"Id": 2368,
+			"Chapter": 757,
+			"Name": "錯誤處理",
+			"Sort": 0
+		},
+		"2369": {
+			"Id": 2369,
+			"Chapter": 757,
+			"Name": "命名規範",
+			"Sort": 0
+		},
 		"237": {
 			"Id": 237,
 			"Chapter": 92,
 			"Name": "box-sizing 元素尺寸",
+			"Sort": 0
+		},
+		"2371": {
+			"Id": 2371,
+			"Chapter": 758,
+			"Name": "godns",
+			"Sort": 0
+		},
+		"2372": {
+			"Id": 2372,
+			"Chapter": 759,
+			"Name": "angular-material",
+			"Sort": 0
+		},
+		"2373": {
+			"Id": 2373,
+			"Chapter": 759,
+			"Name": "環境 配置",
+			"Sort": 0
+		},
+		"2374": {
+			"Id": 2374,
+			"Chapter": 760,
+			"Name": "i18n",
+			"Sort": 5
+		},
+		"2375": {
+			"Id": 2375,
+			"Chapter": 760,
+			"Name": "設置locale",
+			"Sort": 4
+		},
+		"2376": {
+			"Id": 2376,
+			"Chapter": 760,
+			"Name": "翻頁模板",
+			"Sort": 3
+		},
+		"2377": {
+			"Id": 2377,
+			"Chapter": 760,
+			"Name": "合併翻譯文檔",
+			"Sort": 1
+		},
+		"2378": {
+			"Id": 2378,
+			"Chapter": 760,
+			"Name": "xi18n 命令",
+			"Sort": 2
+		},
+		"2379": {
+			"Id": 2379,
+			"Chapter": 760,
+			"Name": "常用區域ID",
 			"Sort": 0
 		},
 		"238": {
@@ -7973,10 +8993,118 @@ var __v={
 			"Name": "position 位置",
 			"Sort": 0
 		},
+		"2380": {
+			"Id": 2380,
+			"Chapter": 761,
+			"Name": "angular-material2",
+			"Sort": 0
+		},
+		"2381": {
+			"Id": 2381,
+			"Chapter": 761,
+			"Name": "配置環境",
+			"Sort": 0
+		},
+		"2382": {
+			"Id": 2382,
+			"Chapter": 762,
+			"Name": "HttpClient",
+			"Sort": 0
+		},
+		"2383": {
+			"Id": 2383,
+			"Chapter": 763,
+			"Name": "md-select",
+			"Sort": 0
+		},
+		"2384": {
+			"Id": 2384,
+			"Chapter": 763,
+			"Name": "md-radio-group",
+			"Sort": 0
+		},
+		"2385": {
+			"Id": 2385,
+			"Chapter": 764,
+			"Name": "依賴注入",
+			"Sort": 0
+		},
+		"2386": {
+			"Id": 2386,
+			"Chapter": 764,
+			"Name": "服務",
+			"Sort": 0
+		},
+		"2387": {
+			"Id": 2387,
+			"Chapter": 764,
+			"Name": "服務提供商",
+			"Sort": 0
+		},
+		"2388": {
+			"Id": 2388,
+			"Chapter": 765,
+			"Name": "NgModule",
+			"Sort": 0
+		},
+		"2389": {
+			"Id": 2389,
+			"Chapter": 765,
+			"Name": "常用模塊",
+			"Sort": 0
+		},
 		"239": {
 			"Id": 239,
 			"Chapter": 92,
 			"Name": "float 浮動",
+			"Sort": 0
+		},
+		"2390": {
+			"Id": 2390,
+			"Chapter": 765,
+			"Name": "創建模塊",
+			"Sort": 0
+		},
+		"2391": {
+			"Id": 2391,
+			"Chapter": 765,
+			"Name": "創建惰性加載模塊",
+			"Sort": 0
+		},
+		"2393": {
+			"Id": 2393,
+			"Chapter": 765,
+			"Name": "創建單例服務",
+			"Sort": 0
+		},
+		"2395": {
+			"Id": 2395,
+			"Chapter": 765,
+			"Name": "模塊分類",
+			"Sort": 0
+		},
+		"2396": {
+			"Id": 2396,
+			"Chapter": 766,
+			"Name": "組件與模板",
+			"Sort": 0
+		},
+		"2397": {
+			"Id": 2397,
+			"Chapter": 766,
+			"Name": "模板語法",
+			"Sort": 0
+		},
+		"2398": {
+			"Id": 2398,
+			"Chapter": 766,
+			"Name": "內置指令",
+			"Sort": 0
+		},
+		"2399": {
+			"Id": 2399,
+			"Chapter": 766,
+			"Name": "組件交互",
 			"Sort": 0
 		},
 		"24": {
@@ -7989,6 +9117,24 @@ var __v={
 			"Id": 240,
 			"Chapter": 92,
 			"Name": "媒体查询",
+			"Sort": 0
+		},
+		"2400": {
+			"Id": 2400,
+			"Chapter": 766,
+			"Name": "屬性指令",
+			"Sort": 0
+		},
+		"2401": {
+			"Id": 2401,
+			"Chapter": 766,
+			"Name": "結構指令",
+			"Sort": 0
+		},
+		"2402": {
+			"Id": 2402,
+			"Chapter": 767,
+			"Name": "表單",
 			"Sort": 0
 		},
 		"241": {
@@ -8067,12 +9213,6 @@ var __v={
 			"Id": 252,
 			"Chapter": 95,
 			"Name": "#1097 Can't use Session on Production mode",
-			"Sort": 0
-		},
-		"253": {
-			"Id": 253,
-			"Chapter": 54,
-			"Name": "email",
 			"Sort": 0
 		},
 		"254": {

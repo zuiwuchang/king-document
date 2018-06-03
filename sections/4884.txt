@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在需要翻頁的 html 標籤上加入 i18n 屬性 以便告知 Angular 需要翻譯其內容\u003c/pre\u003e"

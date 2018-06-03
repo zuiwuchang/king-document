@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 型別斷言 進行 型別 轉換\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003einterface IAnimal{\n    Name: string\n}\nfunction Show(obj:IAnimal){\n    console.log(obj.Name)\n}\nShow(\u0026lt;IAnimal\u0026gt;{\n    Name:\"Cat\",\n    Lv:123,\n})\n\u003c/pre\u003e"

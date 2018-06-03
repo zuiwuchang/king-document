@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 service 方法 可以自定義 服務 以供其它 過濾器或 控制器使用\u003c/pre\u003e"

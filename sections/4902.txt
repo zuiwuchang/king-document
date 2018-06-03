@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eangular-material2 是angular2架構下的 一個 開源(MIT)  material 風格 ui庫\n\n官網 \u003ca href='https://material.angular.io/' target='_blank'\u003ehttps://material.angular.io/\u003c/a\u003e\ngithub \u003ca href='https://github.com/angular/material2' target='_blank'\u003ehttps://github.com/angular/material2\u003c/a\u003e\n\u003c/pre\u003e"

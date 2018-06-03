@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eECMAScript 2015 開始 js引入類模塊概念 ts沿用了此概念\n\n模塊只在自己的作用域中執行 除非使用 export 導出\n而使用 import 引入\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eIncoming 包含 傳遞過來的 token值\n而 Outgoing 則時 傳出給遠端的 token值\n\n注意 token 的 key值 會被轉為小寫 並且只能是 ASCII\n- digits: 0-9\n- uppercase letters: A-Z (normalized to lower)\n- lowercase letters: a-z\n- special characters: -_.\n\nkey 不用 是 以 \u003cstrong\u003egrpc-\u003c/strong\u003e 開始 這是 grpc 保留使用的\n\u003c/pre\u003e"

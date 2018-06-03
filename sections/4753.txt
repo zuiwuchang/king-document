@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 class 前加上 abstract 則代表 未純 抽象類\n不能被 new 創建\n\n在 abstract class 的 function 前 加上 abstract 則不能包含 實現 定義 純抽象方法 要實例化的子類必須實現此 方法\u003c/pre\u003e"

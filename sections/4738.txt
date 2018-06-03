@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ejs 的 變量聲明 使用 var 簡直就是 一切的禍端 和 身為c語言的 風格的 恥辱\n\nvar 使用 函數 作為 作用域\nlet 修改了 和c在此處的不同 使用 塊作為 作用域\nconst 則是 let的 增強版本 使用塊定義一個 只讀的 let 變量\n\u003c/pre\u003e"

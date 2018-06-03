@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ematerial2 一些組件(mat-slide-toggle, mat-slider, matTooltip ...)使用了 hammerjs\n如果 需要 使用這些組件 需要 安裝 hammerjs 並在 main.ts 中 import hammerjs\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003enpm install --save hammerjs\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003eimport 'hammerjs';\u003c/pre\u003e"

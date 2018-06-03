@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e一個 組建 必須且 只能聲明到一個 NgModule 中\nng generate component 在創建 組建後 會自動修改 \u003cstrong\u003eapp.module.ts\u003c/strong\u003e 並將組建 聲明到其中\u003c/pre\u003e"

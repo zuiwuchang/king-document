@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003evs 提供了 豐富的 插件 和 自定義 能力 可以 將其 配置到 合適 c++開發的 環境\n\n此文 以 vscode 配合 gcc cmake 爲例行文\n\n在vscode 中 安裝 插件\nc/c++\t支持 c/c++ 語法提示高亮\nCMake\t支持 cmake 語法提示 高亮\n\u003c/pre\u003e"

@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ematerial2 提供了 如下幾種默認 皮膚\ndeeppurple-amber\nindigo-pink\npink-bluegrey\npurple-green\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e@import \"~@angular/material/prebuilt-themes/indigo-pink.css\";\u003c/pre\u003e"

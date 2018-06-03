@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e如果 不處理 error 事件 發生 error 時 程式 會拋出異常 從而被終結\u003c/pre\u003e"

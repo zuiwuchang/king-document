@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e使用 @NgModule 裝飾器來 定義 一個Angular模塊 通常 NgModule 會定義如下內容\u003c/pre\u003e\n\u003cul\u003e\n\t\u003cli\u003e聲明 某些 組件 指令 管道 屬於此模塊\u003c/li\u003e\n\t\u003cli\u003e公開 部分 組件 指令 管道  以便 可以在 其它模塊中使用\u003c/li\u003e\n\t\u003cli\u003e導入一些 模塊 以便可以使用 其中的 組件 指令 管道 \u003c/li\u003e\n\t\u003cli\u003e提供一些服務\u003c/li\u003e\n\u003c/ul\u003e"

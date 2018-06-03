@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eqmake 支持 使用 類似 if else 的方式 爲特定 平臺 定義 相應設置\u003c/pre\u003e"

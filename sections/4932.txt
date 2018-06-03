@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e創建模塊 的 第10~12行代碼 需要手動 添加\n這將 組件 導出 以便 其它 import 了BeautyModule 的 模塊可以使用這個組件\u003c/pre\u003e"

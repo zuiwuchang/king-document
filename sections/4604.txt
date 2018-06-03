@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eCheckInstall 是一個 unix-like 下的 開源(GPL) 源碼安裝工具\n用以 替代 make install\n爲 源碼安裝 的 程式 創建 對應平臺的 軟件包\u003c/pre\u003e"

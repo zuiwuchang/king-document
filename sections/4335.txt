@@ -1,1 +1,1 @@
-var __v="\u003cpre class='k-pre'\u003e要支持 websocket 只需要 在 location 中 增加如下 設置即可\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003eproxy_http_version 1.1;\nproxy_set_header Upgrade $http_upgrade;\nproxy_set_header Connection \"upgrade\";\u003c/pre\u003e"
+var __v="\u003cpre class='k-pre'\u003e要支持 websocket 只需要 在 location 中 增加如下 設置即可\u003c/pre\u003e\n\n\u003cpre class='prettyprint linenums'\u003eproxy_set_header Upgrade $http_upgrade;\nproxy_set_header Connection \"upgrade\";\nproxy_http_version 1.1;\u003c/pre\u003e"

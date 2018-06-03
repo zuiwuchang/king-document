@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cpre class='k-pre'\u003e使用 UnaryInterceptor  可以 為 rpc 服務設置 攔截器 所有 請求 路由 前 都會調用 此 函數\n在此 驗證 token 並且 設置新的 token 是個 簡短 省事的 好主意\u003c/pre\u003e\u003c/pre\u003e"

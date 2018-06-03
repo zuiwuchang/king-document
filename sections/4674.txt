@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003enode-windows 最初設計爲 在 NGN 中內部使用 但 現在可以獨立於NGN運行\u003c/pre\u003e"

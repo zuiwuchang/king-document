@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e如果需要使用 Material Icons 需要 將 如下 css 加入到 index.html 中\u003c/pre\u003e\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\"\u0026gt;\u003c/pre\u003e"

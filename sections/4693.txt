@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e在 linux 執行 sudo efibootmgr 命令 可以 對 uefi 進行管理\n\n# 打印 當前 啟動 順序\nsudo efibootmgr -v\n\n# 調整 啟動先後 順序\nsudo efibootmgr -o 0,1,2\n\n# 將 boot manager 超時設置為1秒\nsudo efibootmgr -t 1\n\u003c/pre\u003e"

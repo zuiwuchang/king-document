@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003evar app = angular.module('app', []);\napp.controller('ctrl', function($location) {\n\talert($location.absUrl());\n});\u003c/pre\u003e"

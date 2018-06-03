@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eng new XXX \n會在當前目錄下 創建項目 並自動下載依賴的 包\n並 自動 創建 .gitignore 等檔案\n\u003c/pre\u003e"

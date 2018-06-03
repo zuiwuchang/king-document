@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003eAngular 雖然沒有強制要求 但推薦 按照如下方式 劃分模塊\n\n\u003cstrong\u003eSharedModule\u003c/strong\u003e\n只帶有 declarations 爲 應用 提供 常用 組件 指令 管道\n\n\u003cstrong\u003eCoreModule\u003c/strong\u003e\n只帶有 providers 的純服務 且只在 根模塊中 import\n\n\u003cstrong\u003e特性模塊\u003c/strong\u003e\n完成 具體的 業務邏輯\n\u003c/pre\u003e"

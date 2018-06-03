@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e$scope.$emit(\"someEvent\", {});\n$scope.$broadcast(\"someEvent\", {});\n$scope.$on(\"someEvent\", function(event, data) {\n    ...\n});\u003c/pre\u003e"

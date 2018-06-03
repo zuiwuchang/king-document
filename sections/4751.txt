@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003ets 提供了 class 用以實現 面向對象\u003c/pre\u003e"

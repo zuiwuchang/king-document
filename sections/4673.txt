@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003enode-windows 是一個 windows下 的開源(MIT) nodejs 包\n用於 讓 nodejs 腳本 能夠以 windows 服務 運行\n\ngithub \u003ca href='https://github.com/coreybutler/node-windows' target='_blank'\u003ehttps://github.com/coreybutler/node-windows\u003c/a\u003e\n\u003c/pre\u003e"

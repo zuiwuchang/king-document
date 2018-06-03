@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003esubscribe 函數 要求傳入 一個 提供了 next 函數的 對象\n一旦 訂閱者 發佈消息 next 就會得到 通知\n\n還可以 提供一個 可選的 error 和 complete 分別在 Observable 發送錯誤 或 完成 時 得到通知\u003c/pre\u003e"

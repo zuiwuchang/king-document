@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003evar app = angular.module('app', []);\napp.controller('ctrl', function($location) {\n\t// 返回 瀏覽器 地址\n\t$location.absUrl();\n\t// 返回 請求 協議\n\t$location.protocol();\n\t// 返回 主機名 (沒有端口號)\n\t$location.host();\n\t// 返回 端口號\n\t$location.port();\n\t// ...\n});\u003c/pre\u003e"

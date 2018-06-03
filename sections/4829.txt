@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e上述 兩種 range 的方法 都會將 子 Bucket 遍歷出來 此時 val 將 為nil\n如果 要操作 子 Bucket 此時可以調用 Bucket 函數 獲取子 Bucket\u003c/pre\u003e"

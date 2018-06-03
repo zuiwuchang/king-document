@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\u0026lt;a routerLink=\"/view0\"\u0026gt;view0\u0026lt;/a\u0026gt;\n\u0026lt;a routerLink=\"/view1\" routerLinkActive=\"active\"\u0026gt;view1\u0026lt;/a\u0026gt;\n\u0026lt;router-outlet\u0026gt;\u0026lt;/router-outlet\u0026gt;\u003c/pre\u003e"

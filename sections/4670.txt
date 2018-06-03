@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003e\t\u0026lt;ol ng-init=\"str='cerberus is an idea'\"\u0026gt;\n\t\t\u0026lt;!-- 前 n 個 字符 --\u0026gt;\n\t\t\u0026lt;li\u0026gt;{{str | limitTo:8}}\u0026lt;/li\u0026gt;\n\t\t\u0026lt;!-- 後 n 個 字符 --\u0026gt;\n\t\t\u0026lt;li\u0026gt;{{str | limitTo:-4}}\u0026lt;/li\u0026gt;\n\t\u0026lt;/ol\u0026gt;\u003c/pre\u003e"

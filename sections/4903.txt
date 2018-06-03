@@ -1,0 +1,1 @@
+var __v="\n\u003cpre class='prettyprint linenums'\u003enpm install --save @angular/material @angular/cdk\u003c/pre\u003e"

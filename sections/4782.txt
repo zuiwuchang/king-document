@@ -1,0 +1,1 @@
+var __v="\u003cpre class='k-pre'\u003e\u003cstrong\u003eStop\u003c/strong\u003e\n對於 AfterFunc 調用 Stop 如果 返回 true 則 定時器已經被停止\n如果 返回 false 則 f 已經在 AfterFunc 的 goroutine 中執行 然 Stop 不會等待 f 返回\n故 不會知道 f的 執行 情況 也不會 對f執行 產生 任何 影響\n\n\u003cstrong\u003eReset\u003c/strong\u003e\n參照 NewTimer\n\u003c/pre\u003e"
