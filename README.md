@@ -1,3 +1,9 @@
+# Discard
+因為 microsoft的原因 此項目 已經被轉移到 [gitlab.com/king011/king-document](https://gitlab.com/king011/king-document)
+
+github上的 版本將不在進行 任何維護
+
+
 # king-document
 
 孤之所學 以著文檔 以便查閱
